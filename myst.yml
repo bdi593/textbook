@@ -2,26 +2,34 @@
 version: 1
 project:
   id: eac76668-4e83-4e73-95b6-0bcc12e7d620
-  title: BDI 999 Textbook
-  description: BDI 999 Online Textbook
+  title: BDI 199/593 Textbook
+  description: BDI 199/593 Online Textbook
   keywords:
-    - bdi999
+    - bdi199
+    - bdi593
     - data analytics
     - business analytics
     - jupyter-book
   toc:
     - file: content/index.md
-    - file: content/grammar-of-graphics.md
-    - title: Amazon On-time Delivery
+    - title: Cleaning Airbnb Listings
       children:
-        - file: content/amazon-delivery/case-overview.md
-        - file: content/amazon-delivery/eda.ipynb
-    - title: Credit Card Transactions
-      children:
-        - file: content/credit-card-transactions/case-overview.md
-    - title: Instacart
-      children:
-        - file: content/instacart/blog-post.md
+        - file: content/airbnb-barcelona-listings/clean-airbnb-listings.ipynb
+    # - file: content/grammar-of-graphics.md
+    # - title: Amazon On-time Delivery
+    #   children:
+    #     - file: content/amazon-delivery/case-overview.md
+    #     - file: content/amazon-delivery/eda.ipynb
+    # - title: Credit Card Transactions
+    #   children:
+    #     - file: content/credit-card-transactions/case-overview.md
+    # - title: Instacart
+    #   children:
+    #     - file: content/instacart/blog-post.md
+    # - title: Walmart Sales Forecasting
+    #   children:
+    #     - file: content/walmart-sales-forecasting/case-overview.md
+    #     - file: content/walmart-sales-forecasting/eda.ipynb
   # keywords: []
   # authors: []
   # github:

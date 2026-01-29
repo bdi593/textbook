@@ -1,4 +1,4 @@
-# BDI 999 - Advanced Analytics Applications in Business
+# BDI 199/593 - Advanced Analytics Applications in Business
 
 - University of Illinois Urbana-Champaign
 - **Instructor**: Ye Joo Park ([ypark32@illinois.edu](mailto:ypark32@illinois.edu))
@@ -10,7 +10,7 @@ This course is designed to build upon the data analytics foundations from BDI 47
 3. creating impactful visualizations.
 
 ```{image} ../site_images/favicon.svg
-:alt: BDI 999 Circle
+:alt: BDI 199/593 Circle
 :width: 320px
 :align: center
 ```
