@@ -15,14 +15,16 @@ project:
     - title: Cleaning Airbnb Listings
       children:
         - file: content/airbnb-barcelona-listings/clean-airbnb-listings.ipynb
+    - title: Credit Card Transactions
+      children:
+        - file: content/credit-card-transactions/introduction-to-polars.ipynb
+        - file: content/credit-card-transactions/case-overview.md
+
     # - file: content/grammar-of-graphics.md
     # - title: Amazon On-time Delivery
     #   children:
     #     - file: content/amazon-delivery/case-overview.md
     #     - file: content/amazon-delivery/eda.ipynb
-    # - title: Credit Card Transactions
-    #   children:
-    #     - file: content/credit-card-transactions/case-overview.md
     # - title: Instacart
     #   children:
     #     - file: content/instacart/blog-post.md
@@ -38,7 +40,7 @@ site:
   template: book-theme
   options:
     #   favicon: favicon.ico
-    logo: site_images/bdi-new-logo-with-margin.svg
-    logo_dark: site_images/bdi-new-logo-with-margin.svg
+    logo: site_images/bdi_593_logo_with_margin.svg
+    logo_dark: site_images/bdi_593_logo_with_margin.svg
     favicon: site_images/favicon.svg
     style: media/custom.css
