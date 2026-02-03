@@ -10,3 +10,15 @@ Limited credit card transaction data is available for training fraud detection m
 The data here has almost no obfuscation and is provided in a CSV file whose schema is described in the first row. This data has more than 20 million transactions generated from a multi-agent virtual world simulation performed by IBM. The data covers 2000 (synthetic) consumers resident in the United States, but who travel the world. The data also covers decades of purchases, and includes multiple cards from many of the consumers.
 
 [^1]: [Kaggle Credit Card Transactions Dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/)
+
+## Tasks
+
+- Read the CSV file into a Polars DataFrame.
+- Print the data types of each column (i.e., schema).
+- Parse the `"Amount"` column as a `float64` type.
+- Look at the distributions of categorical columns such as `"Use Chip"` and `"Is Fraud?"`.
+- Create a `"timestamp"` column by combining the date component columns.
+- Create boolean flag columns to mark suspicious transactions.
+- Filter online transactions where the amount is negative (i.e., refunds).
+- Find the total transaction amount, average amount, and the number of transactions by each user.
+- Use a rolling/window feature to mimic SQL's functionality.
