@@ -140,3 +140,6 @@ uv.lock
 package-lock.json
 
 .DS_Store
+
+# Large data files
+content/credit-card-transactions/credit_card_transactions-ibm_v2.csv

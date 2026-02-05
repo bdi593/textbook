@@ -19,6 +19,7 @@ project:
       children:
         - file: content/credit-card-transactions/introduction-to-polars.ipynb
         - file: content/credit-card-transactions/case-overview.md
+        - file: content/credit-card-transactions/analyze-credit-card-transactions-with-polars.ipynb
 
     # - file: content/grammar-of-graphics.md
     # - title: Amazon On-time Delivery
