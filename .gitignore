@@ -143,3 +143,4 @@ package-lock.json
 
 # Large data files
 content/credit-card-transactions/credit_card_transactions-ibm_v2.csv
+content/credit-card-transactions/credit_card_transactions-ibm_v2.parquet
