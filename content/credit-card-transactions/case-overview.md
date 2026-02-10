@@ -13,10 +13,10 @@ The data here has almost no obfuscation and is provided in a CSV file whose sche
 
 ## Tasks
 
-- Read the CSV file into a Polars DataFrame.
+- Read the CSV or parquet file
 - Print the data types of each column (i.e., schema).
 - Parse the `"Amount"` column as a `float64` type.
-- Create a `"timestamp"` column by combining the date component columns.
+- Create a `"Datetime"` column by combining the date component columns.
 - Look at the distributions of categorical columns such as `"Use Chip"` and `"Is Fraud?"`.
 - Create boolean flag columns to mark suspicious transactions.
 - Filter online transactions where the amount is negative (i.e., refunds).
