@@ -22,6 +22,10 @@ project:
         - file: content/credit-card-transactions/analyze-credit-card-transactions-with-polars.ipynb
         - file: content/credit-card-transactions/introduction-to-duckdb.ipynb
         - file: content/credit-card-transactions/analyze-credit-card-transactions-with-duckdb.ipynb
+    - title: Kickstarter Projects
+      children:
+        - file: content/kickstarter-projects/case-overview.md
+        - file: content/kickstarter-projects/preprocess-data.ipynb
 
     # - file: content/grammar-of-graphics.md
     # - title: Amazon On-time Delivery
