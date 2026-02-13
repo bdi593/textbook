@@ -51,3 +51,4 @@ site:
     logo_dark: site_images/bdi_593_logo_with_margin.svg
     favicon: site_images/favicon.svg
     style: media/custom.css
+    folders: true
