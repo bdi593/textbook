@@ -26,6 +26,10 @@ project:
       children:
         - file: content/kickstarter-projects/case-overview.md
         - file: content/kickstarter-projects/preprocess-data.ipynb
+    - title: Data Job Postings
+      children:
+        - file: content/data-job-postings/case-overview.md
+        - file: content/data-job-postings/preprocessing.ipynb
 
     # - file: content/grammar-of-graphics.md
     # - title: Amazon On-time Delivery
