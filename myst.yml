@@ -32,12 +32,12 @@ project:
         - file: content/data-job-postings/analysis.ipynb
         - file: content/data-job-postings/quiz-01.ipynb
           hidden: true
-
     # - file: content/grammar-of-graphics.md
-    # - title: Amazon On-time Delivery
-    #   children:
-    #     - file: content/amazon-delivery/case-overview.md
-    #     - file: content/amazon-delivery/eda.ipynb
+    - title: Amazon On-time Delivery
+      children:
+        - file: content/amazon-delivery/case-overview.md
+        - file: content/amazon-delivery/eda.ipynb
+        - file: content/amazon-delivery/build-a-classifier.ipynb
     # - title: Instacart
     #   children:
     #     - file: content/instacart/blog-post.md

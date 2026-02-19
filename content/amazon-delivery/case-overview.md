@@ -1,4 +1,4 @@
-# Amazon On-time Delivery Case Overview
+# Case Overview
 
 As a business analyst working for a company in the logistics sector, you have the following tasks:
 
