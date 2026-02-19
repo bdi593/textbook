@@ -10,6 +10,14 @@ In this case, we will use a real-world job postings dataset focused on data scie
 
 &nbsp;
 
+We have already covered common preprocessing steps for tabular data in the previous chapters, but this dataset also includes list-like or dictionary-like string columns that require additional parsing and transformation.
+
+For example, the `job_skills` column contains a string representation of a list of skills extracted from the job posting using NLP techniques.
+
+Additionally, the `job_type_skills` contain a Python dictionary-like string that map skill types (e.g., 'cloud', 'libraries') to sets of skills.
+
+We will need to parse these string representations into actual Python data structures (lists and dictionaries) to work with them effectively in our analysis.
+
 ## 📌 Dataset Information
 
 - **Source:** [`lukebarousse/data_jobs`](https://huggingface.co/datasets/lukebarousse/data_jobs)
