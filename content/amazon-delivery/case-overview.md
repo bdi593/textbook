@@ -8,6 +8,14 @@ As a business analyst working for a company in the logistics sector, you have th
 
 **Goal**: Correctly predict package delivery on-time status for your customers with an accuracy of 80% or better.
 
+```{figure} images/amazon-hero3.jpg
+:label: Amazon Delivery
+:alt: Amazon Delivery
+:align: center
+
+Amazon Delivery - Photo from [Amazon News](https://www.aboutamazon.com/news/amazon-prime/amazon-same-day-delivery)
+```
+
 ## Dataset
 
 This is a real Amazon delivery dataset of 45k samples taken over a period of 3 months. Delayed means that on a specific day, at least 10 items from one truck were delayed.

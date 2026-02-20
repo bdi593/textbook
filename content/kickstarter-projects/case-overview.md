@@ -2,6 +2,14 @@
 
 [Kickstarter](https://www.kickstarter.com/) is a popular crowdfunding platform that allows creators to raise funds for their projects by soliciting contributions from a large number of people. The dataset we will be working with contains information about various Kickstarter projects, including their categories, funding goals, amounts pledged, and other relevant details.
 
+```{figure} images/kickstarter-screenshot.jpg
+:label: Kickstarter
+:alt: Kickstarter
+:align: center
+
+Kickstarter Wearable Projects
+```
+
 The dataset has been provided by [webrobots.io](https://webrobots.io/kickstarter-datasets/) and contains information about projects launched on Kickstarter. The data is available in CSV format and includes various columns such as project ID, name, category, main category, currency, deadline, goal, pledged amount, state (e.g., successful, failed), backers count, and more.
 
 While the dataset is rich in information, it may require some preprocessing to make it suitable for analysis. This may include tasks such as selecting relevant columns, filtering based on project state, checking the distribution of boolean columns, and converting epoch timestamps to datetime format for easier analysis.

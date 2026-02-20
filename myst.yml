@@ -14,11 +14,12 @@ project:
     - file: content/index.md
     - title: Cleaning Airbnb Listings
       children:
+        - file: content/airbnb-barcelona-listings/case-overview.md
         - file: content/airbnb-barcelona-listings/clean-airbnb-listings.ipynb
     - title: Credit Card Transactions
       children:
-        - file: content/credit-card-transactions/introduction-to-polars.ipynb
         - file: content/credit-card-transactions/case-overview.md
+        - file: content/credit-card-transactions/introduction-to-polars.ipynb
         - file: content/credit-card-transactions/analyze-credit-card-transactions-with-polars.ipynb
         - file: content/credit-card-transactions/introduction-to-duckdb.ipynb
         - file: content/credit-card-transactions/analyze-credit-card-transactions-with-duckdb.ipynb
