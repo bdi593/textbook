@@ -27,6 +27,8 @@ project:
       children:
         - file: content/kickstarter-projects/case-overview.md
         - file: content/kickstarter-projects/preprocess-data.ipynb
+        - file: content/kickstarter-projects/binary-classification.ipynb
+          hidden: true
     - title: Data Job Postings
       children:
         - file: content/data-job-postings/case-overview.md
