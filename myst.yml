@@ -44,6 +44,10 @@ project:
       children:
         - file: content/australian-rental-market/case-overview.md
         - file: content/australian-rental-market/build-a-regressor.ipynb
+    - title: Conference Calls
+      children:
+        - file: content/conference-calls/overview.md
+        - file: content/conference-calls/preprocessing.ipynb
     # - title: Instacart
     #   children:
     #     - file: content/instacart/blog-post.md
