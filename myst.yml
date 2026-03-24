@@ -48,6 +48,11 @@ project:
       children:
         - file: content/conference-calls/overview.md
         - file: content/conference-calls/preprocessing.ipynb
+    - title: CU+Savoy Zillow Properties
+      children:
+        - file: content/cu-zillow-listings/case-overview.md
+        - file: content/cu-zillow-listings/case-study-demo.ipynb
+          hidden: true
     # - title: Instacart
     #   children:
     #     - file: content/instacart/blog-post.md
