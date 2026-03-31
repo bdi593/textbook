@@ -53,6 +53,11 @@ project:
         - file: content/cu-zillow-listings/case-overview.md
         - file: content/cu-zillow-listings/case-study-demo.ipynb
           hidden: true
+    - title: Foundation Cosmetics Products
+      children:
+        - file: content/foundation-products/case-overview.md
+        - file: content/foundation-products/parse-json.ipynb
+
     # - title: Instacart
     #   children:
     #     - file: content/instacart/blog-post.md
