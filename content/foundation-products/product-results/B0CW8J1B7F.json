@@ -1,0 +1,378 @@
+{
+  "requestMetadata": {
+    "id": "f4611e3e-18e0-43f5-8ae4-083c8aceb955",
+    "status": "ok",
+    "html": "https://files.hasdata.com/f4611e3e-18e0-43f5-8ae4-083c8aceb955.html",
+    "json": "https://files.hasdata.com/f4611e3e-18e0-43f5-8ae4-083c8aceb955.json",
+    "url": "https://www.amazon.com/dp/B0CW8J1B7F"
+  },
+  "product": {
+    "asin": "B0CW8J1B7F",
+    "url": "https://www.amazon.com/dp/B0CW8J1B7F",
+    "title": "Woke Up Like This Flawless Base Foundation \u2013 Shade 060, Natural Matte Finish, Medium Buildable Coverage, Long-Lasting Lightweight Liquid Foundation for All Skin Types \u2013 1.0 fl oz / 30 ml",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)",
+      "color": "Shade 060"
+    },
+    "featureBullets": [
+      "[Seamless Coverage] Medium buildable coverage that evens skin tone and conceals imperfections for a flawless base.",
+      "[Natural Matte Finish] Delivers a smooth, shine-free complexion ideal for everyday wear or special occasions.",
+      "[Buildable Coverage] Lightweight texture provides medium-to-full coverage that blends seamlessly.",
+      "[Lightweight Comfort] Breathable formula feels weightless on skin while lasting throughout the day.",
+      "[Versatile Shade] Shade 060 suits medium to tan complexions with neutral undertones.",
+      "[Clean & Cruelty-Free] Free of parabens, sulfates, phthalates, and oils, never tested on animals."
+    ],
+    "description": "Discover the confidence of a flawless complexion with the Woke Up Like This Flawless Base Foundation , designed to deliver seamless coverage and a naturally perfected finish. Developed with advanced pigments and a lightweight formula, this foundation blends effortlessly into the skin, creating a smooth, even canvas that enhances your natural beauty while remaining breathable and comfortable all day long. Shade 060 has been crafted to complement medium to tan complexions with neutral undertones, offering a natural matte finish that looks radiant without feeling heavy. Its buildable medium coverage allows you to tailor your look, whether you want a subtle everyday glow or a more polished, full-face effect. The flexible texture ensures your skin looks smooth, balanced, and photo-ready in every light. Formulated for all skin types , this foundation works equally well on dry, combination, oily, or sensitive skin. Infused with skin-friendly ingredients, it minimizes the appearance of pores and fine lines while evening out discoloration. The result is a complexion that appears naturally refined, without cakiness or patchiness. The breathable formula controls shine where needed while maintaining hydration, keeping your skin comfortable throughout the day. Unlike heavy or mask-like foundations, the Woke Up Like This Foundation feels weightless and moves with your skin. Its smoothing effect allows you to achieve a professional-quality base with minimal effort, making it the ideal choice for daily wear, special occasions, or long workdays where you need makeup that lasts. The foundation is also designed to layer beautifully with primers, concealers, powders, and setting sprays, making it versatile for any makeup routine. Encased in a sleek 30 ml (1.0 fl oz) bottle, this foundation provides lasting value while maintaining portability for on-the-go touch-ups. Whether you\u2019re at the office, out with friends, or attending a formal event, this formula adapts to your lifestyle, ensuring your skin looks naturally flawless in every moment. Why choose Woke Up Like This Foundation? Because it combines performance, comfort, and skin-loving benefits in one bottle. It gives you the power to customize your coverage, control your finish, and highlight your best features without compromise. With a shade range designed to celebrate every skin tone, this foundation helps you look and feel your best\u2014like you truly woke up like this.",
+    "boughtInPastMonth": "700+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0CW8J1B7F",
+        "title": "1 Fl Oz (Pack of 1) Shade 060",
+        "url": "https://www.amazon.com/dp/B0CW8J1B7F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sd4i3CXJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D11H2192",
+        "title": "0.13 Fl Oz (Pack of 8) 230",
+        "url": "https://www.amazon.com/dp/B0D11H2192",
+        "imageUrl": "https://m.media-amazon.com/images/I/31KK+7XcJ8L.jpg"
+      },
+      {
+        "asin": "B0CTWDLVZ5",
+        "title": "1 Fl Oz (Pack of 1) Shade 20",
+        "url": "https://www.amazon.com/dp/B0CTWDLVZ5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61D6NQ2yrFL._SL1262_.jpg"
+      },
+      {
+        "asin": "B0CW2CSJKW",
+        "title": "1 Fl Oz (Pack of 1) Light Neutral Beige (Shade 095)",
+        "url": "https://www.amazon.com/dp/B0CW2CSJKW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61D6NQ2yrFL._SL1262_.jpg"
+      },
+      {
+        "asin": "B0F2QZQ6PD",
+        "title": "1 Fl Oz (Pack of 1) 155",
+        "url": "https://www.amazon.com/dp/B0F2QZQ6PD",
+        "imageUrl": "https://m.media-amazon.com/images/I/413syRlgPqL._SL1348_.jpg"
+      },
+      {
+        "asin": "B0CL951NTX",
+        "title": "1 Fl Oz (Pack of 1) Shade 165",
+        "url": "https://www.amazon.com/dp/B0CL951NTX",
+        "imageUrl": "https://m.media-amazon.com/images/I/41BZjifhGWL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0CL94D36L",
+        "title": "1 Fl Oz (Pack of 1) Shade 220",
+        "url": "https://www.amazon.com/dp/B0CL94D36L",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Vekv6G+uL._SL1053_.jpg"
+      },
+      {
+        "asin": "B0CTVZWPH3",
+        "title": "1 Fl Oz (Pack of 1) 170",
+        "url": "https://www.amazon.com/dp/B0CTVZWPH3",
+        "imageUrl": "https://m.media-amazon.com/images/I/41qFZD+Q0aL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0CWQJ9R4G",
+        "title": "1 Fl Oz (Pack of 1) Shade 140",
+        "url": "https://www.amazon.com/dp/B0CWQJ9R4G",
+        "imageUrl": "https://m.media-amazon.com/images/I/31PQpRx98wL.jpg"
+      },
+      {
+        "asin": "B0C8F7DXPK",
+        "title": "1 Fl Oz (Pack of 1) Shade 130",
+        "url": "https://www.amazon.com/dp/B0C8F7DXPK",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Trban5ARL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0F28BG7KT",
+        "title": "1 Fl Oz (Pack of 1) Shade 150",
+        "url": "https://www.amazon.com/dp/B0F28BG7KT",
+        "imageUrl": "https://m.media-amazon.com/images/I/413syRlgPqL._SL1348_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 49.95,
+      "priceFrom": 49.95,
+      "otherOfferQuantity": 2
+    },
+    "deliveryRawDate": "Saturday, April 11",
+    "deliveryIsoDate": "2026-04-11T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "fastestDeliveryRawDate": "Friday, April 3",
+    "fastestDeliveryIsoDate": "2026-04-03T00:00:00.000Z",
+    "fastestDeliveryPriceMessage": "fastest",
+    "returns": "30-day refund/replacement",
+    "seller": "Flamingo Resale LLC",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A20LTNCMA50AM5",
+    "shipper": "Flamingo Resale LLC",
+    "totalImages": 3,
+    "primaryImage": "https://m.media-amazon.com/images/I/61sd4i3CXJL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61sd4i3CXJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51qxhF6QOXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61QIoZdF6xL._SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Shade 060"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Rostro"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Il Makiage"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Coverage, Hydrating, Longwear, Smoothing"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#22,614 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #223 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CW8J1B7F"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.37 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.5 x 4 x 1.5 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Mercury Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1371,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "61%",
+        "fourStars": "11%",
+        "threeStars": "10%",
+        "twoStars": "7%",
+        "oneStars": "11%"
+      },
+      "customersSay": "Customers find the foundation to be a top-notch product that matches their skin type perfectly and provides a beautiful, natural look. The coverage receives mixed feedback - while some say it covers everything as advertised, others report it doesn't cover freckles well. The application experience is also mixed, with some finding it goes on smoothly while others describe it as sticky and cakey. Customers disagree on whether it's worth the money and whether it feels light or too heavy on the skin.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 93,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 42,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin match",
+          "count": 29,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 107,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color match",
+          "count": 73,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 42,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 38,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 32,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61e94fQyBRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mJodEQaTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71vB+DHKPTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71nKUhQRYHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61onzVUiZoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51HZVJ7ljpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Zel8t9kYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71RcdLx3sCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51+2iaQlCSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61464NJH-fL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71e3h5kRQ5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61A+vOIoqrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "\u201cI Woke Up Like This\u201d",
+          "reviewText": "I took the color match quiz on the IL Makiage website three different times. I answered the questions slightly different each time. Each time I got a different color match. (155, 165 & 170) I came to Amazon to order each color match, because it was more of a cost value here. I answered the questions with each season in mind. I was surprised by how each color actually matched my skin color. I put color 155 on one cheek and 165 on the other. Even my daughter couldn\u2019t tell the difference. It made my skin look smooth and flawless. I can\u2019t wait to apply the foundation after I apply my moisturizer and primer. I don\u2019t normally wear makeup, maybe once or twice a year. However, with this product I will wear it much more frequently. It made me feel beautiful looking at my face. I have a couple of age spots on my face. This foundation not only covered the light spots but it covered the dark areas of my skin too. For me the foundation quality and the value for the money is great. I can\u2019t say enough about this beauty product. I encourage everyone who reads this review to go to the Il Makiage website and take skin color match quiz. I Woke Up Like This.",
+          "reviewDate": "Reviewed in the United States on March 29, 2025",
+          "customer": "DT",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHGHFZ25NQ3PS5CVMSV75A6TXTPA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "54 people found this helpful"
+        },
+        {
+          "reviewTitle": "Flawless",
+          "reviewText": "Perfect honestly! Right color goes on beautifully &certainly will order again. Thankyou",
+          "reviewDate": "Reviewed in the United States on February 22, 2026",
+          "customer": "Nancy bailly",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFJXHENVMOIPVQESPANRWCXFPDDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Shade 060"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Awesome",
+          "reviewText": "Works great!",
+          "reviewDate": "Reviewed in the United States on March 9, 2026",
+          "customer": "Janis McKiddy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG7Q5RJEXJOMZSVXE22YYEYFUZNA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Shade 060"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "No coverage",
+          "reviewText": "I requested a return and never received the label. It goes on orangish and disappears quickly. Looks terrible",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Annette Wray",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEYQJSIXLQWPOQDQQPXT7YRF35NQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "155"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love this makeup",
+          "reviewText": "Love the way it looks on me. Smooth and flawless.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "fsheares",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPD3TAGMS3XJUIIELBRSSS673SA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "170"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "So so",
+          "reviewText": "Nice foundation but in no way does it live up to the hype , you will not get total coverage of every flaw and you definitely don\u2019t end up with an \u201c air brushed\u201d look. Slightly better than the L\u2019Or\u00e9al brand I\u2019ve been using . Not sure it\u2019s worth the price for just a slightly better foundation .",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Lynn davis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFMI2JXW2IM2GUBKBGJOLSSCX5UQ",
+          "customerStarsRating": 3,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Happy Wife, Happy Life",
+          "reviewText": "My wife loves it. It does what she expected it to do. She does look good using it. Matched skin type perfectly. Easy to apply. She says it\u2019s worth every penny.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Ray Bodie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHH4GSJUID575UR54L5Z4GV5MNHQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Shade 20"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Disappointed",
+          "reviewText": "Not good it did not match me to the right shade",
+          "reviewDate": "Reviewed in the United States on January 9, 2026",
+          "customer": "Kenzie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHQZPI3YUK6BUCWSPGJUMEQNZJ6Q",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Shade 060"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        }
+      ]
+    }
+  }
+}

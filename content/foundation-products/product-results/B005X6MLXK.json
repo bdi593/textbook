@@ -1,0 +1,260 @@
+{
+  "requestMetadata": {
+    "id": "a486bbde-3086-4a01-9819-2678d9f07d1a",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a486bbde-3086-4a01-9819-2678d9f07d1a.html",
+    "json": "https://files.hasdata.com/a486bbde-3086-4a01-9819-2678d9f07d1a.json",
+    "url": "https://www.amazon.com/dp/B005X6MLXK"
+  },
+  "product": {
+    "asin": "B005X6MLXK",
+    "url": "https://www.amazon.com/dp/B005X6MLXK",
+    "title": "Forward the Foundation",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "format": "if (typeof uet == 'function') {\n            uet('bb', 'audibleMediaMatrixScope', {wb: 1});  //timestamp body-begin\n        }\n    \n                      \n                           \n                        \n         Audiobook              \n\n    \n    .adblVerticalAlignCenter {\n        padding-top: 0 !important;\n        display: flex !important;\n        flex-direction: row;\n        justify-content: center;\n        height: 100%;\n        align-items: center;\n    }\n    .adblVerticalAlignTop {\n        padding-top: 4px !important;\n        display: flex !important;\n        flex-direction: row;\n        justify-content: flex-start;\n        height: 100%;\n        align-items: flex-start;\n    }\n    .adblShowExtraMessageWithoutPriceTitle {\n        position: inherit;\n        top: 12px;\n    }\n    .adblShowPriceWithoutExtraMessage {\n        margin-top: 9px;\n    }"
+    },
+    "features": {
+      "book7Of7": "Foundation",
+      "listeningLength": "16 hours and 10 minutes",
+      "author": "Isaac Asimov",
+      "narrator": "Larry McKeever",
+      "publicationDate": "October 19, 2011",
+      "language": "English",
+      "publisher": "Random House Audio",
+      "asin": "B005X6MLXK",
+      "version": "Unabridged",
+      "programType": "Audiobook"
+    },
+    "description": "The second of two prequel novels in Isaac Asimov\u2019s classic science-fiction masterpiece, the Foundation seriesTHE EPIC SAGA THAT INSPIRED THE APPLE TV+ SERIES FOUNDATIONAs Hari Seldon struggles to perfect his revolutionary theory of psychohistory and ensure a place for humanity among the stars, the great Galactic Empire totters on the brink of apocalyptic collapse. Caught in the maelstrom are Seldon and all he holds dear, pawns in the struggle for dominance. Whoever can control Seldon will control psychohistory\u2014and with it the future of the Galaxy.Among those seeking to turn psychohistory into the greatest weapon known to man are a populist political demagogue, the weak-willed Emperor Cleon I, and a ruthless militaristic general. In his last act of service to humankind, Hari Seldon must somehow save his life\u2019s work from their grasp as he searches for its true heirs\u2014a search that begins with his own granddaughter and the dream of a new Foundation.",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Books",
+      "Science Fiction & Fantasy",
+      "Science Fiction",
+      "Hard Science Fiction"
+    ],
+    "variants": [
+      {
+        "asin": "B003EY7ICW",
+        "title": "Kindle",
+        "price": "$7.99",
+        "url": "https://www.amazon.com/dp/B003EY7ICW"
+      },
+      {
+        "asin": "B005X6MLXK",
+        "title": "Audiobook",
+        "price": "$0.00",
+        "url": "https://www.amazon.com/dp/B005X6MLXK"
+      },
+      {
+        "asin": "0385247931",
+        "title": "Hardcover",
+        "price": "$23.98",
+        "url": "https://www.amazon.com/dp/0385247931"
+      },
+      {
+        "asin": "0593160002",
+        "title": "Paperback",
+        "price": "$15.53",
+        "url": "https://www.amazon.com/dp/0593160002"
+      }
+    ],
+    "totalImages": 1,
+    "primaryImage": "https://m.media-amazon.com/images/I/817v959NJ6L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/817v959NJ6L._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 5153,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "71%",
+        "fourStars": "22%",
+        "threeStars": "7%",
+        "twoStars": "0%",
+        "oneStars": "0%"
+      },
+      "customersSay": "Customers find this book to be a great addition to the Foundation series, with a well-plotted story and excellent character development, particularly appreciating how it fills out Hari Seldon's character. They describe it as an interesting read from start to end, with one customer noting it's the best prequel to the original trilogy. Customers praise Asimov's writing style and find the book simple and not technically challenging, making it an entertaining and satisfying read.",
+      "aspects": [
+        {
+          "aspect": "Content",
+          "count": 81,
+          "status": "positive"
+        },
+        {
+          "aspect": "Readability",
+          "count": 62,
+          "status": "positive"
+        },
+        {
+          "aspect": "Series quality",
+          "count": 55,
+          "status": "positive"
+        },
+        {
+          "aspect": "Story",
+          "count": 49,
+          "status": "positive"
+        },
+        {
+          "aspect": "Writing quality",
+          "count": 29,
+          "status": "positive"
+        },
+        {
+          "aspect": "Character development",
+          "count": 12,
+          "status": "positive"
+        },
+        {
+          "aspect": "Enjoyment",
+          "count": 10,
+          "status": "positive"
+        },
+        {
+          "aspect": "Complexity",
+          "count": 9,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/812WPv8qiGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91Qip-B7h1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/814sIwtZXGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81vAEbZu83L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Superb prequel to the original Foundation Trilogy",
+          "reviewText": "<a data-hook=\"product-link-linked\" href=\"/dp/0553565079\">Forward the Foundation</a> is set during Hari Seldon's life, during the time that Psychohistory is being developed and the Foundations are being initiated. I consider Asimov's last novel to be a stellar (!) introduction to the trilogy. The author expertly injects some of the scientific concepts developed since the original Foundation trilogy while staying within the spirit of the grand universe he devised long before writing \"Forward\". This book offers an outstanding glimpse of how precarious it would be to start a universe-shaking science/technology in a decaying society, as well as an endearing personal portrait of the great Hari Seldon, including his \"family\" and close colleagues. If you want the whole Asimov \"universe\" in story-time sequence, you might want to read the Robot series, the Empire series, and \"Prelude to Foundation\" before reading this book. Some of those books are of equal stature to \"Forward\". I consider \"Prelude\", the immediate predecessor of \"Forward\", to be of slightly less merit (four and a half stars), though it is well worth reading. I think one could also start the series with \"Forward\" without being bewildered by the omission of earlier books in the grand series. Of course, if you want the digest version of the series, the original Foundation trilogy is an amazing work in itself. The trilogy predates word processing and the demand for \"tomes\", so it is quite concise, and the trilogy is eminently suitable for young readers or for those who want to test the waters before diving in. If you're a SciFi skeptic, \"Forward the Foundation\" or the original Foundation trilogy would be great introductions to the field. If you're already a SciFi fan, these are seminal works: entertaining and well worth your time. Enjoy! The Kindle version of \"Forward\" is excellent, and reasonably priced, as well.",
+          "reviewDate": "Reviewed in the United States on November 3, 2014",
+          "customer": "William Mead",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHIRLUUVMTIL4L3IZRW4KHKBIYVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          },
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Entertaining and satisfying",
+          "reviewText": "The puzzle pieces fall into place as to the Foundation novels to follow. The story is well told with vivid writing, crisp dialogue, and suspenseful energy.",
+          "reviewDate": "Reviewed in the United States on September 9, 2025",
+          "customer": "Jeff Lacy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHUIJRFYSRFEFPJGIQE7UO2EQA4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          }
+        },
+        {
+          "reviewTitle": "Reading",
+          "reviewText": "A good read",
+          "reviewDate": "Reviewed in the United States on December 11, 2025",
+          "customer": "Brian Salee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFW4LT7CNRRUMIR7JSHPV6UO3NNQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "format": "Mass Market Paperback"
+          }
+        },
+        {
+          "reviewTitle": "Asimov is great and the Foundation series is his biggest hit.",
+          "reviewText": "I wanted to reread this. If you're an Asimov fan you'll understand.",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "oscarthegrouch",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF4QWKAEFC3WZ3OXTDXAKLYMCKXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Mass Market Paperback"
+          }
+        },
+        {
+          "reviewTitle": "Prophetic",
+          "reviewText": "This book, published in 1993, seems as if it is talking about modern history. The deterioration of Trantor sounds like what is happening in San Francisco in present times. As I am reading about Hari's manipulation of the tax code, I'm reading in the news about congress's desire to simplify the tax code. Clearly this book is before 23 and me. I thought it was a book by Asimov that I read about the genetic code, but Hari's problems with determining Wanda's genetic profile is amusing in light of today's ability to get a genetic profile within a week after spitting into a tube. Despite this problem, the story is fascinating. It's also sad as time marches on in the story.",
+          "reviewDate": "Reviewed in the United States on October 15, 2023",
+          "customer": "William S. Morris",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3V4G3WHLVUTWU2ZIA3JXP76WLQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          }
+        },
+        {
+          "reviewTitle": "Typical Asimov quality",
+          "reviewText": "What's not to like? It's Asimov, and fills in nicely between the first and third books in the Foundation series.",
+          "reviewDate": "Reviewed in the United States on December 18, 2025",
+          "customer": "Mark",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEPSW5C4P5YD2EPOVYJDLENAV77Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Mass Market Paperback"
+          }
+        },
+        {
+          "reviewTitle": "Marvellous Conclusion to the Series",
+          "reviewText": "By a terrible coincidence, I read this book that talks about mobs acting irrationally when guided by messianic leaders (in the book, the leader is Jo-Jo Joranum) exactly when mobs in Washington, DC stormed Capitol Hill. This alone renders a completely new meaning to Foundation in general and 'Forward' in particular. Anyone who has minimal familiarity with Isaac Asimov's saga knows that Hari Seldon predicts through psychohistory that the Galactic Empire is in a state of decay and decline and that he works to remedy the consequences of a such decay. But it is only here, in 'Forward', that it becomes clearer that Hari Seldon decides to write the Galactic Encyclopedia because he wants to preserve culture and all human knowledge, as he believes those are destroyed when civilization falls apart (pretty much as symbols of democracy at Capitol Hill were damaged by the mob). Maybe Asimov was only echoing something dark that was happening in the early 1990s, but the message is still quite strong to our current reality. It is like Margareth Atwood's 'Handmaid's Tale', published in 1985 and amazingling relevant to this date. While 'Forward' is a much slower book than the best ones in the Foundation series, it is still a very nice and fulfilling closure. Structurally, it is closer to the first 'Foundation', which is not necessarily a good thing, with many jumps in time (from Hari Seldon at 40 with Eto Demerzel, then at 60, and finally at 70), short chapters and a sort of less laborious style, some chapters consisting almost of dialogs only. But 'Forward' sounds all the time more personal and intimate than anything else in the Foundation series, and the fact that the Epilogue is written in first person reinforces that feel. It is Isaac Asimov's farewell, as much as is Hari Seldon's farewell. The whole book deals with the idea of growing old and witnessing the decay of the body and the losses that come with them, and that covers the whole book with a bitter-sour and sad taste, something that I also felt in 'Star Trek Picard' (and I like the Amazon series very much). As Hari Seldon ages and misses his beloved ones, it is impossible not to stop to imagine how Isaac Asimov himself was facing his own elderliness, when \"even if he could look forward to some additional decades, the years of his most fruitful breakthroughs were surely behind him.\" With that as underlying context, it is impossible not to feel attached to the book and forgiving of any flaws it might have. Many argue about the pros and cons of reading the Foundation series in publication order or chronological order (as the events in the two last published books 'Prelude' and 'Forward' occur before those of the first 'Foundation'). I am definitely for publication order. Not that reading the books in chronological order would cause any harm. Asimov did envision that the books might be read in chronological order and very competently managed to write all books so that none of the mysteries and secrets in 'Second', 'Edge' or 'Earth' is taken for granted in 'Prelude' and 'Forward' (in particular, the whole mystery about \"Star's End\" is carefully preserved in 'Forward'). Moreover, reading 'Forward' first could enrich the understanding of later books, in particular the origins of The Mule in 'Empire' and the references to the Robot Series in 'Edge' and 'Earth'. So the pleasure of reading in chronological order or publication order may work just the same. Indeed, the temptation to start (re)reading the first 'Foundation' after finishing 'Forward' is almost irrestible, which is exactly what I did, and I must confess that I liked the first part of 'Foundation' much more the second time, as the whole description of Trantor seemed so well connected with that in 'Prelude' and 'Forward'. However, there is one experience that only those who read the books in publication order will have: the pleasure of concluding a long journey of seven books by reading the very last words of 'Forward'. As I was advancing the last chapters, that was exactly the way I felt, that I was indeed concluding a journey with Asimov himself (and I would have been very happy already if the book ended in Chapter 33 of Part 4, which is one of the best chapters in the book). That is why I say that nothing compares with the feeling I had when I turned the very last page of the Epilogue of this book and read Asimov's book dedication. I could only feel the tears in my eyes with a silent gratitude.",
+          "reviewDate": "Reviewed in the United States on January 24, 2021",
+          "customer": "Regis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFF2CP3QDEYGHS6FJ7EQNVARQD6A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "format": "Kindle"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Book with very thin cover.",
+          "reviewText": "Book is not the highest quality, cover is quite flimsy, but if only reading the one time and putting on the shelf should be okay.",
+          "reviewDate": "Reviewed in Australia on April 1, 2024",
+          "customer": "Trudi",
+          "customerStarsRating": 4
+        },
+        {
+          "reviewTitle": "A delightful though also sad story od Dr Seldon",
+          "reviewText": "It was interesting that the protagonists accredited other secondary personage for their contributions to the project. However, it was also sad that charismatic personages disappeared, such as Dors and Danieel.",
+          "reviewDate": "Reviewed in the Netherlands on April 29, 2025",
+          "customer": "Kindle Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          }
+        },
+        {
+          "reviewTitle": "Great SF",
+          "reviewText": "Another great chapter in the Asimov universe Delivered promptly and perfect condition",
+          "reviewDate": "Reviewed in France on April 6, 2025",
+          "customer": "Phil Allman",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "A Special Story for Foundation fans",
+          "reviewText": "Compared to the other Foundation novels, Prelude to Foundation is not the best novel, but one with a heartfelt touch. It is the last Asimov novel, and plays a role of dealing with how one may dedicate an entire life towards actualizing one's vision for the benefit of the entire Humanity. Especially for the original Foundation trilogy fans, it is the perfect thread that binds together the Asimov universe.",
+          "reviewDate": "Reviewed in Brazil on January 27, 2019",
+          "customer": "Luiza Rodrigues",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          }
+        },
+        {
+          "reviewTitle": "G",
+          "reviewText": "Best price. Nice appearance. Arrived quickly and in great condition. Great purchase",
+          "reviewDate": "Reviewed in Canada on January 19, 2026",
+          "customer": "Stewart K.",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Mass Market Paperback"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "requestMetadata": {
+    "id": "45abf121-1ebe-471d-b189-0d8b087981e2",
+    "status": "ok",
+    "html": "https://files.hasdata.com/45abf121-1ebe-471d-b189-0d8b087981e2.html",
+    "json": "https://files.hasdata.com/45abf121-1ebe-471d-b189-0d8b087981e2.json",
+    "url": "https://www.amazon.com/dp/B0F4F26NBM"
+  },
+  "product": {
+    "asin": "B0F4F26NBM",
+    "url": "https://www.amazon.com/dp/B0F4F26NBM",
+    "title": "Beauty Balm Serum Boosted Skin Tint, Foundation Stick, Tinted Moisturizer, Concealer Stick for Foundation Makeup, Full Coverage Foundation, Contour Sticks for Face Makeup, Radiant & Dewy Finish (#03)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "\uff0303"
+    },
+    "featureBullets": [
+      "Instant Hydration - Our Solid Essence Stick revolutionizes your skincare-makeup routine that locks in moisture while providing adjustable coverage",
+      "Skin Perfecting Tint - Sheer, buildable coverage neutralizes redness and dark spots. The innovative solid formula melts at skin contact for seamless blending",
+      "Breathable Second Skin Feel - Unique oil-free gel-cream technology absorbs completely without clogging pores or pilling under makeup",
+      "Multi-Purpose Beauty Saver - Works as primer, moisturizer, color corrector, and highlight balm in one convenient twist-up stick",
+      "Clean & Conscious Formula - Vegan, cruelty-free, and free from parabens, silicones, and synthetic fragrances for sensitive skin"
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FL1P89D4",
+        "title": "\uff030203",
+        "url": "https://www.amazon.com/dp/B0FL1P89D4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61l+-Zd3WAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F7X3DP3S",
+        "title": "\uff030306",
+        "url": "https://www.amazon.com/dp/B0F7X3DP3S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61PFi6u-EyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FL1P58H1",
+        "title": "\uff030102",
+        "url": "https://www.amazon.com/dp/B0FL1P58H1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WGd2zDcjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM7YSCT4",
+        "title": "\uff036",
+        "url": "https://www.amazon.com/dp/B0FM7YSCT4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lzj-BR-cL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM7YKQVC",
+        "title": "\uff033",
+        "url": "https://www.amazon.com/dp/B0FM7YKQVC",
+        "imageUrl": "https://m.media-amazon.com/images/I/610UWd+xWxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM82SLMZ",
+        "title": "\uff034",
+        "url": "https://www.amazon.com/dp/B0FM82SLMZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61D-WS9TZ4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM7Z8L73",
+        "title": "\uff032",
+        "url": "https://www.amazon.com/dp/B0FM7Z8L73",
+        "imageUrl": "https://m.media-amazon.com/images/I/611WhftVmDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F4DZPV7W",
+        "title": "\uff0306",
+        "url": "https://www.amazon.com/dp/B0F4DZPV7W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FfEjsWjwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F7X23QX3",
+        "title": "\uff0305",
+        "url": "https://www.amazon.com/dp/B0F7X23QX3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61P6F8tp4LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F89W1XCS",
+        "title": "\uff0302",
+        "url": "https://www.amazon.com/dp/B0F89W1XCS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QX9KihUtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FG6ZYMCJ",
+        "title": "\uff0301",
+        "url": "https://www.amazon.com/dp/B0FG6ZYMCJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61APTuik-qL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F4F45Q29",
+        "title": "\uff0304",
+        "url": "https://www.amazon.com/dp/B0F4F45Q29",
+        "imageUrl": "https://m.media-amazon.com/images/I/61D1cz0sBPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F4F26NBM",
+        "title": "\uff0303",
+        "url": "https://www.amazon.com/dp/B0F4F26NBM",
+        "imageUrl": "https://m.media-amazon.com/images/I/612YZp-IUjL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 5.75,
+      "beforePrice": 6.22,
+      "discount": "-8%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 1 hr",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "KaiTeFei",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1NC5SPWP6R8QD",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/612YZp-IUjL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/612YZp-IUjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Z3AcgExJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711do-vL3jL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KDhc7ngnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61jg9xfVjCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ugfLFzmyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71NyjPY-7zL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/611vOzBznFL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a6b02721-e259-4dbe-bade-1da6fcddf1a5.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e9dea484-efa3-46da-b494-73326fb6b6a5.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/44b27811-0e55-411a-a9ed-c58fe15dad76.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9822606c-0267-4fb2-b7c7-d97f0c896b3c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f8ec4cfb-5eed-4d6a-b9b8-7e0b1b692848.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 4,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e6dc81d9-b5ff-4889-a3a4-b2e83f710119.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e6dc81d9-b5ff-4889-a3a4-b2e83f710119.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/67ac9d93-390d-4f2c-bc48-6fcc26234962.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02812952-4ac4-4f2a-adb3-45ec67d6d85d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/cb976911-fa0f-4fad-8075-e5d0fd56c15d.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "\uff0303"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "No"
+      },
+      {
+        "key": "Container Type",
+        "value": "Box"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Lulesi"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Soothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Lulesi"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#4,891 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #57 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0F4F26NBM"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable, Lightweight, Long Lasting, Travel Size"
+      },
+      {
+        "key": "Finish Types",
+        "value": "translucent"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.04 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free, Paraben Free, Silicone Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1196,
+      "rating": 3.9,
+      "starRates": {
+        "fiveStars": "55%",
+        "fourStars": "14%",
+        "threeStars": "12%",
+        "twoStars": "7%",
+        "oneStars": "12%"
+      },
+      "customersSay": "Customers find the foundation easy to apply and appreciate its smooth, butter-creamy texture that feels very light on the skin. The product receives positive feedback for its quality and natural appearance, with one customer noting it provides flawless coverage. The color match receives mixed reviews - while some say it matches their skin, others find it too orange-tinted. The moisturizing properties are criticized for being too oily.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 47,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 42,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 38,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 34,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 28,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 89,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 69,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 57,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/716OY8huHWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zYP1Lap1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dSj1ALQqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sdhBMJMZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+vFlKNzzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71O2eZ5It2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wpksQpVnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ov9Ulk4aL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61XmhEMsCkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71xm6Ho9DuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+wapnB0NL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rdMfCeG7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "The coverage is beautiful",
+          "reviewText": "Flawless coverage. The color blends well with your skin tone. It lasts all day. No reapplying needed.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Mitch",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AETDKWZE6UME47PCEPRYSIPATHMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "\uff030306"
+          }
+        },
+        {
+          "reviewTitle": "Light weight",
+          "reviewText": "Perfect shade. I normally don't wear any type of foundation but this product works for me. Very little is needed. Light weight. I'm 70 years old with normal skin. I don't have marks or dark under eyes. Perfect for me.",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Rosalind gaither",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFKM4GUM2HZWMLBIQS4BOQY5RWXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "\uff0303"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect coverage for scars, hyperpigmentation but it's very greasy. VERY!",
+          "reviewText": "I bought this because I have bad melasma and hyperpigmentation. I'm not really a makeup girly but my melasma has gotten bad and I'm really self conscious about it. Turns out this gave great coverage and went on smooth. You don't really need makeup brushes or a sponge to even it out because you can literally glide it on and go. However, it is really greasy. I know it said skin tinted moisturizing but gosh! With this heat and me living in a tropical climate I am sweating this put! Hopefully the setting spray will keep it on and I don't sweat through it",
+          "reviewDate": "Reviewed in the United States on October 15, 2025",
+          "customer": "Tara Evans",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBVAMWQUNL3GSMEQ5WQNE2PPVKQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "\uff0306"
+          },
+          "helpfulVotes": "24 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup!",
+          "reviewText": "I love this product! The color matches perfecly and it feel good on my skin. I ordered more so I will not run out. The price was good!",
+          "reviewDate": "Reviewed in the United States on February 18, 2026",
+          "customer": "Rosetta Perry",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3ZPGQ4GXDGMGT2HNCEB42UC6LQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "\uff0303"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not bad but needs more shade options",
+          "reviewText": "The value for this product is fine. It\u2019s not this miracle cover-up product, but the coverage is fine. It gave me more of a reddish-brown tint than a real match. There honestly aren\u2019t enough options to be a great match for women of color- 5 options? Lastly, the texture. It\u2019s fabulous, which is why I gave 3 stars. It\u2019s smooth and light but goes on too easily. If you aren\u2019t careful, you\u2019ll apply too much.",
+          "reviewDate": "Reviewed in the United States on January 18, 2026",
+          "customer": "A. Hunt",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHZOVNUPSHQ3MGJLNIB62BVJPZ6A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "\uff0301"
+          },
+          "helpfulVotes": "18 people found this helpful"
+        },
+        {
+          "reviewTitle": "Buy it it\u2019s truly worth it honest review",
+          "reviewText": "Love it very easy to use blends well I picked number 3 this tint makes it so easy n convenient if you are like me and learning how to apply makeup properly I definitely recommend n this is my second purchase cause my daughter took my first one lol",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Slym",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGSKRA2HR6GW5JDZ6FO67TDUPJWQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "\uff0303"
+          }
+        },
+        {
+          "reviewTitle": "Not Matte",
+          "reviewText": "This product is very soft and smooth, doesn\u2019t require a lot to use. I didn\u2019t like how it left my skin looking oily and shiny when it\u2019s supposed to be matte (maybe I\u2019ll use powder as a cover next time). It left a red looking tint to my skin that looked unnatural.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "DaVina",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AENYS3MUIVTS6W5J3UDJG4WFXBCQ",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "\uff036"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Easy tip, Makeup",
+          "reviewText": "South easy skin tint foundation it goes on smooth very moisturizing good coverage longevity. The texture is smooth. It really blends well with your skin tone. It\u2019s a great value for the money. it can be a little too shiny. You can use power to do it down.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Shelley k.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHCPJXBDNQS3MH2H5MQIP2BPO5AA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "\uff0303"
+          },
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "requestMetadata": {
+    "id": "ceeaa770-72b5-4dad-90e9-3d199178b4fc",
+    "status": "ok",
+    "html": "https://files.hasdata.com/ceeaa770-72b5-4dad-90e9-3d199178b4fc.html",
+    "json": "https://files.hasdata.com/ceeaa770-72b5-4dad-90e9-3d199178b4fc.json",
+    "url": "https://www.amazon.com/dp/B01LMMZY6O"
+  },
+  "product": {
+    "asin": "B01LMMZY6O",
+    "url": "https://www.amazon.com/dp/B01LMMZY6O",
+    "title": "IT Cosmetics CC+ Cream - Natural Full Coverage Foundation With SPF 50+, Color Corrector & Anti-Aging Hydrating Serum, Hyaluronic Acid + Peptides, Lightweight Up To 24H Wear, All Skin Types",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "12W Medium (medium with neutral yellow undertones)"
+    },
+    "featureBullets": [
+      "WHY YOU\u2019LL LOVE IT \u2013 Your Skin But Better CC+ Cream with SPF 50+ combines full-coverage foundation, anti-aging serum, and mineral sunscreen. It\u2019s the #1 prestige SPF foundation in the U.S.! This anti-aging foundation with built-in serum and full coverage SPF protects skin while providing a long-lasting finish for a radiant, youthful, and flawless complexion on all skin tones",
+      "ANTI-AGING BENEFITS \u2013 This tinted cream gives natural, flawless coverage for all skin types, instantly camouglaging the look of top skin concerns like acne scars, wrinkles, redness, dark circles, large pores, dark spots, and uneven skin tone. CC Cream is perfect for covering any redness or discoloration as the color correcting pigments are built right into the formula! No more messy green or yellow concealers.",
+      "INGREDIENTS \u2013 This hydrating foundation serum features hyaluronic acid, peptides, niacinamide, Vitamin E plus broad-spectrum SPF 50+ UVA/UVB protection to hydrate, plump, and even skin tone while reducing fine lines",
+      "SPF 50+ \u2013 Deeper foundation shades (Tan Cool to Deep Cool) include broad-spectrum clear SPF for sun protection without the white cast, perfect for darker skin tones needing natural, lightweight foundation coverage without a white or gray cast. Clear SPF is a chemical sunscreen that looks invisible on skin, including deeper skin tones. Both physical and clear SPFs have been dermatologist-tested for safety, suitable for sensitive skin and allergy-tested.",
+      "DISCOVER IT \u2013 Apply 1-2 pumps on clean skin. Build coverage as desired with Complexion Perfection #7 makeup brush for buffing and blending. Find your favorite multi-tasking foundation : CC+ Original (full coverage, natural finish), CC+ Nude Glow (medium coverage skin tint, glowy finish), CC+ Illumination (full coverage, radiant finish), CC+ Natural Matte (full coverage, pore-less matte finish)"
+    ],
+    "boughtInPastMonth": "4K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "CC Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B08YBSFG56",
+        "title": "28N Neutral Deep (deep with neutral undertones)",
+        "url": "https://www.amazon.com/dp/B08YBSFG56",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Gr1ag96QL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08Y9CK7QB",
+        "title": "18W Tan Warm (tan with olive undertones)",
+        "url": "https://www.amazon.com/dp/B08Y9CK7QB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UC8OY8UOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HLLWL9L",
+        "title": "06C Fair Light (fair with pink undertones)",
+        "url": "https://www.amazon.com/dp/B07HLLWL9L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OyuS2bsEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DKVM2QDK",
+        "title": "11W Light Medium Warm (light with yellow undertones)",
+        "url": "https://www.amazon.com/dp/B0DKVM2QDK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xYe-ZBa9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DKTXXZJB",
+        "title": "03W Fair Warm (very fair warm with golden undertones)",
+        "url": "https://www.amazon.com/dp/B0DKTXXZJB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61u47+MjutL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HLD2HC4",
+        "title": "10N Light Medium (light with neutral peach undertones)",
+        "url": "https://www.amazon.com/dp/B07HLD2HC4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61c3yDvMcRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01LMMZY6O",
+        "title": "12W Medium (medium with neutral yellow undertones)",
+        "url": "https://www.amazon.com/dp/B01LMMZY6O",
+        "imageUrl": "https://m.media-amazon.com/images/I/61byuYaJhpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HNHZ9KD",
+        "title": "23W Rich Honey (very rich with golden undertones)",
+        "url": "https://www.amazon.com/dp/B07HNHZ9KD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61h01gg2oWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B071CMS2BD",
+        "title": "15W Medium Tan (medium with olive undertones)",
+        "url": "https://www.amazon.com/dp/B071CMS2BD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Q+wmgzcEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HYJZLZ7",
+        "title": "13N Neutral Medium (medium with neutral pink undertones)",
+        "url": "https://www.amazon.com/dp/B07HYJZLZ7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vcdYi9XKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08YBJJLGF",
+        "title": "01N Fair Porcelain (fair with neutral undertones)",
+        "url": "https://www.amazon.com/dp/B08YBJJLGF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61I8pEmh5EL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08YC45Y5L",
+        "title": "27C Deep Bronze (deep cool with red undertones)",
+        "url": "https://www.amazon.com/dp/B08YC45Y5L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RiI5P6+XL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08YC7JC1S",
+        "title": "24N Neutral Rich (rich with neutral undertones)",
+        "url": "https://www.amazon.com/dp/B08YC7JC1S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hrXgEcDnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08YC353P8",
+        "title": "02W Fair Ivory (fairest warm with yellow undertones)",
+        "url": "https://www.amazon.com/dp/B08YC353P8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61t5wiNqY7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00RZ4R0ZM",
+        "title": "07W Light (very light with olive undertones)",
+        "url": "https://www.amazon.com/dp/B00RZ4R0ZM",
+        "imageUrl": "https://m.media-amazon.com/images/I/616GS6I8pQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DKVBFCTK",
+        "title": "14C Medium Cool (medium with pink undertones)",
+        "url": "https://www.amazon.com/dp/B0DKVBFCTK",
+        "imageUrl": "https://m.media-amazon.com/images/I/6131XQtjDBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00RZ4J21M",
+        "title": "19N Tan (deeper tan with neutral undertones)",
+        "url": "https://www.amazon.com/dp/B00RZ4J21M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61b39tiDHKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DKVBJL5X",
+        "title": "30C Deep Cool (deepest cool with red undertones)",
+        "url": "https://www.amazon.com/dp/B0DKVBJL5X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Itc5I7kgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DKV26MCD",
+        "title": "09C Light Cool (light with pink undertones)",
+        "url": "https://www.amazon.com/dp/B0DKV26MCD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xLMRlS0vL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08YBYH5Q7",
+        "title": "25W Deep (deep with yellow undertones)",
+        "url": "https://www.amazon.com/dp/B08YBYH5Q7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61u3b3yNuTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DKVGZSCN",
+        "title": "08N Light Neutral (light with neutral undertones)",
+        "url": "https://www.amazon.com/dp/B0DKVGZSCN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UX55pMwuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0165MWD5G",
+        "title": "21W Rich (rich with yellow undertones)",
+        "url": "https://www.amazon.com/dp/B0165MWD5G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61W6W0o4mcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HLBYZGS",
+        "title": "16N Neutral Tan (tan with neutral olive undertones)",
+        "url": "https://www.amazon.com/dp/B07HLBYZGS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61z5JKn61WL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08YC5MSS3",
+        "title": "04C Fair Beige (very fair with pink undertones)",
+        "url": "https://www.amazon.com/dp/B08YC5MSS3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BwjJKj4RL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DKVH1SKC",
+        "title": "22C Rich Cool (rich with red undertones)",
+        "url": "https://www.amazon.com/dp/B0DKVH1SKC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Pyhn3L7LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08YC4SFJG",
+        "title": "20N Tan Rich (deepest tan with neutral red undertones)",
+        "url": "https://www.amazon.com/dp/B08YC4SFJG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61J9G609CIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B015X3F9GS",
+        "title": "05W Fair (fair warm with olive undertones)",
+        "url": "https://www.amazon.com/dp/B015X3F9GS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61h3P5ruI4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08Y9CJH15",
+        "title": "26W Deep Honey (very deep with golden undertones)",
+        "url": "https://www.amazon.com/dp/B08Y9CJH15",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HHqMuAljL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 31.2,
+      "beforePrice": 47,
+      "discount": "-34%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 4 hrs 30 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "IT Cosmetics",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AH5UK1NMFV20Y",
+    "shipper": "Amazon",
+    "totalImages": 12,
+    "primaryImage": "https://m.media-amazon.com/images/I/61byuYaJhpL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61byuYaJhpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LI2+rPQtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71d-S45VtfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PBn4wcctL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819VpJqTWlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71c1jfZrBgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71wY04pQYqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NQGaOZBPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bWgFf+lqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71YcWLkhaiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718ZfYunwkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eZzP-M76L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac3f7f9a-5c0d-41c8-8ddb-ba44034fd211.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/01b31908-be6b-4b41-b7e4-cb2668cac929.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9abe1e81-1625-4fae-959b-de46405b6ca1.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/433114b5-c930-4d62-b20c-d7b19a278705.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c16adeb-9e5a-4e85-8f1f-52a1b3705f18.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1293e4ae-542f-4f88-9055-d679956ddfad.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9176fc3b-cea7-4f88-8c96-e4e085370aef.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/886df791-74b9-4731-8ab0-38a9872304e3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eb56565b-4986-4020-bfa7-03ffedb02fdc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7dbf8f76-96b4-4dd0-9ab7-eca3d5942d36.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/498465a2-f3b3-4882-b3d9-885d61ff832b.__CR0,0,2928,1200_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e3217492-3a91-4007-b236-2e52dbecb518.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b50438cd-f746-477c-a6ce-97e63a1c6d92.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "12W Medium (medium with neutral yellow undertones)"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Hydrating, Moisturizing, Anti-Aging, Redness, Acne, Wrinkles, Dark Circles"
+      },
+      {
+        "key": "Brand Name",
+        "value": "IT Cosmetics"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Formulated with hyaluronic acid, niacinamide, Vitamin E & mineral SPF 50+ to protect skin by deflecting UV rays."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Fair"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Senior"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Andorra"
+      },
+      {
+        "key": "UPC",
+        "value": "817919010668"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "817919010668"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "IT Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#249 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #1 in CC Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01LMMZY6O"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Anti Aging"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "2.2 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.04 x 1.28 x 6.3 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.08 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 32039,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "76%",
+        "fourStars": "12%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this foundation provides full coverage and appreciate its smooth, lightweight texture that doesn't feel heavy or cakey. The product stays on all day and creates a flawless, luminous look. While some customers say it matches their skin tone perfectly, others find the color too dark, and there are mixed opinions about its moisturizing properties - some say it moisturizes well while others find it drying.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 786,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 666,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 385,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 333,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 330,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 584,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 442,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61pQ1GvUj1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81xZb4fH57L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71L4AE420wL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Sxpo+A1-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Vg1zFTz-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71JmtAlMzXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71jDAn2sYZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71VbN134HWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81k+39tyL8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81K7Avv2n3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51XaPn7UiSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61cjfOj2ZoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "IT CC+ Cream Medium: Great product! Wrong color for me.",
+          "reviewText": "Even though this particular color is too dark for me, I am going to give this 5 stars, because it lives up to it's promises. It is definitely waterproof and long wear! And what I like the best is that when trying to remove it, the more I wiped it away, (because I applied way too much the 1st time) the better it looks. It looks like your own skin, without settling into creases, except it covers the spots I want to cover... which at 58 years old, there are a lot of things I need to cover! Unfortunately, the color is way too dark for my pale skin. The color-wheel and the colors shown on the model arms didn't reflect what would work for me. I definitely need a lighter shade. So stay true to the colors you normally get. It's a great product. I just wish that had picked a lighter color than Medium. I don't foresee a nice tan this summer to make this one work. *Note: I don't see shades of colors like most people. But it is embarrassing to go to big stores and ask the salesperson to pick out a color that matches my face! It makes me feel even older than I am!!! I definitely recommend this, especially for women my age who want something that looks natural without having to apply 5 different products before the foundation!",
+          "reviewDate": "Reviewed in the United States on February 20, 2026",
+          "customer": "Beth B",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFY7DR56DI4VAMCTBRSB5PS3XEQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "12W Medium (medium with neutral yellow undertones)"
+          },
+          "helpfulVotes": "30 people found this helpful"
+        },
+        {
+          "reviewTitle": "It's the Perfect Everyday Foundation",
+          "reviewText": "This IT foundation/CC cream is the easiest, most reliable, flexible foundation I've ever used. You can use just a dab to even out skin for a no-makeup look or apply more heavily for medium to full coverage that doesn't look too heavy. I have red zones, broken capillaries and large pores in areas, and this foundation blends well with my moisturizers to blur and cover those inconsistencies to the degree that I want. I used to use the illuminating version but found that this formula downplays lines and course texture of my aging skin much better than that the illuminating version. I have fairly light skin with green undertones and red patches. I honestly think this foundation blends better to match skin tone than any other I've tried. The Fair color gives me just a touch of color without going too yellow/orange as it sits on my acidic skin. Love.",
+          "reviewDate": "Reviewed in the United States on January 12, 2026",
+          "customer": "C.Marie Ross",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG72V2GPWCW5ZYG5ZNLW3ZQQSO4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05W Fair (fair warm with olive undertones)"
+          },
+          "helpfulVotes": "33 people found this helpful"
+        },
+        {
+          "reviewTitle": "The best",
+          "reviewText": "My favorite foundation. The coverage is perfection, and is buildable based upon how much you want to wear. It goes on smooth and doesn\u2019t crease into any fine lines. It has a creamy texture that stays put all day without any streaking or caking.",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "MC",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFD5EUAUSWVDPEIC27C3MTT3LTFA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "14C Medium Cool (medium with pink undertones)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love it!! But did not arrive in the new packaging.",
+          "reviewText": "I fully expected to receive the new packaging version of this makeup since that was the picture shown on Amazon. It does have an exp date listed of 11/26 on the box so it\u2019s not a question of freshness or quality, however that\u2019s why I removed a star because the listing implied this was the new packaging. Anyhow, I love the formula and I do enjoy that I can get it on Amazon on subscription. In case you haven\u2019t used it before it\u2019s a complete one step cc cream but acts as a full coverage foundation and can be layered for more coverage as needed. Will cover redness, blue veins, pimple, melasma on my neck and NEVER breaks me out. You can use the famous black sponge, sometimes I use a bk brush but I find that applying with my fingers then blending works best for me. Medium is my shade and it\u2019s super forgiving!! It\u2019s hydrating and I love the luminous look. I\u2019m a little on the dry side but I use my creams before applying. I found recently that it pairs well with their new concealer and since I hate setting with powder a little UD eyelid primer keeps my mascara and eyeliner from spotting the eyelid or running underneath. This is a very hydrating formula.",
+          "reviewDate": "Reviewed in the United States on January 14, 2026",
+          "customer": "Gzgantt",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF7ZKXDMYNTACUKWTPFWYP5NFBJA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "12W Medium (medium with neutral yellow undertones)"
+          },
+          "helpfulVotes": "19 people found this helpful"
+        },
+        {
+          "reviewTitle": "Flawless complexion",
+          "reviewText": "I\u2019ve used this foundation for years because it is natural and blends well. Doesn\u2019t look heavy or greasy or leave lines. Plus it makes your skin look flawless and photos look airbrushed. It also lasts all day and has sunscreen in it. It feels light and is not sticky so I absolutely love it and stand by it. It\u2019s definitely my \u201cgo to\u201d & I highly recommend IT.",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "Shauna Sturgess",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGNYF3BVB7LOXWOB622ACJJSUA3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "10N Light Medium (light with neutral peach undertones)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent foundation!",
+          "reviewText": "The best foundation. Covers wonderfully and feels light.",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "LEANNE KALDAHL",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVTIEAOUABVUCEEWBTRRHBLL2AA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "15W Medium Tan (medium with olive undertones)"
+          }
+        },
+        {
+          "reviewTitle": "\"Fair light\" color evens skin tone, easy to apply, looks & feels good",
+          "reviewText": "Wow. This IT Cosmetics CC+ Cream Full-Coverage Foundation really works to cover my rosacea, to even the skin tone, and to protect my face. I was skeptical! Over the years I've tried many different makeup products and never been completely satisfied with the way they look and feel or the way they work. This product is really different. I have fair skin with a pink undertone and rosacea that goes from mild to big red spots. I ordered the \"fair light\" color and hoped for the best. It was easy to apply and the color blends well with my skin tone. It feels good on my face. I feel confident in the SPF factor. It gives my face a mild healthy glow and looks good in both artificial and natural light. A little goes a long way. I thought it was a bit pricey, but when I think of what I've paid over the years for products that didn't work, I'm satisfied this is worth the price.",
+          "reviewDate": "Reviewed in the United States on September 6, 2025",
+          "customer": "Anne Swan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGF3YZ6FKN4ASYEDFIONDEU2QKRQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "06C Fair Light (fair with pink undertones)"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Might Cover for 20 YOs but not this 58YO",
+          "reviewText": "As a 58 year old, with dry aged skin, I want to see other 50+ women using this product in the Ad and not 20, 30 or 40 year olds. So, as a mature woman with many fine wrinkles, some caverns, and jowls that rival 'droopy dog', here's my review: \u274c\ufe0fExpensive for the amount, which wouldn't be as problematic if it worked. \u274c\ufe0fSits in fine lines \u274c\ufe0fCoverage is medium but I suppose if you layer it, it might be full coverage although it also might look chalky \u274c\ufe0fColor match is okay, although I feel it makes me look a little too pale and cakey \u274c\ufe0fNot dewy, very flat \u2705\ufe0fVery little is needed to cover face \u2705\ufe0fCreamy feel \u2705\ufe0fLittle to no scent \u2705\ufe0fGood for a matte finish \u2705\ufe0fGood for 30-40s IMO more so than 50+ \u2705\ufe0fNot greasy \u2705\ufe0fGood for combo or dryer skin Overall, its okay. Will I buy it again? No. Ill try Clinique or another brand for similar price. **In photos, I show skin with NO makeup and only my moisturizer and a primer. 2nd photo is the amount I used for half my face Last photo is half my face covered with 1 layer of foundation and nothing else.",
+          "reviewDate": "Reviewed in the United States on January 15, 2026",
+          "customer": "AsahMommy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG77VGJ44BTIUTPYM4TWQGJCBXTQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "09C Light Cool (light with pink undertones)"
+          },
+          "helpfulVotes": "55 people found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing",
+          "reviewText": "It arrived in excellent condition and it blends really well. I wear it everyday",
+          "reviewDate": "Reviewed in the United Arab Emirates on August 30, 2024",
+          "customer": "Alya Alzaabi",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "15W Medium Tan (medium with olive undertones)"
+          }
+        }
+      ]
+    }
+  }
+}

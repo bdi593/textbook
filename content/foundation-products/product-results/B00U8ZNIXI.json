@@ -1,0 +1,399 @@
+{
+  "requestMetadata": {
+    "id": "d500ca99-b39d-44d1-98cd-58804389bd75",
+    "status": "ok",
+    "html": "https://files.hasdata.com/d500ca99-b39d-44d1-98cd-58804389bd75.html",
+    "json": "https://files.hasdata.com/d500ca99-b39d-44d1-98cd-58804389bd75.json",
+    "url": "https://www.amazon.com/dp/B00U8ZNIXI"
+  },
+  "product": {
+    "asin": "B00U8ZNIXI",
+    "url": "https://www.amazon.com/dp/B00U8ZNIXI",
+    "title": "MISSHA Magic Cushion Foundation No.23 Natural Beige for light with neutral skin tone - Flawless Coverage, Dewy Finish, Easy Application for All Skin Types",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.52 Ounce (Pack of 1)",
+      "color": "No.23"
+    },
+    "featureBullets": [
+      "Customizable Coverage: Allows you to adjust the level of coverage to your preference.",
+      "Dewy, Nourishing Finish: Leaves the skin looking radiant and well-nourished.",
+      "Long-lasting Performance: Ensures makeup remains intact without fading or smudging.",
+      "Magic Sponge Hybrid: This innovative sponge applicator makes it easy to touch up on the go, absorbs and retains makeup to reduce waste, and won't harden after use.",
+      "Soothing Botanicals: Bamboo water and baobab tree fruit moisturize skin while witch hazel soothes and calms skin, giving you an even, fresh complexion."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0D5XWCYDJ",
+        "title": "0.52 Ounce (Pack of 2) No.21",
+        "url": "https://www.amazon.com/dp/B0D5XWCYDJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/614ixmomKIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D5XYVZRJ",
+        "title": "0.52 Ounce (Pack of 2) No.23",
+        "url": "https://www.amazon.com/dp/B0D5XYVZRJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61KPUGL8dZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B016BZ9E8Q",
+        "title": "0.52 Ounce (Pack of 1) No.27",
+        "url": "https://www.amazon.com/dp/B016BZ9E8Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/71YUq8UizpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B084DJPBT6",
+        "title": "0.52 Ounce (Pack of 1) No.25",
+        "url": "https://www.amazon.com/dp/B084DJPBT6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71FyKxXXaSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00U8ZNIXI",
+        "title": "0.52 Ounce (Pack of 1) No.23",
+        "url": "https://www.amazon.com/dp/B00U8ZNIXI",
+        "imageUrl": "https://m.media-amazon.com/images/I/61j-Yu2uhtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00U3TE9ZU",
+        "title": "0.52 Ounce (Pack of 1) No.21",
+        "url": "https://www.amazon.com/dp/B00U3TE9ZU",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xrIF0gBDL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "CAD",
+      "currentPrice": 16.02,
+      "beforePrice": 22.31,
+      "discount": "-28%"
+    },
+    "condition": "Regular Price",
+    "deliveryRawDate": "Friday, April 3",
+    "deliveryIsoDate": "2026-04-03T00:00:00.000Z",
+    "deliveryPriceMessage": "CAD\u00a09.87",
+    "returns": "30-day refund / replacement",
+    "seller": "MISSHA US",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3LN26WPO9U6RR",
+    "shipper": "Amazon",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/61j-Yu2uhtL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61j-Yu2uhtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ILwtWCizL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81u+PFlePPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eKAZhHBiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AB3wIW2qL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613BfacN98L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3c42a77f-be6f-4b90-956c-8a0dc1914768.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1041a034-cf00-41fe-adde-958b2d546ede.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a905daf6-a8ae-474b-8cac-bfc6845f9754.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/31e73745-2fc9-4dea-b940-fbb73e2001a6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e7ac00f2-a228-45fa-a239-ef44129870aa.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/80bc9d10-5187-45bf-9bd8-d0d377a6e3e6.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/352ba7f2-ef5d-4ed9-b474-163f4a95bfa6.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/a874f97f-a4f3-4e27-a99f-b7b9722399b8.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/5eedb2b2-c705-4f70-8a3d-c3b5d69e249a.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/844f2956-57fd-4720-8774-5f90bf3c9c4f.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/844f2956-57fd-4720-8774-5f90bf3c9c4f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/33e51a12-cf3f-4a83-90fc-8995749082e7.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2635e0a6-0549-42d1-9416-4cb5484135be.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/397c66f5-2a65-4efb-bcb9-d1cccafc3f8c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d15f59bd-4866-4a17-a415-5355d9854a7a.MP4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "No.23"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Foundation makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MISSHA"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Full Coverage, Natural Finish, Acne-Prone Skin, Non-Drying"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Republic of Korea"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00627464163524"
+      },
+      {
+        "key": "UPC",
+        "value": "627464163524 889650108737 889650059510 794827869161"
+      },
+      {
+        "key": "Model Number",
+        "value": "MSMS1546"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "MSMS1546"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "MISSHA"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#5,382 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #60 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00U8ZNIXI"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "5E+1 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not Tested On Animals"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.8 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "4.72 x 3.15 x 1.57 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 10274,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "65%",
+        "fourStars": "16%",
+        "threeStars": "9%",
+        "twoStars": "4%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage that's buildable and keeps oily skin under control, with a natural matte or semi-dewy finish that looks like clean skin. The product is easy to apply and receives positive feedback for its quality. Regarding color and weight, while some customers find it matches their skin tone perfectly and feels light on the skin, others say it's too dark and feels heavy. The longevity receives mixed reviews, with some saying it lasts all day while others find it doesn't stay long.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 658,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 429,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 372,
+          "status": "positive"
+        },
+        {
+          "aspect": "Finish",
+          "count": 268,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 227,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 489,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 345,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 290,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81kKIvjwiUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/617EzHU6rEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wtunqPmoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qzniPlMnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/818XRkLiVuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61vrKBXaSlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/714rdVu3wsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ZcZjmNhjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71uVeVF+VBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61924e4mczL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81g2DTWFTSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71XbBB+QdoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "This stuff is fabulous",
+          "reviewText": "Decided to try this as I was on the hunt for something for *no makeup makeup* days and I was bolstered by the all the reviews that said they got *my skin, only better*. As soon as I got it I tried it with the sponge it comes with but found it to be a heavier coverage than what I was looking for. The next time I used a large foundation brush and stippled it into my skin. I did half my face with one tiny tap into the compact. It was beautiful. Although it looked way too dark for my skin tone while in the compact, it was a perfect match once applied. There was no caking or separating----it just looked like smooth, even, radiant skin. One tiny tap for each side of my face provided lovely light/medium coverage. Because such a very little goes a very long way I'm going to try one tiny tap for my entire face for the *no makeup makeup* days. If you're on the fence, please just try it. And you can't go wrong at that price!",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "Onlineallthetime",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEC2K7YK6XNLO55DYW7IAVAEUUYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Ounce (Pack of 1)",
+            "color": "No.23"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Impressive Coverage with a Lightweight Feel",
+          "reviewText": "I\u2019m absolutely delighted with this Korean cushion foundation after the very first use. It leaves my skin looking smooth and perfected, but still very natural \u2014 no heavy or cakey feeling at all. The shade is light and works perfectly for fair skin. What really impressed me is how well it lasted all day, even while wearing a hat and scarf in Chicago\u2019s cold weather. I only needed to apply a bit of setting spray and it stayed in place beautifully. One important tip: make sure to apply it with gentle tapping motions instead of rubbing the cushion on your skin \u2014 that makes a big difference in the finish. Highly recommended if you\u2019re looking for a fresh, lightweight, and long-lasting cushion foundation.",
+          "reviewDate": "Reviewed in the United States on January 25, 2026",
+          "customer": "Marisa C",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHLHGM4NXJTTYNE4UXWWNBFNHVTA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Ounce (Pack of 1)",
+            "color": "No.23"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "High coverage cushion foundation with shade of NC15",
+          "reviewText": "I originally purchased this after seeing thataylaa's review on it on YouTube. It's the second cushion foundation I've owned, and I have to say that I really like it. Compared to Lancome's cushion foundation, I think this one is much better. Firstly, it's a fraction of the price. Secondly, the coverage is much better. Missha's cushion covers all my acne scarring easier than my other high coverage foundations (Tarte Amazonian Clay, MAC Studio Fix) and the application is a breeze. It's great for days when I don't want to spend too much time on my makeup base, as I can skip SPF and concealer. As for Lancome's cushion foundation, by the time I packed on enough product to finally cover everything, my face would end up looking too dewy to the point of looking greasy. The Missha cushion is dewy, but not overly so--just enough. I do have to set the foundation, however, or else it will transfer pretty easily. The only reason why I don't wear this foundation more often is because the shade doesn't match me perfectly. I was actually a little disappointed since I was expecting the undertone to suit my Asian skin better than American brands, but it turned out to be the same. The shade almost identical to MAC's NC15 shade, if not the tiniest bit lighter. Thus, it's a little too orange for my pale yellow skin. But if NC15 is your shade I would definitely recommend it. The only actually con to this foundation is that cushion foundations in general don't last very long. I've only worn it so many times and it's already becoming difficult to get product out of it, but this was the same with my Lancome foundation and I think is the same with all cushion foundations. Compared to CC and BB creams it does feel a little heavier on the face, but the coverage is much better. Overall, if you're looking to try out a cushion foundation, I think this is a great one to start with. It's cheaper than even drugstore cushion foundations, and the coverage is simply great. The only reason I didn't give this five stars is because the shade doesn't match me, but it's close enough that I can get away with it.",
+          "reviewDate": "Reviewed in the United States on September 23, 2016",
+          "customer": "Mizuki",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE2ZZAS3U5IER3GXVIP3TH2OCQEQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.52 Ounce (Pack of 1)",
+            "color": "No.21"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Awesome Foundation.",
+          "reviewText": "Wow! I did NOT expect this level of excellence. The compact foundation is amazing. It is light, but the coverage is magical. I'm older and battle with pigmentation issue & this foundation makes spots vanish! It also doesn't creep into nooks & crannies. I'm 70 and my complexion looks like glass (ok, my eye area is my eye area... but still pretty good!) This is revolutionary makeup. The only thing I'd change up next time is the shade. But the 21 I tried is do-able for a fair complex with full makeup. This product makes my year..",
+          "reviewDate": "Reviewed in the United States on March 5, 2026",
+          "customer": "Patricia M. Pellerito",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHKQOIFSEVED6C73MO5BRMIN4UGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Ounce (Pack of 1)",
+            "color": "No.21"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great foundation!!",
+          "reviewText": "I LOVE this foundation!! I've tried and used SO many brands, inexpensive and expensive...and this is by far my favorite!! Great, buildable coverage! Goes on smooth and dewey! Honestly, this will be my foundation from now on!",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Jett B",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFDQFUFTCDMKC3FICO3P53WNG7LQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Ounce (Pack of 1)",
+            "color": "No.21"
+          }
+        },
+        {
+          "reviewTitle": "Edit: 5 stars",
+          "reviewText": "Edit: I'm sorry I was hasty to judge this product without giving it time! The mirror was infact covered by a protective layer. The coverage is alright but you can layer it. It doesn't feel like I have clay on my face like most foundations! I love this product and I will be using it for more years to come for everyday make up. It brightens my skin and doesn't oxidize at the end of the day. \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f I used a beauty blender instead of the ugly sponge they provided. It was a game changer!!!!! The mirror is blurred I thought I gotta peel some protective layer that's why it has some scratch on it. It's not my colour (unfortunately). I thought it would give me a dewy look but it shows a matte finish and my face is itching. :((( I wish I can return this thing or get a refund!!!!",
+          "reviewDate": "Reviewed in Canada on April 26, 2022",
+          "customer": "Me",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Ounce (Pack of 1)",
+            "color": "No.21"
+          }
+        },
+        {
+          "reviewTitle": "Not Satisfied",
+          "reviewText": "I\u2019m sorry but this product broke me out really bad. I\u2019m not sure if the product is old/expired because it came quite dusty as well. I\u2019m really disappointed for having to receive a product that I paid full price for. I hope it works out well for the others.",
+          "reviewDate": "Reviewed in Canada on November 5, 2020",
+          "customer": "M",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "0.52 Ounce (Pack of 1)",
+            "color": "No.27"
+          }
+        },
+        {
+          "reviewTitle": "Love it",
+          "reviewText": "The best cushion foundation at a reasonable price. The coverage is similar to Chanel Les Beige Cushion Foundation at a lower price, so i can use this everyday without breaking the bank. The only downside is the product finishes quite quickly.",
+          "reviewDate": "Reviewed in the United Arab Emirates on May 6, 2022",
+          "customer": "Anonymous",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Ounce (Pack of 1)",
+            "color": "No.27"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "requestMetadata": {
+    "id": "c2f55e90-2283-41ef-b69d-9ca0b4140ddc",
+    "status": "ok",
+    "html": "https://files.hasdata.com/c2f55e90-2283-41ef-b69d-9ca0b4140ddc.html",
+    "json": "https://files.hasdata.com/c2f55e90-2283-41ef-b69d-9ca0b4140ddc.json",
+    "url": "https://www.amazon.com/dp/B08H45NVY7"
+  },
+  "product": {
+    "asin": "B08H45NVY7",
+    "url": "https://www.amazon.com/dp/B08H45NVY7",
+    "title": "Maybelline Super Stay Full Coverage Liquid Foundation Active Wear Makeup, Up to 30Hr Wear, Transfer, Sweat & Water Resistant, Matte Finish, Medium Beige, 1 Count",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "129 MEDIUM BEIGE",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Maybelline Super Stay Full Coverage Foundation Make Up: Full coverage foundation that sets a new standard with up to 30 hour performance wear, Glides on smooth, feels light as air and stays put no matter what, Quick dry forumla suitable for all skin types",
+      "Full Coverage Matte Foundation Formula: Super Stay Active Wear Foundation is transfer resistant, water resistant and sweat resistant, Get a seamless matte foundation look that glides onto skin for even color and ligtweight wear",
+      "Best Face Forward: Maybelline has sheer, medium, and full coverage foundation in liquid, stick, and cushion foundation formulas, and a range of concealers, plus face primers, contour, highlighter, and pressed powder to help you create a perfect canvas",
+      "Create any look with Maybelline: foundation, BB creams, concealers, and setting powders for the perfect canvas, eye shadows, mascara, brow pencils, and eyeliners for any eye look and lip products, from showstopping matte lipstick to a plumping lip gloss",
+      "Remove Maybelline Makeup With Micellar Water: Use Garnier Micellar Water as a gentle makeup remover at night, and as a facial cleanser in the morning to prep skin for Maybelline makeup"
+    ],
+    "description": "Be your own professional makeup artist with Maybelline's full coverage 24H foundation. Saturated color pigments provide an ultra-transforming effect in this long-lasting foundation. The lightweight, yet high-impact coverage formula glides onto the skin for a flawless finish that lasts all day. Oil free. Doesn't clog pores. Dermatologist tested.",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B074VD4X8C",
+        "title": "310 SUN BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VD4X8C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ccTx-RjrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VGYK53",
+        "title": "220 NATURAL BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VGYK53",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Hj5Sgs1kL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GWZ1CM9",
+        "title": "375 JAVA 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GWZ1CM9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fl8vg2cWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VFLXWN",
+        "title": "102 FAIR PORCELAIN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VFLXWN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WW+Iv6kBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GXQ2S31",
+        "title": "125 NUDE BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GXQ2S31",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eHu3VW1hL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VFYJTC",
+        "title": "330 TOFFEE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VFYJTC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61PMGupaKsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GX65KNB",
+        "title": "370 DEEP BRONZE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GX65KNB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EdFFo+euL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08H45NVY7",
+        "title": "129 MEDIUM BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08H45NVY7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CtALN+QGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VFLXWP",
+        "title": "312 GOLDEN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VFLXWP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qSqhlAUHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VFYCKC",
+        "title": "360 MOCHA 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VFYCKC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hfcz143zL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VFV9X9",
+        "title": "320 HONEY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VFV9X9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-tFtBsuWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VFT45T",
+        "title": "355 COCONUT 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VFT45T",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eFpE7o9ML._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GX5YX4R",
+        "title": "105 FAIR IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GX5YX4R",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+GanJKjtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GX666N8",
+        "title": "115 IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GX666N8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wc+ImqeqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GX6DDF2",
+        "title": "140 LIGHT TAN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GX6DDF2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Oo3zS+FfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VFZ8ZS",
+        "title": "130 BUFF BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VFZ8ZS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61E2yGqDHcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GXBKM1S",
+        "title": "332 GOLDEN CARAMEL 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GXBKM1S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61abzyir5WL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GX6D7M6",
+        "title": "127 SAND BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GX6D7M6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hhO20wtwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VG3CD5",
+        "title": "128 WARM NUDE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VG3CD5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61y9HmY+v0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GXBBRGV",
+        "title": "340 CAPPUCCINO 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GXBBRGV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RBJdJBv5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VG89HC",
+        "title": "110 PORCELAIN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VG89HC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tsnRPwKYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VD4X89",
+        "title": "120 CLASSIC IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VD4X89",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FwcbVUyFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B074VFZ8ZQ",
+        "title": "112 NATURAL IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B074VFZ8ZQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VtQw8d1vL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GX6DFT1",
+        "title": "118 LIGHT BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GX6DFT1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jM2G2dmQL._SL1500_.jpg"
+      }
+    ],
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61CtALN+QGL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61CtALN+QGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71z8axH4mcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81blaJK7FRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71kUWdqQgmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mFKai4xnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ilz8dGcbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81zvgB85LjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81fhdKduKCL._SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "129 MEDIUM BEIGE"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Normal, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MAYBELLINE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless, Oil Control"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "041554589900"
+      },
+      {
+        "key": "Model Number",
+        "value": "041554589900"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "041554589900"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Maybelline New York"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#7,471 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #87 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B08H45NVY7"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not-Applicable"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "4.13 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.18 x 1.18 x 4.61 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 36163,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "13%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this foundation provides buildable full coverage and lasts all day, with a pretty matte finish that makes skin look gorgeous. The product receives positive feedback for its quality and value for money, being considered one of the best drugstore foundations. While some customers say the color matches their skin perfectly, others find it too dark, and opinions about application are mixed - some say it applies smoothly while others find it hard to spread. Customers disagree on its suitability for different skin types, with some finding it good for oily skin while others report breakouts.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 774,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 494,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 421,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 239,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 215,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 399,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 369,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin type",
+          "count": 266,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61OCDWM0WiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61EV6KzBymL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61MzKX0LQWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51mKUhHoesL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/719Rz4vq5YL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/816P2IgF2PL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81q7nkkgQIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Ujoo9WrBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61TtsI6wOzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zmCWyA4wL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-TKBqk0pL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51+bPJuGIlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Everyday value, high end quality",
+          "reviewText": "Sure! Here\u2019s a positive, satisfied product review for a makeup foundation: \u2e3b 5 Stars \u2013 My New Go-To Foundation! I am absolutely in love with this foundation! From the very first application, I noticed how smooth and lightweight it felt on my skin. It provides amazing coverage without feeling heavy or cakey, and it blends effortlessly with both a brush and a beauty sponge. One of the things I appreciate most is how natural the finish looks\u2014it\u2019s that perfect balance between matte and dewy. It evens out my complexion beautifully and stays in place all day, even through long hours and a little Texas heat! I\u2019ve also noticed it doesn\u2019t settle into fine lines or cling to dry patches, which is a huge plus. It\u2019s buildable, breathable, and best of all\u2014it matches my skin tone perfectly. I\u2019ve gotten so many compliments on how flawless my skin looks. Highly recommend this to anyone looking for a reliable everyday foundation that performs like a high-end!",
+          "reviewDate": "Reviewed in the United States on April 22, 2025",
+          "customer": "Sasha W",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGLTVPOIYNCHIGUHE6T5F7QMHBQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "332 GOLDEN CARAMEL",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Longevity.",
+          "reviewText": "This particular makeup brand is among my favorites, and the coverage it provides is truly exceptional. I use it regularly, and it consistently offers a natural appearance. I frequently receive compliments from various individuals who are unable to discern whether I am wearing makeup, yet my skin appears naturally flawless. This makeup is indeed remarkable and well worth the investment. Given my skin tone and complexion, I find that the 360 shade is ideal for me.",
+          "reviewDate": "Reviewed in the United States on December 6, 2025",
+          "customer": "Lovelybsexy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE5WV4JLRMG3IBTY2GZMX6PTU2QA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "360 MOCHA",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Is the best foundation ever",
+          "reviewText": "I really like this foundation. The texture is great, it blends very well with the skin, and it doesn\u2019t come off easily, so you can wear it in any environment without worrying about coverage. This has been my favorite foundation for years, and I still use it to this day. Once you apply it, your skin looks so different smooth, even, and free of imperfections.",
+          "reviewDate": "Reviewed in the United States on January 10, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE7CM5CID5B2SDBR7I4FNKB5WMBA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "330 TOFFEE",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good option for a medium coverage drugstore foundation, oxidizes very dark",
+          "reviewText": "The SuperStay Full Coverage 24 hours is a good foundation for the drugstore, with a medium coverage, a matte but natural finish and a nice comfortable wear. The formula is liquid but creamy, very easy to apply and blend with either fingers, brush or sponge. I actually like the finish and application more with a dense buffing brush. Initially the foundation dries to a nice looking matte finish (quite natural, not very flat). But even set with powder, the foundation starts to warm-up during the day, mixing with the skin natural oil. On my combination skin it starts to become dewy in 4-5 hours, than becomes shiny and even oily towards the end of day. I really need to use blotting paper somewhere mid-afternoon and my skin is usually not that oily. I wouldn't call this a long-lasting foundation, when it starts to get dewy it definitely starts to `move` as well. I personally don't find the coverage to be full, it's more like a medium and the foundation looks cakey if I try to build up the coverage. I need a separate concealer for my dark circles or if I get some acne scars. My major complaint with this foundation is that it oxidizes darker, I watched many reviews before purchasing this foundation and I took note that it oxidizes darker so I bought I lighter shade. I'm Light/Medium and yellow toned (MAC NC20) and I got Natural Ivory. At first pumped from the bottle, it looks very light, but once applies on the skin it oxidizes at least 1-1.5 shade darker, during the day it oxidizes even more. With the foundation getting so dark at the end of day, the 112 Natural Ivory is actually more like a summer shade for me. In term of tone, it's neutral-warm (at least after it oxidizes), so it doesn't offset that much my yellow tones. Note: The photo is with the color of the foundation (112 Natural Ivory) just pumped from the bottle. The foundation oxydizes darker on my face with time (as I mentioned).",
+          "reviewDate": "Reviewed in the United States on April 13, 2018",
+          "customer": "Ana Maria",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFLDULROFF3CJZUSMWZZMUQEO4NQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "112 NATURAL IVORY",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "31 people found this helpful"
+        },
+        {
+          "reviewTitle": "Flawless coverage",
+          "reviewText": "This makeup is amazing flow coverage is no elaboration. It is really full coverage. I absolutely love it, it's flawless every time I wear it, the compliments comes out.",
+          "reviewDate": "Reviewed in the United States on February 7, 2026",
+          "customer": "Colette Logan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPNQPWIVWFCAJDEVRTOJG66E2GQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "340 CAPPUCCINO",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Appears to not received full bottle",
+          "reviewText": "I love Super Stay. It's full coverage is great. But I brought this a month ago and didn't use for a week and a half and it's already slow pumping out. It appears like it was not a full bottle. I dont use it everyday, so I'm not understanding why it's pumping out small amount like it's emptied.",
+          "reviewDate": "Reviewed in the United States on December 4, 2025",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYRZIDQ5RXEKUG5S4NF7BBFMA4A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "355 COCONUT",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Which hand has foundation?",
+          "reviewText": "I don't know how I did it, but standing in the bathroom mirror, holding my phone next to my face, I made a PERFECT shade match! Foundation applies easily over primer. Feels lightweight and velvety. Has a matte finish. Label doesn't lie - coverage and mattefier lasts for hours without requiring touch up. Great for oily skin.",
+          "reviewDate": "Reviewed in the United States on December 1, 2025",
+          "customer": "Lisa",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHTYC3H25TEFE7PX4VCZZVVDMB6Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "129 MEDIUM BEIGE",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Makeup",
+          "reviewText": "My favorite makeup. Always stay with the same one. It looks flawless and don't cake up skin",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "paula tyra",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE7UA3GASMHTAW5W5TPKPPVKDHNQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "125 NUDE BEIGE",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Perfect match",
+          "reviewText": "A perfect match for my complexion. The price was tight, so it was a must-buy for me.",
+          "reviewDate": "Reviewed in Canada on March 7, 2024",
+          "customer": "Nnaeiluj Gotti",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "370 DEEP BRONZE",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Excellent product and affordable cost",
+          "reviewText": "Excellent product that I've been using for years!",
+          "reviewDate": "Reviewed in Canada on April 30, 2023",
+          "customer": "Starr",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "360 MOCHA",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Must buy",
+          "reviewText": "Using since last 2 months, it's good",
+          "reviewDate": "Reviewed in India on January 16, 2025",
+          "customer": "vinita",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "128 WARM NUDE",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "requestMetadata": {
+    "id": "dbd24188-a575-4f5e-a4ed-7ea2c8b54bc1",
+    "status": "ok",
+    "html": "https://files.hasdata.com/dbd24188-a575-4f5e-a4ed-7ea2c8b54bc1.html",
+    "json": "https://files.hasdata.com/dbd24188-a575-4f5e-a4ed-7ea2c8b54bc1.json",
+    "url": "https://www.amazon.com/dp/B0BCCDHCZ5"
+  },
+  "product": {
+    "asin": "B0BCCDHCZ5",
+    "url": "https://www.amazon.com/dp/B0BCCDHCZ5",
+    "title": "Maybelline Super Stay Up to 24HR Hybrid Powder-Foundation, Medium-to-Full Coverage Makeup, Matte Finish, 220, 1 Count",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "SUPERSTAY POWDER 220",
+      "size": "0.2 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "Soft Matte Make Up Look: Maybelline Super Stay Hybrid Powder Foundation gives up to 24 hours of medium-to-full foundation coverage with a soft matte finish. Comfortable, weightless feel that resists sweat, water or makeup transfer",
+      "Hybrid Foundation Powder: This Maybelline foundation has super resistant hybrid technology. Delivers mattifying face powder coverage that blends seamlessly - resists caking and patchiness. Suitable foundation makeup for all skin types",
+      "Superhero Shade Range: This Maybelline powder is available in 16 shades. Just apply the superhero hybrid formula with one swipe for super medium-to-full matte foundation coverage and go wherever city life takes you",
+      "Create any look with Maybelline: foundation, BB creams, concealers, and setting powders for the perfect canvas, eye shadows, mascara, brow pencils, and eyeliners for any eye look and lip products, from showstopping matte lipstick to a plumping lip gloss",
+      "Remove Maybelline Makeup With Micellar Water: Use Garnier Micellar Water as a gentle makeup remover at night, and as a facial cleanser in the morning to prep skin for Maybelline makeup"
+    ],
+    "description": "Full coverage hybrid powder-foundation with long-lasting matte finish. Up to 24 hour wear. Weightless and comfortable feel. Sweat-resistant. Water-resistant. Made in USA of US and/or imported ingredients.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BCCDHCZ5",
+        "title": "SUPERSTAY POWDER 220 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCCDHCZ5",
+        "imageUrl": "https://m.media-amazon.com/images/I/91JyCkntOrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZ1936R",
+        "title": "SUPERSTAY POWDER 220 0.2 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBZ1936R",
+        "imageUrl": "https://m.media-amazon.com/images/I/818ewyxIS3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCBRSW6Y",
+        "title": "SUPERSTAY POWDER 355 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCBRSW6Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/81aYHmLoF-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZK8RYY",
+        "title": "SUPERSTAY POWDER 355 0.2 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBZK8RYY",
+        "imageUrl": "https://m.media-amazon.com/images/I/81CsOPNwYEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCCP7H24",
+        "title": "SUPERSTAY POWDER 110 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCCP7H24",
+        "imageUrl": "https://m.media-amazon.com/images/I/81WMOCWWLuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCBW2XWQ",
+        "title": "SUPERSTAY POWDER 130 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCBW2XWQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/912GBizLJQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCC2K43V",
+        "title": "SUPERSTAY POWDER 118 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCC2K43V",
+        "imageUrl": "https://m.media-amazon.com/images/I/81egIuX60QL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCC1LKHT",
+        "title": "SUPERSTAY POWDER 340 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCC1LKHT",
+        "imageUrl": "https://m.media-amazon.com/images/I/81CDS11chAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZNL1MN",
+        "title": "SUPERSTAY POWDER 120 0.2 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBZNL1MN",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ySzlZtKSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCCGYDYV",
+        "title": "SUPERSTAY POWDER 128 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCCGYDYV",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Gsq8YKGZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCBK1TM9",
+        "title": "SUPERSTAY POWDER 112 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCBK1TM9",
+        "imageUrl": "https://m.media-amazon.com/images/I/81JW4+PhK5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCC1XKJH",
+        "title": "SUPERSTAY POWDER 120 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCC1XKJH",
+        "imageUrl": "https://m.media-amazon.com/images/I/8137PwPjF3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZG4G9Y",
+        "title": "SUPERSTAY POWDER 128 0.2 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBZG4G9Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/81wDFjsnduL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F8VDFMDV",
+        "title": "SUPERSTAY POWDER 310 0.2 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0F8VDFMDV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71OkF4eB1sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKHTZ7C",
+        "title": "SUPERSTAY POWDER 340 0.2 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKHTZ7C",
+        "imageUrl": "https://m.media-amazon.com/images/I/81pwvSFClML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCCL374T",
+        "title": "SUPERSTAY POWDER 310 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCCL374T",
+        "imageUrl": "https://m.media-amazon.com/images/I/61S6rybcZ9L._SL1000_.jpg"
+      },
+      {
+        "asin": "B0BCCFWP2S",
+        "title": "SUPERSTAY POWDER 375 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCCFWP2S",
+        "imageUrl": "https://m.media-amazon.com/images/I/818jbaArWPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCCPXXPC",
+        "title": "SUPERSTAY POWDER 370 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCCPXXPC",
+        "imageUrl": "https://m.media-amazon.com/images/I/81viW50CmHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCC8T64B",
+        "title": "SUPERSTAY POWDER 102 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCC8T64B",
+        "imageUrl": "https://m.media-amazon.com/images/I/81StYEG2VNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCBK7LBM",
+        "title": "SUPERSTAY POWDER 312 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCBK7LBM",
+        "imageUrl": "https://m.media-amazon.com/images/I/91UMxGZ9BOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCBVS911",
+        "title": "SUPERSTAY POWDER 360 0.2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCBVS911",
+        "imageUrl": "https://m.media-amazon.com/images/I/81zrqFW-mWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F8V7C69R",
+        "title": "SUPERSTAY POWDER 312 0.2 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0F8V7C69R",
+        "imageUrl": "https://m.media-amazon.com/images/I/81E4m70OVGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZ7TVPW",
+        "title": "SUPERSTAY POWDER 332 0.21 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBZ7TVPW",
+        "imageUrl": "https://m.media-amazon.com/images/I/81bAxGW8rkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCCJ3GNZ",
+        "title": "SUPERSTAY POWDER 332 0.21 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BCCJ3GNZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/91vl1zK9huL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 11.98,
+      "beforePrice": 15.99,
+      "discount": "-25%",
+      "priceFrom": 11.95,
+      "otherOfferQuantity": 8
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 12 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/91JyCkntOrL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/91JyCkntOrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+4bfyCwKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/917ydNLwXKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91kF-XwrsAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813F-l+e9xL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-swqBV4hL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816qiXNbqwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816HZ2o6HbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81SBMdO9q9L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dfd79925-2835-4569-b53f-6490d57a8db1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4aa71c8d-941f-43ff-9112-c04806371c4b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/994516d6-4f41-442a-ba1e-aff97725e6f5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3d771c89-b6a9-4aec-8cf9-a68053b24ce6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2dfc6fb2-d85a-440b-ae85-52fd160c5403.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e0d4870-39e0-4fd5-abef-6cf467ae79c9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04d5344a-0c86-4dc2-91e5-4a7b1711af66.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/64c86286-aed0-4df6-a8a4-25d43fe07fad.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2fe92fce-3033-4514-9a7a-22a554f48942.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e0d529a5-9a50-4735-b5aa-8c054547d43e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6214eab-3257-4d15-9b87-eac7260b7572.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4720b5ea-a4ec-455b-83b2-c90b54f75142.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de65cd51-f84d-430d-9d53-fd64690f9994.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/207df5d1-c8d2-46d5-95c6-e3768e6215aa.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5a969283-6e85-4279-aa0f-61348a73cb50.__CR0,0,200,225_PT0_SX200_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0d1418ca-32cb-4c8e-af73-4be5ae634194.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f77b36c5-9fb8-45dd-aa7e-29e4c1b4f61f.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "SUPERSTAY POWDER 220"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Container within box"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MAYBELLINE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Provides medium-to-full coverage with a soft matte finish, resists sweat, water, and transfer for up to 24 hours"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Mattifying"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Yemen"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00041554080995"
+      },
+      {
+        "key": "UPC",
+        "value": "041554092462"
+      },
+      {
+        "key": "Model Number",
+        "value": "0041554080995"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "0041554080995"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Maybelline"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,037 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #23 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BCCDHCZ5"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "10 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Lightweight"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium-to-full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.11 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.67 x 2.8 x 0.67 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Animal derived ingrediant free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 8035,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "69%",
+        "fourStars": "12%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find the foundation provides smooth medium-to-full coverage and appreciate its feather-light feel. The product receives positive feedback for its quality, with one customer noting it's as good as high-end products. The longevity and texture receive mixed reviews - while it stays on for most of the day and has a natural matte finish, some customers find it cakey. The color and pore control aspects also get mixed reactions, with some saying it matches their skin tone perfectly while others report an orange hue, and while it prevents oiliness throughout the day, some mention it makes their face look very dry. The blendability receives mixed feedback, with some finding it very blendable while others disagree.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 268,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 135,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 72,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 148,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 145,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color",
+          "count": 106,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Pore control",
+          "count": 86,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 74,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71cznk+ItyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81q7nkkgQIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7105rWT5HdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/713qjzmQBTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61zl1hdtd5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61W2Pc8q3JL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61OxVPI20aL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6176O5vX0NL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71m8LmwatBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61KKHwdDVLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61gGGSTY0QL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61f18mo3iRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Wonderful for my oily skin",
+          "reviewText": "I\u2019ve been using this powder foundation for years after looking for an alternative to high end liquid foundation. My reason was mostly to cut down time on doing my makeup and something lightweight but covers decently and doesn\u2019t add to my oily skin issue. This compact is perfect. 220 is the perfect shade for my light neutral Asian skin. It lasts through the work day with blotting my face throughout (skin\u2019s too oily for any makeup to truly stop oil production - not the products fault). It also does not break me out so long as I clean the applicator or blender sponge regularly. I like that it\u2019s convenient in a compact with a mirror. I do wish the compact had more product in it bc I can go through it kind of fast, but it\u2019s hard to find a powder foundation that has good coverage, great formula, and is relatively affordable - so I\u2019ll take it.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Kaaarinnn",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHE7SBNIA2NXIL4TVH3GXQA6MDQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SUPERSTAY POWDER 220",
+            "size": "0.2 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Good product good price",
+          "reviewText": "I do not use foundation so after I apply my skin care I will apply this powder to my face to take away the shine. Is very light and covers very well. Dries quickly and has good blendability and gives you a matte finish.",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "me",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGWERJ7A3ECGW6SRPTUAORK3YXYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SUPERSTAY POWDER 310",
+            "size": "0.2 Ounce (Pack of 2)"
+          }
+        },
+        {
+          "reviewTitle": "Long-lasting coverage that really holds up",
+          "reviewText": "I\u2019ve been using this powder foundation regularly and I really love how it performs. It goes on smoothly and provides solid coverage for a powder without looking heavy or cakey. It evens out my skin tone well and gives a clean, natural finish. One of the biggest positives is how well it lasts. Once applied, it stays put and doesn\u2019t break down or get shiny throughout the day. It\u2019s easy to build coverage where needed, and it works well for quick application when I don\u2019t want to spend a lot of time on makeup. Pros: Great coverage for a powder foundation Smooth, natural finish Long-lasting wear Easy and quick to apply Cons: Can emphasize dry areas without good skin prep Shade matching may take some trial Overall, this has become a go-to powder foundation for me. If you like the convenience of powder with dependable coverage and wear time, this one is a great option.",
+          "reviewDate": "Reviewed in the United States on January 1, 2026",
+          "customer": "Dave & Steph",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWODEDWOC6KOIQDWSAI2LY467IQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SUPERSTAY POWDER 220",
+            "size": "0.2 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wrong shade for me",
+          "reviewText": "I love the coverage and feel of this powder, but I cannot seem to find the right color for me. I just ordered 220 and it\u2019s very light, almost ivory. I tried 310 and that\u2019s way too dark. They definitely need more colors.",
+          "reviewDate": "Reviewed in the United States on February 26, 2026",
+          "customer": "Patty Velez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFHVT676PHCEXLW7SOHKDT6TORMQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "SUPERSTAY POWDER 220",
+            "size": "0.2 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love!",
+          "reviewText": "Use this daily! As good as high-end!",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Angela",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AERI3RMV44CK3UZJ4KI7CFFXSUVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SUPERSTAY POWDER 102",
+            "size": "0.2 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "CAKE WHAT",
+          "reviewText": "I'm a pale human. This color is absolutely the wrong pale, I look sick. There is a mirror hiding under the color... can't look in it while you apply the product. Anywhere I put this on my face had a horrible texture to it. I don't wear a lot of makeup, really just under my eyes and little tiny spots to cover. But goodness CAKE.. it doesn't blend and it is awful. I wanted to update from my 7 years old MAC compact (yes I know that's bad, but that's how little makeup I use). I should have just kept the MAC.",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Candice",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGREKWXBCQV25D2FUI4ZAFG23AMQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "SUPERSTAY POWDER 102",
+            "size": "0.2 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Powder is good.",
+          "reviewText": "I decided to try the Maybelline Super Stay for the first time instead of the Elf Camo powder, as the shade I was seeking in the Elf Camo was unavailable. Overall, it is an acceptable powder, but it does not compare favorably to the Elf Camo. It's good for the price listed.",
+          "reviewDate": "Reviewed in the United States on January 5, 2026",
+          "customer": "Taher",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJSFF2D75MBOGIOMBQU5VWCVIRQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "SUPERSTAY POWDER 220",
+            "size": "0.2 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great Coverage and Long-Lasting",
+          "reviewText": "I really like how this powder foundation gives good coverage while still feeling lightweight on the skin. It blends easily and helps even out my complexion. It controls shine nicely and lasts for several hours without looking cakey. Perfect for everyday wear or quick touch-ups. Very happy with this purchase",
+          "reviewDate": "Reviewed in the United States on February 23, 2026",
+          "customer": "Maria Castro",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG7KYHGPOUNWFSCSLX3XJ4RBLNQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SUPERSTAY POWDER 220",
+            "size": "0.2 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Worth the price",
+          "reviewText": "Good product",
+          "reviewDate": "Reviewed in Canada on March 11, 2026",
+          "customer": "Olagbemiro Ololade Oyinlola",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SUPERSTAY POWDER 340",
+            "size": "0.2 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "requestMetadata": {
+    "id": "120aedd9-136f-41d4-8b69-9e1e0901a443",
+    "status": "ok",
+    "html": "https://files.hasdata.com/120aedd9-136f-41d4-8b69-9e1e0901a443.html",
+    "json": "https://files.hasdata.com/120aedd9-136f-41d4-8b69-9e1e0901a443.json",
+    "url": "https://www.amazon.com/dp/B007A2Z4VQ"
+  },
+  "product": {
+    "asin": "B007A2Z4VQ",
+    "url": "https://www.amazon.com/dp/B007A2Z4VQ",
+    "title": "P\u00dcR MINERALS 4-in-1 Pressed Mineral Makeup Powder Foundation with SPF 15 - Concealer & Finishing Compact Pressed Powder for Face - Buildable Medium to Full Coverage Foundation Powder",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Light/LN6 - light skin with neutral undertones"
+    },
+    "featureBullets": [
+      "Multitasking Foundation: Achieve smoother-looking skin with P\u00dcR\u2019s 4-in-1 Pressed Mineral Makeup Powder Foundation. This all-in-one powder foundation doubles as a concealer, setting powder, and SPF 15 made with nourishing skincare ingredients.",
+      "Natural Finish, Flawless Full Coverage: This easy-to-use powder gives you 60 seconds to a flawless complexion. Apply using circular motions to achieve an even and flawless finish, providing all the coverage you want without that heavy feel.",
+      "Skin-Loving Benefits: Powered by Ceretin Complex, our proprietary encapsulated blend of ingredients including Lactic Acid, Shea Butter, and a Ceramide that gently helps improve skin tone & texture, while helping to diminish the look of fine lines and wrinkles.",
+      "All the Beauty You Love, None of the Ingredients You Don\u2019t: P\u00dcR products are 100% cruelty-free and vegan. Bunnies are our friends not our models. We\u2019ve also left out unnecessary ingredients, making this product paraben and gluten-free.",
+      "Beauty, Pure & Simple: We\u2019ve redefined clean beauty with one mission in mind\u2014to offer multitasking beauty solutions that support your lifestyle. Our products leave your skin looking and feeling its best, long after the makeup comes off!"
+    ],
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B005QR6QAA",
+        "title": "Medium Dark\\/DG1 - light brown skin with golden undertones",
+        "url": "https://www.amazon.com/dp/B005QR6QAA",
+        "imageUrl": "https://m.media-amazon.com/images/I/812UWyrYoQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WVMV4KW",
+        "title": "Bisque\\/MG3 - light golden skin with golden undertones",
+        "url": "https://www.amazon.com/dp/B07WVMV4KW",
+        "imageUrl": "https://m.media-amazon.com/images/I/81c8-GvtsUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WVMNZF9",
+        "title": "Truffle\\/DPP4 - rich brown skin with pink undertones",
+        "url": "https://www.amazon.com/dp/B07WVMNZF9",
+        "imageUrl": "https://m.media-amazon.com/images/I/81sKTVl4o7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GQKLS86",
+        "title": "Medium Tan\\/TP4 - tan skin with pink undertones",
+        "url": "https://www.amazon.com/dp/B00GQKLS86",
+        "imageUrl": "https://m.media-amazon.com/images/I/81nAt7gIYYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WWPMB4S",
+        "title": "Ivory\\/LP5 - fair skin with pink undertones",
+        "url": "https://www.amazon.com/dp/B07WWPMB4S",
+        "imageUrl": "https://m.media-amazon.com/images/I/81gTY1keoFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007A2Z6W8",
+        "title": "Deeper\\/DPP1 - dark brown skin with pink undertones",
+        "url": "https://www.amazon.com/dp/B007A2Z6W8",
+        "imageUrl": "https://m.media-amazon.com/images/I/81GVtubjK-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WSJR7HW",
+        "title": "Cocoa\\/DG7 - dark brown skin with golden undertones",
+        "url": "https://www.amazon.com/dp/B07WSJR7HW",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Eys6bBpNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WTJKKG8",
+        "title": "Fair Ivory\\/LN2 - fair skin w\\/neutral undertones",
+        "url": "https://www.amazon.com/dp/B07WTJKKG8",
+        "imageUrl": "https://m.media-amazon.com/images/I/91+QwjWYKLS._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WTJKHWC",
+        "title": "Beige\\/MG5 - golden medium skin with golden undertones",
+        "url": "https://www.amazon.com/dp/B07WTJKHWC",
+        "imageUrl": "https://m.media-amazon.com/images/I/81HgBONsmyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PQZ24VC",
+        "title": "Golden Medium\\/MN5 - medium skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B00PQZ24VC",
+        "imageUrl": "https://m.media-amazon.com/images/I/81VPenU90mL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007A2Z6K0",
+        "title": "Golden Dark\\/DG3 - brown skin with golden undertones",
+        "url": "https://www.amazon.com/dp/B007A2Z6K0",
+        "imageUrl": "https://m.media-amazon.com/images/I/81AcNVe9ilL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WVMV4LV",
+        "title": "Linen\\/MN3 - medium skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B07WVMV4LV",
+        "imageUrl": "https://m.media-amazon.com/images/I/81p56X9to+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WVMV4KS",
+        "title": "Vanilla\\/LG6 - light skin with golden undertone",
+        "url": "https://www.amazon.com/dp/B07WVMV4KS",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ymM8+ddVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B005QR6QLY",
+        "title": "Porcelain\\/LP4 - fair skin with pink undertones",
+        "url": "https://www.amazon.com/dp/B005QR6QLY",
+        "imageUrl": "https://m.media-amazon.com/images/I/81bxnFyVr0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B005QR6Q4Q",
+        "title": "Tan\\/TN6\\/ - tan olive skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B005QR6Q4Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/818-CpzMf5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B005O8XYYM",
+        "title": "Blush Medium\\/MP3 - light blush medium skin with pink undertones",
+        "url": "https://www.amazon.com/dp/B005O8XYYM",
+        "imageUrl": "https://m.media-amazon.com/images/I/81VTnkBnbtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B005QR6QG4",
+        "title": "Porcelain",
+        "url": "https://www.amazon.com/dp/B005QR6QG4",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Lde2PKD3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WVM4ZX2",
+        "title": "Cinnamon\\/DN5 - dark brown skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B07WVM4ZX2",
+        "imageUrl": "https://m.media-amazon.com/images/I/81fVQ-xpAkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0077QL13K",
+        "title": "Light Tan\\/TG3 - tan skin with golden undertones",
+        "url": "https://www.amazon.com/dp/B0077QL13K",
+        "imageUrl": "https://m.media-amazon.com/images/I/81fyoVhWSTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WSJRMSD",
+        "title": "Chestnut\\/DPN2 - dark brown skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B07WSJRMSD",
+        "imageUrl": "https://m.media-amazon.com/images/I/81cdAxnU0xL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07WRDQ67Z",
+        "title": "Coffee\\/DPN4 - rich brown skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B07WRDQ67Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/81rUooNrzLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0077QL19Y",
+        "title": "Deep\\/DP6 - dark brown skin with pink undertones",
+        "url": "https://www.amazon.com/dp/B0077QL19Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/81rnGSWzRPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007A2Z4VQ",
+        "title": "Light\\/LN6 - light skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B007A2Z4VQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/81awa3HXXPL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 34,
+      "beforePrice": 34,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 15 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 16,
+    "primaryImage": "https://m.media-amazon.com/images/I/81awa3HXXPL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81awa3HXXPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Tph3BJ+yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61b1CKfftOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71V4xGNp8eL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71fw8sB9UtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+deMMSIcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71oGkukqQQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ryCOIM+4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61t5YGhe4UL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71hnRd-oMKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81SwD8ZjLEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uDdS8yMqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712s7q55mlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51ItC0m7vOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71usRdzDzCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613-iPoZRoL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e6d4f92d-2940-4d6d-85e9-16def04df8be.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae2e1ce4-f9e1-4294-be4b-8650a591c7d4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6306a5df-580f-4bd6-bd26-9d4b6322836d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f5f8603b-ecd7-4163-b51f-af069937b03b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/903781e5-6aaa-4139-b2a2-02813f437f81.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef09a26f-cf00-45a6-b855-1f44fb7c4811.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea885da0-847e-4b2d-8452-575d3c1fdcdf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40581430-5d50-47c1-bebd-a92fe729537a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77243655-82ad-44e3-922d-965f4968f76a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a1127da7-fa13-406b-827c-b9a2fdde5883.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ee983c3-bee1-4b8c-b4d3-f7d4a00c5044.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12af7f12-97d7-44ec-8ba4-e95365b3c8d9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/79836b53-a123-4c8e-b388-fac80f4caacb.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/79836b53-a123-4c8e-b388-fac80f4caacb.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f70f2c94-6884-4708-8abd-27b49462f9f9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0d1418ca-32cb-4c8e-af73-4be5ae634194.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Pressed"
+      },
+      {
+        "key": "Color",
+        "value": "Light/LN6 - light skin with neutral undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Box"
+      },
+      {
+        "key": "Brand Name",
+        "value": "P\u00dcR MINERALS"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Helps reduce the appearance of uneven skin tone, dark circles, redness, and wrinkles. Cruelty-free, paraben-free, vegan."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Cruelty Free"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00847137000738"
+      },
+      {
+        "key": "UPC",
+        "value": "847137049058 878147007813"
+      },
+      {
+        "key": "Model Number",
+        "value": "951225020"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "47007813"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Pur Minerals"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,103 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #26 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B007A2Z4VQ"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable, Lightweight, Long Lasting, Travel Size"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.14 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.75 x 2.75 x 0.75 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "7.9 Grams"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free, Gluten Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 11108,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "13%",
+        "threeStars": "8%",
+        "twoStars": "4%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers love this foundation powder for its buildable full coverage that matches skin tone well and provides a clean, makeup-free look. The product receives positive feedback for its smooth, lightweight texture that feels like nothing on the skin, and its excellent staying power that lasts all day without caking in certain areas. They appreciate its easy application with the chisel brush. The color receives mixed reviews, with some finding it matches their skin tone well while others note it's darker than expected.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 792,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 451,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 270,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 263,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 260,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 218,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 189,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 263,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71dRmD2wh2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/715McRhfxsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/710wJ5qaVsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/C10euS4lgzS._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71c8UJxEVCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61j-6jy2L2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BUrH9RjQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61LbqsECsmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ZvsquJO7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/711VZhF+YCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61MvaAwvEDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/B1zRPzHfbxS._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Like my skin but better",
+          "reviewText": "TLDR, this foundation provides a boost to your natural skin without that foundation feeling. Think your skin but better... less red and more even, zits are less noticable but not invisible, pores exist but aren't highlighted and are slightly \"blurred\" (Though I highly recommend reading the full review obviously) This review is to help you decide if it's right for you, I'm going to be honest and thorough because I find those reviews most helpful, even if that means sharing unflattering pics lol The pictures include one front facing camera, and the rest are rear facing WITH FLASH so you can see how it sits on skin texture, take. Roughly 4hrs after application. While no one wants to post unflattering pics of themselves, I think it's important to accurately portray how the product works. When looking at me in real life, it looks like the front facing camera shot, but as with any foundation it looks very different under bright unflattering light or when you examine it closely in a mirror. I thought it was important to include both. So onto the review. This is a lightweight, sheer coverage, buildable, powder foundation. Pros - lightweight, as in I literally can't feel it on my skin - buildable - doesn't cling to dry patches - doesn't highlight the large pores near my nose - can be used on it's own, as a setting powder, or even as a foundation with spot coverage using concealer or foundation for a more natural sheer look while still covering \"problem\" spots. - doesn't get that weird separation in oily areas that can happen with some foundations. - doesn't irritate my sensitive skin - long lasting, still look good at the end of the day - while it's not waterproof, you can go out in the rain or workout without it all coming off Cons (or at least things some might not like) - it's sheer, while buildable you'll never reach full coverage with just this powder. - it's pressed powder, many prefer loose powder as it's more finely milled. I will say this is verrrrry finely milled for a pressed powder though - the shade range isn't fantastic, though if you're pale you're in luck - it's somewhere between a matte and satin. While more \"dewy\" than most powders, it's still a powder foundation and won't give you that wet glass dewy look For reference, I don't use primer and I did not use foundation or concealer under it for more coverage. I am having a flare up with my skin (hormones, not a reaction to the powder) so I have a few zits and red patches, but I figured this was a good time to make the review so others with these problems can see what kind of coverage to expect. I ordered shade light porcelain as I'm very pale. It's a good match for me, other brands that match well for me for comparison.... Wet n wild photofocus in soft ivory, wet n wild cushion foundation in porcelain, hard candy glamoflauge in vanilla, and I believe I used porcelain in Maybelline fit me.",
+          "reviewDate": "Reviewed in the United States on April 8, 2023",
+          "customer": "TuxedoBowie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEYWYZLX7HAS4KJEPDMMATO3MDUQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "415 people found this helpful"
+        },
+        {
+          "reviewTitle": "Pur 4:1 makeup",
+          "reviewText": "I have used this product for years now and love the fact that now I can get it for less money and delivered. It is a fantastic product and does not give me the caked on makeup look. It\u2019s very natural looking and great coverage. Blends well with my skin tone. Color matches perfectly.",
+          "reviewDate": "Reviewed in the United States on January 23, 2026",
+          "customer": "geoff lee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXO2C3SGOXSDAJHUM34QQPCIBNA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Tan/TP4 - tan skin with pink undertones"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent foundation",
+          "reviewText": "I love this foundation! So light yet great coverage",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Kteacher19",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWX2NODZZSSCIOZNVDFN4AQGFCA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Ivory/LP5 - fair skin with pink undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Ended up loving it",
+          "reviewText": "For reference I ordered the color light, I am 31 years old, oily/combo skin, freckles and fair neutral skin. I have both pink and yellow tones in my skin. I took a wild guess ordering the color light and it blends well with my fair skin! I posted a few pictures, sorry the lighting isn\u2019t great but I figured it was better than nothing. My hands are a little red in the pictures because it\u2019s been cold outside. In the picture I am wearing one light layer of this foundation only. I am typically one of the fairest shades in most foundations sold. If you go to the PUR site they have a color matching tool both by matching from another foundation shade you have used (what I used) or also by a virtual try on. I also searched YouTube videos and googled pictures of the shade light to see if it would match. Now on to what I think about the actual foundation. When I first tried on the foundation I must say I wasn\u2019t overly impressed. Like I mentioned I have freckles and I am used to a more full coverage foundation. The coverage is pretty light (on initial try on) and I didn\u2019t think it was doing much at first. I\u2019m not used to powder foundation. I wanted to try a mineral foundation because I\u2019ve been having hormonal breakouts and I thought it may help. So I gave the foundation another few chances with a different more dense flat top foundation brush and also I put on two layers. I ended up really liking the coverage that way. I\u2019ve used it with and without foundation primer. I like it with the bare minerals primer. When comparing this to bare minerals I like them both. I feel like bare minerals has more coverage with one layer. With the PUR I have to build it up more for coverage, but I don\u2019t have an issue with that. In bare minerals I\u2019ve worn both the shades fairly light and golden fair. This PUR is way more convenient and less messy than bare minerals. It does really well with my oily/combo skin type. It looks natural and overall very flattering. With any powder foundation I have to make sure my peach fuzz on my face is removed. That\u2019s just me. I don\u2019t think powder foundation looks flattering on me with peach fuzz on my face. All it takes is a little nair, no big deal. I am a mom of toddlers and this powder foundation is fast and easy when you get the hang of it. I love the idea of mineral foundation. I have noticed my skin has gotten better since wearing it every day in comparison to heavy liquid foundation. If coverage is what you are after I would suggest a dense flat top foundation brush or beauty sponge. Real techniques makes a great powder foundation sponge that I love and it gives great coverage with this foundation. I never thought I would be converted to mineral powder foundation after using liquid for so long but I absolutely love it. It feels so light and nice on your skin in comparison to heavy liquid. It also looks natural. I would describe the finish as a natural semi-matte or stain finish. It\u2019s not overly matte and flat. It doesn\u2019t make my skin oily which is a big thing for me because I have an oily t-zone. The reason why I gave it 4 stars is because I feel like this foundation claims to have great coverage, but in actuality you have to build it up to get more full coverage. My favorite thing about this foundation is I can throw it in my bag if I\u2019m running late along with a powder brush and throw it on in the car really easily. This is essential for me as a busy mom! Most days I put this foundation on that way and hardly even look in the mirror at what I\u2019m doing. Lol!",
+          "reviewDate": "Reviewed in the United States on March 1, 2021",
+          "customer": "Lee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF7AERL5P4B4OIXF4JZJHIA5YKLA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Light/LN6 - light skin with neutral undertones"
+          },
+          "helpfulVotes": "349 people found this helpful"
+        },
+        {
+          "reviewTitle": "Beautiful and long lasting!",
+          "reviewText": "This powder foundation has an absolutely beautiful finish on the skin. It covers dark spots dark circles redness completely. I was surprised how much I love this product I've tried other powder foundations and not had the success with the coverage that this delivers. The shade range is a little tricky but I can honestly say this is my favorite powder foundation it's so soft on the skin it doesn't cake and it lasts all day. I definitely will buy again!",
+          "reviewDate": "Reviewed in the United States on January 26, 2026",
+          "customer": "Toni Michelle",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZYEWJ6GTKFZRTV6YHKANAIVLGA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Beige/MG5 - golden medium skin with golden undertones"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not a dupe for higher end brands but good",
+          "reviewText": "Good color payoff but I did purchase it hoping it would not settle oddly on my 43 year old skin and it didn't look great on me. That being said, all skin types are different. It didn't break me out and the color is nice. Not orangey at all.",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Amanda Campbell",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMXKRB2E5OQEXCUIDI7NS5B4TUQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Light/LN6 - light skin with neutral undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup",
+          "reviewText": "I\u2019ve been using this for years! It blends well with my skin and doesn\u2019t cause breakouts, it covers extremely well, I might touch it up once or twice throughout the day but it\u2019s been a perfect match for my skin! Honestly I think this does a better job at concealing than my actual concealer. It lasts forever too because it doesn\u2019t take much to work and it comes off easy at the end of the day.",
+          "reviewDate": "Reviewed in the United States on February 2, 2026",
+          "customer": "Jennifer Kay",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AELIL7TJUABG5DNBUKAQKUCHU2LA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Tan/TN6/ - tan olive skin with neutral undertones"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "I love this powder foundation",
+          "reviewText": "I love this powder foundation. I've tried many different types, liquid and powder. Nothing tops this one for me. This brushes on smoothly and evenly, gets great coverage and feels light and looks natural. I have olive skin, I use Tan. I highly recommend this.",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Laura",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHVSHH7FYJLVC5V67T5L2YF4R4AQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Tan/TN6/ - tan olive skin with neutral undertones"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best compressed foundation powder",
+          "reviewText": "Had read great reviews for this 4 in 1 compressed foundation cum concealer cum compact with spf.This compact is made of total organic and natural ingredients and it is safe for skin. This can b used by any skin types and gives good coverage light to medium. This can be just used as daily compact too because it does not make skin dry or flaky at all. This can hide mild pimples ,marks etc but wouldn\u2019t hide like other actual concealers. Also having spf means no need for sunscreen when applying this. The only thing lacking is not providing compact sponge to apply this product. Product bit expensive as imported but worth using if you are fan of natural products. Need to match shade well before purchasing to get good Matt look .",
+          "reviewDate": "Reviewed in India on January 6, 2019",
+          "customer": "Rashi",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Tan/TP4 - tan skin with pink undertones"
+          }
+        },
+        {
+          "reviewTitle": "Great for rosacea",
+          "reviewText": "Great colour filer pink fair skin",
+          "reviewDate": "Reviewed in Australia on June 11, 2021",
+          "customer": "Banana bender",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Porcelain"
+          }
+        },
+        {
+          "reviewTitle": "You only need a minimal amount",
+          "reviewText": "Love this Pur 4in1 powder, it goes on as powder dosent settle in any lines or wrinkles looks like foundation",
+          "reviewDate": "Reviewed in the United Kingdom on April 24, 2025",
+          "customer": "L Stock",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Blush Medium/MP3 - light blush medium skin with pink undertones"
+          }
+        },
+        {
+          "reviewTitle": "Great",
+          "reviewText": "Great",
+          "reviewDate": "Reviewed in the United Arab Emirates on May 9, 2021",
+          "customer": "Lolo",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Linen/MN3 - medium skin with neutral undertones"
+          }
+        }
+      ]
+    }
+  }
+}

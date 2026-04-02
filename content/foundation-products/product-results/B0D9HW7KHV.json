@@ -1,0 +1,409 @@
+{
+  "requestMetadata": {
+    "id": "04d24f72-759b-41f1-b61d-75d1adbce2cd",
+    "status": "ok",
+    "html": "https://files.hasdata.com/04d24f72-759b-41f1-b61d-75d1adbce2cd.html",
+    "json": "https://files.hasdata.com/04d24f72-759b-41f1-b61d-75d1adbce2cd.json",
+    "url": "https://www.amazon.com/dp/B0D9HW7KHV"
+  },
+  "product": {
+    "asin": "B0D9HW7KHV",
+    "url": "https://www.amazon.com/dp/B0D9HW7KHV",
+    "title": "No Makeup Makeup Foundation, Weightless Cream-Balm Formula Conceals, Corrects and Camouflages with Skin-Tone Adaptive Flexshade Technology, Buildable, Long-Lasting, Cruelty-Free, Vegan, Light Medium",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "04-Light Medium"
+    },
+    "featureBullets": [
+      "ABOUT THE PRODUCT: Discover The Original No Makeup Makeup Foundation - a weightless, buildable, cream-balm formula that corrects, conceals and camouflages with a natural, skin-first finish. Our skin-tone adaptive FlexShade Technology \u201cflexes\u201d to your skin\u2019s shade and undertones for a seamless match, enhancing your own natural complexion. Shade Light Medium is for light skin with more warmth and a slight peach or beige undertone. Use this shade if you normally wear Light Medium or Sand.",
+      "WHY YOU'LL LOVE IT: This unique 4-in-1 formula conceals, corrects, camouflages, and diffuses in a single-step, functioning as color-corrector, redness-corrector, concealer, and foundation in one. Designed for you to apply-and-go in seconds with built-in mistake-proof functionality.",
+      "HOW TO USE: Lightly sweep the surface of the foundation with our Perfect Foundation Brush. A little is all you need. Build coverage as needed by lightly dabbing your brush on the foundation and applying in light sweeping circles. You can also use the convenient application sponge located in the dual chamber to build more coverage or cover imperfections. Blend and buff in circular motions all over face for a flawless finish.",
+      "SKIN-LOVING INGREDIENTS: Formulated with Jojoba Oil and Vitamin E to help moisturize and nurture the skin. This multitasking foundation is clinically tested by dermatologists to ensure it\u2019s gentle and safe for even the most sensitive skin types. Cruelty-free, vegan, fragrance- and allergen-free, and formulated without harsh ingredients.",
+      "ABOUT US: No Makeup Makeup is built on a simple belief: Less is Best. We create tech-led beauty essentials that adapt to you\u2014your skin tone, your chemistry, your life. Powered by proprietary, skin-responsive innovations, our formulas flex & adjust for seamless, natural results that never look or feel like makeup. Every product is thoughtfully designed to do more with less, simplifying your routine while enhancing what\u2019s already yours. Effortless. Intelligent. Beauty that meets you where you are."
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0D9HX85CS",
+        "title": "13-Deep",
+        "url": "https://www.amazon.com/dp/B0D9HX85CS",
+        "imageUrl": "https://m.media-amazon.com/images/I/618X6y92YOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HWSMLZ",
+        "title": "12-Warm Deep",
+        "url": "https://www.amazon.com/dp/B0D9HWSMLZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LUsFgcWKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HX14LF",
+        "title": "11-Dark",
+        "url": "https://www.amazon.com/dp/B0D9HX14LF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zEwVxHY1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HZ3XBD",
+        "title": "03-Light",
+        "url": "https://www.amazon.com/dp/B0D9HZ3XBD",
+        "imageUrl": "https://m.media-amazon.com/images/I/614ajDl-sCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HWN785",
+        "title": "09-Golden Tan",
+        "url": "https://www.amazon.com/dp/B0D9HWN785",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TYL-5RxbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DK9WYLL8",
+        "title": "06-Natural",
+        "url": "https://www.amazon.com/dp/B0DK9WYLL8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61--eOLMahL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HWLSHG",
+        "title": "08-Tan",
+        "url": "https://www.amazon.com/dp/B0D9HWLSHG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UHNBjlzoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HVCCPG",
+        "title": "05-Medium",
+        "url": "https://www.amazon.com/dp/B0D9HVCCPG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OCX+zko3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HT3CWM",
+        "title": "10-Mocha",
+        "url": "https://www.amazon.com/dp/B0D9HT3CWM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GKMAwv0hL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HZGD9G",
+        "title": "02-Fair",
+        "url": "https://www.amazon.com/dp/B0D9HZGD9G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yP7ctHUHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HXBKFL",
+        "title": "07-Almond",
+        "url": "https://www.amazon.com/dp/B0D9HXBKFL",
+        "imageUrl": "https://m.media-amazon.com/images/I/617DZXUbNnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HT62MM",
+        "title": "01-Porcelain",
+        "url": "https://www.amazon.com/dp/B0D9HT62MM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fkiUPXa1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9HW7KHV",
+        "title": "04-Light Medium",
+        "url": "https://www.amazon.com/dp/B0D9HW7KHV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pTu-1qONL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 55,
+      "beforePrice": 55,
+      "discount": "-10%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "No Makeup Makeup",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1QB2BHXJDEJTH",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61pTu-1qONL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61pTu-1qONL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81t4P0i0MOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81IA8066h+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61wP2p5U7WL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Yo6jdQFkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ilZ02Ps1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81XRO5rDIOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/815ElIiJzAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Gq124xCOL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a26d94ce-c078-44d8-a1cb-4f614814a957.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6756b7e6-7d8c-4fa6-977f-33dd6ac5d511.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3122c88-51a2-466e-85e5-26cb264ea6e8.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fa15d124-82e2-42e0-acd8-61fe239ab230.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/958cf9c5-2281-44a5-9366-feb5751200a1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2c5b859b-d20c-4799-9cea-611e151befcb.__CR1,0,1620,1215_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d95d57da-aff1-4722-bb03-ed32f1a5c9ec.__CR1,0,1620,1215_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a16b638-0833-4330-9552-ae2eb5825b5b.__CR1,0,1620,1215_PT0_SX300_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a6e16c0d-25d4-4d8e-ad56-2e07a72ccf50.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "04-Light Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "No Makeup Makeup"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light-Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Fragrance Free, Gluten Free ounce Free"
+      },
+      {
+        "key": "UPC",
+        "value": "804467854592"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "No Makeup Makeup"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#10,851 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #114 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0D9HW7KHV"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Cruelty Free, Fragrance Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free, Gluten Free, Nut Free, Sulfate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 392,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "64%",
+        "fourStars": "9%",
+        "threeStars": "9%",
+        "twoStars": "6%",
+        "oneStars": "12%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage, particularly for dark spots, and appreciate its smooth application and natural, flawless finish. The product is lightweight and feels like skincare throughout the day, with a creamy texture that's not cakey. The color match receives mixed feedback - while some say it matches their complexion well, others find it hard to match to their skin tone. The blendability also gets mixed reviews, with some saying it blends well while others report it settles into lines.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 91,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 49,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 39,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 32,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 27,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 43,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 26,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71M0C4+nCBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71fu3U98WTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71e9Jk9j45L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/614w7gyxJEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CZ8GhDDEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61OEUbH15DL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71VHS3YCdTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61q+nq-nyJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51b5CnwNftL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610jOWGSfdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61HuaQZMyML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610EYtfLNaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "great foundation",
+          "reviewText": "Love this foundation! Goes on smoothly, is buildable if needed, and does not make wrinkles more noticeable. This is pricey but worth the money.",
+          "reviewDate": "Reviewed in the United States on March 1, 2026",
+          "customer": "MB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEYMFPCHWBW3S2RGV7BRH32XHYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "01-Porcelain"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Really nice, including for those of us with fine lines and/or rosacea",
+          "reviewText": "I really, really like this formulation. It's just the right amount of coverage. Not too dry, not too glowy, and isn't sticky or tacky. It seems to last the full day for me. I have a few fine lines and wrinkles, and a bit of rosacea, especially after a hot shower. Just a bit of foundation covers my red/ruddiness nicely, and I haven't noticed that the product settles in my fine lines. I originally purchased a color that didn't suit me very well, but NMM's customer service was very helpful, color-matched me, and was easy to work with. I've since decided I'd like to get a much, much darker shade (for my skintone) to use as a bronzer, plus a brush. My one regret is that I didn't get the brush. I thought \"We have brushes at home.\" but have come to regret that decision based on the social media marketing I'm seeing. I've barely made a dent in the product, but for my next purchase I'll include the brush.",
+          "reviewDate": "Reviewed in the United States on October 29, 2025",
+          "customer": "Cindy C",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG4YR7VHEXS3TN4BV7H4EI3Z7U3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03-Light"
+          },
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Feel so light on your face but covers so good!",
+          "reviewText": "It goes on so easy and feels so light on your face. The coverage is great! I will definitely order again!",
+          "reviewDate": "Reviewed in the United States on March 19, 2026",
+          "customer": "Vicki HIllman",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF4GKGYP2CNPGYPA44CX75KYVHYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "08-Tan"
+          }
+        },
+        {
+          "reviewTitle": "not looking like caked made up face.",
+          "reviewText": "This no makeup no matter how little i used with a brush caked and settled in lines by sides of mouth. My skin is good. This may not be for dry skin. I had to pay $7.99 to return and then looked up the reviews many not 5*. Beware before you purchase.",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Burt Johnson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVG5XYWV5KK6ALKWB6MC25JFYZA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "02-Fair"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "You HAVE to try this",
+          "reviewText": "I wear foundation every day\u2026. I have nice skin but it has a bit of discoloration over the years. I\u2019m 57 years old and work in a profession that really requires me to wear a full face of make up every day. I am always looking for foundation where I don\u2019t have to put a lot of it on, that doesn\u2019t look pancake like, that stays on all day, that is the perfect color for me and makes me feel like I\u2019m barely wearing anything so my skin can breathe. I was skeptical of this product, hadn\u2019t tried anything from this brand before and have always used liquid foundation. Boy WAS I SURPRISED! From the very first time I applied it I was quite literally blown away. Way less product is needed than my liquid foundations. Looks like I\u2019m not wearing anything but makes my skin look so even and smooth. Lasts all day long. I\u2019m seriously obsessed! I\u2019ve bought three more so I don\u2019t run out. I have used no other foundation since trying this one even though I have a ton of other foundations in my drawer. My go to color is \u201calmond\u201d. Its is the perfect shade for me. I have light to medium skin with a yellow u see tone vs a pink undertone. I\u2019ve never been so surprised by a foundation product before.",
+          "reviewDate": "Reviewed in the United States on May 26, 2025",
+          "customer": "Deb Tropp",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGNULVMXS7LRKABDDUL4IOK4HCIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "06-Natural"
+          },
+          "helpfulVotes": "41 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth makeup",
+          "reviewText": "It does a nice job covering up any dark spots",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "SandI",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJ34KGSHSINP2GRNPEETEVBBIJA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "05-Medium"
+          }
+        },
+        {
+          "reviewTitle": "Absolutely incredible!",
+          "reviewText": "Absolutely incredible! Love the moisturizing texture . Blended well with my skin tone . You wear as much as you want. It\u2019s very light weight .",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "CatherineF.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF3AT56J5IGGQQKDZ2SDVZULYCEQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "09-Golden Tan"
+          }
+        },
+        {
+          "reviewTitle": "The ease and quality of the makeup.",
+          "reviewText": "Very easy to apply with great coverage.",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Gayle Lebens",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH7MSCBC2PPCL2VOM33YK3TXAA5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04-Light Medium"
+          }
+        }
+      ]
+    }
+  }
+}

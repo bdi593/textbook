@@ -1,0 +1,442 @@
+{
+  "requestMetadata": {
+    "id": "28f54a0c-ecd1-4230-ac5f-3092668eec0e",
+    "status": "ok",
+    "html": "https://files.hasdata.com/28f54a0c-ecd1-4230-ac5f-3092668eec0e.html",
+    "json": "https://files.hasdata.com/28f54a0c-ecd1-4230-ac5f-3092668eec0e.json",
+    "url": "https://www.amazon.com/dp/B07D2ZHSLK"
+  },
+  "product": {
+    "asin": "B07D2ZHSLK",
+    "url": "https://www.amazon.com/dp/B07D2ZHSLK",
+    "title": "CLE Cosmetics CCC Cream (Warm Light 103 / SPF 50) - Color Correcting With Sunscreen - Lightweight, Hydrating Foundation - BB & CC Hybrid - Light to Medium Coverage - 1 fl oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "02 - Neutral Light 103"
+    },
+    "featureBullets": [
+      "PERFECT FOR THE MAKEUP MINIMALIST: CLE Cosmetics CCC (Color Control & Change) cream is a multi-functional face primer, lightweight makeup base, and hydrating cream foundation that does it all. A CC cream and BB cream hybrid, this single foundation cream is all you need to head out with confidence.",
+      "WHY PEOPLE LOVE CCC FOUNDATION CREAM: 1) Packed with the same skin-loving nutrients as BB and CC creams 2) Comes with the added benefit of a medium to full coverage that you can sheer out or build up 3) Always a satiny, flawless finish - no dry, cakey look 4) Lightweight texture makes it ultra-comfortable to wear 5) A suspension of color beads (Micro Capsules Technology) perfectly blends into your skin, offering fresh and light coverage.",
+      "3 DISTINCT FINISHES: 1) For a matte look, apply with buffing brush and top off with powder and/or matte setting spray. 2) For a gorgeous satin finish, apply with your fingers (the warmth from your fingers will bring out the pigment). If you like a more sheer coverage, mix a drop of skincare oil to the cream foundation. 3) For glass skin, use a damp makeup sponge. This creates a dewy finish that comes from true hydration and not just pearly pigments sitting on top of skin.",
+      "GREAT WAY TO SIMPLIFY YOUR BEAUTY ROUTINE: Since the CLE Cosmetics CCC Cream multi-tasks so well (acting as a primer, cream foundation, and even a sunscreen), it reduces the need for multiple makeup and beauty products. This not only makes beauty routines simpler on the go but also helps reduce waste that ends up in landfills.",
+      "MADE RESPONSIBLY: Our CCC Cream is cruelty-free, vegan, paraben-free, and doesn't contain any synthetic fragrances. Feel good about what you put on your skin."
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "CC Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B08M6G5GQD",
+        "title": "05 - Warm Medium Light 203",
+        "url": "https://www.amazon.com/dp/B08M6G5GQD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AFQ-CN8IL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C29QCYK2",
+        "title": "07 - Golden Medium 301",
+        "url": "https://www.amazon.com/dp/B0C29QCYK2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OX-vyOEJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2B2JZ77",
+        "title": "12 - Olive Medium Deep 406",
+        "url": "https://www.amazon.com/dp/B0C2B2JZ77",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FDQi+p46L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07D2ZVWGB",
+        "title": "13 - Warm Deep 501",
+        "url": "https://www.amazon.com/dp/B07D2ZVWGB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yUfrNy6aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0924CM568",
+        "title": "10 - Warm Medium Deep 401",
+        "url": "https://www.amazon.com/dp/B0924CM568",
+        "imageUrl": "https://m.media-amazon.com/images/I/61rC7PHCsLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08BG8GDZK",
+        "title": "11 - Golden Medium Deep 403",
+        "url": "https://www.amazon.com/dp/B08BG8GDZK",
+        "imageUrl": "https://m.media-amazon.com/images/I/619ajqMMDXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BBJDCY6R",
+        "title": "01 - Neutral Fair 101",
+        "url": "https://www.amazon.com/dp/B0BBJDCY6R",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tfpCF3O9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07D2XKCRM",
+        "title": "06 - Neutral Medium Light 206",
+        "url": "https://www.amazon.com/dp/B07D2XKCRM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Sou8OPM8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07D33X2WB",
+        "title": "04 - Neutral Medium Light 201",
+        "url": "https://www.amazon.com/dp/B07D33X2WB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AjI4siugL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08BG87V3X",
+        "title": "03 - Warm Light 106",
+        "url": "https://www.amazon.com/dp/B08BG87V3X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LxCiwjWhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0924L3C5Y",
+        "title": "08 - Warm Medium 303",
+        "url": "https://www.amazon.com/dp/B0924L3C5Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61SNTyLH+mL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2B3KNVL",
+        "title": "14 - Neutral Deep 503",
+        "url": "https://www.amazon.com/dp/B0C2B3KNVL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XcJVwKNDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08NQ11B1K",
+        "title": "09 - Cool Medium Deep 306",
+        "url": "https://www.amazon.com/dp/B08NQ11B1K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uedFbmuJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07D2ZHSLK",
+        "title": "02 - Neutral Light 103",
+        "url": "https://www.amazon.com/dp/B07D2ZHSLK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61y7z9yJo9L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 24.7,
+      "beforePrice": 38,
+      "discount": "-35%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 3 hrs 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "CLE Cosmetics",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1RB2FFUZZAJ76",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61y7z9yJo9L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61y7z9yJo9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PwPDQr7HL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81IhWeRHntL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/710r5kh7iWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71L4hAdO1zL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81tp9kOK1CL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71fmLIvS-UL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81aeOkN7ikL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71b4XSQHZ4L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3d70f492-e3c9-488a-b6ff-df3a089ef9e4.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6526af0-6af2-4f10-b036-5ee4e709785b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d2c7be67-3508-49cf-9802-91df8acd5ccf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/af04e33d-73a1-42c2-807e-5a6b576f41dc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a89fac17-8830-478e-b94f-cd994c5e8ca1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/64ec94e2-d6fa-4f66-bb46-bbcd9a942ec6.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3ba52c04-d067-4f75-aff6-0e56b62afe2d.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/170a8a12-462e-48ce-8186-631cc45077ac.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/170a8a12-462e-48ce-8186-631cc45077ac.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e3217492-3a91-4007-b236-2e52dbecb518.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4dc7641c-e59b-4f54-992b-7fa51b0cde7e.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "02 - Neutral Light 103"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "CLE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Lightweight, Hydrating, Moisturizing, Brightening, SPF-Coverage, Cruelty-Free"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Neutral Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Fragrance Free, Paraben Free ounce Free"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00190488000231"
+      },
+      {
+        "key": "UPC",
+        "value": "190488000231"
+      },
+      {
+        "key": "Model Number",
+        "value": "KWC31001CC"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "KWC31001CC"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "CLE Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#15,091 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #15 in CC Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07D2ZHSLK"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "All in one Primer (Foundation and Sun Protection), BB + CC Cream Combinded, Light to Medium Coverage Foundation, Stain + Dewy Finish"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light to Medium"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.00 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 476,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "69%",
+        "fourStars": "12%",
+        "threeStars": "10%",
+        "twoStars": "2%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers love this CC cream's coverage, which is buildable and provides nice even-toned coverage, while being lightweight and not heavy on the face. They appreciate its natural and dewy look, smooth texture, and how it feels on the skin, noting it doesn't break them out. The product receives positive feedback for its SPF protection, with one customer mentioning it provides both sunscreen and moisturizer benefits. The color match receives mixed reviews, with some customers finding it matches their skin well while others report it changes color when applied.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 48,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 25,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 25,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin feel",
+          "count": 17,
+          "status": "positive"
+        },
+        {
+          "aspect": "Spf",
+          "count": 17,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 31,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61aHUYumHEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/711jqYbHpwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CZWcsLyaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/715qKig5NnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Wzzv-lUKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Can't live without it",
+          "reviewText": "I've had trouble skin my entire life & even though I no longer have breakouts I bare the marks of a warrior. Its hard to feel your best when you feel like everyone is looking at your scars. I saw an esthetician friend post a before & after video using this product & thought it was too good to be true but I had to try it & the results were immediate. The formula is soothing to my now mid-30's skin & the coverage is exactly right for daily wear. It looks so natural - like the skin I always wish I woke up with. The product sinks into my skin & doesnt settle or crease. It also gives me a very subtle glow also which is nice. The scent is very mild & pleasing - it reminds me of coconut-y sunscreen? The coverage lasts most of the day and doesnt sweat off or transfer after setting. It took me a few trys to find my best shade but I found a shade for summer and a shade for winter. A little product goes a long way so 1 container lasts me 2 months of daily use. Try it you won't be sorry!",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Rachel",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE7CUMOPVHALVWJWFARWUYT3E3YQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05 - Warm Medium Light 203"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Fabulous multi product!",
+          "reviewText": "This CCC cream does wonders for my skin! I have rosacea and very sensitive skin, and this product does not irritate my skin. It actually improves my skin reducing red spots and healing allergic lesions. It provides sunscreen as well as moisturizer and imparts a lovely glow while functioning as foundation. The first tube I bought was too light and I returned it for a shade darker. be aware that it looks much lighter when squeezed out of the tube than once it is applied to your skin. At first it looks too light then it seems to change colors (you can see the flecks of pigment as it comes out of the tube) once it skins on your skin. Also, it starts out as a cream then transforms as it drys to look like a powder foundation with a glow. I prefer this to Avene sunscreen foundation which is too orange for my complexion. Give it a try if you want something that cuts out multiple steps since it is sunscreen, moisturizer, and makeup foundation in one product.",
+          "reviewDate": "Reviewed in the United States on January 28, 2026",
+          "customer": "Christina Bristol",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFURMXWR5YXBQK3VLO6VAGS5EBMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 - Neutral Medium Light 201"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love this!!",
+          "reviewText": "I love this product!! I have fair skin and have a hard time finding the right color. This cream is now my new daily foundation and sunscreen in one. It has good coverage and I never feel like it is caked on. You can build your coverage. On the weekends I use just a small amount and it looks like I am not wearing any makeup,only my face looks better and more even colored. LOVE IT! I wear warm Light 103.",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "MjKelleher",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF27TPGSMBBD6SLTL4YOJPVECOXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 - Neutral Light 103"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light coverage, feels like you\u2019re wearing nothing!",
+          "reviewText": "I am new to CC creams and have been an avid user of the Erborian Red Correct. I wanted to try this to find a better color match because Erborian doesn\u2019t have a lot of options. I am glad I found this! It\u2019s super lightweight and is more on the sheer coverage side. It blends like a dream. It\u2019s very shiny when you first apply it, but a few pats of a setting powder and it looks great. It also does not appear to settle into my fine lines under my eyes. The coverage starts to lessen about 6\u20137 hours in, and I don\u2019t know that it would hold up well in summertime. But I think the high SPF is well worth it! For reference, I am 31 and I have combination skin/a little bit of redness.",
+          "reviewDate": "Reviewed in the United States on December 17, 2021",
+          "customer": "Kristen Bachmeier",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQ7EBAKMW7RFXC6SIXS5IPFT4ZA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "02 - Neutral Light 103"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good",
+          "reviewText": "Good",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "Suzy Kim",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEGA7BMXXB6YOTJZJ2SCISUMWJSA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "02 - Neutral Light 103"
+          }
+        },
+        {
+          "reviewTitle": "Amazing product",
+          "reviewText": "This product is amazing! It matches perfectly, it has a beautiful finish, it does not get try and cake-y and it stays on throughout the day. Highly recommend.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Amazonkat",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEFECZVWQ4X64CK324EBIBWQ5RVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05 - Warm Medium Light 203"
+          }
+        },
+        {
+          "reviewTitle": "Weightless Invisible Coverage",
+          "reviewText": "Read a recommendation for this online and thought I\u2019d give it a try. The color match is excellent, smooths on well and feels weightless. I was initially concerned about coverage, but my skin looks like itself (just better) with this on. It is not a matte finish though - definitely requires some setting powder if you intend to use blush or eye makeup with it.",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGABRWVIZHNOAWUJUHYJJEDJCWHQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 - Neutral Medium Light 201"
+          }
+        },
+        {
+          "reviewTitle": "Zero coverage. Zero blurring. Chemical sunscreen.",
+          "reviewText": "The cream is white and changes color when you rub it over your face. The medium light is quite dark and had little to no coverage. It didn\u2019t even have any blurring effect if I wanted to use it just as a primer. In fact it was rather unflatteringly sallow. It has SpF 50, but the SPF is coming entirely from chemical sunscreens that will only work if it is absorbed by the skin. So, if you use a moisturizer first you will need to wait for that to be completely absorbed before you apply this. And if the moisturizer is intended to provide barrier support I doubt the sunscreen ingredients can be absorbed. In any case I only use zinc and/or titanium dioxide sunscreens because I don\u2019t like the idea of my skin absorbing chemical sunscreens (when I don\u2019t need to), and because in my opinion the only way for chemical sunscreens to work is to apply it to bare dry skin and let it absorb. This is why the directions for chemical sunscreens usually say to wait a certain amount of time before sun exposure.",
+          "reviewDate": "Reviewed in the United States on August 6, 2025",
+          "customer": "RYW",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFQTTP3H2PUKZS72H5XJRDKNW7RA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "03 - Warm Light 106"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Keep your skin fresh",
+          "reviewText": "CC cream is best for skin",
+          "reviewDate": "Reviewed in the United Arab Emirates on February 10, 2026",
+          "customer": "Dodaroy Abdunazarova",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 - Warm Light 106"
+          }
+        }
+      ]
+    }
+  }
+}

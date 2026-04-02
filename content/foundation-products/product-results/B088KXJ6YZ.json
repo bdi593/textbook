@@ -1,0 +1,450 @@
+{
+  "requestMetadata": {
+    "id": "65d1c212-afcb-4bf5-833c-64687f59d438",
+    "status": "ok",
+    "html": "https://files.hasdata.com/65d1c212-afcb-4bf5-833c-64687f59d438.html",
+    "json": "https://files.hasdata.com/65d1c212-afcb-4bf5-833c-64687f59d438.json",
+    "url": "https://www.amazon.com/dp/B088KXJ6YZ"
+  },
+  "product": {
+    "asin": "B088KXJ6YZ",
+    "url": "https://www.amazon.com/dp/B088KXJ6YZ",
+    "title": "Lanc\u00f4me Renergie Lift Makeup Foundation - Lightweight & Hydrating Formula, Medium-Full Coverage, SPF 27, Anti-Aging, Lifting & Firming, Up to 12H Wear",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "310 Clair 30: tan skin tones with cool pink undertones"
+    },
+    "featureBullets": [
+      "RADIANT MEDIUM COVERAGE: Lightweight foundation glides on smoothly, evens skin tone and texture, and provides a luminous finish.",
+      "ANTI-AGING BENEFITS: Hydrates, firms, and visibly lifts skin for up to 12 hours with skin-loving ingredients like Caffeine, Vitamin E, and Iris extract.",
+      "SPF 27 PROTECTION: Broad-spectrum UVA/UVB defense to protect skin against premature aging caused by sun exposure.",
+      "SUITABLE FOR ALL SKIN TYPES: Dermatologist-tested formula for dry, oily, combination, and sensitive skin, ideal for mature skin.",
+      "LONGWEAR & TRANSFER-RESISTANT: Up to 12-hour wear that doesn\u2019t cake, crease, or transfer, color stays true throughout the day."
+    ],
+    "boughtInPastMonth": "700+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00KY165IQ",
+        "title": "260 Bisque N: medium-tan skin tones with neutral undertones",
+        "url": "https://www.amazon.com/dp/B00KY165IQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hUV8p4auL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00KY15Z7I",
+        "title": "210 Buff N: light-medium skin tones with neutral undertones",
+        "url": "https://www.amazon.com/dp/B00KY15Z7I",
+        "imageUrl": "https://m.media-amazon.com/images/I/61moRG-7WiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHLBSPBZ",
+        "title": "500 Suede W: deepest skin tones with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B0BHLBSPBZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61o-dlo+UUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHL7MPY7",
+        "title": "220 Buff C: light-medium skin tones with cool pink undertones",
+        "url": "https://www.amazon.com/dp/B0BHL7MPY7",
+        "imageUrl": "https://m.media-amazon.com/images/I/51jqK1iiDaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08VJC5S6M",
+        "title": "095 Ivoire W: fairest skin tones with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B08VJC5S6M",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Xn-UJ+k8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FRD26MV",
+        "title": "420 Bisque N: deep skin tones with neutral undertones",
+        "url": "https://www.amazon.com/dp/B07FRD26MV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61B+eHvk+yL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0727WDW3W",
+        "title": "240 Clair 10 C: medium skin tones with cool pink undertones",
+        "url": "https://www.amazon.com/dp/B0727WDW3W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Kj6w1tC4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B071WY1MG9",
+        "title": "360 Dore 20 W: dark tan skin tones with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B071WY1MG9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pc91HLqrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0721CM226",
+        "title": "430 Dore 30 W: deep skin tones with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B0721CM226",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XBumAZ7UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00KY15WZI",
+        "title": "160 Ivoire W: light-medium skin tones with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B00KY15WZI",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zK0vKI-kL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00KY163NS",
+        "title": "250 Bisque W: medium skin tones with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B00KY163NS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vtYvf2ueL._SL1500_.jpg"
+      },
+      {
+        "asin": "B088KXJ6YZ",
+        "title": "310 Clair 30: tan skin tones with cool pink undertones",
+        "url": "https://www.amazon.com/dp/B088KXJ6YZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61S-a+MtoEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B072P6NVHG",
+        "title": "255 Clair 20 N: medium skin tones with neutral undertones",
+        "url": "https://www.amazon.com/dp/B072P6NVHG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61KX7cRW0eL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00KY16856",
+        "title": "330 Bisque N: tan skin tones with neutral undertones",
+        "url": "https://www.amazon.com/dp/B00KY16856",
+        "imageUrl": "https://m.media-amazon.com/images/I/61i2YdxvH4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00KY15O8I",
+        "title": "110 Ivoire C: fair skin tones with cool pink undertones",
+        "url": "https://www.amazon.com/dp/B00KY15O8I",
+        "imageUrl": "https://m.media-amazon.com/images/I/61q6-HO7u9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TWHPYQP",
+        "title": "140 Porcelaine 20 C: light skin tones with cool pink undertones",
+        "url": "https://www.amazon.com/dp/B08TWHPYQP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AIgBGpieL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0711N4T8G",
+        "title": "350 Dore 10 NW: dark tan skin tones with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0711N4T8G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61MJvpjuxGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHLDMS3Y",
+        "title": "550 Suede C: deepest skin tones with pink undertones",
+        "url": "https://www.amazon.com/dp/B0BHLDMS3Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61oQNtvBCqL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 53.55,
+      "beforePrice": 63,
+      "discount": "-15%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 4 hrs 50 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Lanc\u00f4me",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A34EYZSYIJGMW5",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61S-a+MtoEL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61S-a+MtoEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91BpI6y8ENL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91d8nq3UCqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/817-af9OriL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ArEiKoqEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GPRnpUOwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91IO8v2wnqL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b595b95-84a1-4bf8-9979-e2ad99499fb9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/60a5ef42-b489-49d5-8221-b7614ceb91ae.__CR111,0,1778,2000_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7fbce5ed-2505-4021-a2d7-1c23bc97e7ce.__CR139,0,2222,2500_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be79a81d-009d-4e18-a4a3-9742e66b15d7.__CR139,0,2222,2500_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b1fd8d13-6934-4ae6-8f54-604944f8e326.__CR139,0,2222,2500_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad37d27f-d21f-45fe-98ef-8b80bbfa5d83.__CR139,0,2222,2500_PT0_SX200_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7fa25d9e-41c9-4a9c-bfd8-dc925f98a96a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f32d7c78-00dc-4aa6-9c93-669c67e047d7.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9e5632fd-f69e-4b79-828a-f570f090bf75.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "310 Clair 30: tan skin tones with cool pink undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Dry,Normal"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Lanc\u00f4me"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Radiant finish, SPF 27, up to 12 hours of wear, minimizes wrinkles, and non-comedogenic."
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Paraben Free"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "40SD05"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Lanc\u00f4me"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#6,641 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #76 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B088KXJ6YZ"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "27 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Paraben Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Luminous"
+      },
+      {
+        "key": "Coverage",
+        "value": "full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.5 x 1.4 x 5.2 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2148,
+      "rating": 4.7,
+      "starRates": {
+        "fiveStars": "85%",
+        "fourStars": "10%",
+        "threeStars": "3%",
+        "twoStars": "1%",
+        "oneStars": "1%"
+      },
+      "customersSay": "Customers find this foundation to be excellent, with good coverage that can be layered as needed, and they appreciate how it moisturizes skin all day while keeping it looking radiant. The product blends flawlessly into the skin and creates a natural, dewy appearance, while being lightweight and lasting all day. While some customers consider it worth the price, others feel it's not worth the cost.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 101,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 79,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin coverage",
+          "count": 57,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 46,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 42,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 36,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 35,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 35,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71tlpt5t4jL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zUvPxHzcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71FNdKkrWjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71coqnG4l8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61bpZEfpNBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41tcupA3EXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81V-rD+WdLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71JPuBunKSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bBXHCeHKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ykdnhrUyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/619Hyo751PL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61a8Ntb-gLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Good choice for mature skin.",
+          "reviewText": "I have been using Lancome's Tient Idole for many years. But my skin is more \"mature\" and I find that foundation too heavy now. I found this formula looking for good options for mature skin and I love it. It does a good job of providing enough coverage without looking or feeling heavy. It doesn't settle into my wrinkles or accentuate my crow's feet like some other foundations do. It has good lasting power considering my skin still tends to be oily. It does transfer when rubbed with fabric (shirt or jacket collar) but with my skin type I have never found a foundation that doesn't. By the end of the day I have a bit of shine (again, I am quite oily) but some blotting papers does the trick of fixing that. The color is a good match for my skin tone and doesn't look like I'm wearing a mask. It is quite natural while also looking \"put together\". Glad I found something that works for me. Highly recommend.",
+          "reviewDate": "Reviewed in the United States on February 23, 2026",
+          "customer": "Mom of 2 debt makers",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQF4AODDUKAYGUIM43FUNCWMJQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "110 Ivoire C"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love at First Swipe!",
+          "reviewText": "\u2019ve been using Lanc\u00f4me\u2019s face makeup for a few weeks now, and I\u2019m honestly impressed. The coverage is flawless without feeling heavy, and it blends like a dream\u2014perfect for those busy mornings when you want to look put-together in minutes. My skin feels soft and hydrated all day, and it doesn\u2019t cake or settle into fine lines. What I love most is how natural it looks in photos and in real life\u2014definitely a step up from drugstore brands. It\u2019s a little of an investment, but totally worth it if you want that smooth, radiant finish that lasts. Tip: Pair it with a good primer and setting spray, and it will stay fresh all day\u2014even through a busy day chasing kids or running errands!",
+          "reviewDate": "Reviewed in the United States on November 18, 2025",
+          "customer": "Nicole",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFBVJQYTXJADJKEFRLDPH5SWQ4SA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "255 Clair 20 N"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup for my aging skin.",
+          "reviewText": "Great product. It doesn\u2019t settle in my wrinkles. Covers well. I have dry skin. It blends well. Matched my skin good! It\u2019s smooth, not thick and sticky.",
+          "reviewDate": "Reviewed in the United States on December 9, 2025",
+          "customer": "BJ",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHAW5KCUQAJFJ25WOI74BKJ5L6DQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "210 Buff N"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great foundation.",
+          "reviewText": "Best foundation I have ever used. It\u2019s lightweight and blends in so well. Love that it has added sunscreen protection too. It\u2019s pricey, but you need just a little and my old bottle lasted almost 9 months.",
+          "reviewDate": "Reviewed in the United States on December 15, 2025",
+          "customer": "Cheryl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWJ6QJX5HUCEN5OYLR2ZHQHDVSQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "140 Porcelaine 20 C"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great product with poor dispenser",
+          "reviewText": "I love the product. It is not a total coverage foundation but it definitely blends for a natural look. However, I absolutely hate the dispensing system. I have used over a half dozen of these bottles and the pump system quits working when they are only partially empty. I can continue to use the product for weeks afterward, but it becomes really messy as it involves opening it up and using the pump tube as a dip stick or removing it totally and shaking the makeup out of the bottle! Perhaps a tube would work better.",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Valerie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHOFOKZR7FBEDDHHNIIMVU4J737A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "310 Clair 30"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Naturally looking coverage with smooth, breathable effect.",
+          "reviewText": "This is the best foundation I have ever used. All other brands I have used have been not even close to this one: they either have not enough cover or gave opposite effect- being too thick and dry for my skin. Lancome Renergie provides smooth light breathe able effect, simultaneously cover all imperfections on my skin. I like it! Another coins: I glad to see expiration date on the bottle and on the box. My skin is not very light, but it not dark either, so the best color for me for all seasons is 240 Claire C. Next time I probably would try 255 N for summertime. It my third bottle so far and I will buy it again.",
+          "reviewDate": "Reviewed in the United States on October 7, 2025",
+          "customer": "Anna",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHEQETXXUAOF3HY7KUWIUPJQA5ZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "240 Clair 10 C"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Worth every penny!",
+          "reviewText": "I have used for years and it is so good I can\u2019t imagine ever changing brands. The amount of coverage is great! so use a very small amount. I like that I am applying sun protection at the same time I am covering decades of damage . Color match is perfect.",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Diane Gutman",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHTKU57AJDKKOYYSYEQ4R4OF7V4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "310 Clair 30"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Good foundation",
+          "reviewText": "Used this for years. Good coverage. Many colors to choose. Sunscreen. Easy to apply.",
+          "reviewDate": "Reviewed in the United States on December 27, 2025",
+          "customer": "Mary Janssen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE56QIALPRCDBMF7YMEA3QOOHQJA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "360 Dore 20 W"
+          }
+        }
+      ]
+    }
+  }
+}

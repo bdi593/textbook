@@ -1,0 +1,1073 @@
+{
+  "requestMetadata": {
+    "id": "9e2855ce-3e23-481d-8d57-e0f2e80b60fc",
+    "status": "ok",
+    "html": "https://files.hasdata.com/9e2855ce-3e23-481d-8d57-e0f2e80b60fc.html",
+    "json": "https://files.hasdata.com/9e2855ce-3e23-481d-8d57-e0f2e80b60fc.json",
+    "url": "https://www.amazon.com/dp/B01LWXK4KH"
+  },
+  "product": {
+    "asin": "B01LWXK4KH",
+    "url": "https://www.amazon.com/dp/B01LWXK4KH",
+    "title": "Est\u00e9e Lauder Double Wear Stay-in-Place Foundation Makeup | Long-Wear Matte Foundation, 1 Fl Oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "configuration": "Original Formula",
+      "color": "2N1 Desert Beige - Light-medium with neutral undertones"
+    },
+    "featureBullets": [
+      "ORIGINAL FORMULA: Available while supplies last. Discover the new flawless with NEW Double Wear",
+      "ALL-DAY STAYING POWER: 24-hour wear. Sweat-, heat- and humidity-resistant. Lifeproof, waterproof foundation. Oil-free. Controls oil all day. 24-hour color true. Plus, it strengthens skin's barrier",
+      "FRESH, MATTE FINISH: Buildable medium-to-full coverage foundation. Feels lightweight and so comfortable, you won't believe it's long wear",
+      "OVER 55 SHADES: A wide range of shades that flatters all. Unifies uneven skintone and covers imperfections. Won't look grey on deeper skintones",
+      "DERMATOLOGIST-TESTED: Oil-free, non-acnegenic. Won\u2019t clog pores or cause breakouts. Ideal for normal to oily skin. Free of synthetic fragrances, gluten, parabens, phthalates, sulfites, drying alcohols, mineral oil-and animal-derived ingredients"
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00GW6UPSI",
+        "title": "Original Formula 5C1 Rich Chestnut - Deep with cool subtle red undertones",
+        "url": "https://www.amazon.com/dp/B00GW6UPSI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71yEPnW+gWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPBHXT7",
+        "title": "Original Formula 4C1 Outdoor Beige - Medium tan with cool rosy undertones",
+        "url": "https://www.amazon.com/dp/B07FPBHXT7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gnqDM0WBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPTSD85",
+        "title": "Original Formula 0N1 Alabaster - Lightest with neutral undertones",
+        "url": "https://www.amazon.com/dp/B07FPTSD85",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OPAUtx91L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPKB3X6",
+        "title": "Original Formula 2C4 Ivory Rose - Light-medium with cool rosy undertones",
+        "url": "https://www.amazon.com/dp/B07FPKB3X6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xYN-s+8rL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCZFD61",
+        "title": "New Formula 1N0 Porcelain - Very light with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FWCZFD61",
+        "imageUrl": "https://m.media-amazon.com/images/I/61T44tJ8JqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD4Q12H",
+        "title": "New Formula 3N1 Ivory Beige - Medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FWD4Q12H",
+        "imageUrl": "https://m.media-amazon.com/images/I/61K6O1-LDIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00B71EVB0",
+        "title": "Original Formula 2W1 Dawn - Light-medium with warm peach undertones",
+        "url": "https://www.amazon.com/dp/B00B71EVB0",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LFZPIDQSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD2DPH5",
+        "title": "New Formula 2N2 Buff - Light-medium with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B0FWD2DPH5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wONFl3w2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01LXWSR9Y",
+        "title": "Original Formula 2W0 Warm Vanilla - Light-medium with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B01LXWSR9Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/6137yAaFEgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD6BDNT",
+        "title": "New Formula 4N1 Shell Beige - Medium tan with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FWD6BDNT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DxlUqICxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD6WP4G",
+        "title": "New Formula 4W1 Honey Bronze - Medium tan with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B0FWD6WP4G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WMsSZf2QL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000WIGSKQ",
+        "title": "Original Formula 5N1 Rich Ginger - Deep with neutral undertones",
+        "url": "https://www.amazon.com/dp/B000WIGSKQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Zo2npdd3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00CRRJBCM",
+        "title": "Original Formula 4C3 Softan - Medium tan with cool rosy-beige undertones",
+        "url": "https://www.amazon.com/dp/B00CRRJBCM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qAKqfl6lL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD44JRX",
+        "title": "New Formula 3W1.5 Fawn - Medium with warm golden-olive undertones",
+        "url": "https://www.amazon.com/dp/B0FWD44JRX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61cNQuO3BWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCYZZDY",
+        "title": "New Formula 9N1 Ebony - Deepest with rich neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FWCYZZDY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61nuUEJYQHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCX4GVJ",
+        "title": "New Formula 1W0 Warm Porcelain - Very light with warm peach undertones",
+        "url": "https://www.amazon.com/dp/B0FWCX4GVJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61STey4dR9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPLG73S",
+        "title": "Original Formula 3C3 Sandbar - Medium with cool rosy-beige undertones",
+        "url": "https://www.amazon.com/dp/B07FPLG73S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LV9hmthsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD4HS7Z",
+        "title": "New Formula 2C3 Fresco - Light-medium with cool rosy beige undertones",
+        "url": "https://www.amazon.com/dp/B0FWD4HS7Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yE0+pVhRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00B1YX21S",
+        "title": "Original Formula 4N1 Shell Beige - Medium tan with neutral undertones",
+        "url": "https://www.amazon.com/dp/B00B1YX21S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TsfHIUhXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07982B41V",
+        "title": "Original Formula 2N2 Buff - Light-medium with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B07982B41V",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VRiqvoGWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GW6TQQA",
+        "title": "Original Formula 1N2 Ecru - Light with neutral rosy undertones",
+        "url": "https://www.amazon.com/dp/B00GW6TQQA",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JW6Rrlp2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPJX8C8",
+        "title": "Original Formula 4N3 Maple Sugar - Medium tan with neutral red undertones",
+        "url": "https://www.amazon.com/dp/B07FPJX8C8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x3AZ9m+aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPL54PQ",
+        "title": "Original Formula 1W0 Warm Porcelain - Very light with warm peach undertones",
+        "url": "https://www.amazon.com/dp/B07FPL54PQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EKXzbP9nL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCXGW22",
+        "title": "New Formula 5N1 Rich Ginger - Deep with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FWCXGW22",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tgTvhdcFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD5643Q",
+        "title": "New Formula 5W2 Rich Caramel - Deep with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B0FWD5643Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mJ4LeRfzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD5DSGQ",
+        "title": "New Formula 7N1 Deep Amber - Extra deep with neutral brown undertones",
+        "url": "https://www.amazon.com/dp/B0FWD5DSGQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Y4J1p-gBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD2DPH9",
+        "title": "New Formula 0N1 Alabaster - Lightest with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FWD2DPH9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TqobaGVzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPNQJMT",
+        "title": "Original Formula 4W4 Hazel - Medium tan with warm golden-olive undertones",
+        "url": "https://www.amazon.com/dp/B07FPNQJMT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61J+09nfy5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPDR729",
+        "title": "Original Formula 4C2 Auburn - Medium tan with cool red undertones",
+        "url": "https://www.amazon.com/dp/B07FPDR729",
+        "imageUrl": "https://m.media-amazon.com/images/I/61aGQXVPwiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD2Z6JP",
+        "title": "New Formula 4W3 Henna - Medium tan with warm red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD2Z6JP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WCdQkzRzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPPBR36",
+        "title": "Original Formula 8C1 Rich Java - Deepest with cool brown undertones",
+        "url": "https://www.amazon.com/dp/B07FPPBR36",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Zpa-NFGOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD1HS6S",
+        "title": "New Formula 3C1 Dusk - Medium with cool rosy-peach undertones",
+        "url": "https://www.amazon.com/dp/B0FWD1HS6S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qqHMAge5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD2996S",
+        "title": "New Formula 7C2 Sienna - Extra deep with cool rich-red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD2996S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61O0rtz7unL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01LZV2UOJ",
+        "title": "Original Formula 2W2 Rattan - Light-medium with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B01LZV2UOJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61j-9--YriL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00B71MWXO",
+        "title": "Original Formula 4W1 Honey Bronze - Medium tan with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B00B71MWXO",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QCz7a+E3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01G5ZR1U0",
+        "title": "Original Formula 8N1 Espresso - Deepest with neutral rich-brown undertones",
+        "url": "https://www.amazon.com/dp/B01G5ZR1U0",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ATsCxIS1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD5QVGT",
+        "title": "New Formula 1W2 Sand - Light with warm subtle olive undertones",
+        "url": "https://www.amazon.com/dp/B0FWD5QVGT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BL4RwjbzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD5B2HS",
+        "title": "New Formula 4W4 Hazel - Medium tan with warm golden-olive undertones",
+        "url": "https://www.amazon.com/dp/B0FWD5B2HS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fv8RdttOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPS6K1T",
+        "title": "Original Formula 7C2 Sienna - Extra deep with cool rich-red undertones",
+        "url": "https://www.amazon.com/dp/B07FPS6K1T",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Uc3w7HqnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GW6U6TQ",
+        "title": "Original Formula 1W2 Sand - Light with warm subtle olive undertones",
+        "url": "https://www.amazon.com/dp/B00GW6U6TQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61f2Lo8HUoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01GIA01CC",
+        "title": "Original Formula 2C0 Cool Vanilla - Light-medium with cool pink undertones",
+        "url": "https://www.amazon.com/dp/B01GIA01CC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xear99PoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPK9QZR",
+        "title": "Original Formula 9N1 Ebony - Deepest with rich neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPK9QZR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eTAyqW67L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00B71ONHM",
+        "title": "Original Formula 4W2 Toasty Toffee - Medium tan with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B00B71ONHM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71uppr-WZKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD65T74",
+        "title": "New Formula 2W1 Dawn - Light-medium with warm peach undertones",
+        "url": "https://www.amazon.com/dp/B0FWD65T74",
+        "imageUrl": "https://m.media-amazon.com/images/I/619f+hVslqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD3XG33",
+        "title": "New Formula 5W1 Bronze - Deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B0FWD3XG33",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uKq7Ho9lL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD6LHV5",
+        "title": "New Formula 8C1 Rich Java - Deepest with cool brown undertones",
+        "url": "https://www.amazon.com/dp/B0FWD6LHV5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tZ0QV2ChL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD4R3SD",
+        "title": "New Formula 1C0 Shell - Very light with cool pink undertones",
+        "url": "https://www.amazon.com/dp/B0FWD4R3SD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IzQCvEVTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD5CHJ5",
+        "title": "New Formula 1N2 Ecru - Light with neutral rosy undertones",
+        "url": "https://www.amazon.com/dp/B0FWD5CHJ5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lQ1v8Ay3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD1J2CM",
+        "title": "New Formula 5W1.5 Cinnamon - Deep with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B0FWD1J2CM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Q8m0h7NML._SL1500_.jpg"
+      },
+      {
+        "asin": "B00B71RQ94",
+        "title": "Original Formula 5W2 Rich Caramel - Deep with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B00B71RQ94",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ftYlIQMeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD1CDX9",
+        "title": "New Formula 5C1 Rich Chestnut - Deep with cool subtle red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD1CDX9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iTaMmObDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GW70N9I",
+        "title": "Original Formula 6W1 Sandalwood - Very deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B00GW70N9I",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OfaRQeSGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FP8VCG2",
+        "title": "Original Formula 1N0 Porcelain - Very light with neutral undertones",
+        "url": "https://www.amazon.com/dp/B07FP8VCG2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61MbZ07F8mL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01G5ZGFJ8",
+        "title": "Original Formula 6C2 Pecan - Very deep with cool red undertones",
+        "url": "https://www.amazon.com/dp/B01G5ZGFJ8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fbzn6siBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01C5K4KL2",
+        "title": "Original Formula 5N2 Amber Honey - Deep with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B01C5K4KL2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61q0FjCdizL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00CBXX4EI",
+        "title": "Original Formula 1W1 Bone - Light with warm undertones",
+        "url": "https://www.amazon.com/dp/B00CBXX4EI",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mIuEtxqgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GW7KUBY",
+        "title": "Original Formula 3C2 Pebble - Medium with cool rosy undertones",
+        "url": "https://www.amazon.com/dp/B00GW7KUBY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FaQec1CXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GW6VBJ0",
+        "title": "Original Formula 4N2 Spiced Sand - Medium tan with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B00GW6VBJ0",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qly3gczjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD7ML9C",
+        "title": "New Formula 1C1 Cool Bone - Light with cool rosy-peach undertones",
+        "url": "https://www.amazon.com/dp/B0FWD7ML9C",
+        "imageUrl": "https://m.media-amazon.com/images/I/610Hrtc8JiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01M1HLPGB",
+        "title": "Original Formula 2C1 Pure Beige - Light-medium with cool pink-peach undertones",
+        "url": "https://www.amazon.com/dp/B01M1HLPGB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LCCH-jTaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCXHCHN",
+        "title": "New Formula 2C1 Pure Beige - Light-medium with cool pink-peach undertones",
+        "url": "https://www.amazon.com/dp/B0FWCXHCHN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UtZAwKv8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07982HM11",
+        "title": "Original Formula 5W1.5 Cinnamon - Deep with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B07982HM11",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vckDuIa0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD3HKGZ",
+        "title": "New Formula 2C0 Cool Vanilla - Light-medium with cool pink undertones",
+        "url": "https://www.amazon.com/dp/B0FWD3HKGZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hqZzxyENL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GW6U4B6",
+        "title": "Original Formula 3C1 Dusk - Medium with cool rosy-peach undertones",
+        "url": "https://www.amazon.com/dp/B00GW6U4B6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BcQBodVlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD5H7FX",
+        "title": "New Formula 6N1 Mocha - Very deep with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FWD5H7FX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61o3ATcU+4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCZCP7W",
+        "title": "New Formula 6W2 Nutmeg - Very deep with warm brown undertones",
+        "url": "https://www.amazon.com/dp/B0FWCZCP7W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61rjXQVCKgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01LWXK4KH",
+        "title": "Original Formula 2N1 Desert Beige - Light-medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B01LWXK4KH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61g94sq7WLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00A6G8YEM",
+        "title": "Original Formula 3W1 Tawny - Medium with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B00A6G8YEM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zK8sUbDuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01G5ZNTVA",
+        "title": "Original Formula 7C1 Rich Mahogany - Extra deep with cool red undertones",
+        "url": "https://www.amazon.com/dp/B01G5ZNTVA",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XC8rVLuvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD5FPNH",
+        "title": "New Formula 1N1 Ivory Nude - Light with neutral peach undertones",
+        "url": "https://www.amazon.com/dp/B0FWD5FPNH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Q1MVizZ2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD2TQJJ",
+        "title": "New Formula 6C2 Pecan - Very deep with cool red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD2TQJJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tHWSjswtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD6QJPY",
+        "title": "New Formula 3C2 Pebble - Medium with cool rosy undertones",
+        "url": "https://www.amazon.com/dp/B0FWD6QJPY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BjiJxllcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD4Q3WC",
+        "title": "New Formula 6C1 Rich Cocoa - Very deep with cool subtle red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD4Q3WC",
+        "imageUrl": "https://m.media-amazon.com/images/I/610cbuGrg5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD8X7TW",
+        "title": "New Formula 8N1 Espresso - Deepest with neutral rich-brown undertones",
+        "url": "https://www.amazon.com/dp/B0FWD8X7TW",
+        "imageUrl": "https://m.media-amazon.com/images/I/618U6+xcKyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0797ZS3FW",
+        "title": "Original Formula 3W1.5 Fawn - Medium with warm golden-olive undertones",
+        "url": "https://www.amazon.com/dp/B0797ZS3FW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xcpEp9btL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD1JTY9",
+        "title": "New Formula 4N3 Maple Sugar - Medium tan with neutral red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD1JTY9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gW53g1wFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCXJMW5",
+        "title": "New Formula 2W2 Rattan - Light-medium with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B0FWCXJMW5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Dasi8-rUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCY3CJ6",
+        "title": "New Formula 3W1 Tawny - Medium with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B0FWCY3CJ6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61I+XSPpjFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD3XGFC",
+        "title": "New Formula 4C3 Softan - Medium tan with cool rosy-beige undertones",
+        "url": "https://www.amazon.com/dp/B0FWD3XGFC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lHMMXD7pL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD7TY6F",
+        "title": "New Formula 2N1 Desert Beige - Light-medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FWD7TY6F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Vz6WXgjdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPHMXJ9",
+        "title": "Original Formula 5C2 Sepia - Deep with cool red undertones",
+        "url": "https://www.amazon.com/dp/B07FPHMXJ9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gbMzGiQEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GW6V8M0",
+        "title": "Original Formula 3W2 Cashew - Medium with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B00GW6V8M0",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WoVZb7MoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00A6GDR8A",
+        "title": "Original Formula 3N1 Ivory Beige - Medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B00A6GDR8A",
+        "imageUrl": "https://m.media-amazon.com/images/I/61c6k-HutzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD5F2Q1",
+        "title": "New Formula 3W2 Cashew - Medium with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B0FWD5F2Q1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iQePcDUgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD4N3F8",
+        "title": "New Formula 4W2 Toasty Toffee - Medium tan with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B0FWD4N3F8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VIWTHT1LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD1DG1D",
+        "title": "New Formula 2C4 Ivory Rose - Light-medium with cool rosy undertones",
+        "url": "https://www.amazon.com/dp/B0FWD1DG1D",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XS375FDyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCVZBF5",
+        "title": "New Formula 6W1 Sandalwood - Very deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B0FWCVZBF5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61op+vVtFqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0009TRBCM",
+        "title": "Original Formula 2C3 Fresco - Light-medium with cool rosy beige undertones",
+        "url": "https://www.amazon.com/dp/B0009TRBCM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FnT8q6tJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD5N86N",
+        "title": "New Formula 5N1.5 Maple - Deep with neutral golden-red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD5N86N",
+        "imageUrl": "https://m.media-amazon.com/images/I/618xBSZIuBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD2FL1X",
+        "title": "New Formula 3C3 Sandbar - Medium with cool rosy-beige undertones",
+        "url": "https://www.amazon.com/dp/B0FWD2FL1X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fQRd-xVvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01G5ZJCL6",
+        "title": "Original Formula 7W1 Deep Spice - Extra deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B01G5ZJCL6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FqSVeRhdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GW6UNN0",
+        "title": "Original Formula 5W1 Bronze - Deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B00GW6UNN0",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SGn0XioSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00CBXX6WI",
+        "title": "Original Formula 6C1 Rich Cocoa - Very deep with cool subtle red undertones",
+        "url": "https://www.amazon.com/dp/B00CBXX6WI",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ywMstya3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCZX7ZF",
+        "title": "New Formula 5N2 Amber Honey - Deep with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B0FWCZX7ZF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sF6gesqsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B071FF9KTX",
+        "title": "Original Formula 6N1 Mocha - Very deep with neutral undertones",
+        "url": "https://www.amazon.com/dp/B071FF9KTX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61A4JDktdEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCZJCSY",
+        "title": "New Formula 1W1 Bone - Light with warm undertones",
+        "url": "https://www.amazon.com/dp/B0FWCZJCSY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RH5UB3KGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00B1YV92C",
+        "title": "Original Formula 1N1 Ivory Nude - Light with neutral peach undertones",
+        "url": "https://www.amazon.com/dp/B00B1YV92C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tcR5QiTWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B071LLSKM1",
+        "title": "Original Formula 6N2 Truffle - Very deep with neutral subtle brown undertones",
+        "url": "https://www.amazon.com/dp/B071LLSKM1",
+        "imageUrl": "https://m.media-amazon.com/images/I/618LgdZwpQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01G5ZLY4O",
+        "title": "Original Formula 7N1 Deep Amber - Extra deep with neutral brown undertones",
+        "url": "https://www.amazon.com/dp/B01G5ZLY4O",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Lz7CmrQZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00JLK1GVC",
+        "title": "Original Formula 1C0 Shell - Very light with cool pink undertones",
+        "url": "https://www.amazon.com/dp/B00JLK1GVC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ywNP5ICyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00DZO538C",
+        "title": "Original Formula 3N2 Wheat - Medium with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B00DZO538C",
+        "imageUrl": "https://m.media-amazon.com/images/I/619tKom2JxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD3CQ4R",
+        "title": "New Formula 2W0 Warm Vanilla - Light-medium with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B0FWD3CQ4R",
+        "imageUrl": "https://m.media-amazon.com/images/I/6110ZXKCWuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01G5ZCU1U",
+        "title": "Original Formula 6W2 Nutmeg - Very deep with warm brown undertones",
+        "url": "https://www.amazon.com/dp/B01G5ZCU1U",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RdAXOhYFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00B71AC1S",
+        "title": "Original Formula 1C1 Cool Bone - Light with cool rosy-peach undertones",
+        "url": "https://www.amazon.com/dp/B00B71AC1S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61q+a-hR5UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWCZCP7F",
+        "title": "New Formula 6N2 Truffle - Very deep with neutral subtle brown undertones",
+        "url": "https://www.amazon.com/dp/B0FWCZCP7F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Hp-n4+53L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD3XDD3",
+        "title": "New Formula 7W1 Deep Spice - Extra deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B0FWD3XDD3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Jgvzdqo7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPDXY6J",
+        "title": "Original Formula 4W3 Henna - Medium tan with warm red undertones",
+        "url": "https://www.amazon.com/dp/B07FPDXY6J",
+        "imageUrl": "https://m.media-amazon.com/images/I/616nDo3iQEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD366F3",
+        "title": "New Formula 3N2 Wheat - Medium with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B0FWD366F3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XePFaaBXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD1K2M1",
+        "title": "New Formula 5C2 Sepia - Deep with cool red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD1K2M1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tlvYvhtDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD3C77K",
+        "title": "New Formula 4C2 Auburn - Medium tan with cool red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD3C77K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IXHrEmCaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD1JV8D",
+        "title": "New Formula 4N2 Spiced Sand - Medium tan with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B0FWD1JV8D",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CIQx9vWgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD44F2R",
+        "title": "New Formula 7C1 Rich Mahogany - Extra deep with cool red undertones",
+        "url": "https://www.amazon.com/dp/B0FWD44F2R",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ODGxBJlxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FPX4B45",
+        "title": "Original Formula 5N1.5 Maple - Deep with neutral golden-red undertones",
+        "url": "https://www.amazon.com/dp/B07FPX4B45",
+        "imageUrl": "https://m.media-amazon.com/images/I/61srWveE+iL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FWD3N9FJ",
+        "title": "New Formula 4C1 Outdoor Beige - Medium tan with cool rosy undertones",
+        "url": "https://www.amazon.com/dp/B0FWD3N9FJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61J9T5iQYQL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 52
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/61g94sq7WLL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61g94sq7WLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31jd+tEHeoL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71sD16dUacL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81gL3LmMbLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71G8-mUHh1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GSfrXVhcL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/609cf809-fb3c-40b9-b794-360b9fef44a0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a991aba-4baf-4eff-90b5-530f5c0666bb.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dd2e56de-242b-4839-88fc-5c598d95c0ca.__CR56,0,889,1000_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d263ccf-cbc5-47fc-bf8a-78880f0fd639.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cb855ca4-7403-4e89-b67b-578ee33ea6fb.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b177805a-2237-4e44-bb55-e2632e72ce32.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 3,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/370d5fbd-e25b-4ae3-af56-1096828c0f59.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f77b36c5-9fb8-45dd-aa7e-29e4c1b4f61f.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "2N1 Desert Beige - Light-medium with neutral undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Medium-to-full, buildable coverage"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Est\u00e9e Lauder"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Medium-to-full, buildable coverage foundation. Fresh, matte finish. Controls oil all day. Sweat-, heat- & humidity-resistant."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "027131971627"
+      },
+      {
+        "key": "Model Number",
+        "value": "YA6F-12"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "YA6F-12"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Est\u00e9e Lauder"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#723 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #10 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01LWXK4KH"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "10 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Hydration, Long Lasting, UV Protection, Waterproof"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "123 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.62 x 1.24 x 3.84 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Gluten Free, Oil Free, Paraben Free, Synthetic Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 21127,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "84%",
+        "fourStars": "8%",
+        "threeStars": "3%",
+        "twoStars": "1%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this foundation to be of great quality, with flawless coverage that stays all day and matches their skin well. The product keeps oily skin under control and provides a natural matte finish that doesn't look caked on. While some customers say it's very kind to their skin, others find it feels dry. Customers consider the price worth it.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 681,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 545,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 463,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 292,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 291,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 252,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 242,
+          "status": "positive"
+        },
+        {
+          "aspect": "Consistency",
+          "count": 186,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71irDnGUBKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81pkhUhBnxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61MZoYlG4-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/611lwSePFIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51bhjaFpeJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71cZtuQhgoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71JjhXFDCRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rDRKJ9u3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61bq-jXHzjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71FZdmrj3GL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51xz8kHNsRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71QgEW0ysdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Base de maquillaje",
+          "reviewText": "Long-lasting matte foundations (approx. 24h) Est\u00e9e Lauder Double Wear Stay-in-Place \ud83d\udd39 Ultra-resistant, medium-to-high coverage, controls shine all day. Ideal for combination to oily skin. Maybelline Super Stay 24H/30H \ud83d\udd39 Very good staying power, natural matte finish, and affordable price. Works very well for long daily wear. L\u2019Or\u00e9al Infallible 24H Fresh Wear (Matte) \ud83d\udd39 Lightweight yet long-lasting, doesn't cake, and keeps the face fresh for many hours. Huda Beauty #FauxFilter Matte \ud83d\udd39 High coverage, flawless skin effect, and excellent resistance to heat and humidity. MAC Studio Fix Fluid \ud83d\udd39 Classic matte, controls oil, and lasts all day without feeling heavy. \ud83d\udc84 Tips for longer-lasting makeup Use a mattifying primer before your foundation Apply with a brush or damp sponge Set with translucent powder on your T-zone Finish with long-lasting setting spray If you'd like, tell me: \ud83d\udc49 your skin type (oily, combination, dry) \ud83d\udc49 whether you prefer light, medium, or full coverage \ud83d\udc49 or if you're looking for something affordable or luxurious and I'll recommend the perfect option for you \u2728",
+          "reviewDate": "Reviewed in the United States on December 15, 2025",
+          "customer": "Daniel A.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFBRB4L7WINGMTDFFANYUDU5O4DQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "2W2 Rattan - Light-medium with warm olive undertones"
+          },
+          "helpfulVotes": "22 people found this helpful"
+        },
+        {
+          "reviewTitle": "Favorite Foundation!",
+          "reviewText": "The best foundation! Very full coverage but still light weight! Pretty crease resistant and easy to apply.",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Evelyn Pease",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFXYCY725JSVZUM5FPR5ILH2STWA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "1C1 Cool Bone - Light with cool rosy-peach undertones"
+          }
+        },
+        {
+          "reviewTitle": "THE GREATEST LIQUID FOUNDATION ON EARTH",
+          "reviewText": "This foundation is AMAZING! I know this because the few times I sleep with my makeup on, when I wake up the next day, my makeup looks amazing lije I just put it on! It never rubs off on my clothes or pillows, and if you scratch your face it doesn't come off. This stuff is amazing. It's better than every single bottle of drug store makeup I've ever bought in the last 27 years, hands down, no exceptions. This makeup IS THE BEST. It's worth every single dollar! Ladies, I'm telling you- buy this and you will not be disappointed! Cool colors mean they have a yellow tint Warm colors mean they have a pink tint. Neutral colors have a bit of both yellow and pink.",
+          "reviewDate": "Reviewed in the United States on January 27, 2026",
+          "customer": "John&Jessica",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AERITASF2KQBIJNYQKOQSGZR32YQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "1W1 Bone - Light with warm undertones"
+          },
+          "helpfulVotes": "30 people found this helpful"
+        },
+        {
+          "reviewTitle": "Favorite foundation",
+          "reviewText": "This is one of my favorite foundations--the coverage is full but it feels light! It smooths the texture of my skin and goes on flawlessly.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Sidney Thompson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWMZVADURIIXRZOQGGII5D364IQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "2N1 Desert Beige - Light-medium with neutral undertones"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lasts all day",
+          "reviewText": "The best foundation. The coverage is great and it stays on forever! You don\u2019t need much, start small. I always get compliments when I wear it. It feels lightweight and blends good. I wish it came with a pump for easier application.",
+          "reviewDate": "Reviewed in the United States on January 31, 2026",
+          "customer": "A. Zumach",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHMHZBNUL3S2VZ4RP4CPUU3NCZEA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "1W1 Bone - Light with warm undertones"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "High price but great product",
+          "reviewText": "Great coverage but sometimes can be a little heavy. You have to be careful with how much you apply or you end up looking a little cakey. But other than that, totally recommend for the coverage and how long it lasts. A little expensive but a little goes a long way.",
+          "reviewDate": "Reviewed in the United States on December 8, 2025",
+          "customer": "Tabitha",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMDEVZLHYX3ANEBU5APPO3VQSVQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "3C1 Dusk - Medium with cool rosy-peach undertones"
+          },
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Estee Lauder Double Wear Foundation",
+          "reviewText": "This foundation is my all-time favorite because it\u2019s long-lasting, double-wear, and blends into my skin tone perfectly. It gives a beautiful look when I use it, and it\u2019s not too heavy or dry. If you moisturize first and blend well with a sponge blender, it should leave you with a gorgeous finish.",
+          "reviewDate": "Reviewed in the United States on February 2, 2026",
+          "customer": "\u2014PreciousMind\u2014",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGWULCQZCSCC55RHQK22E545NO7Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "2W2 Rattan - Light-medium with warm olive undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Been Using This for Years \u2013 Still My Go-To Foundation!",
+          "reviewText": "I have been using the Est\u00e9e Lauder Double Wear Stay-in-Place Matte Foundation for years, and I am over 40, so that says a lot. Yes, it is a liquid makeup, but I absolutely love how it looks on my skin. I don\u2019t use a lot at once, just a light layer applied with a sponge, and it blends beautifully for a natural, flawless finish. The foundation lasts all day, which is amazing because I don\u2019t have to worry about touch-ups, even with my normal face oils. The color I chose is a bit lighter than my natural tone, but it gradually blends and warms up during the day with my skin\u2019s natural oils, which is completely normal and actually looks very natural. I love that it makes my skin look smooth, even, and radiant without feeling heavy. This foundation has remained a staple in my routine because it gives me confidence that my skin looks great from morning to night. I highly recommend it for anyone looking for long-lasting, natural-looking coverage.",
+          "reviewDate": "Reviewed in the United States on October 30, 2025",
+          "customer": "BusyMomOnTheGo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEL4P3EOYOMOFBBL3UQALCYUORKQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "2W1 Dawn - Light-medium with warm peach undertones"
+          },
+          "helpfulVotes": "18 people found this helpful"
+        },
+        {
+          "reviewTitle": "Easy to apply and delightful to wear",
+          "reviewText": "Fabulous!!!",
+          "reviewDate": "Reviewed in the United Kingdom on March 7, 2026",
+          "customer": "Catherine Saunders",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "2C3 Fresco - Light-medium with cool rosy beige undertones"
+          }
+        },
+        {
+          "reviewTitle": "amazing",
+          "reviewText": "amazing",
+          "reviewDate": "Reviewed in Saudi Arabia on January 18, 2026",
+          "customer": "hanaa ali",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "2W2 Rattan - Light-medium with warm olive undertones"
+          }
+        },
+        {
+          "reviewTitle": "Great Product & Speedy delivery",
+          "reviewText": "Thank you so much for the fast delivery of the product. Just in time to use it for work. I tried it and it looks great and a match to my skin color.",
+          "reviewDate": "Reviewed in Saudi Arabia on December 14, 2024",
+          "customer": "Amirah",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "configuration": "Original Formula",
+            "color": "1N1 Ivory Nude - Light with neutral peach undertones"
+          }
+        }
+      ]
+    }
+  }
+}

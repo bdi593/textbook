@@ -1,0 +1,291 @@
+{
+  "requestMetadata": {
+    "id": "1801ef81-7dcb-4a72-ae65-ce94a007b10a",
+    "status": "ok",
+    "html": "https://files.hasdata.com/1801ef81-7dcb-4a72-ae65-ce94a007b10a.html",
+    "json": "https://files.hasdata.com/1801ef81-7dcb-4a72-ae65-ce94a007b10a.json",
+    "url": "https://www.amazon.com/dp/B0D3JDDN4K"
+  },
+  "product": {
+    "asin": "B0D3JDDN4K",
+    "url": "https://www.amazon.com/dp/B0D3JDDN4K",
+    "title": "e.l.f. Soft Glam Foundation, Medium Coverage, Long-Lasting & Buildable Foundation For A Smooth, Satin Finish, Vegan & Cruelty-Free, 13 Fair Neutral",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "13 Fair Neutral"
+    },
+    "featureBullets": [
+      "LONG-LASTING LIQUID FOUNDATION: Hit that dreamy sweet spot between full beat and barely there with e.l.f. Cosmetics\u2019 long- wearing Soft Glam Satin Foundation.",
+      "MEDIUM, BUILDABLE COVERAGE: The e.l.f. Satin Finish Foundation delivers medium buildable coverage and a satin finish.",
+      "BREATHABLE FORMULA: Infused with 1% Hydrating Hibiscus Complex, plus fruit extracts, this breathable liquid foundation won\u2019t clog pores and feels as good as it looks\u2014no caking or heaviness here, just smooth, satiny skin.",
+      "FOR MULTIPLE SKIN TYPES: This foundation is great for dry, oily and combination skin.",
+      "SKIN-LOVING INGREDIENTS: All e.l.f. products are made from skin-loving ingredients you want, minus the toxins you don\u2019t\u2014all at good-for-you prices. All e.l.f. products are 100% Cruelty-Free and Vegan."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0D3JD852D",
+        "title": "52 Deep Cool",
+        "url": "https://www.amazon.com/dp/B0D3JD852D",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WeiydELsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDPJ38",
+        "title": "12 Fair Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDPJ38",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hWmsvks6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDMV4S",
+        "title": "53 Deep Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDMV4S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IdqXhoP7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JBP3LG",
+        "title": "55 Deep Warm",
+        "url": "https://www.amazon.com/dp/B0D3JBP3LG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61V4E9xHWDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDZ4W7",
+        "title": "24 Light Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDZ4W7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61s15j0duNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCNJWB",
+        "title": "63 Rich Warm",
+        "url": "https://www.amazon.com/dp/B0D3JCNJWB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61000TuQX7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JFDP2S",
+        "title": "65 Rich Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JFDP2S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XSGOXOrmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDB5TX",
+        "title": "14 Fair Cool",
+        "url": "https://www.amazon.com/dp/B0D3JDB5TX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61s5AcgtrHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDNGXG",
+        "title": "41 Tan Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDNGXG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BxszMDQ3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDH7W6",
+        "title": "42 Tan Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDH7W6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61k2aFVLo3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDWGH7",
+        "title": "40 Tan Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDWGH7",
+        "imageUrl": "https://m.media-amazon.com/images/I/6166q8L06RL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDKD8D",
+        "title": "50 Deep Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDKD8D",
+        "imageUrl": "https://m.media-amazon.com/images/I/71jhcn-ofKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDT93W",
+        "title": "54 Deep Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDT93W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61w7-C52UcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDGJJL",
+        "title": "64 Rich Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDGJJL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TqGO8kBqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JD4BW9",
+        "title": "22 Light Warm",
+        "url": "https://www.amazon.com/dp/B0D3JD4BW9",
+        "imageUrl": "https://m.media-amazon.com/images/I/6119pd8iQsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF22V6",
+        "title": "60 Rich Cool",
+        "url": "https://www.amazon.com/dp/B0D3JF22V6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61MjTusDVEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDT4DM",
+        "title": "45 Tan Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDT4DM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NikicSbRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDYWZ6",
+        "title": "31 Medium Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDYWZ6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-X+Y0ePvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JC3YS3",
+        "title": "62 Rich Warm",
+        "url": "https://www.amazon.com/dp/B0D3JC3YS3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BOF+cUVvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCSKNP",
+        "title": "34 Medium Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCSKNP",
+        "imageUrl": "https://m.media-amazon.com/images/I/610owcHjVbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDDN4K",
+        "title": "13 Fair Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDDN4K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QV4bmoW0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF62W4",
+        "title": "32 Medium Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JF62W4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vgcWP63eL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDRFS3",
+        "title": "20 Light Cool",
+        "url": "https://www.amazon.com/dp/B0D3JDRFS3",
+        "imageUrl": "https://m.media-amazon.com/images/I/617Y71E6zWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCZ84F",
+        "title": "35 Medium Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCZ84F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ulpqTu+BL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCKZHN",
+        "title": "44 Tan Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCKZHN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61isY+TasgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF22TY",
+        "title": "33 Medium Warm",
+        "url": "https://www.amazon.com/dp/B0D3JF22TY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eVeYPQQDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JFKVX1",
+        "title": "25 Light Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JFKVX1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mmAa7rIdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCV66T",
+        "title": "51 Deep Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCV66T",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rsYdJR3XL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCDB83",
+        "title": "61 Rich Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCDB83",
+        "imageUrl": "https://m.media-amazon.com/images/I/619sKX116uL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDGMCS",
+        "title": "43 Tan Cool",
+        "url": "https://www.amazon.com/dp/B0D3JDGMCS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61m+nyxJ9iL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JFKVWZ",
+        "title": "23 Light Cool",
+        "url": "https://www.amazon.com/dp/B0D3JFKVWZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61oxOwYGdQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDQDYB",
+        "title": "10 Fair Cool",
+        "url": "https://www.amazon.com/dp/B0D3JDQDYB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gZgMkKFiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDNFR8",
+        "title": "15 Fair Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDNFR8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uK4R2EP4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF5ZSH",
+        "title": "11 Fair Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JF5ZSH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HOWT+yuAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF5SX1",
+        "title": "30 Medium Warm",
+        "url": "https://www.amazon.com/dp/B0D3JF5SX1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ooKDvEA6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDCQN2",
+        "title": "21 Light Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDCQN2",
+        "imageUrl": "https://m.media-amazon.com/images/I/612oT4Sw7aL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.77,
+      "beforePrice": 8.77,
+      "discount": "-5%",
+      "priceFrom": 8.28,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 3 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61QV4bmoW0L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61QV4bmoW0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51kVHnDGTLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81V-pda4dTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816TtnniaqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71N6IeIsUBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tUAKxYAdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719bvpCsY9L._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 10160,
+      "rating": 4.4
+    }
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "requestMetadata": {
+    "id": "946bfd07-74b6-46d9-8464-6f7842e0e1a8",
+    "status": "ok",
+    "html": "https://files.hasdata.com/946bfd07-74b6-46d9-8464-6f7842e0e1a8.html",
+    "json": "https://files.hasdata.com/946bfd07-74b6-46d9-8464-6f7842e0e1a8.json",
+    "url": "https://www.amazon.com/dp/B0CGCJTRGQ"
+  },
+  "product": {
+    "asin": "B0CGCJTRGQ",
+    "url": "https://www.amazon.com/dp/B0CGCJTRGQ",
+    "title": "R\u014cZ Foundation Conditioner | For All Hair Types | Soothes, Nourishes | Hydrating Ceramides, Pea Peptides, Avocado Oil, Strengthen, Protect | Vegan, Paraben, SLS, Sulfate-Free | 10.1 oz / 300 mL",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "10.1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "DEEPLY NOURISHING FORMULA: Enriched with ceramides, pea peptides, and botanicals, this conditioner hydrates and repairs while hydrating the hair from within. Leaves hair feeling soft, strong, and full of life.",
+      "RESTORES HEALTH & SHINE: Designed to revive natural shine and strength, this salon-grade formula transforms hair into its healthiest state while reducing frizz and improving manageability.",
+      "VERSATILE FOR ALL HAIR TYPES: Crafted for all textures, this conditioner provides deep hydration, repair, and strength for curly, straight, thick, or fine hair, making it a universal must-have.",
+      "NATURAL BOTANICAL COMPLEX: Powered by BotaniComplex, Pea Peptide, Avocado Oil, Walnut Seed Extract, and Grape Extract, it nourishes, strengthens, and protects while boosting hair\u2019s overall health.",
+      "CLEAN, VEGAN & SUSTAINABLE: This vegan, cruelty-free formula is free from parabens, SLS, sulfates, triclosan, and gluten. Housed in a recyclable bottle, it supports eco-conscious beauty choices."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Hair Care",
+      "Shampoo & Conditioner",
+      "Conditioners"
+    ],
+    "variants": [
+      {
+        "asin": "B0CGCJTRGQ",
+        "title": "10.1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CGCJTRGQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51giyz8CA0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DB2PRMQB",
+        "title": "20.2 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DB2PRMQB",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xYUnXW0KL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 33.6,
+      "beforePrice": 42,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 10 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "ROZ Hair",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3U0THGB4Q4ROP",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/51giyz8CA0L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51giyz8CA0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61cSPnj1slL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51zAB+8PKFL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61sz3e62gTL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51Gibu4jGwL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/618ONsEP7eL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51akAHkeTaL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/619ttyoZi4L._SL1000_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3b686bc-e6d5-445b-830e-3849e8f85cfb.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f4506151-9483-4319-8bc4-400c13df7e2c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4a33a65-6961-48f8-a670-311489375813.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a416af92-9f51-47f7-bfeb-150e3b327170.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3439860f-8678-448e-b93b-b64e0aa6f38b.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3439860f-8678-448e-b93b-b64e0aa6f38b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dc340440-cbe8-469f-b28e-d6ec10c26c63.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/186c7ae8-045d-4baf-b14d-860756f22cf0.MOV/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/af7f99ad-f884-4e48-b8a5-3be5d9515243.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d6c30a6f-bfe8-414b-b312-eeea5a98ee82.mov/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Hair Type",
+        "value": "All"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating, Repairing, Strengthening, Improves Manageability"
+      },
+      {
+        "key": "Scent Name",
+        "value": "Grapefruit"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Nourishing"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Hair Conditioner Type",
+        "value": "Standard Hair Conditioner"
+      },
+      {
+        "key": "Brand Name",
+        "value": "R\u014cZ"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "All"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "ROZ-Women's"
+      },
+      {
+        "key": "UPC",
+        "value": "196852052967"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#8,679 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #195 in Hair Conditioner"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CGCJTRGQ"
+      },
+      {
+        "key": "Unit Count",
+        "value": "10.1 Fluid Ounces"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Liquid Volume",
+        "value": "10 Fluid Ounces"
+      },
+      {
+        "key": "Item Weight",
+        "value": "12 Ounces"
+      },
+      {
+        "key": "Material Features",
+        "value": "Paraben Free, Vegan, Cruelty Free, SLS Free, Gluten Free"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, SLS Free, Silicone Free"
+      },
+      {
+        "key": "Active Ingredients",
+        "value": "Ginger Root, Frankincense, Grape Extract, Walnut Oil"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Hair care"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 64,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "65%",
+        "fourStars": "6%",
+        "threeStars": "11%",
+        "twoStars": "8%",
+        "oneStars": "10%"
+      },
+      "customersSay": "Customers find the conditioner effective and appreciate its aromatherapy-like fragrance. The product leaves hair feeling hydrated and silky smooth, with one customer noting it helped bring back their waist-long curls. The pump functionality receives mixed reviews, with several customers reporting that the pump on both bottles won't work.",
+      "aspects": [
+        {
+          "aspect": "Effectiveness",
+          "count": 12,
+          "status": "positive"
+        },
+        {
+          "aspect": "Fragrance",
+          "count": 12,
+          "status": "positive"
+        },
+        {
+          "aspect": "Hair condition",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Hair feel",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pump functionality",
+          "count": 6,
+          "status": "mixed"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Amazing!",
+          "reviewText": "I have tried what feels like every brand of hair care with little results long term. For reference I am 53, and my hair has changed since my mid-forties to very dry. When people said \u201chydrated\u201d hair I thought I knew what that felt like in my hair which it was lacking. BUT this actually hydrated my hair! It feels amazing, my husband even said how nice it felt. I have had less breakage also. I am using the whole line as well. And as for the smell I have absolutely no idea what people are saying about it, it has a very light fresh airy scent that reminds me of a cool breeze at the beach!!! I used Pureology and seriously couldn\u2019t get over how high scented it was. And it sucked for my hair. I know everyone\u2019s hair is different and this is an expensive shampoo but I would highly recommend giving it a try!!",
+          "reviewDate": "Reviewed in the United States on September 13, 2024",
+          "customer": "Chris Hawley",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHMY24BQVXA3NOVLHCFLZUP4U7XA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing!",
+          "reviewText": "My hair never felt so nice it brought back my curls in my waist long hair. It smells like aromatherapy. I will definitely buy again!",
+          "reviewDate": "Reviewed in the United States on November 24, 2025",
+          "customer": "Christina may",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQUIDNFW3MQXICBIFDLQ7LIVQJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great products!",
+          "reviewText": "Great shampoo and conditioner for my aging (graying) hair! Its formula is moisturizing and its scent is lovely - light and not overpowering. I also want to mention I have sensitive skin and at times, hair products can be irritating. Not this brand! I highly recommend!",
+          "reviewDate": "Reviewed in the United States on September 10, 2025",
+          "customer": "Pipsmom",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRNSDWQS7F3X5SKAMUYIUCPFL5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great product, poor pump design",
+          "reviewText": "Love the shampoo and conditioner! Love the scent and feel of my hair after. However , the pumps do not work so it makes it difficult to use.",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "bcb09",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGYJXXUWZW265CBEWHZ7TVI6THSQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Unremarkable, overly-perfumed, and drying.",
+          "reviewText": "File this under \"another unremarkable, overpriced conditioner that left my hair dry and tangled and reeking of perfume\" Why are the people who scent these products so arrogant that they think you will want to reek of their perfume for days after using the product??? These companies need to get a grip and realize that its time to dial down the smell quotient.",
+          "reviewDate": "Reviewed in the United States on December 19, 2025",
+          "customer": "Paul Baxendale",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQSZKQSHOYL3TDBCV3O2CLWPT3A",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "20.2 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "I product works grat",
+          "reviewText": "Love the product",
+          "reviewDate": "Reviewed in the United States on January 30, 2026",
+          "customer": "Patti",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHNQKPX2H4WCSKWWLRNNR3MSLYYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Does not detangle",
+          "reviewText": "Love the scent. I stopped at 20 pumps and still does not have detangling properties.",
+          "reviewDate": "Reviewed in the United States on March 1, 2026",
+          "customer": "MelissaB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHKP33JO3IEAOBWBVZSZBN5V4KJA",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Clean Products that work!",
+          "reviewText": "As others have stated, my pumps won't work but....I love this product. I have severe allergies on my eyes and needed a clean product to that 1. Worked and 2. Smelled nice-this did both! Im a complete hair product snob so having to leave my go to products stressed me out. THIS brand/product is awesome! I hope they expand their offerings!!",
+          "reviewDate": "Reviewed in the United States on February 22, 2026",
+          "customer": "Trina Burnette",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF23CPKEHXOYCOEWA3YHOAXBJYYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

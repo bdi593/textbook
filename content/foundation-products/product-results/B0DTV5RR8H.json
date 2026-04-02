@@ -1,0 +1,390 @@
+{
+  "requestMetadata": {
+    "id": "e5c0bd1a-864f-4532-a918-824a20e476f8",
+    "status": "ok",
+    "html": "https://files.hasdata.com/e5c0bd1a-864f-4532-a918-824a20e476f8.html",
+    "json": "https://files.hasdata.com/e5c0bd1a-864f-4532-a918-824a20e476f8.json",
+    "url": "https://www.amazon.com/dp/B0DTV5RR8H"
+  },
+  "product": {
+    "asin": "B0DTV5RR8H",
+    "url": "https://www.amazon.com/dp/B0DTV5RR8H",
+    "title": "COVERGIRL Clean Fresh Blurring Skin Tint with SPF 30, 420 Light/Medium Neutral, Liquid Foundation, Soft Matte Finish, Smooths, Brightens, Blurs Pores, Mineral Sunscreen, Vegan Formula",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "SPF 420 Light/Medium Neutral",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "A weightless liquid foundation with a soft matte finish that smooths and blurs the appearance of pores",
+      "Infused with 2% Niacinamide, Licorice Root Extract and Bamboo Extract, this COVERGIRL foundation hydrates skin for up to 24 hours",
+      "Provides buildable coverage without making acne worse or clogging pores while fading the appearance of post-acne marks",
+      "Contains Broad Spectrum SPF 30 Mineral Sunscreen protects skin against harmful UVA/UVB rays",
+      "Dermatologically tested, clean vegan formula suitable for all skin types including oily and acne-prone. Formulated without Parabens, Sulfates, Phthalates & Mineral Oil"
+    ],
+    "description": "Get a weightless instant blur with COVERGIRL Clean Fresh Blurring Skin Tint. Formulated with Broad Spectrum SPF 30 Mineral Sunscreen, this COVERGIRL foundation protects against UVA/UVB rays while blurring the appearance of pores and smoothing skin for all-day wear. Available in 14 adaptable shades *Based on a consumer study of 71 women after one week of use: \u2022 94% say goes on smoothly \u2022 92% say blends easily \u2022 91% say is extremely comfortable \u2022 89% say controls shine all day \u2022 89% say more comfortable than traditional matte formulas \u2022 88% say provides a skin-like finish",
+    "boughtInPastMonth": "600+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0DTV7BT8H",
+        "title": "SPF 450 Rich Warm 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DTV7BT8H",
+        "imageUrl": "https://m.media-amazon.com/images/I/51fr779dCtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DTV7QZ1S",
+        "title": "SPF 400 Fair Warm 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DTV7QZ1S",
+        "imageUrl": "https://m.media-amazon.com/images/I/51E-+RswOGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DTV5KZ6B",
+        "title": "SPF 445 Medium\\/Rich Warm 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DTV5KZ6B",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wV+Az2PpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DTV5W83H",
+        "title": "SPF 430 Medium Neutral 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DTV5W83H",
+        "imageUrl": "https://m.media-amazon.com/images/I/51alkVisvyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DTV6PJW6",
+        "title": "SPF 440 Medium\\/Rich Neutral 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DTV6PJW6",
+        "imageUrl": "https://m.media-amazon.com/images/I/519GZohmNCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DTV6PDLD",
+        "title": "SPF 455 Rich\\/Deep Neutral 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DTV6PDLD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hc0kezTFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DTV77YC2",
+        "title": "SPF 460 Deep Warm 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DTV77YC2",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z4V4-entL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DTV5RR8H",
+        "title": "SPF 420 Light\\/Medium Neutral 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DTV5RR8H",
+        "imageUrl": "https://m.media-amazon.com/images/I/51fO78im9CL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DTV7JWS4",
+        "title": "SPF 410 Fair Neutral 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DTV7JWS4",
+        "imageUrl": "https://m.media-amazon.com/images/I/51igFOm5mrL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 10.28,
+      "beforePrice": 13.99,
+      "discount": "-27%",
+      "priceFrom": 10.25,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/51fO78im9CL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51fO78im9CL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51bNFmwv5UL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ejdrOK31L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71be78YbTtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KZ3kysJLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71wELxSuSOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91-h3ScGoAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81GGwdCI60L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c46aa381-ecce-4968-8416-9c50902731fe.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b321ce85-d708-40f3-a06b-47d2326f29a5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0452931a-349f-44c6-b4dc-618f2886f974.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d0b0cca3-0b8c-4167-a67f-6c7c407f1362.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd0f8882-e08c-4c8c-ba68-b65a8b3d4932.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6fbc80c8-e4df-4096-bd0f-1fe9e18053f6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b1225048-5f4e-442d-bb8d-379bbc822acb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f6d4ec15-67ff-4ef0-b07a-60521e5f3e94.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "SPF 420 Light/Medium Neutral"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "COVERGIRL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Color Correction, Corrects Imperfections, Hydrating, Radiant Finish, Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light/Medium Neutral"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Coty Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#12,723 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #137 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DTV5RR8H"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "30 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable, Dermatologist Tested, Long Lasting, Non-Comedogenic"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.04 Kilograms"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.46 x 0.99 x 4.57 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free, Mineral Oil Free, Paraben Free, Phthalate Free, Sulfate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 110,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "57%",
+        "fourStars": "15%",
+        "threeStars": "13%",
+        "twoStars": "7%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage, with one noting it works well for neutral skin, and appreciate its weightless feel. The color receives mixed feedback - while some say it looks good on the skin, others find the shade slightly yellow. The finish and moisturizing properties also get mixed reviews, with one customer describing it as a beautiful soft matte finish while another finds it too matte to powder. The overall quality receives mixed opinions from customers.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 18,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 12,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Finish",
+          "count": 7,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 5,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Quality",
+          "count": 5,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/610hhTC+JDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61IWEsv3rDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71d-pYPWBcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sU51rmRJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bJQjMA5iL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61hafJAz-uL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61w6kwGNK4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Covers well but light and breathable!",
+          "reviewText": "Love this so much! I have older skin at 58 and I was shocked at how well this looks on my skin. Blurs and covers gently - not harsh or thick at all. I had to buy 2 different colors to mix as the light was too light but medium light was too dark but just 2 drops of each covers my whole face well. I was using Mary Kay BB cream but got tired but having to rely on my rep and pay $21 so I was thrilled to find this works as well if not better.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "TexasBeth",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH4WL3CXL5Y3JPNBRE4SOBTUINYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SPF 420 Light/Medium Neutral",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Will repurchase for sure",
+          "reviewText": "Excellent coverage for being a skin tint. Great oil control. I combined this with a mineral powder spf, and the combo is literally the only thing in my entire like to keep my super oily skin shine free! When I want to be put together but know I'm going to be outside and active all day, I wear this instead of true foundation and its perfect. Or if I just don't want the feeling of waering sunscreen on my face sor the feeling of liquid foundation, this avoids that heavy feeling you can get from both.",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Teresa",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG7KPYATKNWZCCVASIAESGHHMG2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SPF 420 Light/Medium Neutral",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Sunscreen",
+          "reviewText": "Why did you pick this product vs others?: I love that it\u2019s mineral sunscreen! A little thick and matte, but it\u2019s ok.",
+          "reviewDate": "Reviewed in the United States on June 27, 2025",
+          "customer": "Sandi Williams",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPEQFVBROQPNSVXIZBPVNZQHZZA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "SPF 420 Light/Medium Neutral",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Not for larger pores",
+          "reviewText": "I was excited to try this. Gotta say, big disappointment. My face was well moisturized. Settled right into every pore and line. I\u2019m 43. Not the low coat solution I was hoping for. On the plus side the color was good!",
+          "reviewDate": "Reviewed in the United States on June 14, 2025",
+          "customer": "Kait R.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE7LWBAKQBWES6MX3KRUX75KUBIA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "SPF 420 Light/Medium Neutral",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "17 people found this helpful"
+        },
+        {
+          "reviewTitle": "Matte mousse like texture, love!",
+          "reviewText": "I love it! Its light and works well on my skin, the light/medium is perfect, once you add ur blush a bit of bronzer or glow, it just looks flawless all day! Ordering a few more for backup!",
+          "reviewDate": "Reviewed in the United States on March 11, 2026",
+          "customer": "LC",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF6IHULFFM7BDZBI4MVMVJSUTHIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SPF 420 Light/Medium Neutral",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Bad purchase",
+          "reviewText": "Awful, looks like dried toothpaste on your face. It blurs nothing. Returning it.",
+          "reviewDate": "Reviewed in the United States on October 20, 2025",
+          "customer": "Frances S.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQU34QMU7C6JAR54WR6FBESFJQQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "SPF 420 Light/Medium Neutral",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing coverage, lightweight, blurring and a great price!",
+          "reviewText": "I'm so glad I came across this on tiktok and it did not disappoint! I have oily acne prone skin with a lot of hyperpigmentation and this skin tint covers it all so well without feeling cakey or heavy which is a problem I have with other full coverage foundations. You can apply a smaller amount for a lighter coverage or build it up. It's so lightweight and has a beautiful soft matte finish that doesn't feel to dry on the face and does provide some blurring effect. The only con I can think of is that the shade range isn't the best but I have the privilege of not having to run into that issue with this skin tint. I chose shade 420, it's not too yellow but just perfect. If you're curious about this tint I would highly recommend!",
+          "reviewDate": "Reviewed in the United States on June 12, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPKFVQNILEV7CXNK3S5TFUVICBA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SPF 420 Light/Medium Neutral",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "good summer skin tint",
+          "reviewText": "Slightly yellow for a neutral shade, but still pretty close match. The finish is much more matte than I was expecting, but not drying. The texture is almost mousse-like & blends fairly easily, but I wouldn't recommend layering this product over itself. Not that you would really need to as it offers a lot of coverage. It does transfer, so you can powder if you like, but I personally feel it's too matte to powder, unless it's layered over a dewy base/primer.",
+          "reviewDate": "Reviewed in the United States on July 2, 2025",
+          "customer": "Melissa M",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEGFI45NSIEKOFYIBLRCZ3DKASKA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SPF 420 Light/Medium Neutral",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        }
+      ]
+    }
+  }
+}

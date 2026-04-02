@@ -1,0 +1,427 @@
+{
+  "requestMetadata": {
+    "id": "a495faa4-16b0-45b4-a219-4dbaef5cea63",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a495faa4-16b0-45b4-a219-4dbaef5cea63.html",
+    "json": "https://files.hasdata.com/a495faa4-16b0-45b4-a219-4dbaef5cea63.json",
+    "url": "https://www.amazon.com/dp/B07B4HNXJ8"
+  },
+  "product": {
+    "asin": "B07B4HNXJ8",
+    "url": "https://www.amazon.com/dp/B07B4HNXJ8",
+    "title": "Revlon ColorStay Full Cover Longwear Matte Foundation, Heat & Sweat Resistant Lightweight Face Makeup, Buff (150), 1.0 oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "BUFF",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "FULLER COVER, MORE MATTE: Our full coverage foundation is better than ever, with an even more flawless matte finish that goes on smoothly and blends seamlessly",
+      "LIGHTWEIGHT, COMFORTABLE FEEL: Full coverage doesn\u2019t have to mean heavy. The light, whipped, mousse-like texture is never cakey and won\u2019t weigh you down",
+      "TRANSFER-PROOF, 24 HOUR WEAR: This Revlon transfer-proof foundation stays with you all day, lasting for up to 24 hours and is even heat- and sweat-resistant",
+      "EASY, TUBE PACKAGING: Our long-wearing foundation comes in a tube for easy, on-the-go application",
+      "15 SHADES: Available in 15 full cover, skin-perfecting hues"
+    ],
+    "description": "Revlon ColorStay Full Cover Foundation provides an amazing, full coverage perfected look that lasts all day long. This foundation easily glides onto skin and blends seamlessly for an even, matte finish. Featuring a uniquely velvety texture, it's formulated to provide all-day hydration, leaving your skin feeling moisturized and always looking fresh. Revlon ColorStay Full Cover Foundation lasts up to 24 hours with full coverage that moves with your skin, providing comfort without caking. It even withstands heat and humidity! The result is a flawless matte complexion that remains comfortable all day long! Available in 16 beautifully matched tones for every complexion. Revlon is a global leader in cosmetics, hair color, fragrances, skincare, and beauty care products. One of the strongest consumer brand franchises in the world, Revlon's products are sold in over 100 countries across six continents.",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B07B4F46KC",
+        "title": "TOAST 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4F46KC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61G24nnFjaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4HNXJ8",
+        "title": "BUFF 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4HNXJ8",
+        "imageUrl": "https://m.media-amazon.com/images/I/81adqWJPtvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4P29TG",
+        "title": "SAND BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4P29TG",
+        "imageUrl": "https://m.media-amazon.com/images/I/51x479pXqTL._SL1200_.jpg"
+      },
+      {
+        "asin": "B07B4N3RM9",
+        "title": "IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4N3RM9",
+        "imageUrl": "https://m.media-amazon.com/images/I/81n15njRpuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4P4L6D",
+        "title": "MED BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4P4L6D",
+        "imageUrl": "https://m.media-amazon.com/images/I/514zHJvvckL._SL1200_.jpg"
+      },
+      {
+        "asin": "B07B4HLGW6",
+        "title": "Caramel 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4HLGW6",
+        "imageUrl": "https://m.media-amazon.com/images/I/81oa9uJk-TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4HLCXT",
+        "title": "ALMOND 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4HLCXT",
+        "imageUrl": "https://m.media-amazon.com/images/I/81GBO1UXGRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07D4KNQ4H",
+        "title": "Natural Ochre 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07D4KNQ4H",
+        "imageUrl": "https://m.media-amazon.com/images/I/81NnQLFNeAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4MRMNY",
+        "title": "EARLY TAN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4MRMNY",
+        "imageUrl": "https://m.media-amazon.com/images/I/81dm0TytByL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4HLGTC",
+        "title": "TRUE BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4HLGTC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61MiMCiJkvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4N54HC",
+        "title": "MAHOGANY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4N54HC",
+        "imageUrl": "https://m.media-amazon.com/images/I/813IusMI6fL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4F4HTG",
+        "title": "NATURAL TAN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4F4HTG",
+        "imageUrl": "https://m.media-amazon.com/images/I/81h3uaLhPzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4DZ86T",
+        "title": "NATURAL BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4DZ86T",
+        "imageUrl": "https://m.media-amazon.com/images/I/51c7P85aIvL._SL1200_.jpg"
+      },
+      {
+        "asin": "B07B4P4L6W",
+        "title": "WARM GOLDEN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4P4L6W",
+        "imageUrl": "https://m.media-amazon.com/images/I/81vMYAryTZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4P4L6B",
+        "title": "NUDE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4P4L6B",
+        "imageUrl": "https://m.media-amazon.com/images/I/81epgq7iOZL._SL1500_.jpg"
+      }
+    ],
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/81adqWJPtvL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81adqWJPtvL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8110S-dJOxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Jm3QyjCBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81hJ3DBHM6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Z9RDxUWLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81RUNniPIfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91Tindefo2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91B-0Cd3eSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71eA1vfPcHL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/cfd3e01d-a877-4dd6-b9d4-f161ff464778.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/676f96ee-3f5a-4650-9cae-e2f69195fb60.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/1b56838c-25ef-4884-b9c7-b0030bd76fe2.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/076cd908-5b8d-4641-98c1-40e562a96797.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/7fbcd785-ceb5-4f54-846f-04f8c3634738.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/af09eb00-23a8-4c61-a69e-fead13d4eb7f.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/085a7fba-65a2-4b32-8f20-b0a45ff96f1e.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/ad76643d-75cb-4caa-9eac-2237b79a8b6c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/00da28cd-1727-4ed5-bae4-28facceced4b.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/b6773925-128e-4c72-8ac3-c38cc99508d1.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/c3985d55-d358-4a8c-a8bd-b1c364e516a2.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/5129c6a2-3603-4717-bf49-4a496d34ac61.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/5eae117c-a194-40d2-8456-d9751ca7055f.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/ddf50e8d-6c45-430c-871e-371252b880d2.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Color",
+        "value": "BUFF"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup,Foundation,Flawless"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "REVLON"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00309971335020"
+      },
+      {
+        "key": "UPC",
+        "value": "309971335020"
+      },
+      {
+        "key": "Model Number",
+        "value": "1335-02"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "7244428002"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Revlon Consumer Products Corp."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,512 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #32 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07B4HNXJ8"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "27.21 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1 x 1.5 x 4.75 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 13920,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "75%",
+        "fourStars": "13%",
+        "threeStars": "7%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation provides excellent coverage and stays on all day, with a whipped-cream texture that leaves skin silky smooth. They appreciate its matte finish, lightweight feel, and good value for money. The color match receives mixed feedback - while some say it matches their skin tone perfectly, others find it too dark.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 607,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 273,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 256,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 160,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 135,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 134,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 129,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 202,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/612Xy4OoMBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/31a3Bgd3JlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/616zmzgicWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71IlJbz-EEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bLvd3gPqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71uWoaCss+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71HDMlWYDLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61pjNAa9F4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71n01xRnEDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7155ZmZqQGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ehjrcjJUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71tvBKagr-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Absolute everyday must have!!",
+          "reviewText": "I honestly love this foundation so much. I\u2019ve bought it over and over, and it just never disappoints. What really impresses me is the high quality for the price. The coverage is great, but you can also add a lighter layer if you prefer a more natural look. No matter how I apply it, it blends into my skin so easily and never looks cakey. It just melts in and leaves this really pretty soft matte finish that looks like my skin, only smoother. The texture is that perfect mix of creamy and lightweight, with plenty of pigment without feeling heavy. And the fact that it\u2019s under $15 still blows my mind. For me, it\u2019s the ideal everyday foundation. It performs like something high end but costs like a drugstore find. I really don\u2019t think it gets better",
+          "reviewDate": "Reviewed in the United States on January 18, 2026",
+          "customer": "Mae",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHNBMMEFUQ664OPWVFB4LIZENZUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "IVORY",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing long lasting matte finish and coverage!",
+          "reviewText": "Best Makeup I\u2019ve used in over 30 years for coverage. It has the perfect creamy thickness to cover my hyperpigmentation on my cheeks. I apply all over using a wet sponge and then apply on my cheeks with a brush. Application takes just a few minutes and best of all, no concealer needed! I buy in both caramel and mahogany. I like mixing on a small palette to achieve what I think is my perfect shade (2/3 caramel, 1/3 mahogany) Doesn\u2019t really have a fragrance and I\u2019m fine with that, I\u2019m not buying it to smell good, I\u2019m buying it for the results! It lasts all day and costs a fraction of what I was previously paying. Definitely worth every cent. I love this foundation and hope it stays around for a very, very long time!!!",
+          "reviewDate": "Reviewed in the United States on November 23, 2025",
+          "customer": "Nicole W",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGN3BGZD6KTR673WITXQ3TOHQ7FA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "MAHOGANY",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "29 people found this helpful"
+        },
+        {
+          "reviewTitle": "Long-Lasting Full Coverage That Doesn\u2019t Take Much",
+          "reviewText": "I\u2019ve been really impressed with this Revlon ColorStay Full Cover foundation. A little truly goes a long way \u2014 I only need a small amount to get full, even coverage across my face, so one tube lasts a long time. The formula is lightweight but still provides all-day full coverage. It covers redness and imperfections well without feeling heavy or cakey. Once it sets, it stays put throughout the day and holds up nicely even with heat and normal daily wear. I also like the matte finish \u2014 it looks smooth and natural rather than flat or dry. It blends easily with a sponge or brush and doesn\u2019t settle into fine lines. Overall, this is a great option if you want reliable, long-wear coverage without having to constantly touch up or use a lot of product. Definitely a solid value for the price.",
+          "reviewDate": "Reviewed in the United States on December 25, 2025",
+          "customer": "Mrs. Woods",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHZYQXHD7OT4EK6BJURZZIJQPS6A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "BUFF",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "My go to foundation",
+          "reviewText": "This is my go-to foundation and I absolutely love the full coverage it provides. It applies smoothly, lasts well throughout the day, and gives a flawless finish. It\u2019s always in stock on Amazon, which makes reordering easy and convenient. I\u2019ve tried many foundations, but I keep coming back to this one\u2014it\u2019s a product I truly love and highly recommend.",
+          "reviewDate": "Reviewed in the United States on January 11, 2026",
+          "customer": "Shanon Baker",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEEVQCFOL6ZG7TI5GEC4FIS3XU6Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "NATURAL BEIGE",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Fantastic Foundation",
+          "reviewText": "This is the best foundation I have ever used. I am 66 and this product covers dark spots, doesn't emphasize wrinkles, and makes my face feel silky smooth. It blends really well and you don't look like you are caked with it. I got sand beige and it matches my skin tone perfectly. This is my go to foundation from now on.",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "LORIE S BRIDGES",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHKAVAZXKRYXEWEDTQ7G5EUUR5MQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SAND BEIGE",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect in every way!",
+          "reviewText": "I have used this for years. It has fantastic coverage without feeling like a mask. I use it in conjunction with a setting powder and it lasts the entire day!",
+          "reviewDate": "Reviewed in the United States on March 11, 2026",
+          "customer": "BeckyB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWXJIMU4W4W5Y5NTMLYPLAAVLJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "BUFF",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Too shiny",
+          "reviewText": "It's ok. So many people love this foundation on the reviews so I wanted to give it a try. It says it's matte but my face was pretty shiny which I do not like. Makes me look sweaty. The coverage is ok and it is light on the skin so I gave it 3 stars.",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "kevin quillen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG5CUCPP6KLXAOKEKIE2R7NPCDQQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "SAND BEIGE",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "I'm Sold!",
+          "reviewText": "A very small dab goes a long way so it's a great value. My skin is rough. This blends very well and smooths my skin with a great outcome. The color match is perfect. I normally have oily skin and this helps to decrease the shine and does not leave my face oily.",
+          "reviewDate": "Reviewed in the United States on January 23, 2026",
+          "customer": "Bridgeh20",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWDAPRHZO3X4GYS3WMNZC3EHDAA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Caramel",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "All time favorite",
+          "reviewText": "This is the one foundation Im using. Its full coverage. Makes your skin really smooth and natural flawless. Perfect for my skin. Love this product very much\ud83d\ude00",
+          "reviewDate": "Reviewed in the United Arab Emirates on February 21, 2024",
+          "customer": "Alma Jacob Puatu",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "SAND BEIGE",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

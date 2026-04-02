@@ -1,0 +1,488 @@
+{
+  "requestMetadata": {
+    "id": "2428ae8a-ff5c-4bfd-90cd-3358a3aa39e6",
+    "status": "ok",
+    "html": "https://files.hasdata.com/2428ae8a-ff5c-4bfd-90cd-3358a3aa39e6.html",
+    "json": "https://files.hasdata.com/2428ae8a-ff5c-4bfd-90cd-3358a3aa39e6.json",
+    "url": "https://www.amazon.com/dp/B01E527F2Y"
+  },
+  "product": {
+    "asin": "B01E527F2Y",
+    "url": "https://www.amazon.com/dp/B01E527F2Y",
+    "title": "COVERGIRL - Clean Matte BB Cream, Oil-Free, Long-Lasting, Sensitive Skin, Lightweight, 100% Cruelty-Free",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Light - 520",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Won't clog pores",
+      "Lasts all day",
+      "Oil Free BB Cream",
+      "Suitable BB Cream for sensitive skin"
+    ],
+    "description": "Product Description COVERGIRL Clean Matte BB Cream For Light Skin provides the perfect amount of coverage to even skin tone, hide blemishes and keep you shine free all day! Brand Story By CoverGirl",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "BB Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B0BK1YWKQ1",
+        "title": "Fair - 510 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BK1YWKQ1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61T+Pd93-AL._SL1292_.jpg"
+      },
+      {
+        "asin": "B01E527EZM",
+        "title": "Medium - 540 1 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01E527EZM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61MeYbJ9JDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01E527F5G",
+        "title": "Fair - 510 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01E527F5G",
+        "imageUrl": "https://m.media-amazon.com/images/I/51nx+r+pSxL._SL1280_.jpg"
+      },
+      {
+        "asin": "B01E527F2Y",
+        "title": "Light - 520 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01E527F2Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NgSm3ykkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01E527F38",
+        "title": "Light\\/Medium - 530 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01E527F38",
+        "imageUrl": "https://m.media-amazon.com/images/I/61T7r37W+ZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07N8SXWX9",
+        "title": "Light\\/Medium - 530 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B07N8SXWX9",
+        "imageUrl": "https://m.media-amazon.com/images/I/715MkVv3R3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01E527EZ2",
+        "title": "Medium\\/Deep - 550 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01E527EZ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tc57LuL-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01E527F6A",
+        "title": "Deep - 560 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01E527F6A",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ND8BILYwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D14Z5YSD",
+        "title": "Medium - 540 1 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0D14Z5YSD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qfovTfNBL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 5.49,
+      "beforePrice": 9.99,
+      "discount": "-45%",
+      "priceFrom": 4.53,
+      "otherOfferQuantity": 10
+    },
+    "condition": "Get it faster",
+    "deliveryRawDate": "Thursday, April 9",
+    "deliveryIsoDate": "2026-04-09T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "April 6 - 8",
+    "primeMemberDeliveryIsoDate": "2026-04-06T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "fastest",
+    "stockWarning": "Only 18 left in stock - order soon.",
+    "returns": "30-day refund/replacement",
+    "seller": "BeautyCentralUSA",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2UV4KF98QLFT8",
+    "shipper": "BeautyCentralUSA",
+    "totalImages": 11,
+    "primaryImage": "https://m.media-amazon.com/images/I/71NgSm3ykkL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71NgSm3ykkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61r6P0G5iKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51q6KbCFETL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91lWnASLEOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71QUbZiGfhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81IGMMy4+dL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81oQReVPRtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91XwblGwcRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/913ub50UQ1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-b1RHqstL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-jS4ebiNL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/cac3ce56-b4b9-40ac-8cc7-66ff14489473.__CR0,0,970,300_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/9bbdbbd8-0412-43e6-8f15-e0173ea6e484.__CR0,0,300,400_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/ea3565ac-a674-4bed-88d2-958c78d3e2ea.__CR0,0,350,175_PT0_SX350_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/108da57d-19fa-414c-8630-022df7fe2fc7.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/a2f9d48e-9e33-40f7-8037-72dda1f0a198.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/cd0ef99f-c1c8-4b4e-9699-3dcc92e2ce14.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/b3d13a31-af17-44c0-85d3-dfc70e1aaaab.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/5618493c-f6a1-481c-a220-131b2128426e.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/6d1eae28-b812-4eee-9cc6-1672ee878bae.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/6637de54-e43e-4532-91c9-6d53190531a2.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/b3d13a31-af17-44c0-85d3-dfc70e1aaaab.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/5618493c-f6a1-481c-a220-131b2128426e.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/6d1eae28-b812-4eee-9cc6-1672ee878bae.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/6637de54-e43e-4532-91c9-6d53190531a2.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/cd4946be-fb71-48d2-8fc0-95b5a0574d56.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/2c95bb42-a16f-43c0-ad71-c817a6eebde5.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/5a363e96-23bf-4c40-b73a-b4af5e5322f3.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/e6cc0dcb-2a0f-4672-8c4f-01c3cfb1d6c9.__CR0,0,150,300_PT0_SX150_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0a1738e4-e376-45cb-a7ad-a6d4d6f50ba8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/73d55839-377a-4770-bcc5-aac5dba76b51.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Light - 520"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Oily, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Oil Control"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "COVERGIRL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Oil Control, Long-Wearing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Non comedogenic"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00022700251124"
+      },
+      {
+        "key": "UPC",
+        "value": "022700251124"
+      },
+      {
+        "key": "Model Number",
+        "value": "10022700251121"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "10022700251121"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Coty Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#5,420 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #7 in BB Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01E527F2Y"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not-applicable"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.06 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.62 x 0.75 x 4.33 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 14671,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "15%",
+        "threeStars": "9%",
+        "twoStars": "3%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this BB cream provides great coverage and a flawless matte finish, while being lightweight and easy to apply with beauty blenders. The product receives positive feedback for its quality, with one customer noting it's better than other foundations. Regarding color match and longevity, opinions are mixed - while some say the color matches their skin tone perfectly, others find it too dark for fair skin, and while some say it stays on all day, others report it doesn't last as long. Similarly, customers disagree on the moisturizing effect, with some saying it keeps oily skin under control while others find it makes their skin look dry.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 437,
+          "status": "positive"
+        },
+        {
+          "aspect": "Matte finish",
+          "count": 227,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 199,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 191,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 132,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 193,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 157,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 139,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61hSvvngoVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613kiJaA4HL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/611gd+q2nQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61QNg0bIDCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71p+v50l0oL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Oe19JzslL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61lQ-K2qeqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71C5RIdBeaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81BF5booNBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/713Vs1xqGFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71eY4f4jJfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61d8WJ4X5lL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great lightweight coverage that stays matte all day",
+          "reviewText": "I\u2019ve tried so many BB creams over the years, and this one surprised me in the best way. The texture is light and blends easily with either fingers or a sponge. What stood out the most is how well it controlled shine\u2014my T-zone usually gets oily by midday, but this formula stayed matte without looking cakey or heavy. The coverage is light to medium, but it evens out redness really well and looks very natural. It doesn\u2019t settle into fine lines or cling to dry spots, and it wears comfortably throughout a full work shift. I also appreciate that it\u2019s oil-free, which makes it a great option for acne-prone or combination skin. Shade matching was accurate, and it layers nicely under powder or concealer without pilling. If you want something breathable with good oil control that still gives your skin a smooth, even finish, this is a great everyday product.",
+          "reviewDate": "Reviewed in the United States on November 19, 2025",
+          "customer": "Brittany Fragala",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFRMB44UJXYIZOJGUU6MLB7ICBJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light - 520",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Matte, Smooth, and Lightweight",
+          "reviewText": "The COVERGIRL Oil-Free Matte Cream Foundation in Fair is perfect for keeping my skin looking smooth and shine-free all day. The formula is lightweight, blends easily, and gives a natural matte finish without feeling heavy or cakey. It provides good coverage for everyday wear and works well with other makeup products. I also like that it\u2019s oil-free, so my skin stays comfortable even during long days. Overall, a reliable, high-quality foundation I\u2019d definitely repurchase.",
+          "reviewDate": "Reviewed in the United States on February 3, 2026",
+          "customer": "Mike",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEAMZSQZCCOIMPSVYU356HJCJQXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Fair - 510",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lightweight and great coverage!",
+          "reviewText": "As per usual Covergirl puller through. This bb cream goes on like a dream and it virtually smoothes your skin within minutes. It looks like you have a naturally great glow and is not greasy or heavy. The only drawback is the lack spf and what I've found is it tends to shift a bit later on in the day so your skin appears a tiny bit less perfect. It also dries out your skin a bit, but overall it's a great product.",
+          "reviewDate": "Reviewed in the United States on October 20, 2024",
+          "customer": "Nadia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRGGRWKKFGFN25UTS6UL7ZKHQTQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Light/Medium - 530",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "The very best light/medium coverage BB cream for oily skin",
+          "reviewText": "I'm a tough reviewer and I LOVE this product. It matches my skin tone well, covers imperfections naturally, great price, applies easily, doesn't break me out, and best of all it... it actually likes to stick to blemishes so that you don't need a separate concealer. All day wear too. I wouldn't recommend it for full glam or fancy events, but this is the best easy everyday make-up for oily or combination skin, especially acne prone skin. Feels good (not heavy) on your skin too.",
+          "reviewDate": "Reviewed in the United States on January 20, 2026",
+          "customer": "AverageGal",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXGJH3HEL2QHL36NVGJ67WJSSIA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light - 520",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Awesome BB cream!",
+          "reviewText": "I have been experimenting with different foundations/bb creams lately because I wanted something lighter that was not going to break me out. I LOVE L'oreal Infallible Pro-Matte foundation, but find that it upsets my skin a bit. My skin is very very sensitive to products and will break out after wearing a product just ONE time. Although this sucks, it also is very useful in helping me quickly eliminate products that will or will not work for me. For example, I tried the Maybelline Fit me Foundation (it has a TON of amazing reviews). The finish was flawless and really nice, but after wearing it for the first time for a few hours, my skin had broken out ALL OVER. My skin was completely clear that morning when I applied the foundation. So now on to my review of this bb cream: I ordered the Covergirl Clean Matte BB Cream based off of all the positive reviews. Here are the highlights: -I've worn this several times already ALL DAY and my skin has not broken out once. -I apply this with a slightly damp beauty blender and while the finish is not exactly matte, it's beautiful. It doesn't even look like you're wearing makeup, it dries to a soft dewy matte finish (if that's a thing!) I DO wear Maybelline Blur primer underneath. -Again, this DOES NOT LOOK LIKE MAKEUP ON YOUR SKIN! Very very natural finish all day. -Did not prevent my face from getting oily throughout the day, but it's fine, I just blot. The finish still looked natural and healthy all day, no caking, no oxidation. The staying power is impressive given that it's just a bb cream. -The coverage is about light/medium. If you have a ton of blemishes you are trying to cover, you will likely need a lot of concealer. -I was really upset that there were only so few color options available, so I bought 3 of them (light, medium and deep) so that I can blend my own color depending on how tan I am. The darker colors are very warm, so I blend in a little bit of LA Girl Blue Pigment. This stuff is awesome! -Even though there are very few shade options, I realized that since this is not a full coverage foundation the colors just blend in nicely with your skin tone as long as you selected a close enough match to your color. So don't stress too much about the color choice and buy multiple colors if needed and blend your own custom color. Overall, this is an amazing bb cream and I think I will replace my L'oreal foundation. I LOVE that it looks like I'm not wearing makeup and the fact that my face doesn't have pimples all over it at the end of the day when I wash this off is just awesome! Definitely worth a try!!",
+          "reviewDate": "Reviewed in the United States on September 9, 2020",
+          "customer": "kik",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEF6CQL65M6QSRHE7YOOZJGUFIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium/Deep - 550",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "35 people found this helpful"
+        },
+        {
+          "reviewTitle": "The Review You Were Looking For...",
+          "reviewText": "Like you, I was searching for a less heavy foundation to wear every day\u2013you know, something that still has minimal to light coverage but doesn't look too 'heavy baked.' Amazon of course recommend me to two products: (1) CG Smoothers and (2) CG Clean Matte BB Creams. So I bought both and compared, so you don't have to... Please note, I'm a 30 year old mom still suffering will occasional breakouts and uneven skintone. Nothing new, just life... I normally wear the following, - Revlon Colorstay foundation in 150, Buff, - Maybelline FitMe Powder in 110, Porcelain 1) CG Smoothers- 805 Fair to Light The consistency of this product is really smooth and light, more moisturising than tinting. Very light coverage, a little goes a long way, but also doesn't feel heavy on your face. I love that the color is true and doesnt oxydize. You definitely however need a setting powder to refresh every now and again. (4.5/5 stars) 2)CG Clean Matte BB Creams. It's a very dense BB cream, it's similar consistency to sunscreen, heavy. It also has a very heavy sunscreen odor to it too. However it's medium coverage and very matte\u2014keeping your face shine free all day. It's not very blendable, and you need a lot of product. Please note: this product does oxydize and gets darker. It's more medium toned than Fair and I do not recommend it for people with dry skin (3/5 stars)",
+          "reviewDate": "Reviewed in the United States on September 28, 2019",
+          "customer": "Zee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH5I7HL26WD5SVWAWTJBA6MBYIFQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Fair - 510",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "490 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light and Beautiful Coverage",
+          "reviewText": "I absolutely love this BB Cream! I have used it for years and its so light and natural and makes your skins look beautiful.",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Mariah A.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHO5JPFKLO3ID3BHQKQGIKRHWNXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light/Medium - 530",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great makeup with coverage and color. Long lasting. Reasonably priced.",
+          "reviewText": "Best makeup I have used. Great coverage, and love the color.",
+          "reviewDate": "Reviewed in the United States on February 17, 2026",
+          "customer": "connie martin",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHCM5LSWR36ZJMOHZU7DIKPCAZXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Fair - 510",
+            "size": "1 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Ok",
+          "reviewText": "Ok",
+          "reviewDate": "Reviewed in the United Kingdom on January 21, 2025",
+          "customer": "Great service",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light/Medium - 530",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Four Stars",
+          "reviewText": "Good as expected",
+          "reviewDate": "Reviewed in India on December 29, 2017",
+          "customer": "sun",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Light/Medium - 530",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Honest Review on this BB Cream",
+          "reviewText": "Achieve a fresh, matte finish with COVERGIRL Clean Matte BB Cream. This oil-free, lightweight formula provides long-lasting coverage while being gentle on sensitive skin. Perfect for daily use, it delivers a smooth, even complexion and helps control shine without clogging pores. Plus, it\u2019s 100% cruelty-free, making it a great choice for a beauty routine that aligns with your values. #CovergirlBBCream #MatteFinish #OilFreeFoundation #SensitiveSkin #LightweightMakeup #LongLastingCoverage #CrueltyFreeBeauty #CleanBeauty #FlawlessComplexion #BeautyEssentials",
+          "reviewDate": "Reviewed in Canada on August 9, 2024",
+          "customer": "Lindsay Nash",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light/Medium - 530",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Peels off",
+          "reviewText": "It peels off and does not glides on smoothly",
+          "reviewDate": "Reviewed in India on January 2, 2025",
+          "customer": "Satyajeet Parida",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Fair - 510",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "requestMetadata": {
+    "id": "2a29292b-a987-4909-bc67-0d415b434a7f",
+    "status": "ok",
+    "html": "https://files.hasdata.com/2a29292b-a987-4909-bc67-0d415b434a7f.html",
+    "json": "https://files.hasdata.com/2a29292b-a987-4909-bc67-0d415b434a7f.json",
+    "url": "https://www.amazon.com/dp/B0FT28XK4D"
+  },
+  "product": {
+    "asin": "B0FT28XK4D",
+    "url": "https://www.amazon.com/dp/B0FT28XK4D",
+    "title": "CLIO Kill Cover Mesh Glow Essential Cushion Foundation, Buildable Ultra-Fit Coverage with Glow Finish, Long-Lasting Hydration, Flawless Natural Cover for Radiant Skin, Korean Foundation (23N GINGER)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "23N GINGER"
+    },
+    "featureBullets": [
+      "[Smooth, Radiant Glow Without Caking] : Achieve a flawless, natural glow that stays smooth and even throughout the day. The lightweight texture blends seamlessly onto the skin, delivering a radiant finish without clumping or dryness",
+      "[Natural, Lightweight Coverage with a Smooth, Skin-Like Finish] : Experience lightweight coverage that blends seamlessly for a natural, skin-like glow. The flexible formula evens out tone and blurs imperfections without caking",
+      "[Mesh Filter for Precise, Seamless Coverage] : Designed with a delicate mesh filter, this cushion dispenses the ideal amount of formula for a thin, even layer every time. The fine mesh structure provide smooth, buildable coverage that feels weightless yet refined.",
+      "[Hydrated Cover with Skin-Conditioning Ingredients] : Formulated with hyaluronic acid and skin-conditioning agents, this cushion replenishes moisture while maintaining a light, breathable feel.",
+      "[Expertly Crafted by Korea's No. 1 Cushion Brand] Developed by CLIO PROFESSIONALS, a brand with 10 years of leadership in cushion foundations. This new formula will bring you the original cushion experience redefined."
+    ],
+    "boughtInPastMonth": "200+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FT28XTZ1",
+        "title": "21N LINEN",
+        "url": "https://www.amazon.com/dp/B0FT28XTZ1",
+        "imageUrl": "https://m.media-amazon.com/images/I/51NIWkO+G8L._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FT25TB6G",
+        "title": "19N PORCELAIN",
+        "url": "https://www.amazon.com/dp/B0FT25TB6G",
+        "imageUrl": "https://m.media-amazon.com/images/I/51InwegxtHL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FT28XK4D",
+        "title": "23N GINGER",
+        "url": "https://www.amazon.com/dp/B0FT28XK4D",
+        "imageUrl": "https://m.media-amazon.com/images/I/516V6oDYUyL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FT25SDCR",
+        "title": "21C LINGERIE",
+        "url": "https://www.amazon.com/dp/B0FT25SDCR",
+        "imageUrl": "https://m.media-amazon.com/images/I/513AU453xnL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FT25R5QN",
+        "title": "19C LIGHT",
+        "url": "https://www.amazon.com/dp/B0FT25R5QN",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XCowfQqiL._SL1200_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 17.5,
+      "beforePrice": 25,
+      "discount": "-30%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 44 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "CLUBCLIO",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2E0HNCQBOCXG2",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/516V6oDYUyL._SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/516V6oDYUyL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/711UXVhKvhL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/71TEYZXOtdL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/71Pk2pj9jdL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/71SPsDZAUtL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61cwLmfwWeL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/516ss8vRydL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61C4zffJUQL._SL1200_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5fe1648-cf3c-466b-a07e-6f678788c58b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e802f50-f1f6-4b7d-a05b-e636f917ac3a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/21fe3b17-32d3-4298-9319-c472d42e5a4f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a91d38e3-621c-4bb6-9926-b7bf84ad941a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20be8697-592f-45c0-a082-8444aa0fb46f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bbbcfb0f-3dfe-4151-8ec6-ec00f2c8503a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b5c8d90-28a0-42ff-b744-7e8ba854d7b6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8bdc4bc4-9a63-4081-ae7c-8990fe9a61ad.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/267ac879-d231-40a7-8857-2975ea973630.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e039a0ab-485f-4b77-bf6f-a958889ceca7.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a58f1b4d-9560-44b3-94d5-5ef84d28b243.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e05ff37f-b634-469a-9683-7c452b1735d3.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2627907e-d16c-4dc3-bd2f-bd13e2a4f091.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5f922a60-6af4-4a2c-bdf9-e0311f8fa40b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a32192bf-3451-452d-8df0-1c2762da0908.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e3e29024-b1d2-4bb3-b640-cd572799eb1e.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "23N GINGER"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Evening Skin Tone"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "CLIO PROFESSIONAL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Corrects Imperfections, Flawless, Hydrating, Radiant Finish, Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "CLIO"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#12,442 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #135 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FT28XK4D"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable, Lightweight, Long Lasting"
+      },
+      {
+        "key": "Contour Shade Undertone",
+        "value": "Neutral"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Semi-Glow"
+      },
+      {
+        "key": "Coverage",
+        "value": "Buildable to Medium"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 88,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "67%",
+        "fourStars": "15%",
+        "threeStars": "9%",
+        "twoStars": "3%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find the foundation beautiful and appreciate its coverage, with one noting it provides great coverage without looking cakey. The texture receives positive feedback, with one customer mentioning it creates an even skin appearance. The color match receives mixed reviews - while some praise the natural glow, others find it too dark for very light skin tones.",
+      "aspects": [
+        {
+          "aspect": "Appearance",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 10,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71cKTmhJvgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71m6OOK7arL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/617m89QPbpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/417PS48wj3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61YeMetYQ+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/617CI03DcLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41mwLzLvmQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51yAhmVAB0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61tsdwuumrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61h2eivbaAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61vNFF3qQqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61u88v3HaAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Hands down the best foundation I have ever had. Absolutely beautiful",
+          "reviewText": "The best foundation I have ever had. I am very picky about foundation. I have never found a foundation that matches my skin so well. It's actually amazing. This is the first time I found one that wasn't too light or too dark. And the feel of it is great and the look of it overall , texture and color, is amazing. Hands down my favorite. And I am 42 years old with extremely dry and sun damaged skin. I have deep wrinkles due to lots of tanning for many years. This stuff sits on the skin beautifully. Highly recommend!!!",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Theresa",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFW5VD6YDTEEW6TEMI2FEA7OHNDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "23N GINGER"
+          }
+        },
+        {
+          "reviewTitle": "Great Color Match!",
+          "reviewText": "First of all the package feels so luxurious. I love it. It seems like the coverage is actually better than I anticipated but feels easy to apply lightly or as a medium coverage. Just purchased yesterday so I\u2019ll update after some wear tests but the color match is superb. I was really concerned with this before buying. It\u2019s been on my list for like a year (the older version, this new one was just released) and I kept not buying because I was worried about color matching online and wasting money. I\u2019m light-medium with cool undertone. I ordered the 23N Ginger shade, but was in-between getting this one and the 21C shade. I was worried it would be too warm since it\u2019s listed as neutral but I felt like I needed the darker one because 21 would be too light, even though it had the cool undertone I needed. Sometimes I can pull off neutral but for the most part, I\u2019m always cool in foundations. Happy to report it\u2019s not too warm and the shade match is great. Here\u2019s some other brands/shades I\u2019ve tried to help see if this would match you well too: La Mer Foundation - 150 Natural (12) Dior Skin Glow - 2CR - 2 Cool Rosy L'Oreal Tinted Serum - 3-4 Light Medium NARS Light Reflecting Foundation - Vallauris - M1.5 (I hate this foundation/too drying) Maybelline Superstay tint - 120 (US) Hourglass Veil Hydrating Skin Tint - 6 Ciele tint & PROTECT - 04 Light Medium ELF Halo Glow - 3 Light/Medium Cool Dior Foundation Stick - 2CR Cool Rosy L'Oreal True Match Foundation (US) - C3 Cool Natasha Denona - N5 Light Medium Neutral",
+          "reviewDate": "Reviewed in the United States on November 22, 2025",
+          "customer": "Simone",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHY26FKK5A4AQJGLJMPXHYRMHAJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "23N GINGER"
+          },
+          "helpfulVotes": "22 people found this helpful"
+        },
+        {
+          "reviewTitle": "Color it\u2019s light",
+          "reviewText": "I was thinking color will be a little bit darker But it\u2019s fine",
+          "reviewDate": "Reviewed in the United States on December 3, 2025",
+          "customer": "Denys Dudnyk",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFFUBO7DHYV3PP6AH5QANW4SQFYA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "21N LINEN"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love it",
+          "reviewText": "Smooth perfect tone for my extremely pale self. High coverage and buildable. Very happy with the change to this product and I\u2019ll definitely be getting again",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Erin Walsh",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHZS5LJ4DOLBS3B7XIKU5WK6MNDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "19C LIGHT"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Gives a dewey glow and great coverage",
+          "reviewText": "I cannot recommend this enough. This foundation has amazing coverage without looking cakey. I love that it evens out my skin tone and makes my skin look like I have even texture. It gives you that Dewey and glowing face that everyone is looking for and it looks natural. I\u2019m a huge fan of this and will be buying again",
+          "reviewDate": "Reviewed in the United States on January 3, 2026",
+          "customer": "kelley",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEHE42AGCXNGN7VSD75QIYQEEFLQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "19C LIGHT"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Pretty application, too dark for very light skin tones.",
+          "reviewText": "I really like the the way the product blends and looks on my skin. The mesh application is wonderful. It\u2019s very buildable, while still feeling light and having a glow, perfect for dry skin. However, I\u2019m a bit suprised by the color of 19C, considering all the sample photos I looked up. I suppose the number could\u2019ve hinted it for me, but the product is much darker than I expected and has a bit of a yellow tone. I\u2019m typically the lightest shade with cool tone. For reference, on the left of my wrist is Clios glow mesh 19C and the right is TirTir Red cushion 10C.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Tobi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGIV533HORUR223OQBMRXO6TWLIA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "19C LIGHT"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Unexpectedly good",
+          "reviewText": "Finish was more matte and dry so I was worried it would be cakey and stick to my dry skin, but it didn\u2019t. There was a subtle glow finish but the foundation didn\u2019t budge. I recommend it",
+          "reviewDate": "Reviewed in the United States on March 29, 2026",
+          "customer": "Biscuit the Dog",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEIUPLF5ZGVSZF57E3XP5DI47H4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "19N PORCELAIN"
+          }
+        }
+      ]
+    }
+  }
+}

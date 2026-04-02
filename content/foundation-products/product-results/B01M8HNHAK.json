@@ -1,0 +1,556 @@
+{
+  "requestMetadata": {
+    "id": "beb0edd4-cd22-4a19-95d7-b7411e673c6f",
+    "status": "ok",
+    "html": "https://files.hasdata.com/beb0edd4-cd22-4a19-95d7-b7411e673c6f.html",
+    "json": "https://files.hasdata.com/beb0edd4-cd22-4a19-95d7-b7411e673c6f.json",
+    "url": "https://www.amazon.com/dp/B01M8HNHAK"
+  },
+  "product": {
+    "asin": "B01M8HNHAK",
+    "url": "https://www.amazon.com/dp/B01M8HNHAK",
+    "title": "L.A. Girl Pro Coverage Liquid Foundation, White, 0.95 Fl Oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "White (Foundation Lightener)",
+      "size": "0.95 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Long wearing",
+      "Medium to full coverage",
+      "Skin type: All",
+      "Number of items: 1.0"
+    ],
+    "description": "Seamless, full-coverage, skin-like finish so flawless, they\u2019ll be asking who did your makeup. PRO.coverage HD Illuminating Foundation has a buildable, lightweight, antioxidant rich formula that hydrates and helps improve skin appearance while you wear. Cover imperfections, and even out skin tone with a dewy, radiant finish that looks like your skin, but better. It\u2019s like having a pro MUA in a bottle.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B01MEEBI0L",
+        "title": "Sand 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MEEBI0L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ohP3dWz7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01M7P05Q9",
+        "title": "Rich Cocoa 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M7P05Q9",
+        "imageUrl": "https://m.media-amazon.com/images/I/51sNHVg9gIL._SL1080_.jpg"
+      },
+      {
+        "asin": "B01MCSYHEO",
+        "title": "Toast 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MCSYHEO",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vicyzyRtL._SL1080_.jpg"
+      },
+      {
+        "asin": "B01MCSYVRW",
+        "title": "Tan 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MCSYVRW",
+        "imageUrl": "https://m.media-amazon.com/images/I/51dVyVEkrJL._SL1080_.jpg"
+      },
+      {
+        "asin": "B01M2WISFI",
+        "title": "Soft Honey 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M2WISFI",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NyYyf2rZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09LKXTPBL",
+        "title": "White 0.95 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B09LKXTPBL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AdnbvnjNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01M7P07CU",
+        "title": "Beige 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M7P07CU",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DG0nhseRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZHWJF7",
+        "title": "Nude Beige 0.95 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBZHWJF7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DdhnN5fLL._SL1366_.jpg"
+      },
+      {
+        "asin": "B01M4IGE0Y",
+        "title": "Fair 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M4IGE0Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Bgr3Y13TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01MA35R47",
+        "title": "Porcelain 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MA35R47",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Q4siGC7ML._SL1080_.jpg"
+      },
+      {
+        "asin": "B01MF71U77",
+        "title": "Natural 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MF71U77",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IWYk6eAUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BGQNQHRR",
+        "title": "Fair 0.95 Fl Oz (Pack of 5)",
+        "url": "https://www.amazon.com/dp/B0BGQNQHRR",
+        "imageUrl": "https://m.media-amazon.com/images/I/41OMEJWDjzL.jpg"
+      },
+      {
+        "asin": "B0BPWHYLP7",
+        "title": "Bronze 0.95 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BPWHYLP7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61YyDUGrqQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BPW7GHQ7",
+        "title": "Warm Caramel 0.95 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BPW7GHQ7",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KBIFT-BlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BW3QW63K",
+        "title": "Rich Cocoa 0.95 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BW3QW63K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71o8IXxLIPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01M8HNHAK",
+        "title": "White (Foundation Lightener) 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M8HNHAK",
+        "imageUrl": "https://m.media-amazon.com/images/I/514Hvhd80pL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0BPWBC36T",
+        "title": "Coffee 0.95 Fl Oz (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0BPWBC36T",
+        "imageUrl": "https://m.media-amazon.com/images/I/61L3r6-SvXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BGQQ3R14",
+        "title": "White 0.95 Fl Oz (Pack of 5)",
+        "url": "https://www.amazon.com/dp/B0BGQQ3R14",
+        "imageUrl": "https://m.media-amazon.com/images/I/41E3iMeb4zL.jpg"
+      },
+      {
+        "asin": "B01M7P05PX",
+        "title": "Warm Beige 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M7P05PX",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Dj68uT61L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01M7P07CI",
+        "title": "Coffee 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M7P07CI",
+        "imageUrl": "https://m.media-amazon.com/images/I/61YoDuUG8UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C1MZ352V",
+        "title": "Natural 0.95 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0C1MZ352V",
+        "imageUrl": "https://m.media-amazon.com/images/I/71lduwLTxyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01MA35XN6",
+        "title": "Nude Beige 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MA35XN6",
+        "imageUrl": "https://m.media-amazon.com/images/I/51EEodP7XKL._SL1080_.jpg"
+      },
+      {
+        "asin": "B01MFXCA6Y",
+        "title": "Warm Caramel 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MFXCA6Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cDIZt5mYL._SL1080_.jpg"
+      },
+      {
+        "asin": "B01M5AOBRN",
+        "title": "Bronze 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M5AOBRN",
+        "imageUrl": "https://m.media-amazon.com/images/I/719+diW-cXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01M23WXA5",
+        "title": "Dark Chocolate 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M23WXA5",
+        "imageUrl": "https://m.media-amazon.com/images/I/615w5M5EA-L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.86,
+      "beforePrice": 9.99,
+      "discount": "-11%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 25 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "rigle",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3HQNF3RWD6VPQ",
+    "shipper": "Amazon",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/514Hvhd80pL._SL1080_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/514Hvhd80pL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61SbEsaPUGL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61U3CbTajpL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61-gM80jsSL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61Aao4hy+AL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61R6EHr3++L._SL1080_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4c643c21-7cb2-46b2-952e-c3a995f79bc0._CR1,0,364,364_PT0_SX300__.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/525ebb02-28e8-48fe-9584-b50d5de8d40c._CR188,0,1125,1500_PT0_SX300__.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/968945ab-7d6b-453e-8d01-fd4cc90d3b0c._CR35,0,566,283_PT0_SX350__.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90d932bf-8526-4075-b048-e0d886072ea3._CR500,0,1500,2000_PT0_SX300__.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fb170b30-74c5-43a4-bc3d-9c7f97071324._CR0,502,2277,1139_PT0_SX350__.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/525ebb02-28e8-48fe-9584-b50d5de8d40c._CR375,0,750,1500_PT0_SX150__.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a87f75b-0630-49f6-b3b1-b77090c01f0b._CR375,0,750,1500_PT0_SX150__.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5a1ff292-de83-40f5-9b7d-5641ab195a1d._CR375,0,750,1500_PT0_SX150__.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b344ff99-da7a-4243-b308-a879d092526d._CR375,0,750,1500_PT0_SX150__.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20be30cc-b8a9-413b-ac8e-f217475204cb._CR375,0,750,1500_PT0_SX150__.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9d43c40-7dd2-44d7-9a9a-3aa05e27f4b7._CR375,0,750,1500_PT0_SX150__.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/43b8d39b-09ff-4412-b9fd-cad25a5bf92b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d15f59bd-4866-4a17-a415-5355d9854a7a.MP4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "White (Foundation Lightener)"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L.A. Girl"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Buildable coverage, Cruelty-free, Hydrating, Lightweight, Paraben-free, Vegan"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Paraben-Free"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "China"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00081555966416"
+      },
+      {
+        "key": "UPC",
+        "value": "081555966416"
+      },
+      {
+        "key": "Model Number",
+        "value": "GLM641"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "GLM641"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L.A. Girl Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#9,198 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #101 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01M8HNHAK"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Blendable, Buildable coverage, Creamy texture, Cruelty-free, Customizable Coverage"
+      },
+      {
+        "key": "Contour Shade Undertone",
+        "value": "Warm"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy, Luminous, Natural, Shimmery"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full, Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "28 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.13 x 1.13 x 4.81 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty-free, Paraben-free, Vegan"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 8788,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "68%",
+        "fourStars": "16%",
+        "threeStars": "9%",
+        "twoStars": "3%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage, with one noting it serves as a base for thicker coverage. The product receives positive feedback for its quality, smooth application, dewy finish, and effectiveness, particularly in lightening other foundations. Moreover, it lasts well throughout the day, especially in hot weather. However, the color receives mixed reviews, with some finding it extremely pigmented while others say it's not as pigmented as desired. Additionally, customers report mixed experiences with skin irritation, noting it doesn't break out sensitive skin but can become patchy over time.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 283,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 232,
+          "status": "positive"
+        },
+        {
+          "aspect": "Finish",
+          "count": 149,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 135,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 131,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 258,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 165,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin irritation",
+          "count": 135,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61yOG3vDQgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61hOH+AZLJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71uR7wx1pTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-ZwLmsPpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71StMfuMEDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71T4ufneS+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61H3Ln0URiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71UbkSpZorL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71b93F20rVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81t9406iJrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61rEGFcxPmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71AJrJm8xqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great Foundation",
+          "reviewText": "I absolutely love the L.A. Girl Pro Coverage foundation! The shade Toast matches my skin tone perfectly\u2014it blends effortlessly and gives me a smooth, radiant finish without feeling heavy. It provides great coverage while still looking natural, and it lasts all day without getting cakey or patchy. I also appreciate the pump bottle, which makes it super easy to use and prevents product waste. For the price, this foundation performs better than many high-end brands. Definitely my go-to foundation from now on!",
+          "reviewDate": "Reviewed in the United States on October 22, 2025",
+          "customer": "hawthorne",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHBIH7FAA2MSL2L7YRASYLZBWGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Toast",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lasted through an aerial performance which involved fake blood being poured on me!",
+          "reviewText": "I\u2019m a circus performer, and I needed urgent white foundation for a show. This saved my life!! 1) This is so good. Great coverage. I did two layers and setting powder, but one layer is really good for softer less clowny looks. 2) This did NOT come off easy at all. Not only did it last through an entire aerial performance, but I got fake blood poured on me and it didn\u2019t budge one bit. It didn\u2019t even rinse off with the water in the shower until I used makeup remover. Idk what people are talking about with it coming off easily. I even wore my glasses to drive with this look for about 2 hours and less of it moved than my normal foundation. 3) It also didn\u2019t smell?? It smelled exactly how my regular foundation and concealer smell lol (and those are prestige brands) Overall really solid. I will be using again and likely purchasing again. I included before and after pics of the look. Not sure why other people are complaining, must be a skill issue lol.",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Lily Wheaton",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBR5E3LFGJ6ILNVCQ7DERK7HDWA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "White (Foundation Lightener)",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect!",
+          "reviewText": "great coverage! I\u2019m very white so i use this as an everyday light foundation, it feels super airy on your skin and once fully dried, it doesn\u2019t smudge easy. it\u2019s very easy to smooth out.",
+          "reviewDate": "Reviewed in the United States on January 23, 2026",
+          "customer": "Cecilia Wilkosz",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYI3IALKW3RDSMRVMGZSUFXET5Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "White (Foundation Lightener)",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "VERYYY white but really good!",
+          "reviewText": "Very white but good!",
+          "reviewDate": "Reviewed in the United States on February 12, 2026",
+          "customer": "Charlotte",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHK6Q3XZLLA56RHYHYQ5WQMW55CQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "White (Foundation Lightener)",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great foundation for more dry skin! Love it!",
+          "reviewText": "To preface I have been trying out some products that are not as high end as what I have been used to using. I've been feeling it's often a waste. Sooo, I decided to get this foundation after some research and I love it. I have dry skin and am middle aged. I don't have deep lines, but some laxity here and there, but nothing terrible. I have been using this for about 8 days or so after going to the store to purchase a darker shade to mix with the fair which is just a tad too light for my light to medium complexion with yellow/golden undertones. Keeps me hydrated and doesn't settle in to any of my few lax areas. I never powder and this stays luminous, but not damp on my skin. I can feel an ever so slight moist feeling if I touch my face, but not off putting nor like it is slipping around. I ended up getting Natural and use 3/4 fair mixed with 1/4th natural. When these run out I'll get the white to mix with Natural. Great price (not my usual $55.00 foundation) and really looks beautiful on the skin. Could build to a full coverage easily, but I like the decent medium coverage it gives with the first application. My co worker even commented if I was using a new foundation as she is very dry. She has purchased it here on Amazon as well and is loving it. Lastly, I've used a primer and also applied with no primer. I always use a primer, but do like this for work without and it lasts a full 9 hours on me and I work in healthcare and my days very busy and laborious! Don't think it would work well on an oily complexion.",
+          "reviewDate": "Reviewed in the United States on January 16, 2018",
+          "customer": "Traveler",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYOTQYWO4OJXSZ7FTAPJFMZJR2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Fair",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "22 people found this helpful"
+        },
+        {
+          "reviewTitle": "Gets the job done",
+          "reviewText": "I like the foundation, it was my first white foundation. It has decent coverage, but looks very cakey on skin. Overall it's cheap and you get what you pay for.",
+          "reviewDate": "Reviewed in the United States on February 5, 2026",
+          "customer": "Kylie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHE6M2726IJOFJS5MF2UBD2QA6LQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "White (Foundation Lightener)",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great For A Mix In",
+          "reviewText": "This is perfect to add to your foundation if it is too dark. Every foundation for me is either too dark or too light. It mixes in very well. It is hydrating. I have dry skin. I have never used it on its own. For a mix in it it perfect.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "Tina",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFRN4365KCDFEY66IFCNJZXS7ZWQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "White (Foundation Lightener)",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great coverage for dark skin as well!",
+          "reviewText": "Im black af and one layer made me WHITE not gray but WHITE! It\u2019s very lightweight feels like normal makeup and good quality! Great buildup doesn\u2019t get cakey and you can use other things on top! It\u2019s a normal foundation just white:)!",
+          "reviewDate": "Reviewed in the United States on January 13, 2026",
+          "customer": "Alitah Gilmore",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGJZ3DWCKLDUIB7YCK26FUY3TI5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "White (Foundation Lightener)",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "It\u2019s okay",
+          "reviewText": "Been using for years but think they have changed it as it\u2019s not as good as it used to be.",
+          "reviewDate": "Reviewed in the United Kingdom on July 30, 2025",
+          "customer": "X",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Beige",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Five Stars",
+          "reviewText": "good product",
+          "reviewDate": "Reviewed in the United Kingdom on April 29, 2018",
+          "customer": "Richardmisterio",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Warm Caramel",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Best product in its category",
+          "reviewText": "One of the best dry skin foundation that I ever come across.",
+          "reviewDate": "Reviewed in India on December 30, 2025",
+          "customer": "Vrushali",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Soft Honey",
+            "size": "0.95 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

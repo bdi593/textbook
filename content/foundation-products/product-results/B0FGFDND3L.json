@@ -1,0 +1,455 @@
+{
+  "requestMetadata": {
+    "id": "bff6511c-6ccd-48bf-a744-eb94007251aa",
+    "status": "ok",
+    "html": "https://files.hasdata.com/bff6511c-6ccd-48bf-a744-eb94007251aa.html",
+    "json": "https://files.hasdata.com/bff6511c-6ccd-48bf-a744-eb94007251aa.json",
+    "url": "https://www.amazon.com/dp/B0FGFDND3L"
+  },
+  "product": {
+    "asin": "B0FGFDND3L",
+    "url": "https://www.amazon.com/dp/B0FGFDND3L",
+    "title": "Charlotte Tilbury Unreal Skin Tint & Sheer Glow Hydrating Foundation Stick - Cream Foundation Makeup with Sheer-to-Light Coverage & a Buildable Formula - Blurring, Smoothing & Nourishing",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "05 Medium - Medium with neutral undertones"
+    },
+    "featureBullets": [
+      "Glow\u2011Skin Tint Effect - Sheer, radiant coverage dewy foundation stick that smooths and blurs for a second\u2011skin, ring\u2011light glow with zero heaviness.",
+      "Hydro\u2011Plumping Actives - Multi\u2011molecular hyaluronic acid delivers immediate hydration and helps the cream makeup to lock in moisture for up to 24\u202fhours.",
+      "Skin\u2011Strengthening Blend - Plant\u2011powered Collageneer\u2122, daikon seed oil & vitamin\u202fE work together to firm, nourish & enhance elasticity, all within one swipe.",
+      "How to Apply - Swipe, blend & go. Apply the lightweight foundation directly to forehead, cheeks, nose, chin, blend with fingers for flawless, no makeup makeup glamour in seconds.",
+      "Charlotte's Magic Story - Inspired by her iconic artistry and passion for innovation, Charlotte's mission is to empower everyone to look and feel like the most confident, beautiful version of themselves through makeup's transformative power. Charlotte Tilbury is highly regarded as an industry icon, trend trailblazer and beauty innovator across makeup, skincare and fragrance."
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FGDTY4ST",
+        "title": "13 Deep - Tan-deep with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FGDTY4ST",
+        "imageUrl": "https://m.media-amazon.com/images/I/51yjTj7BdDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGF5H76R",
+        "title": "01 Fair - Fairest with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FGF5H76R",
+        "imageUrl": "https://m.media-amazon.com/images/I/51H7H-wTN3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGDWLV64",
+        "title": "12.5 Tan - Tan-deep with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FGDWLV64",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TcAUGvW7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGDX14VZ",
+        "title": "11 Tan - Tan with cool undertones",
+        "url": "https://www.amazon.com/dp/B0FGDX14VZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Kr0gLY1GL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGFDND3L",
+        "title": "05 Medium - Medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FGFDND3L",
+        "imageUrl": "https://m.media-amazon.com/images/I/51nwBjOuA6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGDZGC2L",
+        "title": "17 Deep - Deepest with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FGDZGC2L",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ksmc9pDWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGDS8WB5",
+        "title": "01.5 Fair - Fair with warm undertones",
+        "url": "https://www.amazon.com/dp/B0FGDS8WB5",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PqPusTD1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGF2TFG2",
+        "title": "09 Tan - Medium-tan with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FGF2TFG2",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ohI2pSceL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGF9HMSS",
+        "title": "16 Deep - Deepest with cool undertones",
+        "url": "https://www.amazon.com/dp/B0FGF9HMSS",
+        "imageUrl": "https://m.media-amazon.com/images/I/518lT8zJ2YL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGFDBNB3",
+        "title": "08 Medium - Medium-tan with warm undertones",
+        "url": "https://www.amazon.com/dp/B0FGFDBNB3",
+        "imageUrl": "https://m.media-amazon.com/images/I/51nQ-3-C9zL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DLXZC3DK",
+        "title": "06 Medium - Medium with cool undertones",
+        "url": "https://www.amazon.com/dp/B0DLXZC3DK",
+        "imageUrl": "https://m.media-amazon.com/images/I/51IbD1kGuEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DLQ8FY9K",
+        "title": "03 Fair - Fair with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0DLQ8FY9K",
+        "imageUrl": "https://m.media-amazon.com/images/I/51sDvJvbH6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGDV3Y9P",
+        "title": "12 Tan - Tan-deep with warm undertones",
+        "url": "https://www.amazon.com/dp/B0FGDV3Y9P",
+        "imageUrl": "https://m.media-amazon.com/images/I/51i++5FfiKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGDVVXKK",
+        "title": "07.5 Medium - Medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FGDVVXKK",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RP0Dwi8rL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGDY3GYL",
+        "title": "14 Deep - Deep with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FGDY3GYL",
+        "imageUrl": "https://m.media-amazon.com/images/I/51z9xsK2TWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGDTDPT6",
+        "title": "15 Deep - Deep with warm undertones",
+        "url": "https://www.amazon.com/dp/B0FGDTDPT6",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TbasZp-lL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGF2TV6J",
+        "title": "04 Fair - Fair-medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0FGF2TV6J",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XzQDBSs4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DLPCTXGT",
+        "title": "02 Fair - Fair with cool undertones",
+        "url": "https://www.amazon.com/dp/B0DLPCTXGT",
+        "imageUrl": "https://m.media-amazon.com/images/I/51lHaXUZsVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGF7B6XP",
+        "title": "07 Medium - Medium with warm undertones",
+        "url": "https://www.amazon.com/dp/B0FGF7B6XP",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HfqiZI4JL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FGF9PD5R",
+        "title": "10 Tan - Tan with warm undertones",
+        "url": "https://www.amazon.com/dp/B0FGF9PD5R",
+        "imageUrl": "https://m.media-amazon.com/images/I/51lt-WWBvZL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 38.4,
+      "beforePrice": 48,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 10,
+    "primaryImage": "https://m.media-amazon.com/images/I/51nwBjOuA6L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51nwBjOuA6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mFnVJ58DL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mqAflHWqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81hY95YFSzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819X2VkfzQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81U88FYHb2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81zkxqgDOlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71HrS0D43ZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810Cq8tK+DL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7172v5athoL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/93407667-a2cb-4692-a14f-e440c210c613.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/50e33648-a798-4887-b337-1aa26f101304.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03b09c28-0433-4e22-b675-7fca8f43c4c3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a9c5b69-65a6-4d00-ad3a-6af0157d88b3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f99c47db-cf40-4f2f-8556-5e2b25dc108d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/068dd5d7-6978-4631-b41e-05363e54e73f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3c355ef7-476e-4269-bd2e-5fe66cfb50c5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fd9d68af-b847-49eb-865f-c27e829d5bf8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e65e9fa5-bcd0-4d0c-b8fe-5ae31c7b7879.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d269bea3-e001-44e2-b828-2f85c7a9ef2f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ddcd62fa-519e-457f-b2e7-1ce4dc86d539.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8ab37ab-9b9f-4b8b-95b8-9e32e8016038.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/61d300c7-9b9a-44ee-99f6-4bd8eeff9528.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b14af37-f291-4ecc-a72f-11793bb5294d.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/729bd76e-3256-4c3b-94b6-f245f5852dc9.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b686b85-0239-4323-9b1a-cc7a28f27c66.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/561c5122-cd98-41a5-81f8-c13096d64ce6.__AC_SR200,225___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream Stick"
+      },
+      {
+        "key": "Color",
+        "value": "05 Medium - Medium with neutral undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal, Dry, Combination"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Swipe-on foundation stick for quick, natural coverage that hydrates, blurs, and enhances radiant skin"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Charlotte Tilbury"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating, soft\u2011focus glow that smooths and blurs with skincare ingredients."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "CHARLOTTE T | HOLLYWOOD FLAWLESS FILTER"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Charlotte Tilbury Beauty Inc."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#12,860 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #139 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FGFDND3L"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Easy application, hydrating and skin strengthening, plumping, buildable"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Sheer, Buildable"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.06 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 509,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "18%",
+        "threeStars": "5%",
+        "twoStars": "2%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find the foundation stick provides light coverage with a beautiful radiant finish and is easy to apply, with one customer noting it can be layered for more coverage. The product receives positive feedback for its moisturizing properties and lightweight feel, and one customer mentions it's particularly suitable for older skin. The natural appearance receives mixed reactions, with some customers appreciating the sheen while others find it too shiny. The greasiness aspect also gets mixed reviews, with several customers noting it leaves their face slightly greasy.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 19,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 17,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 9,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin tint",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 17,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Greasiness",
+          "count": 6,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61+WgkMpS0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Zw3nFfisL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81T7q-D9YHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/612DsP5nHkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71D7hlpirYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/615Y0V0IlHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/612vR1tya9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/710qRXIjQoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61b1awjf3uL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61KTVbCEJ1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71H7bEoWjUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81fmsAFZxvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "AMAZING! But probably not the best for oily skin :(",
+          "reviewText": "This product is great! Even as a skin tint, it still gives satisfactory coverage. It adds A LOT, and I mean A LOT of glow to my face. However, to all my oily girls out there, I want to say that this might not be for you, sadly. As I bought it, I thought this product wouldn't give me much of a glow (even though it does say \"Sheer Glow Hydrating Foundation Stick\" \ud83e\udd26\u2640\ufe0f), and I was EXTREMELY wrong. So if you're like me and you have oily skin, please reconsider buying something else, maybe a matte skin tint or foundation, as I have. I hardly use this product anymore as it just makes me even more oily, and I've noticed myself applying setting powder more often throughout the day. However, if you don't have oily skin and want that extra glow, this is totally the product for you. When completely out, there's about 2 inches of product, and the application is SOO smooth. It can be easily brushed into the skin with a foundation brush or just a blender. Its super lightweight to the point I hardly feel it there. The coverage is not much as it is a skintint, but it definitely covers most of my redness. Price-wise, I'd say it is definitely priced the way it is for a reason. The product is really high quality, and the packaging is to die for-so pretty! Hope this helps!",
+          "reviewDate": "Reviewed in the United States on January 17, 2026",
+          "customer": "Ena",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHUSIY4YLJ7RR4RR2MSV4RXKDDXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Fair - Fair with neutral undertones"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Game changer beautiful healthy glow!!!",
+          "reviewText": "Game changer!!!! Long lasting. I\u2019m 60 and I love how pretty my skin looks.",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Yvette",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AER2LHGDDRODN3GBB6ROSJOEIEVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "07 Medium - Medium with warm undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Glowy like a highlighter but good",
+          "reviewText": "Very nice. Just know that it is very thin so if you want full coverage this isn\u2019t it. You can wear it on its own or layer foundation or tinted moisturizer on top. It has a glowy sheen. Very pretty. Def put moisturizer on first IF you have dry skin like me.",
+          "reviewDate": "Reviewed in the United States on October 2, 2025",
+          "customer": "Dana J.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AECKVVIEMQWJFEZOPSAYITIYCTWA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "07 Medium - Medium with warm undertones"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Gorgeous glowing skin tint.",
+          "reviewText": "Gorgeous makeup. Gives a beautiful radiant finish. One of my favorite new makeup products this past year. I read that some ppl think it\u2019s more highlighter than foundation, but I don\u2019t agree. I use a beauty blender to blend and it\u2019s flawless on my skin. However, this isn\u2019t a traditional foundation, it\u2019s a skin tint. Leaves beautiful luminous finish. If I want a more matte finish, I apply this first then use with a matte foundation. (Chanel le tent velvet is gorgeous with this product.) I bought #3 fair with neutral undertones. I do think it\u2019s slightly warm for neutral color, but I have slightly warm undertones, so it is a perfect color for me.",
+          "reviewDate": "Reviewed in the United States on January 6, 2026",
+          "customer": "Brila",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5ENXXNN7M6TFNEBRGGUWRRVHJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Fair - Fair with neutral undertones"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Fantastic product",
+          "reviewText": "With the proper skin prep (serum + moisturizer) this product is gorgeous! I get so many compliments when I use it!",
+          "reviewDate": "Reviewed in the United States on March 9, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFRSL3QSQ3BCNAZAE7UCXEOLYH4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Fair - Fair with neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Perfect for natural look",
+          "reviewText": "PERFECT shade! This is so light you cannot even feel it. Its perfect for going more natural. I also noticed it has a shimmer to it which is beautiful in the son! Not sticky at all. Lasts all day! :)",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Gingerly Jane",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBIW4ZC5XGO7NHBPLWK6V3JCW4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Fair - Fair with neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "My absolutely favorite skin tints",
+          "reviewText": "The softest skin tint stick on the market. Goes on like silk and doesn't pill like others. Makes my skin look radiant and is a perfect match. Easy to apply and so convenient to travel with",
+          "reviewDate": "Reviewed in the United States on February 12, 2026",
+          "customer": "catherine",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFJ6TEL2SMBID66MURP2VR5CI2VQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Fair - Fair with neutral undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Long wearing",
+          "reviewText": "Great prod",
+          "reviewDate": "Reviewed in the United States on October 31, 2025",
+          "customer": "Selenia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHZOC23WMUB5Q75BVWGIIKMZ5DEQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "02 Fair - Fair with cool undertones"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Honest review - do not waste money!",
+          "reviewText": "I hoped for the price it would be pretty decent but the coverage is not good. Says it\u2019s buildable but it just goes cakey and shows up blemishes/ different skin areas. The worst part is it\u2019s full of GLITTER! The \u201csheer\u201d part is basically just fine glitter. Who wants that all over your face?! It\u2019s makes you look like you are sweating. Not good.",
+          "reviewDate": "Reviewed in the United Kingdom on January 22, 2026",
+          "customer": "Rebecca B.",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "06 Medium - Medium with cool undertones"
+          }
+        }
+      ]
+    }
+  }
+}

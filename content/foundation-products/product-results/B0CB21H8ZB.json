@@ -1,0 +1,377 @@
+{
+  "requestMetadata": {
+    "id": "b6e23970-f63d-42fd-988f-b3f452c7ca49",
+    "status": "ok",
+    "html": "https://files.hasdata.com/b6e23970-f63d-42fd-988f-b3f452c7ca49.html",
+    "json": "https://files.hasdata.com/b6e23970-f63d-42fd-988f-b3f452c7ca49.json",
+    "url": "https://www.amazon.com/dp/B0CB21H8ZB"
+  },
+  "product": {
+    "asin": "B0CB21H8ZB",
+    "url": "https://www.amazon.com/dp/B0CB21H8ZB",
+    "title": "Westmore Beauty Supreme Creme All-Over Complexion Perfector \u2013 Long-Lasting CC Cream Foundation - Waterproof & Transfer-Resistant Skin Tint - 3.3 Oz Medium",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Medium",
+      "size": "3.3 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "ALL-IN-ONE FACE & BODY PERFECTOR: Available in 4 adaptable shades, our multitasking Supreme Cr\u00e8me instantly evens skin tone, conceals imperfections, moisturizes, and sets in one easy step for a flawless-looking complexion from head-to-toe, perfect for covering redness, dark spots, enlarged pores, stretch marks, acne, scars, and more, lightweight alternative to primer, self tanner, and full coverage foundation",
+      "12-HOUR WEAR: This versatile, long-lasting formula is self-setting, waterproof, and transfer-resistant for up to 12 hours, ensuring seamless coverage from morning to night",
+      "WEIGHTLESS, STREAK-FREE COVERAGE: Ultra-fine pigments allow for buildable, adaptable coverage that never streaks or creases",
+      "SKIN-LOVING INGREDIENTS: Hyaluronic Acid boosts hydration, Niacinamide visibly smooths and brightens, Vitamin E rejuvenates and restores, and Arnica soothes and calms skin",
+      "HOW TO USE: Apply product to clean skin, gently blending in an upward and outward motion, allow to dry for 60 seconds, apply 1 layer to cover redness, uneven skin tone, enlarged pores, stretch marks, and dullness, apply 2 layers to cover acne, hyperpigmentation, scarring, and undereye darkness, apply 3 layers to cover blue veins and dark spots"
+    ],
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0CB1Y4CZS",
+        "title": "3.3 Fl Oz (Pack of 1) Light",
+        "url": "https://www.amazon.com/dp/B0CB1Y4CZS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mofbbI9-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F1VR2CGF",
+        "title": "3.3 Fl Oz (Pack of 1) Tan",
+        "url": "https://www.amazon.com/dp/B0F1VR2CGF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fjMrgd2PL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CB1XCT1K",
+        "title": "3.3 Fl Oz (Pack of 1) Rich",
+        "url": "https://www.amazon.com/dp/B0CB1XCT1K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61g2tJgUYOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CB21H8ZB",
+        "title": "3.3 Fl Oz (Pack of 1) Medium",
+        "url": "https://www.amazon.com/dp/B0CB21H8ZB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LJqohlA8L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 38.25,
+      "beforePrice": 45,
+      "discount": "-15%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "westmore beauty",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1RJPXQD5D76SJ",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61LJqohlA8L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61LJqohlA8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81EOv4OfCUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81RyVhoseXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71YnDN9NewL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71uzW6-kcaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71e9F8gaQcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gZzpgwbJL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/807f0d68-0a07-437a-81d7-330f0fc8b25a.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9e1c814a-3cac-4cf9-aa78-de720f69c6d2.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aaaea4be-cb0c-4cc5-97a7-de7c7854cb56.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7c2af9d-2573-430c-a62c-f8bae767b139.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/721ecad8-0aca-4eaf-b700-3a03bec7a42f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0b11467f-1295-4d3a-a028-2a39559628f8.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7d0a891-e3dd-4271-aecc-592cfc048adb.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04baec6d-4033-40cf-86fc-a581249da9a0.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de40a45b-94d1-4b18-9d52-399040c2a5fb.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e84dbebb-95be-47a2-97f2-57d1ef658afe.__CR1,0,400,450_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/357b8e65-3b62-40de-bcee-49c85f66c924.__CR0,0,400,450_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/48ba9eb8-f93c-490a-ac5b-41e508f01166.__CR1,0,400,450_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cf283caf-5ad0-49d6-aee9-ea9dd3c48c47.__CR1,0,400,450_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f54a99ce-8675-4e15-96d9-e339c8c7a205.__CR1,0,400,450_PT0_SX200_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/409e01b6-5bfb-42cb-8194-f8d1fa01d382.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a6e16c0d-25d4-4d8e-ad56-2e07a72ccf50.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Body, Foundation, Hide, Medium Coverage"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Westmore Beauty"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Waterproof"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "UPC",
+        "value": "810044641981"
+      },
+      {
+        "key": "Model Number",
+        "value": "WY.2193"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "WY.2193"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Westmore Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#16,599 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #179 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CB21H8ZB"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Waterproof"
+      },
+      {
+        "key": "Finish Types",
+        "value": "translucent"
+      },
+      {
+        "key": "Coverage",
+        "value": "buildable"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.12 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "3.3 Fluid Ounces"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 645,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "63%",
+        "fourStars": "14%",
+        "threeStars": "9%",
+        "twoStars": "5%",
+        "oneStars": "9%"
+      },
+      "customersSay": "Customers find the foundation easy to apply and appreciate its natural, flawless appearance with a glowing finish. The product receives positive feedback for its quality and effectiveness, with one customer noting it works well for hiding pigmentation issues. The coverage and color match receive mixed reviews - while some say it covers well, others report it doesn't cover at all, and while some find the color blends well, others say it's too dark for their skin tone. The product's durability is also mixed, with some saying it doesn't rub off on clothes while others report it leaves a sticky, rubbery feeling. Customers consider the product pricey.",
+      "aspects": [
+        {
+          "aspect": "Product quality",
+          "count": 38,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 22,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 20,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 15,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 71,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Rubs off",
+          "count": 30,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color match",
+          "count": 25,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 17,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71Da1AJPx0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81JSVRXBawL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/617l2-RxKRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-B+5rTEJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61LuUAZ4aFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71KoPoHlaiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71q50-JDkoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/615fvJef1lL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51clU7RfDML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81yhOo4VkzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71A5GG2N4TL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71tEThl6mLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great Coverage Without Looking Heavy!",
+          "reviewText": "Why did I wait so long. Great coverage. Love it. Color match was easy and on point! A lot of product for the money. Will buy again.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRETKFYITWJOCPWCAIIQK5EIBVQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.3 Fl Oz (Pack of 1)",
+            "color": "Light"
+          }
+        },
+        {
+          "reviewTitle": "This is a good one!",
+          "reviewText": "I\u2019m enjoying this makeup. Coverage is light so it doesn\u2019t look like I\u2019m wearing foundation. It helps even out my complexion for daytime wear. For more coverage, add more layers. Easy to apply and blends easily over my moisturizer. Though it\u2019s not necessary, a large makeup brush blends it all over better than my fingers and without stretching the skin. What I especially love is that it doesn\u2019t have that reflective appearance that most foundations seem to have these days. Doesn\u2019t make my little skin bumps stand out more. I bought two shades. They are darker than I expected but one gives me a tanned look. The Medium is still a bit darker than I might need, but again, it blends really well and my little dark spots show less. Haven\u2019t tried it on my legs yet, but if I ever decide to, I feel confident it\u2019ll look good. Added perk, the ingredients used are said to be healthy. Seems a great value all around!",
+          "reviewDate": "Reviewed in the United States on August 21, 2025",
+          "customer": "M. Powell",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGPJVCMGG3LCG2XAM6OWC4GBUVDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.3 Fl Oz (Pack of 1)",
+            "color": "Medium"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Transfer resistent",
+          "reviewText": "This is better than their dark blue tube ...Body Perfector...it doesn't cake so bad and rub off so easily....none of these products on the market are that great...but this one seems better than most.",
+          "reviewDate": "Reviewed in the United States on January 27, 2026",
+          "customer": "Aurora Guarino",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFABE2KZZ25RCGD44G6NP6AFTQLQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "3.3 Fl Oz (Pack of 1)",
+            "color": "Tan"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "looks great, but rubs off",
+          "reviewText": "This product covers so well and looks perfectly natural. I love the way it makes your skin look perfect. Unfortunately, it does rub off on clothes where the skin rubs on your skin. it will also rub of on sheets if your leg rubs on the edge of sheet when you get into bed. The spots will wash off, you just have to be aware of it. I just love the way it makes my skin look that i keep using it. I do stand in front of a fan for it to dry, but if rubbed with pressure, it will rub off. i do love it.",
+          "reviewDate": "Reviewed in the United States on August 9, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHBCDFH2IGRHB7YROS4KTE65BY4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.3 Fl Oz (Pack of 1)",
+            "color": "Medium"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Please save your money",
+          "reviewText": "I am going to be absolutely honest here. I would rather wear foundation from the dollar tree. Yep I'm not kidding I would. At least then I would probably have some coverage. Coverage even with trying to build it up was non-existent. I bought the lightest shade they make and it's still too dark. I'm not that pale of a woman either. I saw reviews that claimed that you can't feel it. You certainly can. It has that sticky kind of feel to it. I don't know about you but I don't want stuff that feels sticky on my face. With this being a Westmore product and them being well known for their makeup work you would think it would be high quality. What a joke. Please don't waste your money on this product. You'll be horribly disappointed like I am if you do",
+          "reviewDate": "Reviewed in the United States on February 10, 2024",
+          "customer": "Sunnycmf",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE2XBVAESN2R7GZNYX2UXQUXY4GQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "3.3 Fl Oz (Pack of 1)",
+            "color": "Light"
+          },
+          "helpfulVotes": "78 people found this helpful"
+        },
+        {
+          "reviewTitle": "Rubs off onto anything",
+          "reviewText": "It definitely is OK for the upper chest area but if you use it for any other parts of your body, it is going to come off. It will rub off on everything very messy.",
+          "reviewDate": "Reviewed in the United States on December 26, 2025",
+          "customer": "Cindy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEZZOS6BOJ7LSY6WH6F3ELH2RBGQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "3.3 Fl Oz (Pack of 1)",
+            "color": "Tan"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "pricey but covers well and stays on even when wet",
+          "reviewText": "covers well",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "peggy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGTULD4PIX6THGFJDNWVCHMT4R5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.3 Fl Oz (Pack of 1)",
+            "color": "Light"
+          }
+        }
+      ]
+    }
+  }
+}

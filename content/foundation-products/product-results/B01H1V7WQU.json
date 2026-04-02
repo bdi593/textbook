@@ -1,0 +1,453 @@
+{
+  "requestMetadata": {
+    "id": "1b422ce6-0621-4fda-9fec-97719c7aee85",
+    "status": "ok",
+    "html": "https://files.hasdata.com/1b422ce6-0621-4fda-9fec-97719c7aee85.html",
+    "json": "https://files.hasdata.com/1b422ce6-0621-4fda-9fec-97719c7aee85.json",
+    "url": "https://www.amazon.com/dp/B01H1V7WQU"
+  },
+  "product": {
+    "asin": "B01H1V7WQU",
+    "url": "https://www.amazon.com/dp/B01H1V7WQU",
+    "title": "LAURA GELLER NEW YORK Award-Winning Baked Balance-n-Brighten Color Correcting Powder Foundation - Light - Buildable Light to Medium Coverage - Demi-Matte Natural Finish",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "03 Light",
+      "size": "0.32 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "BALANCE-N-BRIGHTEN COLOR CORRECTING POWDER FOUNDATION: This award-winning foundation handmade in Italy is made up of pressed powders to help you create a perfect canvas and a natural, demi-matte finish. Build your ideal coverage without worrying about caking\u2014this favorite feels weightless and looks flawless.",
+      "LIGHT: Get this award-winning powder foundation in the perfect shade for light to light-medium skin.",
+      "SELF-ADJUSTS TO MATCH YOUR SKIN TONE: Treat yourself to a baked powder foundation that nourishes as it perfects. This natural demi-matte formula gives you creamy coverage that's packed with antioxidants Centella Asiatica and White Tea Extracts for soothing hydration all day long",
+      "PERFECT FOR : This one's a crowd-pleaser. Perfect for even mature skin, uneven complexions, and those with fine lines and wrinkles, the light and airy baked powder foundation gives you a flawless face without feeling (or looking) cakey and heavy, no matter your skin type.",
+      "HOW TO APPLY: Swirl your brush in the foundation powder. Then, stroke on your face, blending outward and upward. Repeat to build coverage."
+    ],
+    "boughtInPastMonth": "20K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": true,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00AWWMWMU",
+        "title": "01 Porcelain 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00AWWMWMU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71F-vRFPqbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C3C3YDWY",
+        "title": "106 Tan - Travel Size 1.6 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0C3C3YDWY",
+        "imageUrl": "https://m.media-amazon.com/images/I/719dhDSWk6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C3C3HX11",
+        "title": "104 Medium - Travel Size 1.6 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0C3C3HX11",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+NfQbjh9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01H1V7WQU",
+        "title": "03 Light 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01H1V7WQU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zh8GABKAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01H1V7WV0",
+        "title": "09 Toffee 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01H1V7WV0",
+        "imageUrl": "https://m.media-amazon.com/images/I/717HxJmJKRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0725YPBPR",
+        "title": "04 Medium 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0725YPBPR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71J-nynsFHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B004MXSYLS",
+        "title": "07 Tan 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B004MXSYLS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Tdf0sjApL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C3C3F5ML",
+        "title": "101 Porcelain - Travel Size 1.6 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0C3C3F5ML",
+        "imageUrl": "https://m.media-amazon.com/images/I/61nRfTuatxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01H1V7WTW",
+        "title": "05 Golden Medium 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01H1V7WTW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xKfhMU+9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B000IEMGGE",
+        "title": "02 Fair 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000IEMGGE",
+        "imageUrl": "https://m.media-amazon.com/images/I/716f5ea4zaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PSP56YW",
+        "title": "08 Deep 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PSP56YW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71hXa6EbVYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01H1V7WXS",
+        "title": "06 Sand 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01H1V7WXS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71fDyBLF4EL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C3C241TN",
+        "title": "103 Light To Go 1.6 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0C3C241TN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qVTS7s7cL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C3C1LCS8",
+        "title": "107 Deep - Travel Size 1.6 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0C3C1LCS8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71cp4Ojx+JL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 19,
+      "beforePrice": 38,
+      "discount": "-50%",
+      "priceFrom": 19,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 4 hrs 30 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Laura Geller New York",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A107LV0WKN7KME",
+    "shipper": "Amazon",
+    "totalImages": 11,
+    "primaryImage": "https://m.media-amazon.com/images/I/71zh8GABKAL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71zh8GABKAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81WiWEK1ABL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71J6gZV3DQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81igkBeaa4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81EcdmyZR8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iFrd4XeRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XXg4F04ZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8166sSG1QwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Djw36dDEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719cixfL7OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81B-jQKvCEL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a041b44a-081f-4f50-9c37-a9345c62a0bc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/134654d6-99af-494c-966a-a4e499bb3774.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9eec279f-70a4-437c-a58d-9b08120b349d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5be4a2cb-0668-460c-a644-7aee0680d485.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4863f9c-b0e0-4a80-98cb-8e550d9b1b66.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5bb36ebb-6fd3-4b07-abf7-ee4b20fdb171.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2df4afdc-f596-49ab-a096-1b76047283ce.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7676bf56-eef6-477d-9353-ae3e30a0ec95.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7cc4aca4-e9b1-4f97-9e5a-8a9a9dfddda1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bdeb28a8-74ea-48eb-a664-8c9b307b94f0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ee74608-331c-4870-8c5a-3c453e592eed.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b32e540-6de8-4237-ae26-b2b8feda20de.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/52e63817-68bf-4c01-ac48-b67f414fc9a0.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2c5003a0-60b9-4ef8-bffd-2350d6988b2b.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1aed75ee-5212-4c26-8b45-d17ade6ab938.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/66d5a036-eeeb-42ef-8a1f-9d2d31204338.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 4,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/73d55839-377a-4770-bcc5-aac5dba76b51.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97f110fb-90ca-4204-b276-28a144d26b18.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "03 Light"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "LAURA GELLER NEW YORK"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Balances and brightens skin tone with light to medium coverage a natural finish"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "not-tested-on-animals"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Italy"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00849154048311"
+      },
+      {
+        "key": "UPC",
+        "value": "849154048311"
+      },
+      {
+        "key": "Model Number",
+        "value": "B01H1V7WQU"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "B01H1V7WQU"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Laura Geller Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#30 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #1 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01H1V7WQU"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Weightless, creamy coverage that self-adjusts to leave skin looking even, flawless and beautifully radiant."
+      },
+      {
+        "key": "Finish Types",
+        "value": "Demi Matte Natural Finish"
+      },
+      {
+        "key": "Coverage",
+        "value": "Buildable"
+      },
+      {
+        "key": "Item Weight",
+        "value": "2 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.82 x 1 x 2.82 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 67882,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "64%",
+        "fourStars": "14%",
+        "threeStars": "9%",
+        "twoStars": "5%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find this foundation powder to be of good quality, with a natural finish that makes their face look flawless. The product is easy to apply with a brush, feels light on the face, and has a smooth texture that makes them feel like they're not wearing makeup. The coverage and color match receive mixed feedback - while some say it provides good coverage and matches their skin tone well, others report little to no coverage and an orange appearance. The longevity is also mixed, with some saying it lasts throughout the day while others find it doesn't last all day.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color match",
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71pCYca2FWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ygLB57WOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71KodCKUKEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71UpKLWv2ML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/614ayJhSOvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mf1Due3cL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71UWzM2wCiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61QbrYQjX+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YzcTNYmSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Px56Ud9-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/716AVyMECrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61OCU6PiB4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "A sure thing you can count on for everyday",
+          "reviewText": "I genuinely love this product! Some background: I have combination skin and often have difficulties finding a good color match due to time faded freckles all over my face. I am in my early thirties and I feel like my skin is in that weird in between phase where I am starting to get a few fine lines and my skin is starting to lose a little bit of its glow. I want to make sure I\u2019m using products that are going to be gentle as my skin ages but also help me get some serious natural looking glow back. So I\u2019ll list the reasons this product is now my everyday go to! 1. The coverage is buildable and isn\u2019t heavy. I also have the kabuki brush and I like that I can have variations of coverage in different areas and it will all still blend together seamlessly. 2. I use a liquid concealer for my eyes. This powder blends over it well and doesn\u2019t cause the concealer to cake up underneath like some other products I\u2019ve tried. 3. The blurring and brightening effect is just beautiful! It has given me my natural glow back. 4. I use shade medium and I find it works very well with my freckles and complexion. It doesn\u2019t mismatch my neck or look too light/dark. ANDDDD it doesn\u2019t show up orange! Big win! 5. I don\u2019t really need to use liquid foundation anymore because I get such good variation in whatever coverage I want. 6. Touch ups are very easy. I can go from less coverage during the day to simply adding more coverage at night before I go to dinner or anything like that. 7. Easy to travel with. I have started keeping it in my bag every day. 8. It doesn\u2019t irritate my skin. 9. For a powder, it holds well throughout the day without clogging your pores. I don\u2019t need a setting spray. 10. Because of the formula\u2019s versatility, I feel that this is a great powder for ALL age types. My mom (age 65) now uses it and so does my younger coworker (age 26). Overall, great quality, versatility, broad coverage range, brightening, shade matching, and skin gentleness. Pricing is very reasonable as well. I\u2019m truly grateful I found this as my new everyday foundation!",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGA2ASO2QWNUE6AJH2DP7P3ZXCVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 Medium",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "18 people found this helpful"
+        },
+        {
+          "reviewTitle": "Surpassed Expectation",
+          "reviewText": "I'm 70+, so I was absolutely leery about using a powder foundation, but the commercial convinced me to look at reviews. And I read a lot in hopes it would help me with color choice. I read in one that light was a summer tone. I was looking for something to bring some light but not overwhelming color. I found a deal to purchase both the Double Take and the Balance and Brighten in Light. I am very pleased with both. I have a kabuki brush which made it easy to apply a light foundation and build on. It gave a such a nice, silky, coverage that evened out my skin tone and perfect for a more natural daytime look. The Baked Balanced and and Brighten which is matte gave more coverage for nighttime. I love both. I like that you can build the color to your liking. It stays on well and did not settle into any areas on my face. I think the kabuki brush truly helps attain that finish.",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "butterfly",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVJDQSB5R5VPOYYDV22Q6SDERMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Light",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "35 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great powder foundation",
+          "reviewText": "I really like this powder foundation overall. It goes on very nicely and smoothly, and it blends easily into the skin. It gives great coverage without feeling heavy, and it leaves a natural, even finish that looks polished but not cakey. The only downside for me is the scent. I can definitely smell it while I\u2019m wearing it, which isn\u2019t my favorite thing. It\u2019s not overpowering, but it\u2019s noticeable enough that I wish it were fragrance-free. Other than that, it\u2019s a great powder foundation and one I\u2019ll continue to use.",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "JulRyl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEUHUFWYXZEYUFVJQC5OSAVJJFTQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "02 Fair",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "19 people found this helpful"
+        },
+        {
+          "reviewTitle": "Age defining fountain of youth!",
+          "reviewText": "All women at least over 50 should try this amazing powder. We already have a beautiful face & this powder enhances our natural beauty. I do not use any other powder now that I tried this. I am 60 & I am told that I look like I am in my late 40s. The product goes on nicely with the brush & it does feel nor appear that I have to much makeup, you look bright and you have a nice finished look. It stays fresh all day long, as well as adventurous times at night. It does not come off on pillows during hose times when you cannot remove before bed. You still look fresh! No skin irritation, texture great & it does not look too thick on your face, it blends in with all of your earned wrinkles & facial scars, the product does not highlight those features you might want to hide. I love the product, I wish I had used it years before.",
+          "reviewDate": "Reviewed in the United States on March 13, 2026",
+          "customer": "Jude",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFNT7M632N3HL5I5KHP53LGHXJOQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Glowing, Dewy, snot",
+          "reviewText": "I recently tried the Laura Geller New York Mineral Baked Facial Powder, and I\u2019m really impressed by its overall performance. The powder has a silky, lightweight texture that blends effortlessly into the skin, leaving a natural and radiant finish. I especially appreciate that it doesn\u2019t feel heavy or cakey, even after a full day of wear. One of the standout features is its baked formula, which gives the powder a smooth consistency and a subtle luminosity. It works beautifully for setting makeup or as a finishing touch to even out the complexion. I found that it reduces shine without making my skin look flat, which is perfect for creating a soft, airbrushed effect. The color payoff is buildable, allowing for both a light dusting or a more polished look, and it seems to work well across different skin types. Plus, it stayed in place for hours without oxidizing or emphasizing dry patches. Overall, I would highly recommend the Laura Geller Mineral Baked Facial Powder for anyone looking for a dependable, natural-looking finishing powder that enhances the skin\u2019s glow without feeling heavy. It\u2019s a great addition to a daily makeup routine and definitely worth trying.",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Dawn Davis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFBEZHD7YPLFCC2UFXV5RM25KZ3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 Medium",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "18 people found this helpful"
+        },
+        {
+          "reviewTitle": "perfect",
+          "reviewText": "My wife bought this and she loves it. she has fair skin and the color is perfect and covers what she wants covered. she says it can feel a bit dry when first applied but lasts all day without setteling in to fine lines",
+          "reviewDate": "Reviewed in Sweden on December 6, 2024",
+          "customer": "Dresk",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair",
+            "size": "0.32 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Laura Geller Baked Balance make up",
+          "reviewText": "Excellent make up for mature skin have been using it for years now.",
+          "reviewDate": "Reviewed in Australia on December 10, 2025",
+          "customer": "Dee",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair",
+            "size": "0.32 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Lovely make up",
+          "reviewText": "Its lovely to apply, can do just a dusting for every day and heavier for a 'made up' look. Love it.",
+          "reviewDate": "Reviewed in France on February 2, 2026",
+          "customer": "Mme Susan Gray",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair",
+            "size": "0.32 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

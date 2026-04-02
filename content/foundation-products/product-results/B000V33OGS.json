@@ -1,0 +1,457 @@
+{
+  "requestMetadata": {
+    "id": "02beaaae-e366-4f18-a1a3-203c8a921297",
+    "status": "ok",
+    "html": "https://files.hasdata.com/02beaaae-e366-4f18-a1a3-203c8a921297.html",
+    "json": "https://files.hasdata.com/02beaaae-e366-4f18-a1a3-203c8a921297.json",
+    "url": "https://www.amazon.com/dp/B000V33OGS"
+  },
+  "product": {
+    "asin": "B000V33OGS",
+    "url": "https://www.amazon.com/dp/B000V33OGS",
+    "title": "COVERGIRL Smoothers Lightweight BB Cream, Fair to Light 805, 1.35 oz (Packaging May Vary) Lightweight Hydrating 10-In-1 Skin Enhancer with SPF 21 UV Protection",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1.35 Fl Oz (Pack of 1)",
+      "color": "805 FAIR TO LIGHT"
+    },
+    "featureBullets": [
+      "COVERGIRL Smoothers BB Cream answers 10 of your skincare needs in a single tube. Pamper your skin with an instant skin enhancer that provides natural radiance along with a combination of all day hydration, lightweight, sheer coverage, and SPF 21 protection",
+      "Protects skin from uv damage and prevents uneven skin tone and the appearance of wrinkles",
+      "For a flawless look"
+    ],
+    "description": "Get 10 skin-friendly benefits from one cream with COVERGIRL Smoothers BB Cream. This lightweight formula with broad spectrum SPF 21 protection provides all-day hydration and blends effortlessly with your skin tone. You get sheer coverage for natural-looking radiance that leaves your skin feeling smooth.",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "BB Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B07193Z312",
+        "title": "1.35 Fl Oz (Pack of 1) Medium to Dark",
+        "url": "https://www.amazon.com/dp/B07193Z312",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-qwnvSxKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000V33OGS",
+        "title": "1.35 Fl Oz (Pack of 1) 805 FAIR TO LIGHT",
+        "url": "https://www.amazon.com/dp/B000V33OGS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+BcCKOJzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZ7TGYZ",
+        "title": "1.35 Fl Oz (Pack of 2) 805 FAIR TO LIGHT",
+        "url": "https://www.amazon.com/dp/B0FBZ7TGYZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71yy2RyQZyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D184CMX6",
+        "title": "1.35 Fl Oz (Pack of 2) Medium to Dark",
+        "url": "https://www.amazon.com/dp/B0D184CMX6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71GIfCoJMzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07N8SGPMH",
+        "title": "2.7 Fl Oz (Pack of 1) 805 FAIR TO LIGHT",
+        "url": "https://www.amazon.com/dp/B07N8SGPMH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JqgYRlipS._SL1350_.jpg"
+      },
+      {
+        "asin": "B001SZ1MRQ",
+        "title": "1.35 Fl Oz (Pack of 1) Light to Medium",
+        "url": "https://www.amazon.com/dp/B001SZ1MRQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61YppNATt9S._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D14YWHPH",
+        "title": "1.35 Fl Oz (Pack of 2) Light to Medium",
+        "url": "https://www.amazon.com/dp/B0D14YWHPH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71RNCE8jBfL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "PYG",
+      "currentPrice": 45152,
+      "beforePrice": 64715,
+      "discount": "-30%",
+      "priceFrom": 45152,
+      "otherOfferQuantity": 2
+    },
+    "deliveryRawDate": "Monday, April 13",
+    "deliveryIsoDate": "2026-04-13T00:00:00.000Z",
+    "deliveryPriceMessage": "PYG\u00a0114,207",
+    "returns": "30-day refund / replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61+BcCKOJzL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61+BcCKOJzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61O2+ZE+2IL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41pwDCUYDOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81QNO5xeaZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8171Jw78LzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91O-tUuJn9S._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51Th1+se9qS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7172eIcbXrS._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/620258e3-1191-4226-8dd2-357485f86822.__CR0,0,970,300_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/53541e1d-7b86-41eb-9fe5-9bcce0fb146f.__CR0,0,300,400_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/d36f991e-de62-41d3-8236-cd62f35b4598.__CR0,0,350,175_PT0_SX350_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/9a6e7145-8894-4491-a5d3-46885799c994.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/ad898c83-91ff-42ca-a94b-7d7e26d876ae.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/88162a2e-ba88-4db2-93c3-5f324c3b94b0.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/0b8da136-717d-42ca-8c76-3fe2c2fe678b.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/b9cdc13c-b65e-43bb-828d-445cea13207a.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/8b825bb4-ed09-4e9b-8130-cb5be60992ec.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/523d3543-7135-4032-a2a0-884b7d99dfbb.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/0b8da136-717d-42ca-8c76-3fe2c2fe678b.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/b9cdc13c-b65e-43bb-828d-445cea13207a.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/8b825bb4-ed09-4e9b-8130-cb5be60992ec.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/523d3543-7135-4032-a2a0-884b7d99dfbb.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/73999b3b-b4d8-4bf7-9ebd-94e5c5eb6fe5.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/b5cf7434-3704-4154-9ea5-1180a341cb62.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/3b97f97c-9a94-482a-bed5-155626bfb412.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/cf042319-6e2c-43d6-8d16-713aaae32442.__CR0,0,150,300_PT0_SX150_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b50438cd-f746-477c-a6ce-97e63a1c6d92.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "805 FAIR TO LIGHT"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "COVERGIRL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Fair to Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "UPC",
+        "value": "022700033577"
+      },
+      {
+        "key": "Model Number",
+        "value": "022700033577"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "00022700033577"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Coty Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,592 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #6 in BB Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B000V33OGS"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "21 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Sheer"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.09 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1 x 3 x 5.6 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.35 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 11525,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "74%",
+        "fourStars": "14%",
+        "threeStars": "7%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this BB cream provides natural coverage while being lightweight and easy to apply, with a smooth satin feel on the face. They appreciate its moisturizing properties, making skin feel softer and hydrated, and its perfect color match for various skin tones. The product receives positive feedback for its quality, texture, and value for money.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 588,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 341,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 318,
+          "status": "positive"
+        },
+        {
+          "aspect": "Tint",
+          "count": 312,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 259,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 157,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 124,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 114,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71OVqfLaISL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ioPanTIhL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61MQ22uBQHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71F0Jx2sIsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51C+sSIPr0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/513J4oyP2WL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71xF60FLacL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Tf93MNSBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61NbybX2TJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71GplAq4LlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zgxXBz+ML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/714fxWu9E2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Light and hydrating, evens skin tone, has SPF (Win!)",
+          "reviewText": "This is a nice product if you're looking for something to just even out your complexion with a light coverage and some moderate SPF. If you plan on being in the sun all day I'd definitely wear a higher SPF but this BB Cream is great for days you're just running errands and don't want to have a full face of makeup on. I've found the E.L.F. putty cream blush is a winner for adding a touch of sheer color over this BB Cream without breaking the bank too. I have sensitivities to many cosmetics and neither of these two products caused me any problems with my skin.",
+          "reviewDate": "Reviewed in the United States on January 10, 2026",
+          "customer": "AZ Ginger",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFS4O5Y72763P5I5CGPRWWQQGPXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "Light to Medium"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light Coverage - Soft, Glowing Skin",
+          "reviewText": "I don't like makeup and I rarely ever wear it. But now that I'm in my mid-40s, I'm realizing I need to do better with skincare, so I was looking for a moisturizer with SPF and came across several of the tinted BB creams. After reviewing several, I decided to give this one a try as the pictures of people using the \"Light to Medium\" seemed to have a similar skin tone as I do. The \"Light to Medium\" shade perfectly matches my skin. No one can tell that I have this on, unlike with other makeup. My partner and friends had no idea until I told them and they said they couldn't tell. I am really happy with it so far! I've been using it for two days and I can feel how soft my skin is. The coverage is very light, so it's not going to do major color correction, but it does seem like it gives my skin a nice glow and covers up some lighter marks on my face (not freckles, moles or darker spots). Once it dries, I can touch my face and not feel like a bunch of makeup is coming off on my fingers, which is one of the things I dislike about wearing a non-powder foundation. Yesterday, I put the moisturizer on twice as I was going to be out in the sun for a couple of hours and didn't want to get sun burned. I was contemplating putting a different evening cream after my shower, but my skin was still so soft from using the CoverGirl moisturizer twice that I didn't even bother with the night cream. I do have an oily T-Zone, so if I notice any major breakouts or anything weird, I'll come back and update this review, but so far, I really love this product and will buy more of it. :)",
+          "reviewDate": "Reviewed in the United States on November 3, 2024",
+          "customer": "V.R.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF3J3MXQ27WOPSRMF6MOMM3VSMYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "Light to Medium"
+          },
+          "helpfulVotes": "65 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent",
+          "reviewText": "I've lived in Florida 42 years abd used this in my face as sunscreen, mainly because it doesn't sting the eyes like sunscreens do and warn not to use around eyes . Therefore, my skin and my eyes look much better than anyone my age in Florida or eveb up north. I use it religiously around my eyes. I also started wearing hats with brim in the last years there. (Not in Florida now a d I'm I my seventies. Barely perceptible eye wrinkles . I will always buy this. Good value",
+          "reviewDate": "Reviewed in the United States on March 9, 2026",
+          "customer": "Clara Bell",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG3GAGOEOIRYJHTECKL2OU5RB5WQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "Light to Medium"
+          }
+        },
+        {
+          "reviewTitle": "Good for light coverage, but maybe not sensitive skin",
+          "reviewText": "I love the concept and the lightness of this product. The only thing I'm sad about is the fact that it does make my sensitive skin itch. I wish it didn't because it's absolutely a perfect super light coverage that I'd wear daily. I do have pretty good skin and I don't normally wear a lot of makeup, so this was something that would work for me, but not great for someone who is seeking a full coverage option. This is absolutely a light, moisturizing cream that just helps to even the skin tone and gives some sun protection.",
+          "reviewDate": "Reviewed in the United States on September 6, 2025",
+          "customer": "Tourmalina",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHN6YKMW7KWZJ4EW5IUKSDZPS2AQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 2)",
+            "color": "805 FAIR TO LIGHT"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great Product",
+          "reviewText": "Love this BB Cream. Perfect color for my skin tone and goes on light and smooth. Perfect for days when I want a little color and smoothness, but don't want to go all out with with foundation. Will buy again.",
+          "reviewDate": "Reviewed in the United States on January 27, 2026",
+          "customer": "Tink",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE2PVI7NDHY4TS5BJLPNGWJ3FQPQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "Light to Medium"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great for all skin types",
+          "reviewText": "Shade match perfectly and i love how creamy and affective BB cream is. This product last me over 6 months due to the fact you only need a drop to cover face and neck. I blend this with concealer and sometimes moisturizer. Absorbs well on mature skin so fine lines and wrinkles do not look worse.",
+          "reviewDate": "Reviewed in the United States on February 1, 2026",
+          "customer": "Terrence M & Elizabeth A Gabor",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEZXVBDG5KAV7YMBA43V5VVIMHZQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "Light to Medium"
+          }
+        },
+        {
+          "reviewTitle": "Minimal coverage",
+          "reviewText": "Coverage too light",
+          "reviewDate": "Reviewed in the United States on March 5, 2026",
+          "customer": "Chris C",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHAQE5JDY6ADQU74CTNI2QX5NPOA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "Light to Medium"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "\u201cA Convenient Everyday BB Cream with Sun Protection",
+          "reviewText": "The Sun Block BB Cream is a really handy product if you\u2019re looking for everyday sun protection with just a touch of coverage. The texture is light and blends into the skin easily without leaving a greasy feeling, which makes it comfortable for long wear. It does a good job of evening out the skin tone and giving a fresh, natural look without feeling heavy like regular foundation. I like that it hydrates the skin and keeps it looking smooth, so you can skip a separate moisturizer on most days. I also use it for my kids before the go to school in the morning.",
+          "reviewDate": "Reviewed in the United States on September 9, 2025",
+          "customer": "Zuber Ali Mir",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFXM7TJFD7HFWSWAFIZVUXVUAHOA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "805 FAIR TO LIGHT"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "waste of money...am expected too much...now i so disappointed",
+          "reviewText": "Waste product..not at all covering any blemnishes..",
+          "reviewDate": "Reviewed in India on June 4, 2015",
+          "customer": "Sharmila S",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "805 FAIR TO LIGHT"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Looks natural",
+          "reviewText": "I have been using this for maybe 20 yrs. Just love it, it gives your face a nice natural glow",
+          "reviewDate": "Reviewed in Australia on November 13, 2023",
+          "customer": "Helen",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "Light to Medium"
+          }
+        },
+        {
+          "reviewTitle": "Good",
+          "reviewText": "Nice and easy",
+          "reviewDate": "Reviewed in the United Kingdom on April 14, 2024",
+          "customer": "Mian",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "Light to Medium"
+          }
+        },
+        {
+          "reviewTitle": "it's practical and efficient",
+          "reviewText": "for people who don't have time like me, 10 in 1 skin enhancer is definitely a 10 , I will give it 8 though because the fair color is too fair and the other color is too warm",
+          "reviewDate": "Reviewed in the United Arab Emirates on December 6, 2022",
+          "customer": "Gehad Essam",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1.35 Fl Oz (Pack of 1)",
+            "color": "805 FAIR TO LIGHT"
+          }
+        }
+      ]
+    }
+  }
+}

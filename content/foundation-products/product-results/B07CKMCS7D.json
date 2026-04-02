@@ -1,0 +1,328 @@
+{
+  "requestMetadata": {
+    "id": "5c09c14e-3436-425a-8978-1e092b976c83",
+    "status": "ok",
+    "html": "https://files.hasdata.com/5c09c14e-3436-425a-8978-1e092b976c83.html",
+    "json": "https://files.hasdata.com/5c09c14e-3436-425a-8978-1e092b976c83.json",
+    "url": "https://www.amazon.com/dp/B07CKMCS7D"
+  },
+  "product": {
+    "asin": "B07CKMCS7D",
+    "url": "https://www.amazon.com/dp/B07CKMCS7D",
+    "title": "No7 Lift & Luminate Triple Action Serum Foundation - Liquid Makeup with SPF 15 for a Dewy, Glowy Base - Radiant Formula for Mature Skin - Cool Ivory (1 Fl Oz)",
+    "isAvailable": true,
+    "featureBullets": [
+      "Triple Action Foundation - No7's medium to full coverage foundation with SPF 15 instantly gives skin a firmer, brighter-looking appearance and contains optical blurring technology to help reflect light away from fine lines and wrinkles. Formulated with Skin Expert\u2122 technology and available in 18 shades.",
+      "Skin-Loving Ingredients - This tinted serum foundation contains vitamin A, C & E to help brighten the appearance of skin and leave you with a radiant glow. Hibiscus is another active ingredient, working to enhance the skin's ability to retain moisture. Lastly, this SPF foundation contains No7's collagen-based peptide technology, MATRIXYL 3000 PLUS\u2122 for a more youthful-looking complexion.",
+      "Clinical Results - 114 respondents found that after 4 weeks of using this face makeup, 93% saw a visible reduction in the appearance of age spots, 85% saw a visible reduction in the appearance of fine lines and 91% saw that their skin looked firmer.*",
+      "How to Use - Dot a little bit of the hydrating foundation where you need it most, usually your cheeks, nose and chin. Blend into skin with your No7 Flawless Finishing Blending Sponge or No7 Foundation Brush in a small circular motion, working downwards and outwards from the center of your face.",
+      "Empowering Women Since 1935 - No7 has been creating beauty history by helping women look and feel their best for decades. With our rich health and beauty heritage, innovative skincare, and makeup backed by science, we've become the trusted brand through the generations. No7 has always offered every woman luxurious and glamorous beauty at a price they can afford."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 18.99,
+      "beforePrice": 18.99,
+      "discount": "-10%",
+      "priceFrom": 18.99,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "FRONT ROW",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1J4W8BQO23A27",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51-UTHMXriL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51-UTHMXriL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71R2sdVUzfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Estp73DpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+mCTxi0AL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HzVFyIrwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71l0lwcWuJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71siMrJ42KL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f62810b-fc7b-4f3e-bf96-f33a3eca8a7b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f478779b-5fe3-482e-97a3-6acc12083e1e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/98bda98b-4619-49a4-8a5e-fb0d9e685642.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38bb6fe2-eddf-47a3-b036-4f4f235b744b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7ada27d-9121-4c16-b1ee-1c2f11ef3389.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ebc2a21-0058-4d40-93a7-5008bb569608.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8ffde9f-6c63-4351-919d-660d730ce6e6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bddb026-725a-4d55-9374-73bdf2e9965c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d700e70e-010c-409b-b558-c1855d797ec8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d102630-f330-4725-a887-cbb6fc7eb5a2.__CR259,167,1481,1667_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbf3a8da-b75a-40d3-b9d3-cd58a102a224.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/604f651c-8ac8-44f9-aafc-d97e5139910c.__CR259,167,1481,1667_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3fe633c1-15b9-4aab-b4c0-7383337c0fc4.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efd9c9e3-a195-46db-bad3-9364b7d09991.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/63e3bab6-e1f8-4776-928d-326e5e60ac53.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12bffb13-c5f7-4604-b7c7-79b8e70b82f1.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/06f43aa4-168b-43ca-981b-ee549728c4f9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "05 - Cool Ivory"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal, mature"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Provides Vitamins"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "No7"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Medium coverage, anti-aging, sun protection"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "88-26-604"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "The Boots Company PLC"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#15,731 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #169 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07CKMCS7D"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Butylparaben Free, Not-Tested-on-Animals"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.14 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.38 x 1.42 x 5.43 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.04 Ounce"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Butylparaben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1236,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "79%",
+        "fourStars": "11%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "2%"
+      },
+      "customersSay": "Customers find this foundation provides even coverage and matches their complexion perfectly, with one noting it works well for skin aging brown spots. The product goes on smoothly without feeling heavy or cakey, and customers appreciate its silky texture and moisturizing properties, with one mentioning it keeps their face hydrated throughout the day. They like its natural appearance, and one customer notes it's better than many high-end foundations.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 118,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 102,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 59,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 48,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 47,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 41,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 35,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 31,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71vjEPfdZCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/717oMk+bObL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6182lGQ4VVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61oHx-i7uVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61HmK8WReHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51EC7GjxmtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51o16qiyFsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51ZYebGCZOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51CFRc5TDBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BKjZPnfjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great foundation",
+          "reviewText": "Great product coverage and matched my skin tone perfect. Its very light and smooth",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Inocensia Paynter",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHQKIFEBIAUEU2UUH4K3H36TPNOQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect color match and smooth feel",
+          "reviewText": "I was wary about choosing a new foundation online mostly because of color matching - but I have to say this is the very FIRST time I have a perfect color match! You can't see the difference at the hairline or jawline at all. I'm 60 years old and don't generally wear foundation on the daily because I don't like the way it feels on my skin and it always settles into my pores and fine lines. Not with this one! It's smooth and light, no color transfer and doesn't feel itchy, greasy or dry. It looks as good after several hours as it does the first hour and honestly does not look like I'm wearing foundation at all. Smooths my completion and makes me feel pretty.",
+          "reviewDate": "Reviewed in the United States on January 20, 2026",
+          "customer": "Lola",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6YZKRPNFSPVLS3IVZJX3VQDRIA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "24 people found this helpful"
+        },
+        {
+          "reviewTitle": "Silky, hydrating foundation",
+          "reviewText": "Very good foundation. Love that it has serum in it . Goes on so silky. Keeps my face hydrated through out the day. Good coverage but looks natural. I went with cool ivory.",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "Senior Female",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHEHF7GLV3BO5RYSFMODRCW234EA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice foundation for older women.",
+          "reviewText": "I am 55 and Love this foundation. It goes on smooth, feels light on the skin but with nice coverage. It does not collect in creases. Color i picked out is a pretty close skin color match. Will keep ordering.",
+          "reviewDate": "Reviewed in the United States on January 2, 2026",
+          "customer": "Lucinda Chadd",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHNOO7AOOXSAU2UHJN7GOO6K4ZYA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "46 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great foundation",
+          "reviewText": "After coming to Amazon to purchase my color Morphe, this was suggested to me. I decided to try it and I love it. Perfect color and very buildable. Lasts all day on my face, I do have dry skin.",
+          "reviewDate": "Reviewed in the United States on February 18, 2026",
+          "customer": "Ruby",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHACO2ECC465NT2LEFVR3DRYXLMA",
+          "customerStarsRating": 4,
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Reduce those fine lines!",
+          "reviewText": "Love this product! Purchased multiple times. I have maturing skin with many imperfections. This product covers those imperfections with a natural look and feel. Stays on through a 12 hour shift. I pair it with the No 7 airbrush away primer for longer lasting coverage. I have tried many expensive foundations, including IL MAKIAGE. Most are too thick which accentuates fine lines and wrinkles. As a woman in her 50s, I highly recommend this product for a more natural and lasting coverage that will not highlight those fine lines but make them less visible.",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "April",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG4X5NVOXFQ7EJLCFDOVAGJO5VZA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wonderful application. Smooth , not dry. Beautiful finish",
+          "reviewText": "Love this product.",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Molly",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWAUWASQ2DL4OC4NJT5UYAFR2RA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great on aging skin!",
+          "reviewText": "This is my favorite foundation. Dewey coverage and looks good on aging skin. Price is right on Amazon.",
+          "reviewDate": "Reviewed in the United States on February 22, 2026",
+          "customer": "Earies",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHCHBPLTFYGIL7SL65ULHY3J5LLA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        }
+      ]
+    }
+  }
+}

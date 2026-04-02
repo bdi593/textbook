@@ -1,0 +1,460 @@
+{
+  "requestMetadata": {
+    "id": "039bcaf6-32b8-4fad-84c6-2cab02f920d3",
+    "status": "ok",
+    "html": "https://files.hasdata.com/039bcaf6-32b8-4fad-84c6-2cab02f920d3.html",
+    "json": "https://files.hasdata.com/039bcaf6-32b8-4fad-84c6-2cab02f920d3.json",
+    "url": "https://www.amazon.com/dp/B004FWCJAI"
+  },
+  "product": {
+    "asin": "B004FWCJAI",
+    "url": "https://www.amazon.com/dp/B004FWCJAI",
+    "title": "Est\u00e9e Lauder Double Wear 24-Hour Maximum Cover Camouflage Foundation for Face and Body SPF 15 | Full Coverage | Tattoo Cover Up Makeup Waterproof, 1.0 Fl Oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "2C5 Creamy Tan - Light-medium with rosy undertones"
+    },
+    "featureBullets": [
+      "TOTAL COVERAGE + MATTE FINISH: Long-wearing, flawless face & body foundation, formulated with almost 30% pigment. Provides full, concealing matte coverage wherever you need it.",
+      "24-HOUR LONG WEAR: Lasts all day. Natural-looking. Waterproof. Matte finish. Soothing liquid-creme foundation, available in shades for all skintones.",
+      "FLAWLESS ALL DAY: Use it to camouflage all skin imperfections and flaws on your face or body, including scars, tattoos, spider veins, sun spots and other hyperpigmentation. Plus, it helps protect with SPF 15.",
+      "FORMULA FACTS: For all skintypes and in shades for all skintones. Dermatologist-tested. Non-acnegenic\u2014won\u2019t clog pores or cause breakouts. Waterproof. 24-hour wear. SPF 15.",
+      "HIGH-PERFORMANCE LONGWEAR: Discover the complete Double Wear Collection. From our #1 foundation, to concealer, eye liners and more, it's makeup that keeps up with your busy day. The flawless look you see in the morning is the look you keep all day."
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00KJGSDUO",
+        "title": "2W2 Rattan - Light-medium with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B00KJGSDUO",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Jdob+57UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B004FWCJAI",
+        "title": "2C5 Creamy Tan - Light-medium with rosy undertones",
+        "url": "https://www.amazon.com/dp/B004FWCJAI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71azD3ClXTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B078MT8M42",
+        "title": "1N1 Ivory Nude - Light with neutral peach undertones",
+        "url": "https://www.amazon.com/dp/B078MT8M42",
+        "imageUrl": "https://m.media-amazon.com/images/I/715T5y1EMbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B078MVLNVZ",
+        "title": "4W1 Honey Bronze - Medium tan with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B078MVLNVZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71RJivslR6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B078PLZN7G",
+        "title": "3N1 Ivory Beige - Medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B078PLZN7G",
+        "imageUrl": "https://m.media-amazon.com/images/I/719bArHaOzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B078PM196F",
+        "title": "2W1 Dawn - Light-medium with warm peach undertones",
+        "url": "https://www.amazon.com/dp/B078PM196F",
+        "imageUrl": "https://m.media-amazon.com/images/I/71lj4va7EhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B079LBNTY8",
+        "title": "2N1 Desert Beige - Light-medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B079LBNTY8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71BwUl6i3hL._SL1500_.jpg"
+      },
+      {
+        "asin": "B004FW6NY6",
+        "title": "1N3 Creamy Vanilla - Vanilla light with neutral undertones",
+        "url": "https://www.amazon.com/dp/B004FW6NY6",
+        "imageUrl": "https://m.media-amazon.com/images/I/611Q5iONcfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B078MQG6X5",
+        "title": "1C1 Cool Bone - Light with cool rosy-peach undertones",
+        "url": "https://www.amazon.com/dp/B078MQG6X5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71J5ARi91PL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00NNXBB18",
+        "title": "6W1 Sandalwood - Very deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B00NNXBB18",
+        "imageUrl": "https://m.media-amazon.com/images/I/71kkNoBe5vL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00IUH0SKC",
+        "title": "3W1 Tawny - Medium with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B00IUH0SKC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71VJjTyi18L._SL1500_.jpg"
+      },
+      {
+        "asin": "B004FW6O22",
+        "title": "3C4 Medium\\/Deep - Medium with rosy-beige undertones",
+        "url": "https://www.amazon.com/dp/B004FW6O22",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TvRHqxM3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B078MV8SZP",
+        "title": "3W2 Cashew - Medium with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B078MV8SZP",
+        "imageUrl": "https://m.media-amazon.com/images/I/71FDQzzdTFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00ONUYWYI",
+        "title": "5W2 Rich Caramel - Deep with warm yellow undertones",
+        "url": "https://www.amazon.com/dp/B00ONUYWYI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZoDisdYEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0165H36BQ",
+        "title": "4N2 Spiced Sand - Medium tan with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B0165H36BQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61S2GsEE4pL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 41.25,
+      "beforePrice": 55,
+      "discount": "-25%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 5,
+    "primaryImage": "https://m.media-amazon.com/images/I/71azD3ClXTL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71azD3ClXTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41YIR4YOVIL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81n7HOPMzCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iJCnsWU6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71BsDM-WW4L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/32686495-2829-4d1a-99fe-c6f43135ce58.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b177805a-2237-4e44-bb55-e2632e72ce32.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eeae4953-6138-4732-83a6-8416195744ca.__CR389,250,2222,2500_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dd2e56de-242b-4839-88fc-5c598d95c0ca.__CR56,0,889,1000_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d263ccf-cbc5-47fc-bf8a-78880f0fd639.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cb855ca4-7403-4e89-b67b-578ee33ea6fb.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 2,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/370d5fbd-e25b-4ae3-af56-1096828c0f59.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/370d5fbd-e25b-4ae3-af56-1096828c0f59.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f77b36c5-9fb8-45dd-aa7e-29e4c1b4f61f.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "2C5 Creamy Tan - Light-medium with rosy undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Hydration, Waterproof, Longwear"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Est\u00e9e Lauder"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Natural-looking. Waterproof. Matte finish. Soothing liquid-cream foundation, available in shades for all skintones."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Waterproof"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Belgium"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00027131821946"
+      },
+      {
+        "key": "UPC",
+        "value": "027131821946 020714918347"
+      },
+      {
+        "key": "Model Number",
+        "value": "Foundation Makeup"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "Estee-0027131821946"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Est\u00e9e Lauder"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#6,564 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #81 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B004FWCJAI"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Dermatologist Tested"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "56 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.77 x 1.06 x 4.8 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Non-Acnegenic"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 4340,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "77%",
+        "fourStars": "9%",
+        "threeStars": "4%",
+        "twoStars": "3%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find the foundation provides excellent coverage, particularly for tattoos and melasma, and appreciate its longevity, noting it stays all day without oxidizing. The texture receives mixed feedback - while some say it doesn't feel heavy or cakey, others mention it can look heavy on the skin. Customers disagree on the color match, with some finding it perfect while others say it's darker than expected, and opinions on value are divided between those who find it well worth the price and those who consider it too expensive. The foundation applies smoothly and goes a long way.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 317,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 155,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 93,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 56,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 81,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color match",
+          "count": 80,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 73,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 67,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61DgmpYO0-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51b03dxWGaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/418Fht635eL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ixrZSgC+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71XvH8yshSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71GRWCEDm9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61vwWDLp4CL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61VUax+9vfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7115fv9tNJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mujVxBWFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/618YaRc9DgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91-Za3vvpSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Super Impressive coverage",
+          "reviewText": "A single layer was enough to make my tattoo virtually invisible without the use of colour correction or setting products. Stayed put throughout the day with little changes, again without any setting. Safe to say it\u2019s perfect for long wear. It feels light and breathable on the skin and the colour match for me was perfect. Exactly what I needed it to be - a super effective and with minimal effort tattoo concealer. Worth every penny. My advice would be to try on the foundation or look to their website to see the colour against your skin. I got the shade 4N2, after checking on the original website. I was concerned it would be too dark for my tone, as it does look MUCH darker on the palette in product pics. Instead it was actually pretty light coming out the bottle and a perfect match.",
+          "reviewDate": "Reviewed in the United States on January 10, 2026",
+          "customer": "S. Brown",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF23BWWEKZ3WM45CPCXPOCYJVLQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "4N2 Spiced Sand - Medium tan with neutral subtle golden undertones"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup",
+          "reviewText": "Works great on older skin does not settle in lines and has fantastic coverage, Wears well all day without looking chalky or giving a fake look. I love it",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "Kathy Cotten",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZCRY2FGDNAMKCGYXKLTQRU5WNQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1N3 Creamy Vanilla - Vanilla light with neutral undertones"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "A Bit Pricey but Nice Product",
+          "reviewText": "Full coverage foundation. Be careful of how you apply. Needs to be worked in well or it will lay and look heavy on your skin \u2764\ufe0f\ud83d\udc4d\ud83c\udffb",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "debbi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEKTK6CHTUOIC33OWLJTUBIMPQPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2W1 Dawn - Light-medium with warm peach undertones"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "My fav foundation",
+          "reviewText": "Full coverage foundation that is lightweight. I have used this brand for years and love the natural look. Lasts all day.",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "Elizabeth",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFT5VKV6DJB4UBLJBILVQCCLQXVQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1C1 Cool Bone - Light with cool rosy-peach undertones"
+          }
+        },
+        {
+          "reviewTitle": "Makeup",
+          "reviewText": "Nice coverage but way too light for me. If you can get a color match to your skin, seems like a great foundation. I like full coverage and this is that, it\u2019s pricey though. Which is okay since product is good, but I tried and failed twice to match my color, both times I chose too light.",
+          "reviewDate": "Reviewed in the United States on January 4, 2026",
+          "customer": "LL",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHEJXHLN5GQR2Q4CNZ4A5XYLHLCA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "2N1 Desert Beige - Light-medium with neutral undertones"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent Coverage",
+          "reviewText": "Very good coverage and stays put. I would buy it again.",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "Computer Design",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF6AHZ5ZKEKEPJR5IOC524S4CR3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1N3 Creamy Vanilla - Vanilla light with neutral undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Love zesty Lauder!",
+          "reviewText": "My favorite Make Up !! I am older, and it is a cover -up ! It works Wonders on Face, and neck !",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Shirley J Phillips",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGRJICABYIGBMI5ZDIHO4BVBKM4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "3W1 Tawny - Medium with warm golden undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Flawless from morning to evening",
+          "reviewText": "I have worn this makeup for years! As a teacher/administrator, I look as fresh as I possibly can (lol) from morning until after school events. The makeup coverage is flawless and its staying power is spot on. A little goes a long way. I use it everyday and a tube usually last about three (3) months.",
+          "reviewDate": "Reviewed in the United States on December 20, 2025",
+          "customer": "Kathryn Cosgrove",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF74ATGR6JZBHAJYOFUWWDPCYZ5Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1N3 Creamy Vanilla - Vanilla light with neutral undertones"
+          },
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing product!",
+          "reviewText": "Love this product. The best on the market ! You only need very little and covers all kind of impurities on you face. Not oily at all and very nice to wear. Have been using this product for years and I still think it is the best there is !",
+          "reviewDate": "Reviewed in the Netherlands on February 20, 2022",
+          "customer": "Celine",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1N3 Creamy Vanilla - Vanilla light with neutral undertones"
+          }
+        }
+      ]
+    }
+  }
+}

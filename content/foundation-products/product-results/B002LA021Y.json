@@ -1,0 +1,572 @@
+{
+  "requestMetadata": {
+    "id": "76fd85d4-f372-427f-ba6d-8f12dd76c0d8",
+    "status": "ok",
+    "html": "https://files.hasdata.com/76fd85d4-f372-427f-ba6d-8f12dd76c0d8.html",
+    "json": "https://files.hasdata.com/76fd85d4-f372-427f-ba6d-8f12dd76c0d8.json",
+    "url": "https://www.amazon.com/dp/B002LA021Y"
+  },
+  "product": {
+    "asin": "B002LA021Y",
+    "url": "https://www.amazon.com/dp/B002LA021Y",
+    "title": "Mineral Fusion Pressed Powder Foundation - Matte Finish Face Powder for Fair-Medium Skin with Pink/Red Undertones - Age Defying Natural Makeup - Talc Free, Vegan, Hypoallergenic (Cool 2)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.32 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "Pressed Powder Foundation: Enhance your natural glow with this compact, triple-milled mineral foundation. The matte airbrush-like finish helps blur pores for a flawless, photo-ready look.",
+      "Natural Formula: Our anti-aging compact is made with pomegranate, white tea, and sea kelp to boost radiance and natural glow. Offers translucent to full coverage for a flawless matte finish and skin smoothing effect.",
+      "Flawless Radiance: This daily formula helps reduce shine and even skin tone with a natural matte finish. With zinc and mica for a long lasting coverage and anti-aging benefits.",
+      "Natural Cosmetics: We select effective natural ingredients and ensure our products are paraben-free, cruelty-free, and made without gluten, talc, artificial fragrances, SLS, or phthalates.",
+      "To Use: With a blender brush, sweep the pressed powder over skin in light layers. Build coverage as needed for a smooth finish."
+    ],
+    "description": "Glow from within with the Mineral Fuson Pressed Powder Foundation! The foundation powder smoothens skin tone, cuts shine and blurs pores using skin-soothing ingredients. It features a silky, triple-milled formula that provides flawless coverage with light dusting - all while staying shine-free and photo-ready.",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B002LA27Q2",
+        "title": "Warm 2 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LA27Q2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71QfXDIig3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BV6CD86Y",
+        "title": "Warm 1 0.32 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BV6CD86Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61e+jILsH0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B086LJVH4P",
+        "title": "Warm 4 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B086LJVH4P",
+        "imageUrl": "https://m.media-amazon.com/images/I/51rtQqne9cL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0081ZLEKG",
+        "title": "Neutral 1 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0081ZLEKG",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TX7PukHZL._SL1000_.jpg"
+      },
+      {
+        "asin": "B002LA3S8S",
+        "title": "Deep 4 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LA3S8S",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NZwj6GDYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B086LKQCBT",
+        "title": "Neutral 3 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B086LKQCBT",
+        "imageUrl": "https://m.media-amazon.com/images/I/51l4qWBbo8L._SL1000_.jpg"
+      },
+      {
+        "asin": "B002LA5S6S",
+        "title": "Olive 4 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LA5S6S",
+        "imageUrl": "https://m.media-amazon.com/images/I/51nuAq81ueL._SL1000_.jpg"
+      },
+      {
+        "asin": "B086LJHBVZ",
+        "title": "Warm 6 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B086LJHBVZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HprfFHYHL._SL1000_.jpg"
+      },
+      {
+        "asin": "B002LA9H2E",
+        "title": "Olive 2 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LA9H2E",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FtNH04BRL._SL1000_.jpg"
+      },
+      {
+        "asin": "B086LJHBW7",
+        "title": "Deep 6 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B086LJHBW7",
+        "imageUrl": "https://m.media-amazon.com/images/I/81utYEngypL._SL1500_.jpg"
+      },
+      {
+        "asin": "B002LA5S8G",
+        "title": "Cool 1 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LA5S8G",
+        "imageUrl": "https://m.media-amazon.com/images/I/71M8IF-xJOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CJ2XWMD2",
+        "title": "Deep 5 0.32 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CJ2XWMD2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DQ7gcKmYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B002L9YKWM",
+        "title": "Deep 2 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002L9YKWM",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Ocl2q0ruL._SL1000_.jpg"
+      },
+      {
+        "asin": "B002LA9GXO",
+        "title": "Warm 1 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LA9GXO",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xcADYFO2L._SL1000_.jpg"
+      },
+      {
+        "asin": "B002LA5YH6",
+        "title": "Warm 3 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LA5YH6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71dq4MJdD4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BV6BC66Z",
+        "title": "Neutral 1 0.32 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BV6BC66Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sFnvl-fwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B002LDPOGO",
+        "title": "Neutral 2 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LDPOGO",
+        "imageUrl": "https://m.media-amazon.com/images/I/51e6xd+NTaL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0BW36QT9X",
+        "title": "Deep 3 0.32 Ounce (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0BW36QT9X",
+        "imageUrl": "https://m.media-amazon.com/images/I/51riTJ1YGKL.jpg"
+      },
+      {
+        "asin": "B0081ZLENI",
+        "title": "Deep 3 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0081ZLENI",
+        "imageUrl": "https://m.media-amazon.com/images/I/51VBS4ycxVL._SL1000_.jpg"
+      },
+      {
+        "asin": "B086LJVH4N",
+        "title": "Deep 5 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B086LJVH4N",
+        "imageUrl": "https://m.media-amazon.com/images/I/51UTEEeP5-L._SL1000_.jpg"
+      },
+      {
+        "asin": "B086LJMNCM",
+        "title": "Neutral 4 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B086LJMNCM",
+        "imageUrl": "https://m.media-amazon.com/images/I/51fs+GBgcgL._SL1000_.jpg"
+      },
+      {
+        "asin": "B002LA5YHQ",
+        "title": "Olive 1 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LA5YHQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51sl-aq6VfL._SL1000_.jpg"
+      },
+      {
+        "asin": "B002LDYWWG",
+        "title": "Olive 3 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LDYWWG",
+        "imageUrl": "https://m.media-amazon.com/images/I/512V3KRgOML._SL1000_.jpg"
+      },
+      {
+        "asin": "B0BW3D9QBV",
+        "title": "Olive 4 0.32 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BW3D9QBV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CK5i6C5LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B002LA021Y",
+        "title": "Cool 2 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002LA021Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JAgc-nsHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B086LLNM28",
+        "title": "Deep 7 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B086LLNM28",
+        "imageUrl": "https://m.media-amazon.com/images/I/51nErwE0SqL._SL1000_.jpg"
+      },
+      {
+        "asin": "B086LKHV33",
+        "title": "Warm 5 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B086LKHV33",
+        "imageUrl": "https://m.media-amazon.com/images/I/51yT5DnxjxL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0081ZLDLQ",
+        "title": "Deep 1 0.32 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0081ZLDLQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51G-j8qwhKL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0C8TY2VDC",
+        "title": "Deep 6 0.32 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0C8TY2VDC",
+        "imageUrl": "https://m.media-amazon.com/images/I/81btmzMgRjL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "MXN",
+      "currentPrice": 593.85
+    },
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61JAgc-nsHL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61JAgc-nsHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vSItlCAaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71haFZGTpbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/814osDwylBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813pI-BTfmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71IsigHoBzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718ie6SidLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81irkAfNADL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vDec+f80L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b46903f-3407-48fc-9c78-10231703480c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/633295cd-d0a3-4a93-8fbf-625cb7540661.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/412e810e-8e00-44cc-8aef-fe597175fca9.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ba08fea6-2a7e-4741-b09c-6707ce788209.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f2f24189-9724-46ed-9316-1c8db5d54fe1.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/878a51db-2748-461c-8c22-d123d893f5f2.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bcbb90d2-09bb-4c64-89b8-fdee99c52626.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac5b14e7-5db9-44a2-9d5e-2ab7fd4aa1d0.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77deb362-fa90-42b9-8a3e-0c70e3241e1d.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/571f629d-9d44-4f28-ab1d-6e7b6d3532e4.__CR0,0,500,1000_PT0_SX150_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0628ee26-4758-4324-9ac0-a146652b4a49.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0628ee26-4758-4324-9ac0-a146652b4a49.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ec528ffb-8640-4ac1-84e7-41e707e3eaef.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/90dace81-b2f5-4dda-9c02-eb1c393fb6c1.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/850d0859-78fd-44bb-a6e5-3f8fbee9154a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "Mineral Fusion"
+      },
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "Cool 2"
+      },
+      {
+        "key": "Model Name",
+        "value": "hfs-koi-zk-a737"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Model Number",
+        "value": "MF1012"
+      },
+      {
+        "key": "Container Type",
+        "value": "Box"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "UPC",
+        "value": "840187702973"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Mineral Fusion"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#10,356 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #110 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B002LA021Y"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Oily, Sensitive"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Anti-Aging, Flawless, Hypoallergenic, Shine Control, Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Antioxidant, Breathable, Lightweight, Long Lasting, Transfer Resistant"
+      },
+      {
+        "key": "Specialty",
+        "value": "Fragrance Free, Gluten Free, Vegan"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1.6 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.9 x 0.5 x 2.9 inches"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty Free, Fragrance Free, Gluten Free, Paraben Free, Talcum Free"
+      },
+      {
+        "key": "Color Family",
+        "value": "Cool"
+      },
+      {
+        "key": "Material Features",
+        "value": "Natural, Organic"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 4339,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "71%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this pressed powder foundation provides good coverage without looking heavy, with a silky smooth texture that leaves skin smooth and doesn't irritate sensitive skin. Moreover, the product receives positive feedback for its natural appearance, with one customer noting it creates an airbrushed look, while another mentions it's perfect for oily skin. Additionally, customers appreciate its lightweight feel and lasting power throughout the day. However, the color receives mixed reviews, with some customers saying it matches their skin tone well while others note it has orange undertones.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 405,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 276,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 196,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 156,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 143,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 136,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 118,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 209,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71Ehog28kLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61lplf4yE7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zHYbltCdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71sGa-bOVzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wFGJAHFhL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61oAtnJ3TcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71aheseu7BL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51-ZFWPNpML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51miNH7U3yL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51SOtwPeRAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71tUln0RFsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71w00WQgKGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Surprisingly perfect for dark skin!",
+          "reviewText": "So I saw the Mineral Fusion line on clearance at Publix and on decided to try it the liquid foundation, after having just purchsed the Nars line the week before. I didn't expect much seeing it sold in a grocery store. Howver i was curious seeing so many dark shades available. Needless to say it was a PERFECT match, looks like pure skin...as if you're not wearing *any* makeup. I don't know if it's the formula, the perfect color match, the consistency or what, but I've never had a makeup blends to look like airbrushed skin with very little to no effort. An \"eye dropper\" sized dab goes a very long way. It was also perfect as an under eye concealer without needing to use something separate in a lighter shade. creases and lines disappear under this thing. Finally no unnatural glowing Zorro raccoon eyes under my makeup. Next day I ordered the pressed powder in the same color (Cappuccino) and it gives a nice finish, although i seem to prefer using the liquid foundation alone for a most natural appearance. The powder is a perfect match but dulled the foundation. After 10 hours, although I had my usual shine, due to oily skin, it wasnt the type of shine that required a \"touch up\" or pat down with more powder. It was more like an airbrushed dewey glow look, rather than an oily, greasy, \"Fashion-Fair-sliding-off-and-turning-colors\" type look. My only concern right now is the fact that Amazon is carrying their product at such a steep markdown and it was also on clearance at the grocery store where I bought it. I saw that Mineral Fusion was acquired by a company called Seaweed. So I'm wondering about its future availability.",
+          "reviewDate": "Reviewed in the United States on January 5, 2025",
+          "customer": "Lady Talena",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AELAP3BB4XUNTKMDZDRQMVYZ5CWA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Deep 4",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "17 people found this helpful"
+        },
+        {
+          "reviewTitle": "Very Pleasantly Surprised",
+          "reviewText": "I used Everyday Minerals powder foundation for years before it was recently discontinued. Finding an acceptable mineral powder foundation has been tough, every one I\u2019ve tried makes me itch, even the ones branded as safe for sensitive skin. I find the Bare Minerals shades to be very orange-y. After much research and trial and error, I finally found this product and decided to give it a try. I couldn\u2019t be more pleasantly surprised! The texture is so interesting, totally a powder, but so silky it ALMOST feels a little creamy. Coverage is great and the shade neutral 2 is extremely natural without any dominating undertone. I do feel the overall condition of my skin is improved since using the product for over a month now.",
+          "reviewDate": "Reviewed in the United States on December 7, 2025",
+          "customer": "Lyndsey Evans",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFISTTKQ5C2OBJZCOZDUU4QHK2WA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Neutral 2",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "My skin breathing under make up. Thank you. Great product.",
+          "reviewText": "BEST! I've exclusively used Mineral Fusion for the past 15 years. From the first purchase, I noticed the difference \u2013 their products never felt heavy, and for the first time, I felt my skin breathing under makeup. It's not cheap, but absolutely worth investing in your skin. (This darker shade was on sale, so I'm using it as a bronzer, even though it's not. I'm happy because it keeps my skin breathing.) If you try it, you'll feel the difference and won't go back.",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "Kris",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEDAMGBE4UH3BB62TJDN3NFPKGYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Deep 5",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect lightweight, matte powder!",
+          "reviewText": "Love this powder. It provides great matte coverage. It matches my skin tone well and doesn't feel heavy. Will definitely purchase again.",
+          "reviewDate": "Reviewed in the United States on March 6, 2026",
+          "customer": "Wendy Weston",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHKSJD67BC5RS6TMPGURKGIY4JQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Neutral 2",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Beautiful!",
+          "reviewText": "I have a lot of foundations! Mainly higher end. Iv used bare minerals for years and often return to it as a staple that always looks good. I\u2019v used the pur powder foundation, Mac powder foundation and lily lolo. This foundation beat them all! I couldn\u2019t believe how velvety it looks and feels on the skin. I use a hydrating SPF under it and let it dry on the skin 5/10 mins. Applying this is SO easy, no buffing in for 10 mins. You kind of gently dust it on and it looks amazing. It didn\u2019t cling to pores like the pur and sometimes BM did. Iv bought 2 more of these so I never run out. Iv got normal to dry skin and once in awhile I have a blemish but at 41 I have pretty good skin. Also it melts into the skin and doesn\u2019t look powdery at all. Touch up later in the day is super easy with a couple swipes.",
+          "reviewDate": "Reviewed in the United States on May 5, 2024",
+          "customer": "jed barker",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHCCHQNHNEKBBCUFVWN2CVJD6UAA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Cool 2",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "27 people found this helpful"
+        },
+        {
+          "reviewTitle": "Needs better packaging and color options",
+          "reviewText": "I bought Warm 2, but the color was a little darker/orangier than expected so I also bought Warm 1, which was way too pale. I have to use both to get the color I want, and I'm surprised that they don't offer a color in-between the two. Also, after only a week of owning each of them, the latch that holds the lid broke off. It's extremely annoying because I can't properly close the product. The plastic on the back also continues to crumble after the latch already broke, so I'm certain this is a flaw in their packaging. The powder itself is ok and offers decent coverage, but I don't think I will continue purchasing this product. Edit: I purchased this product for a third time because I needed a face powder with clean ingredients for pregnancy. I went with Neutral 2 and the color was a much better fit. The latch also did not break on this one as it did with the previous two that I bought. I'm much happier with the purchase this time around and glad that this brand uses clean ingredients.",
+          "reviewDate": "Reviewed in the United States on February 19, 2023",
+          "customer": "Katie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG4FRKCN4OHWATMKBZKEQUHZ7OWA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Warm 1",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "27 people found this helpful"
+        },
+        {
+          "reviewTitle": "Keep re-buying this! Love it!",
+          "reviewText": "Have used this for years. Have bought the same one (Olive 3) multiple times. It is lightweight and provides the perfect amount of coverage. Just love it.",
+          "reviewDate": "Reviewed in the United States on January 11, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGOQQRMGSUC4QMXOHLE7JZZBMOYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Olive 3",
+            "size": "0.32 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Flawless finish, long lasting, no break outs",
+          "reviewText": "I have used this foundation for 6 years now. Have no switched which is very very unusual. It\u2019s flawless however, doesn\u2019t make me break out. Perfect fit for my skin type (combo). The only thing I wish is it had some sort of sunscreen protection but it\u2019s fine that it doesn\u2019t as I layer sunscreens under it.",
+          "reviewDate": "Reviewed in the United States on July 14, 2025",
+          "customer": "Vitalina Smirnova",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHQUKGGGPZ2GW45CBMTKXZQJZMFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Warm 3",
+            "size": "0.32 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "lightweight full coverage",
+          "reviewText": "I really like this product. It goes on nice and light and doesn't settle into fine lines. In spite of being so light, it gives amazing coverage where needed! It hides my adult acne and red spots with no problem. The only negative I can say is that the shades are lighter than they appear so go with one darker than you think you need. Great for ageing yet acne-prone skin!",
+          "reviewDate": "Reviewed in Canada on October 26, 2020",
+          "customer": "A. K.",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Warm 3",
+            "size": "0.32 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "... the powder I always use and I am very pleased with",
+          "reviewText": "this is the powder I always use and I am very pleased with it",
+          "reviewDate": "Reviewed in the United Kingdom on November 15, 2014",
+          "customer": "Mrs HA Griffiths",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Warm 1",
+            "size": "0.32 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Love this Mineral Fusion. The Best!",
+          "reviewText": "Used to buy at Whole Foods in US. I'm so glad I could buy at Amazon UK :)",
+          "reviewDate": "Reviewed in the United Kingdom on August 28, 2019",
+          "customer": "Daniella Santos",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Neutral 2",
+            "size": "0.32 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "LOVE this makeup!",
+          "reviewText": "LOVE this product, I have been using it for years and the coverage is great! The packaging was changed a few years ago and it breaks apart easily but I love it so much I am prepared to tolerate it. Please add a couple of dollars onto the price and fix the weak hinge on the case.",
+          "reviewDate": "Reviewed in the United Kingdom on August 6, 2025",
+          "customer": "Katherine Allison",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Olive 3",
+            "size": "0.32 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

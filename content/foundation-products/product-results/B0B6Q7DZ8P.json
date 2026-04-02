@@ -1,0 +1,432 @@
+{
+  "requestMetadata": {
+    "id": "76242dca-9118-41a9-b503-4b76a9ce085c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/76242dca-9118-41a9-b503-4b76a9ce085c.html",
+    "json": "https://files.hasdata.com/76242dca-9118-41a9-b503-4b76a9ce085c.json",
+    "url": "https://www.amazon.com/dp/B0B6Q7DZ8P"
+  },
+  "product": {
+    "asin": "B0B6Q7DZ8P",
+    "url": "https://www.amazon.com/dp/B0B6Q7DZ8P",
+    "title": "Jerome Alexander MagicMinerals AirBrush Foundation \u2013 2 Piece Set with Airbrush Foundation and Kabuki Brush - Spray Makeup with Anti-aging Ingredients for Smooth Radiant Skin - Light Medium",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "04 Light Medium",
+      "size": "1.8 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Effortless Beauty: Experience the allure of Jerome Alexander Airbrush Foundation. This makeup foundation offers an ultra-light, buildable, full-coverage formula that creates a flawless and silky-smooth finish, making you feel effortlessly beautiful every day.",
+      "Microfine Mist Technology: Embrace picture-perfect, natural matte skin with our spray on makeup airbrush makeup foundation. The microfine mist technology of this airbrush flawless foundation ensures even, non-streaky coverage that lasts all day, giving you a radiant and flawless look in just seconds. This airbrush kit includes a kabuki foundation brush for seamless application.",
+      "Skincare-Infused: Unlock the secret to glowing, healthy skin with our MagicMinerals Airbrush Foundation Spray enriched with a proprietary blend of skincare actives. Hyaluronic Acid, Argireline, and Matrixyl 3000 work their magic, nourishing, hydrating, and reducing the appearance of fine lines and wrinkles.",
+      "Sweat-Proof and Humidity Resistant: Don't let the day's challenges dull your radiance. Our sweat-proof, humidity-resistant, and breathable foundation spray makeup foundation keeps you looking fresh and radiant, no matter what the weather brings.",
+      "Flawless Coverage, Weightless Feel: Revel in the beauty of full coverage without the weight. Our foundation full coverage allows you to control your desired coverage without excess oil, revealing a naturally radiant and youthful complexion that feels as light as air."
+    ],
+    "boughtInPastMonth": "3K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BJFKD1YQ",
+        "title": "10 Dark 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BJFKD1YQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/615jdq8U4eL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CVFY5PQ",
+        "title": "07 Medium 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CVFY5PQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/614bdk8vPyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0007U6IWM",
+        "title": "08 Warm Medium 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0007U6IWM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LUNHsKYqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0007U8Y4W",
+        "title": "09 Medium Dark 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0007U8Y4W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xnpLIJCyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B6Q9GPCG",
+        "title": "12 Cognac 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0B6Q9GPCG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+WmZ0De2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0007U6IWC",
+        "title": "05 Warm Beige 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0007U6IWC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wR-Eh4liL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0007TIT8O",
+        "title": "11 Dark Espresso 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0007TIT8O",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jxbx9R77L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0841T83KH",
+        "title": "03 Light 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0841T83KH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61X-ojirKoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B6Q7DZ8P",
+        "title": "04 Light Medium 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0B6Q7DZ8P",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Duks1jD3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B6QD4FQH",
+        "title": "06 Bright Medium 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0B6QD4FQH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dRthOmArL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B6Q4JDZ3",
+        "title": "02 Bright Light 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0B6Q4JDZ3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61c1xIhWriL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B6Q7THD2",
+        "title": "01 Fair 1.8 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0B6Q7THD2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OSPW4+lVL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 13.98,
+      "beforePrice": 22.99,
+      "discount": "-39%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Friday, April 3",
+    "primeMemberDeliveryIsoDate": "2026-04-03T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "Non-returnable. Transportation of this item is subject to hazardous materials regulation",
+    "seller": "Jerome Alexander",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A7MG853N4L1Y0",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61Duks1jD3L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61Duks1jD3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71nad2hBnOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ioso3kTlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81E2qPZwIaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71V8uiWK0wL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81XFWPqG9GL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xngnP3uyL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/498960d6-18d7-4eaa-b9b4-e750ef11baf6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34803028-2db9-481b-b190-32a0f0492e1d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/55afef8e-4e33-44b2-918c-035afffcf009.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e36b24e-e7f3-48ef-a124-0ade799b89cd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cbfba324-884f-42bc-9eb8-3256dfe7d45b.__CR0,0,366,275_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/83974e8f-10e5-46f3-9a6b-c3c0d368eb46.__CR0,0,366,275_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae499c6b-075a-4687-a801-5be174140079.__CR0,0,366,275_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed606ec2-bb53-4ae4-a3b4-b3d0e5b1bb23.__CR0,0,366,275_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03967b83-3a7e-4c3c-906f-f678161355ac.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee315051-8e82-4fd8-82e9-cc1d25a64485.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dac44f27-3722-4e8b-9172-35670bac9438.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5bfb5143-2174-4930-b383-e6e1c5258570.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f573b070-f3bc-4167-a6eb-b469e9950808.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/364e0021-bff3-41fc-92dc-f91609f93fb7.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eed59646-4ab3-47e1-af56-b5658dd8ba79.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ba14c46-38ba-4c77-aa5a-3d0783dfb661.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4355379f-7e74-4f48-8f84-5096abfee2c0.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d98cddff-10c8-4145-a9fd-a32c1c56632b.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e83dadd-7314-41b4-9be0-1789ec04be06.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/afa8fdd3-28e1-4cda-8202-cace44ac8270.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a1887a0b-91e3-4db1-8777-d778074099fd.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/43b8d39b-09ff-4412-b9fd-cad25a5bf92b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "04 Light Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Airbrush,Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Jerome Alexander"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Tan"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Lightweight Breathable Radiant Matte Anti-aging"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "812458004925"
+      },
+      {
+        "key": "Model Number",
+        "value": "MMI052"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "MMI052"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Jerome Alexander"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#705 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #7 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0B6Q7DZ8P"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Lightweight,Breathable,Radiant,Matte,Anti-aging"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "5.6 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "8 x 4.5 x 1.8 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.80 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 24043,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "68%",
+        "fourStars": "13%",
+        "threeStars": "7%",
+        "twoStars": "4%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find the foundation provides excellent coverage, particularly for dark spots, and appreciate its lightweight formula that doesn't feel heavy on the skin. The product receives positive feedback for its natural-looking finish, smooth texture, and effortless application with the included brush. The color receives mixed reviews - while some find it perfect for their skin tone, others say it's too dark. The longevity aspect is also mixed, with some customers reporting it stays all day while others note it rubs off on clothing.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 890,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 866,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 608,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 959,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 786,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61QIjjCZdGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61x1tzBfWYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71i39ygllML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/614IssDHcHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61fpBI8W8LL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7191v2kF0HL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/715pYDoVihL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61kDtBRqGwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zr8dWbYoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71eZ2tScu-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71t6sT1jW7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81YX15gm8dL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Excellent Coverage Without the Cakey Look",
+          "reviewText": "I wasn\u2019t expecting too much from this airbrush foundation because of the lower price point, but I was pleasantly surprised. It\u2019s incredibly easy to use\u2014you simply spray the foundation onto the brush and then brush it onto your face. The coverage is excellent and very even, but it still looks natural and not cakey at all. It blends beautifully and makes it easy to match your skin tone. My skin looks smooth and balanced without feeling heavy. For the price, this performs far better than I expected. If you want something quick, easy, and with great coverage, this is definitely worth trying. I will definitely buy again.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "Riversong215",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGKYBYCST725OLBW6O5BWTBLPVLQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Light",
+            "size": "1.8 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "True Airbrushed Finish with Lightweight, Flawless Coverage",
+          "reviewText": "I absolutely love this foundation. It truly gives a smooth, airbrushed finish that makes my skin look even, radiant, and polished. The coverage is excellent while still feeling lightweight\u2014so much so that it feels like I\u2019m not wearing makeup at all. Application is quick and easy, and I especially appreciate that there is no strong chemical or perfume smell. It blends beautifully and covers age spots and uneven tone with ease, leaving my skin looking flawless and natural. This is a high-quality product at a very reasonable price, and the results are impressive. It delivers a professional, airbrush look at home, and I will definitely be purchasing it again.",
+          "reviewDate": "Reviewed in the United States on January 17, 2026",
+          "customer": "Selena",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG6O7R6GASTSZIGL2XBN37332JYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "08 Warm Medium",
+            "size": "1.8 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "32 people found this helpful"
+        },
+        {
+          "reviewTitle": "Use in combo w/a setting spray and your skin will look amazing!",
+          "reviewText": "Girl squad you gotta get this! I'm so happy the nice brush came with it because it really is the perfect application for this foundation. It looked a little yellowish, spraying it directly on my hand, but blending in w/the brush it was so pretty. Bought the shade \"light\" and I even have cool toned skin with pink undertones and it worked. Because it is so silky, I highly recommend using a setting spray with this product. (See my pic for an inexpensive one that's great).So one spray of foundation into brush, then immediately into the brush one spritz of setting spray. It is the perfect combo to lock it in place where it will last all night. It is not very heavy coverage, but it just made my skin look so nice and did not settle into fine wrinkles. When this product runs out I will definitely repurchase, but I will probably always have to use the setting spray with it which is not a big deal.",
+          "reviewDate": "Reviewed in the United States on December 14, 2025",
+          "customer": "Heather4812",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFS6YXND5FHSVE7NA6SG3GUSKGCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Light",
+            "size": "1.8 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "39 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice light foundation. Darker than I expected, though",
+          "reviewText": "In general, this is a good foundation. It bought the light/medium because that is my typical foundation color. It is more like a medium. Made me look like I had a tan. I was going to return it, and then I saw that it\u2019s a non-returnable product. I played around a little bit with application and I found that if I put only a very small amount on the brush and dabbed it in several places before smoothing it over my skin, it gave me light cover coverage without being too dark. So I think it\u2019s going to work. Ideally, I wish I would\u2019ve ordered light instead of the color I did order. It feels good on the skin. I don\u2019t like the feel of a made up face. If you put it on sparingly, it will feel pretty natural. It\u2019s non-greasy and dries quickly. Goes on smoothly as long as you use just a little bit. The brush is very nice and works great. I spray a very tiny amount on the brush and it covers my whole face. I would give this product five stars if it weren\u2019t for the color issue.",
+          "reviewDate": "Reviewed in the United States on January 7, 2026",
+          "customer": "Dorothy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG67TZ3HD7EW2ETJHZZD3KXGAQDA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "04 Light Medium",
+            "size": "1.8 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "40 people found this helpful"
+        },
+        {
+          "reviewTitle": "An airbrushed finish...",
+          "reviewText": "I love this makeup. it's geared towards older women. I was hesitant to buy online bc it's so hard to guess the right color, without trying it on before hand. I am happy that I took that leap of faith bc it works great for my skin tone Not only does it match my skin color well, has good coverage and it reasonably priced. I am positive that I will be purchasing this product again. the foundation comes in a spray bottle that you are to spray the makeup onto a brush that is included when you buy it. and then use the brush to blend it into your skin. the makeup is buildable by adding additional layers to get the amount of coverage you need. when applying the makeup to the brush can pose an issue with making a mess. However, I read the reviews and learned a trick to avoid such a mess. I take a cardboard tube from the toilet paper roll and position it so that you spray through the tube right onto the brush. it works real well that way. So, I rate this product high, despite the need for a cardboard roll. The important part outweighs the inconvenience factor and for that reason, I highly recommend this product.",
+          "reviewDate": "Reviewed in the United States on January 20, 2026",
+          "customer": "AR Kelly",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHU62WAK5KA3M7YJAW6UQVIYAZFA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Light",
+            "size": "1.8 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "32 people found this helpful"
+        },
+        {
+          "reviewTitle": "I have ordered this multiple times",
+          "reviewText": "This is a fantastic foundation. I have ordered this many times and plan to keep ordering it. I just love the \u201clike skin\u201d look it gives to my face. It smooths out my skin tone and just looks nice. The only thing I could possibly suggest would be to sell just the spray on its own for maybe a couple dollars cheaper than to only offer it with a new brush every time. Don\u2019t get me wrong, it is nice to get a new fresh makeup brush with my purchase, but as stated above, I\u2019ve ordered many times so I am starting to accumulate a lot of the brushes lol. Again, it\u2019s not a bad thing, I just don\u2019t think I need a new one every time when my other brushes can simply be washed, sanitized and used again. I definitely like this brand and the color on my skin.",
+          "reviewDate": "Reviewed in the United States on February 11, 2026",
+          "customer": "Maven",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGFPB5GHGT7JCNBARKM6NPEZDYPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 Light Medium",
+            "size": "1.8 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Long lasting coverage",
+          "reviewText": "Love it. Last so long and so light on your skin.",
+          "reviewDate": "Reviewed in Canada on June 16, 2025",
+          "customer": "GRACE",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "07 Medium",
+            "size": "1.8 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

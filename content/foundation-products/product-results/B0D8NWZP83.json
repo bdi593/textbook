@@ -1,0 +1,404 @@
+{
+  "requestMetadata": {
+    "id": "ed6db253-6199-4c1c-a7a1-c0b6fb23251c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/ed6db253-6199-4c1c-a7a1-c0b6fb23251c.html",
+    "json": "https://files.hasdata.com/ed6db253-6199-4c1c-a7a1-c0b6fb23251c.json",
+    "url": "https://www.amazon.com/dp/B0D8NWZP83"
+  },
+  "product": {
+    "asin": "B0D8NWZP83",
+    "url": "https://www.amazon.com/dp/B0D8NWZP83",
+    "title": "Air Brush Makeup Foundation,Flawless Airbrush Foundation for Older Women,Teenagers,Middle-aged and Mature Skin,Lightweight Moisturizing,Buildable Coverage for Smooth Radiant Skin (02 Beige)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "02 Beige"
+    },
+    "featureBullets": [
+      "\u3010Airbrush Foundation\u3011Light and delicate texture,provides full coverage,modifies skin tone,reduces skin texture,adds natural radiance to your skin,and creates a flawless makeup.",
+      "\u3010Long-lasting Makeup\u3011Airbrush foundation uses a high-quality formula to help you lock in moisture,soothe the skin,and is long-lasting and waterproof,not easy to remove makeup,and can maintain a clear and natural makeup all day long.",
+      "\u3010Soft Matte Makeup Effect\u3011Adopts innovative moisturizing formula,silky and easy to push,ensuring a smooth use experience.The makeup feels light and breathable,gentle and comfortable,bringing a soft matte effect to your face.",
+      "\u3010Concealer and Brighten\u3011Magic minerals airbrush foundation uses an innovative airbrush design to present a high concealer base and a natural nude makeup effect,instantly brightening the skin tone and making dull skin crystal clear.",
+      "\u3010Perfect Gift\u3011The foundation can be fully integrated with the skin with the help of a professional makeup brush and a round powder puff.It can handle facial details with a finger powder puff.It is a fashionable gift for makeup lovers."
+    ],
+    "boughtInPastMonth": "800+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FCFQLFK1",
+        "title": "01 Natural\\/Porcelain (with Primer)",
+        "url": "https://www.amazon.com/dp/B0FCFQLFK1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71UwT8kPuuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F2LXKY4X",
+        "title": "03 Nude (with Primer)",
+        "url": "https://www.amazon.com/dp/B0F2LXKY4X",
+        "imageUrl": "https://m.media-amazon.com/images/I/71mJHTZc0FL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F2LR4R3T",
+        "title": "02 Beige (with Primer)",
+        "url": "https://www.amazon.com/dp/B0F2LR4R3T",
+        "imageUrl": "https://m.media-amazon.com/images/I/71GdnEvPAPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FR96T859",
+        "title": "08 Tan",
+        "url": "https://www.amazon.com/dp/B0FR96T859",
+        "imageUrl": "https://m.media-amazon.com/images/I/71F7FtNQRKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FR8DQ3MV",
+        "title": "05 Light",
+        "url": "https://www.amazon.com/dp/B0FR8DQ3MV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71qCF2WCn9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D8NWZP83",
+        "title": "02 Beige",
+        "url": "https://www.amazon.com/dp/B0D8NWZP83",
+        "imageUrl": "https://m.media-amazon.com/images/I/71vf9RrSg+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FR8WGKVV",
+        "title": "06 Light Medium",
+        "url": "https://www.amazon.com/dp/B0FR8WGKVV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71I90Wrm3wL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FR9DWS8Z",
+        "title": "07 Medium",
+        "url": "https://www.amazon.com/dp/B0FR9DWS8Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/71j-rrArCVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D8P6HB9X",
+        "title": "01 Natural\\/Warm Porcelain",
+        "url": "https://www.amazon.com/dp/B0D8P6HB9X",
+        "imageUrl": "https://m.media-amazon.com/images/I/71sSArRjHLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D8PGFCGF",
+        "title": "03 Nude",
+        "url": "https://www.amazon.com/dp/B0D8PGFCGF",
+        "imageUrl": "https://m.media-amazon.com/images/I/719c6uVAQHL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 13.98,
+      "beforePrice": 13.98
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Adream Store",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2Y6SRRU4FX0VH",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/71vf9RrSg+L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71vf9RrSg+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71y1foRaMOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ggIeIRjrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/812bNAkVZEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71JAUCUJ1nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FiQTemdkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81tAnW5FixL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e04f2dc8-862f-41c6-be8b-3134284b8422.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4bd76cb0-f45e-42a5-a699-4a92440169db.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/47a9654c-b579-45c9-b896-159c2f1075fe.__CR0,0,1200,900_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5456d7fa-b5de-4c3f-b7f5-42d823c5b082.__CR0,0,1200,900_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e2198568-7935-4919-8b6b-4a878c07719b.__CR0,0,1200,900_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2c5a0805-8ceb-4c97-a395-1a9010581094.__CR0,0,1200,900_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9a8db6ae-9c81-4bae-b82e-a634abf4a9e4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b327aec-57e6-4ad8-a74f-ceba19cd6a25.__CR93,0,1493,1680_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4ac9122f-2b6f-4e56-8f3b-18218c2d2461.__CR93,0,1493,1680_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efca3b8f-f753-447e-8e71-1a3142408e26.__CR93,0,1493,1680_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/675aa4b3-cd3e-41a0-acc6-0571ad90fe35.__CR93,0,1493,1680_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39a6cf5e-11b0-4e20-aba9-a58cfce12d16.__CR93,0,1493,1680_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38f1c45e-a087-4102-859c-fc0a8947bfc8.__CR93,0,1493,1680_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3ffe78d8-6f32-4d18-ba1a-2f7d709d9cfe.__CR93,0,1493,1680_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/844f2956-57fd-4720-8774-5f90bf3c9c4f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "02 Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Indoor"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "QIUFSSE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Beige"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Moisturizing, Waterproof"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle or Tube"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "AS-US-MJ-10399"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "QIUFSSE"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#11,155 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #119 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0D8NWZP83"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Moisturizing, Waterproof, Paraben Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "opaque"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.13 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1691,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "68%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "4%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage, with one noting it doesn't seep into creases or pores. The product is easy to apply with the provided brush, feels light on the skin, and creates a flawless, satin-like finish that stays on all day. The color match receives mixed feedback - while some say it matches their skin tone perfectly, others find it darker than expected.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 223,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 164,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 141,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 114,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 86,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 75,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 69,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 118,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71NkrjY4m2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gEBhbV8fL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71urJ0NzI9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dON3gZH9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61pt5HJNKDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ez8QciWCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61EKptqK9ZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71AnwpJeD8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61TIvhEj7sL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613D92KC+UL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/619W5Wh9QmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610OemVNqiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Flawless, Airbrushed Skin in Seconds \ud83d\ude0d\u2728",
+          "reviewText": "I\u2019m seriously impressed with the QIUFSSE Air Brush Foundation! It glides on so smoothly, giving me that airbrushed, flawless finish without feeling heavy or cakey. \ud83d\ude4c The lightweight, moisturizing formula is perfect for all skin types \u2014 I\u2019ve tried it on mature skin and it still looks fresh and radiant. Coverage is buildable, so I can go natural for daytime or full glam for evening, and it blends effortlessly with my skin tone (02 Beige is spot-on for me!). Honestly, it feels like a little magic in a bottle \u2014 my makeup routine is so much faster, and my skin looks amazing every time. If you want smooth, radiant, camera-ready skin without the fuss, this foundation is a total must-have. \ud83d\udc96",
+          "reviewDate": "Reviewed in the United States on October 24, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEEPWA3NVFKVBFAWYVUS7DH4JYIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Beige"
+          },
+          "helpfulVotes": "26 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wonderful product worth getting.",
+          "reviewText": "Tried this out for the first time this morning. It was easy to put on. Comes with a makeup brush, two makeup pads and the can of Airbrush foundation. After reading the instructiions and watched a video on it I tried it. You apply the spray to the applicator (brush) then blend in on your face starting at the chin. I only did one application to see how it would feel and look. It gives a nice glow to the skin and coverage is good working it around. It does not feel heavy at all. Has a soft feel to my face when I touch it. I put blush on after and no pilling from doing that went on nicely. Some areas may need another sweep but for today just wanted to see how it would work for me. I'm 62 have some lines and this makeup did not bunch in the wrinkles I have around my mouth at all or under my eyes. I need to us under eye coverage for dark areas have to see if they have something for that. But at my age have to say this is a winner. Be careful when you spray cover the table with a paper towel only have to press lightly to spray it fans out.",
+          "reviewDate": "Reviewed in the United States on October 25, 2025",
+          "customer": "MJL",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH46NHQ2COI5GLUKADORGLMBUJ2Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "01 Natural/Warm Porcelain"
+          },
+          "helpfulVotes": "31 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice foundation",
+          "reviewText": "Can get blotchy if not careful",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGLUWEJWLYVKVFA4X7EIURGMQTWA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "02 Beige"
+          }
+        },
+        {
+          "reviewTitle": "Beautiful finish, just watch out for overspray.",
+          "reviewText": "I really love the results of this airbrush makeup foundation! The coverage is smooth, lightweight, and gives a flawless, professional-looking finish every time. It blends beautifully and feels much lighter than traditional foundation, which is a huge plus for all-day wear. The only thing to be aware of is the overspray\u2014it can drift onto nearby items if you\u2019re not careful. I\u2019ve learned to apply it in a more open space or use a small towel to protect the area. Overall, the finish and ease of application make it absolutely worth it. Gorgeous results with just a little extra caution. Highly recommend!",
+          "reviewDate": "Reviewed in the United States on November 24, 2025",
+          "customer": "Sandy C.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGOAEYLPBVBK33TCNWSQSIPCMGVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Beige"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love it",
+          "reviewText": "Love this make up. It goes on easily and gives me good coverage. It is buildable which i like. It doesnt seem to stay on all day, but it is easy to apply. Feels good on the skin. This is my 1st air brush make up and i would purchase again. Love the included brush too. The price was reasonable and i think it is a good value.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "A nana in the usa",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFVSMNA32FKMIHKW6ASHBASTYS3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "06 Light Medium"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "For younger skin",
+          "reviewText": "The coverage is good for younger skin",
+          "reviewDate": "Reviewed in the United States on February 8, 2026",
+          "customer": "Cathy Larue",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEU4QL4BTSB256IFX4ECVT7JHGDA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "02 Beige"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent Product",
+          "reviewText": "I am totally thrilled with this make up. It goes on sheer but yet covers it\u2019s easy to use and the colour was perfect. I wish I had known about it years ago. I would recommend everybody giving this makeup a try. Great experience. I will purchase it again.",
+          "reviewDate": "Reviewed in the United States on January 28, 2026",
+          "customer": "jmjd",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHKZKODCNH33BIK2ZPMJH34BUC7A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Nude (with Primer)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good Pricing & Fast Delivery = A Valuable Choice In All",
+          "reviewText": "Had to order last minute due to Emergancy. Sprays well, dries in a light balance, leaving a lightweight covering. Color match was a bit off, more my fault. Did not seem to last all day, but that was fine for my needs. Great price, came with brush, sponge, and smaller patch sponge.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Tree Gallagher",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGDK5MFE5DGNEIIQZYASC3RP36TQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Beige"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "requestMetadata": {
+    "id": "040bd736-9106-46f2-9d79-b9ba76387b6c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/040bd736-9106-46f2-9d79-b9ba76387b6c.html",
+    "json": "https://files.hasdata.com/040bd736-9106-46f2-9d79-b9ba76387b6c.json",
+    "url": "https://www.amazon.com/dp/B0DWLX71BM"
+  },
+  "product": {
+    "asin": "B0DWLX71BM",
+    "url": "https://www.amazon.com/dp/B0DWLX71BM",
+    "title": "Naked Sundays BeautyScreen Peptide Foundation Tint - SPF 50 Tinted Sunscreen & Skincare Makeup with Zinc Oxide, Niacinamide - Lightweight Natural Coverage, 2.5 Light Neutral, 1.01 oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "2.5 Light Neutral",
+      "size": "1.01 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "SPF 50 Tinted Mineral Foundation \u2013 Non-nano zinc oxide with iron oxides delivers broad-spectrum defense, calms skin, and evens tone with zero white cast.",
+      "Skincare + Makeup Hybrid \u2013 Peptides, Niacinamide, Squalane & Polyglutamic Acid hydrate and smooth for radiant skin.",
+      "Satin-Matte, Buildable Coverage \u2013 Sheer-to-medium tint blends naturally without clogging pores. Ideal for acne-prone and sensitive skin.",
+      "Your Perfect Match \u2013 Shade 2.5 Light Neutral \u2013 Designed for light to medium skin tones with a balanced mix of warm and neutral undertones. Blends seamlessly for a natural, skin-like finish. Available across 15 shades to match every complexion.",
+      "Clean & Skin-Safe Formula \u2013 Free from fragrance, oxybenzone, and parabens. Vegan, cruelty-free, and non-comedogenic."
+    ],
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FH5711P2",
+        "title": "1.5 Fair Cool - Fair skin with Cool, pink, or rosy undertones 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FH5711P2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DygKLvMdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLWM6VW",
+        "title": "9.3 Rich Caramel Deep 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLWM6VW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71tTntV3H5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLV652F",
+        "title": "8 Golden Mahogany 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLV652F",
+        "imageUrl": "https://m.media-amazon.com/images/I/71hULxEo3-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLVYLJJ",
+        "title": "3 Warm Honey 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLVYLJJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71P-CajzgZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLX2GW1",
+        "title": "9 Rich Mahogany 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLX2GW1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71PqCbHHc6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLWMMHK",
+        "title": "7 Tan Toffee 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLWMMHK",
+        "imageUrl": "https://m.media-amazon.com/images/I/712ABCpj1tL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLYYNXN",
+        "title": "2 Fair Sand 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLYYNXN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zNhQws6sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLX71BM",
+        "title": "2.5 Light Neutral 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLX71BM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61403DPvAbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLV2335",
+        "title": "9.6. Rich Neutral 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLV2335",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bnUB4-7wL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLXQZ34",
+        "title": "10 Deep Neutral 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLXQZ34",
+        "imageUrl": "https://m.media-amazon.com/images/I/71s9G5Ld+uL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLZ81PL",
+        "title": "6 Tan Caramel 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLZ81PL",
+        "imageUrl": "https://m.media-amazon.com/images/I/710CqvpIGnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FH59BH85",
+        "title": "3.5 Light Medium 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FH59BH85",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gpTJqq5CL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLXMT3N",
+        "title": "4 Medium honey 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLXMT3N",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zSlGKWGwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLVW4W5",
+        "title": "1 Fair Neutral 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLVW4W5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ldjb-xHrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DWLXZ42Z",
+        "title": "5 Tan Honey 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DWLXZ42Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/71i8t38s69L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 38,
+      "beforePrice": 38,
+      "discount": "-10%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 12 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Naked Sundays",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1U90WPHIVT90C",
+    "shipper": "Amazon",
+    "totalImages": 10,
+    "primaryImage": "https://m.media-amazon.com/images/I/61403DPvAbL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61403DPvAbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81kJDAjX3eL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81kJDAjX3eL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91IDNSPUMlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81o9RB2oUuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91wCTm1UukL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jk7qgmuhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91IhGput6kL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61k0RQ5giDL._SL1375_.jpg",
+      "https://m.media-amazon.com/images/I/81+hn1g1pkL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/273d5cc7-09e6-484c-9d65-91c264580924.__CR0,0,1953,800_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90613bbc-bf53-4ecb-8cf2-7d941fddf8ae.__CR0,0,392,294_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39cc3faa-a2e8-436c-b9db-f9f0a7d5707f.__CR0,0,392,294_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/389a5eea-51d9-4b11-ad39-1afdb95d535e.__CR0,0,392,294_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/077b87e8-1a30-4012-bbf7-61e38637a385.__CR0,0,601,451_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d23c9832-ee21-457a-b6bd-3d92ea7bd14a.__CR0,0,1952,800_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4855fe2b-4f5f-417d-9c9d-7c7f7c32ac6a.__CR0,0,1952,800_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ab0a63b-f7e6-42a9-99ab-cdffabb9a2e6.__CR0,0,1953,800_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a8a474b-1d0a-4b29-894f-ea84c3cff7da.__CR0,0,1953,800_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9469ac7a-0b87-482c-94e8-9d095100ee7d.__CR0,0,1950,799_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7c2a06fa-9d5b-41ee-a312-268b28ce3f46.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4dc7641c-e59b-4f54-992b-7fa51b0cde7e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f6d4ec15-67ff-4ef0-b07a-60521e5f3e94.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "SPF 50 Tinted Foundation"
+      },
+      {
+        "key": "Color",
+        "value": "2.5 Light Neutral"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Combination, Dry, Normal, Oily, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "2-in-1 sunscreen foundation skin tint with SPF 50 for daily use is non-comedogenic, with lightweight, breathable, and buildable coverage"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Naked Sundays"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "A lightweight SPF 50 tinted foundation that combines daily sun protection, skincare benefits, and natural coverage. Infused with peptides and niacinamide for hydrated, radiant skin with no heavy feel."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Teen, Adults"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Naked Sundays"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#18,568 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #189 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DWLX71BM"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Antioxidant, Breathable, Lightweight, Non-Comedogenic, UV Protection"
+      },
+      {
+        "key": "Contour Shade Undertone",
+        "value": "Light Neutral - mix of warm and neutral undertones"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.01 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free, Gluten Free, Oil Free, Paraben Free, Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 312,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "71%",
+        "fourStars": "12%",
+        "threeStars": "5%",
+        "twoStars": "5%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers love this foundation's coverage, describing it as beautiful with a radiant finish, and appreciate its seamless blendability and non-greasy formula that leaves no residue. The product receives positive feedback for its skin benefits, with one customer noting it's perfect for no-makeup days, while another mentions it's particularly suitable for mature skin. Customers praise its lightweight, radiant finish, and all-natural SPF 50 protection.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 59,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin tint",
+          "count": 34,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 28,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin benefits",
+          "count": 25,
+          "status": "positive"
+        },
+        {
+          "aspect": "Non-greasy",
+          "count": 24,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 23,
+          "status": "positive"
+        },
+        {
+          "aspect": "Spf",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 20,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61uhlI6aI1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61a9-89Vd8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/616bLA-dxtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gmZfECkML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71nOw0oEgfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Xo0YSXo1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BhbZQr7+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BmcBqVQCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71oJMazrgkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61c5uz3gDsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61LiJGtxBcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/716683RRJdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Love! Perfect light foundation with high SPF.",
+          "reviewText": "This is the best light coverage foundation I have found with a high SPF. I tried several types of tinted moisturizers, shade adjusting CC or BB creams but none look as good as this one. It is a bit too runny but once you get used to it, you\u2019ll appreciate how seamlessly it blends on your skin. It\u2019s lightweight but covers nicely. A little goes a long way. It\u2019s not sticky. I appreciate the skin loving ingredients in it as well as all the toxic chemicals not in it. I have sensitive skin and scents can cause irritation easily.",
+          "reviewDate": "Reviewed in the United States on December 19, 2025",
+          "customer": "Hop63",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG4L7EU7AMU4DKPMYIFR26JQPCFA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1.5 Fair Cool - Fair skin with Cool, pink, or rosy undertones",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Glowy, Lightweight & Protective \u2014 My New Go-To!",
+          "reviewText": "I\u2019m in love with the Naked Sundays BeautyScreen SPF 50 Mineral Peptide Foundation Tint! The Fair Neutral shade blends beautifully into my skin and gives me a radiant, natural finish without feeling heavy. The buildable light coverage evens out my tone while still looking like real skin\u2014perfect for everyday wear. What really sets this apart is the SPF 50 protection combined with skin-loving peptides. It\u2019s rare to find a product that\u2019s both acne-safe and hydrating, but this one delivers! No breakouts, no cakey finish\u2014just smooth, glowy skin and strong sun protection in one easy step. Highly recommend!",
+          "reviewDate": "Reviewed in the United States on April 4, 2025",
+          "customer": "D.Ellen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFOOFDNKLAEVYNPD5XRMFKUWZOQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1 Fair Neutral",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "I love this product!",
+          "reviewText": "I was pleasantly surprised by the color, texture, coverage and how light it feels. It feels nice on my face. I am ecstatic that it also has spf 50. I have melasma and need the protection daily. Also, I have yet to find a tint that covers it up until now!!! It blends really well too. I am truly impressed by this product and will continue to purchase it! I only applied the tint in the photo. There wasn\u2019t a need to use concealer or powder over it!",
+          "reviewDate": "Reviewed in the United States on December 16, 2025",
+          "customer": "Angelina",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGFPC2AB6YJCQ2MOVNBOQRJWJRVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "3 Warm Honey",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Appearance is only skin deep",
+          "reviewText": "Glossy, shiny, glowy, oily, sweaty. Whatever word you want to use to describe its sheen. I have had all mentioned to me by others when I wore it. It does provide adequate sun protection but the 2 finger rule on an SPF with this one is too much unless you do half and let it dry down then do the other half. However, I don't know if this still counts as I am technically \"breaking the protocol\" on applying sunscreen. Ughhh. Somehow I still manage to like it. It covers flaws well but I guess that could be that I am too distracted by the brightness or maybe that is a good thing. I use a brush. I like it better than using my hands. A brush doesn't streak as bad which you would think it would be the other way around. Oh, It is super soft when applying. But, but, but... there is something else negative. It takes forever to dry down. Soooo, I keep going back and forth as to whether I should buy it again.",
+          "reviewDate": "Reviewed in the United States on June 3, 2025",
+          "customer": "Merry Hanley",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXAO7KMGIMMJFZEQD5NMYRWIHZQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "2 Fair Sand",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "23 people found this helpful"
+        },
+        {
+          "reviewTitle": "Stunning all in one product!",
+          "reviewText": "I bought this on a whim of a you tuber recommendation and I couldn't be more thrilled. I am 60 years old, and have good skin. I like a light/medium coverage with luminosity and something that doesn't enhance fine lines. This is such a beautiful product that provides coverage, skin benefits and spf. It's absolutely a no brainer and is not the typical skin tint. It gives solid coverage and the finish is glowy and youthful. You will not be disappointed with this purchase at this price point. For reference, I typically buy light/medium neutral which was 2.5 in this and was a perfect match. I would need to go up to the next level for summer matching. This might be an all time fave!",
+          "reviewDate": "Reviewed in the United States on April 26, 2025",
+          "customer": "A. T.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGCX7WPJGHDUZ6X5MQIN67ZYKGEQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2.5 Light Neutral",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "20 people found this helpful"
+        },
+        {
+          "reviewTitle": "Blends easily and looks natural!",
+          "reviewText": "Lightweight medium coverage. Easy to apply with a beauty blender. Great for dry skin!",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEOORWN4D3OFET5UAJOK7TC3XF3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2 Fair Sand",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Wonderful all in one foundation good for sensitive skin!",
+          "reviewText": "I was going through a really bad episode of dermatitis and skin allergies and this foundation saved my skin. Any other skincare or makeup products were irritating my damaged skin barrier but this gentle formula provided excellent light-medium coverage, a beautiful skin finish, hydration, and SPF protection all in one easy step. It allowed me to simplify my morning routine so that I can repair my skin barrier and now my skin is almost back to normal. What a wonderful product for sensitive skin! I only hope they expand their shade range to include more neutral shades as shade 3 is too cool for me and shade 4 is too warm for me. I just have mix them both for now.",
+          "reviewDate": "Reviewed in the United States on April 28, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPMLRJKKMJBH6HY7W56QENIDIQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "3 Warm Honey",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Too expensive for an okay product",
+          "reviewText": "For the price, I don\u2019t think this was great especially if you\u2019re looking for coverage. It\u2019s not bad so I will definitely finish it, though I won\u2019t be repurchasing. For the price, I expected much better. If you\u2019re looking for tinted SPF, the Eucerine one is better - light enough so you can apply the necessary amount (2 layers) but there is no make-up like coverage from the tint If you\u2019re looking for light foundation-ish product with SPF then the Erborian CC cream is AMAZING!! Great coverage! Ciele is also very good! Ciele is pricey though but it\u2019s a worthy splurge since it\u2019s light and the formulation feels pleasant and delivers effective light/medium and even somewhat blurring coverage.",
+          "reviewDate": "Reviewed in the United States on March 5, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4BAR7NIPF7V254MK32SJIA3LAA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "4 Medium honey",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

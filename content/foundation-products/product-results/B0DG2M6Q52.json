@@ -1,0 +1,633 @@
+{
+  "requestMetadata": {
+    "id": "a77659b3-e9bb-4fba-b707-f0f6336aae5c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a77659b3-e9bb-4fba-b707-f0f6336aae5c.html",
+    "json": "https://files.hasdata.com/a77659b3-e9bb-4fba-b707-f0f6336aae5c.json",
+    "url": "https://www.amazon.com/dp/B0DG2M6Q52"
+  },
+  "product": {
+    "asin": "B0DG2M6Q52",
+    "url": "https://www.amazon.com/dp/B0DG2M6Q52",
+    "title": "TIRTIR Mask Fit All Cover Pink Cushion Foundation | High coverage, Velvety Matte Finish, Lightweight, Flawless, Corrects Redness, Korean Cushion (#15C Fair Porcelain, Full Size, 0.63 Fl Oz)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.63 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "[HIGH COVERAGE WITH SKIN-FIT FINISH] Achieve stronger coverage with a high-coverage base that delivers a soft, skin-fit finish. The velvety matte texture ensures a flawless, long-lasting look.",
+      "[VELVETY MATTE] Experience a smooth, velvety matte finish with a large volume of cover powder that effectively conceals imperfections, providing a full coverage look.",
+      "[72-HOUR FLAWLESS WEAR] With upgraded cover powder, this foundation prevents cakiness, resists smudging, and maintains a smooth, flawless appearance for up to 72 hours with a strong Skin Fit application.",
+      "[PATENTED FILM COATING & SKIN FIT APPLICATION] Our patented \u201cDouble Shield Technology\u201d with film-coating ingredients enhances the adhesiveness of the foundation, creating a protective shield that makes the foundation last longer and shields your skin from irritants.",
+      "[PERFECT FOR OILY & COMBINATION SKIN] Perfect for those with oily or combination skin seeking a powdery, clean finish. This non-irritative formula is suitable for all skin types, ensuring a comfortable, full coverage wear without worrying about smudging."
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0DG2L3NGL",
+        "title": "0.15 Fl Oz (Pack of 1) 35N Walnut",
+        "url": "https://www.amazon.com/dp/B0DG2L3NGL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QQnzBaPBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2M3PSX",
+        "title": "0.15 Fl Oz (Pack of 1) 21C Cool Ivory",
+        "url": "https://www.amazon.com/dp/B0DG2M3PSX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pfgIQaBWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09FK3XZS9",
+        "title": "0.63 Fl Oz (Pack of 1) 17C Porcelain_New",
+        "url": "https://www.amazon.com/dp/B09FK3XZS9",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bmbCxp75L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCP2C743",
+        "title": "0.15 Fl Oz (Pack of 1) 21N Ivory",
+        "url": "https://www.amazon.com/dp/B0BCP2C743",
+        "imageUrl": "https://m.media-amazon.com/images/I/612l1S7eteL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2M4FNJ",
+        "title": "0.15 Fl Oz (Pack of 1) 33N Macchiato",
+        "url": "https://www.amazon.com/dp/B0DG2M4FNJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AGJJBm8ML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LJHFS",
+        "title": "0.15 Fl Oz (Pack of 1) 23N Sand_New",
+        "url": "https://www.amazon.com/dp/B0DG2LJHFS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jQfcxbTQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2KTXL2",
+        "title": "0.15 Fl Oz (Pack of 1) 17C Porcelain_New",
+        "url": "https://www.amazon.com/dp/B0DG2KTXL2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lwxupJf8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LB51Q",
+        "title": "0.15 Fl Oz (Pack of 1) 51N Fudge",
+        "url": "https://www.amazon.com/dp/B0DG2LB51Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VmhIk0QzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09FK3GC8Q",
+        "title": "0.63 Fl Oz (Pack of 1) 23N Sand_New",
+        "url": "https://www.amazon.com/dp/B09FK3GC8Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qTF4jpE2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LLG3C",
+        "title": "0.63 Fl Oz (Pack of 1) 17W French Vanilla",
+        "url": "https://www.amazon.com/dp/B0DG2LLG3C",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ET-cVPXVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2MS9K4",
+        "title": "0.15 Fl Oz (Pack of 1) 24N Latte",
+        "url": "https://www.amazon.com/dp/B0DG2MS9K4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RIrptPM6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2KX7WH",
+        "title": "0.63 Fl Oz (Pack of 1) 27N Camel",
+        "url": "https://www.amazon.com/dp/B0DG2KX7WH",
+        "imageUrl": "https://m.media-amazon.com/images/I/711OmFeuE0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LB3ZY",
+        "title": "0.63 Fl Oz (Pack of 1) 21C Cool Ivory",
+        "url": "https://www.amazon.com/dp/B0DG2LB3ZY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61cb6UkHHjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2PYZ7N",
+        "title": "0.15 Fl Oz (Pack of 1) 17W French Vanilla",
+        "url": "https://www.amazon.com/dp/B0DG2PYZ7N",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uOyI3DwDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LB978",
+        "title": "0.63 Fl Oz (Pack of 1) 35N Walnut",
+        "url": "https://www.amazon.com/dp/B0DG2LB978",
+        "imageUrl": "https://m.media-amazon.com/images/I/7110n2u6hbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2PVTZ2",
+        "title": "0.15 Fl Oz (Pack of 1) 13N Fair Ivory",
+        "url": "https://www.amazon.com/dp/B0DG2PVTZ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-DVt3G9BL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LTF6B",
+        "title": "0.63 Fl Oz (Pack of 1) 13N Fair Ivory",
+        "url": "https://www.amazon.com/dp/B0DG2LTF6B",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hUezf3MpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2KTXNW",
+        "title": "0.63 Fl Oz (Pack of 1) 24N Latte",
+        "url": "https://www.amazon.com/dp/B0DG2KTXNW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sqng+KbXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2M6Q52",
+        "title": "0.63 Fl Oz (Pack of 1) 15C Fair Porcelain",
+        "url": "https://www.amazon.com/dp/B0DG2M6Q52",
+        "imageUrl": "https://m.media-amazon.com/images/I/71BnjGnydaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LJ6MH",
+        "title": "0.63 Fl Oz (Pack of 1) 25N Mocha",
+        "url": "https://www.amazon.com/dp/B0DG2LJ6MH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71YXEVlLHHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2HC47S",
+        "title": "0.15 Fl Oz (Pack of 1) 29N Natural Beige",
+        "url": "https://www.amazon.com/dp/B0DG2HC47S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dtQSkXhLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LVR39",
+        "title": "0.15 Fl Oz (Pack of 1) 33C Hazel",
+        "url": "https://www.amazon.com/dp/B0DG2LVR39",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AGJJBm8ML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2M724W",
+        "title": "0.63 Fl Oz (Pack of 1) 43N Deep Cocoa",
+        "url": "https://www.amazon.com/dp/B0DG2M724W",
+        "imageUrl": "https://m.media-amazon.com/images/I/71mOj4asyyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09FK6DCTV",
+        "title": "0.63 Fl Oz (Pack of 1) 21N Ivory",
+        "url": "https://www.amazon.com/dp/B09FK6DCTV",
+        "imageUrl": "https://m.media-amazon.com/images/I/616yXJ+9VJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2KPXWT",
+        "title": "0.15 Fl Oz (Pack of 1) 15C Fair Porcelain",
+        "url": "https://www.amazon.com/dp/B0DG2KPXWT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qiVe-v8UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2L27L4",
+        "title": "0.63 Fl Oz (Pack of 1) 51N Fudge",
+        "url": "https://www.amazon.com/dp/B0DG2L27L4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71LtHKj358L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LFW67",
+        "title": "0.15 Fl Oz (Pack of 1) 43N Deep Cocoa",
+        "url": "https://www.amazon.com/dp/B0DG2LFW67",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DZ8YJLw8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2L1WD7",
+        "title": "0.63 Fl Oz (Pack of 1) 29N Natural Beige",
+        "url": "https://www.amazon.com/dp/B0DG2L1WD7",
+        "imageUrl": "https://m.media-amazon.com/images/I/71UyOmpbZoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2JRX2Y",
+        "title": "0.63 Fl Oz (Pack of 1) 33C Hazel",
+        "url": "https://www.amazon.com/dp/B0DG2JRX2Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71REWAnE8GL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2L7W82",
+        "title": "0.15 Fl Oz (Pack of 1) 31N French Beige",
+        "url": "https://www.amazon.com/dp/B0DG2L7W82",
+        "imageUrl": "https://m.media-amazon.com/images/I/614s-CrLbHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LGJ5B",
+        "title": "0.63 Fl Oz (Pack of 1) 31N French Beige",
+        "url": "https://www.amazon.com/dp/B0DG2LGJ5B",
+        "imageUrl": "https://m.media-amazon.com/images/I/710xHuS2SgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2M74NC",
+        "title": "0.15 Fl Oz (Pack of 1) 27N Camel",
+        "url": "https://www.amazon.com/dp/B0DG2M74NC",
+        "imageUrl": "https://m.media-amazon.com/images/I/618uZilUFjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LKSLG",
+        "title": "0.63 Fl Oz (Pack of 1) 27C Cool Beige",
+        "url": "https://www.amazon.com/dp/B0DG2LKSLG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71i4Y4K9w7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2HCH96",
+        "title": "0.15 Fl Oz (Pack of 1) 21N Ivory_New",
+        "url": "https://www.amazon.com/dp/B0DG2HCH96",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Dr54AmhkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2KXGFQ",
+        "title": "0.15 Fl Oz (Pack of 1) 21W Natural Ivory",
+        "url": "https://www.amazon.com/dp/B0DG2KXGFQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hgpY+g-IL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2M8V18",
+        "title": "0.15 Fl Oz (Pack of 1) 27C Cool Beige",
+        "url": "https://www.amazon.com/dp/B0DG2M8V18",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+Q79Ke8YL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2HCDTP",
+        "title": "0.63 Fl Oz (Pack of 1) 21W Natural Ivory",
+        "url": "https://www.amazon.com/dp/B0DG2HCDTP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CigX8tjaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2M4661",
+        "title": "0.15 Fl Oz (Pack of 1) 25N Mocha",
+        "url": "https://www.amazon.com/dp/B0DG2M4661",
+        "imageUrl": "https://m.media-amazon.com/images/I/617H-YKPUYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2LJN9J",
+        "title": "0.15 Fl Oz (Pack of 1) 24W Soft Beige",
+        "url": "https://www.amazon.com/dp/B0DG2LJN9J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61SjveHn37L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2L73LJ",
+        "title": "0.63 Fl Oz (Pack of 1) 24W Soft Beige",
+        "url": "https://www.amazon.com/dp/B0DG2L73LJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kWWreI9mL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DG2KV6QY",
+        "title": "0.63 Fl Oz (Pack of 1) 33N Macchiato",
+        "url": "https://www.amazon.com/dp/B0DG2KV6QY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rrUoKkW1L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 10,
+      "beforePrice": 25,
+      "discount": "-60%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "TIRTIR. INC",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3OI1HNTH0P9J5",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/71BnjGnydaL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71BnjGnydaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51LZC1-lqLL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51T8nVb2FGL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51GlDT75KkL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61icvfEOAsL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51aLB9Oy8XL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/81YYn3n4ZuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816PYeYqhoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81K3qx-E33L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/794237a6-bccb-4c92-87d0-269c3770561b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37da1074-a062-447e-8a48-45172a3f57f6.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/839db1a4-2846-440b-8371-20ecf66d9fcf.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae77ddc5-8bf0-496d-a46d-9ff8266a0fb9.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1e31107-8dbc-4bcd-a208-5749452dad52.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d8b0c17-85e5-4481-ab86-105042e3b73f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fc68e822-f360-4032-bca7-ecce16682c22.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ec46b6a9-5ba0-478d-a7c2-699aab4e3ba1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bad5841a-8ac5-4422-8cff-fc74017e7148.__CR83,0,1333,1500_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/791af147-0522-4a2c-9c4b-5a45f9b56c09.__CR83,0,1333,1500_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65a3c36c-4724-4329-b3b9-ee287d84ae2f.__CR83,0,1333,1500_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/edb212fa-71a2-4578-b2a8-e1137a1cd23e.__CR0,0,200,225_PT0_SX200_V1___.jpeg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/554ccb0c-a5d6-4485-95ae-1d7617ec4855.__CR0,79,1850,2081_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1f3761c8-1692-4074-8c21-1004314b2c41.__CR60,0,960,1080_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65ad21ff-8489-4150-ba71-b537c93c6b09.__CR60,0,960,1080_PT0_SX200_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3a4d604-789c-4ff7-972f-fee710b53c7b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cushion"
+      },
+      {
+        "key": "Color",
+        "value": "15C Fair Porcelain"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Base Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Compact Case"
+      },
+      {
+        "key": "Brand Name",
+        "value": "TIRTIR"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Republic of Korea"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "8809928136738"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "TIRTIR"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#5,070 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #58 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DG2M6Q52"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.1 Kilograms"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3 x 2.2 x 3 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Talcum Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3662,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "63%",
+        "fourStars": "14%",
+        "threeStars": "11%",
+        "twoStars": "5%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage without looking heavy, with a true matte appearance that feels like skin. Moreover, the product receives positive feedback for its quality, silky texture, and lightweight feel. However, the color match and longevity receive mixed reviews - while some say it matches their skin tone perfectly and lasts throughout the day, others find it too pale and report it dries out after a month. Additionally, the pore coverage is also mixed, with some finding it great for oily skin while others report it becomes patchy.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 224,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 127,
+          "status": "positive"
+        },
+        {
+          "aspect": "Finish",
+          "count": 108,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 71,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 67,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 123,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 110,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Pore coverage",
+          "count": 99,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/6160sPgeSNL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61aKmt14aVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61no8KWD7GL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81CX4uTercL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61GK7ArggML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81wpQ7417HL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61qpaquMH0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71lwdyQStuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81sQ4D6PC4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Zdjpntv8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/717Lci02S2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ieiErlmXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "great cushion, already repurchased",
+          "reviewText": "Love this cushion. It has a light- medium coverage, dewy finish long lasting wear. I have kind of oily skin and found this still does fine for daily wear. With the pink cushion I do need powder, with the red I don't. The red cushion has a thicker, more matte finish. This hasn't aggravated my acne or skin. Already repurchased. I find the skin tone pictures kind of accurate, they lean yellow whereas irl the cool tones are nice and cool.",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Kris",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFMAT7EYBK5OS7FHQBZ2IBXSNZCA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "15C Fair Porcelain"
+          }
+        },
+        {
+          "reviewTitle": "Finally Found the Perfect Foundation for Flawless Coverage",
+          "reviewText": "I\u2019ve already ordered this foundation at least five times and I will keep ordering it. For the first time in years I finally found exactly what I was looking for. The coverage is perfect, smooth, even, and natural-looking. It doesn\u2019t cake, crease, or leave any weird shine on my face. I also love that it has no chemical smell at all. In short, this foundation is worth every penny and has become my go-to. Would recommend!",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "Iryna",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHOVS6AGJBRUNUL7TFXXUZKWZ4FA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "13N Fair Ivory"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Flawless coverage, but could be drier for some skin types.",
+          "reviewText": "Bought this for a lightweight foundation with high coverage for everyday use. What I like \u2022 The formula provides excellent coverage while still feeling lightweight on the skin. \u2022 The velvety matte finish is smooth and long-lasting. \u2022 Corrects redness well, making it great for uneven skin tones. What could be better \u2022 The shade options could be a bit more inclusive for diverse skin tones. \u2022 The product may not be hydrating enough for dry skin types. \u2022 The cushion applicator could be more durable for frequent use. Bottom line: A great foundation for a flawless, matte finish with good coverage, but may not be ideal for dry skin or if you need a wider shade range. Perfect for those who want a smooth, long-lasting, and high-coverage look, but consider alternatives if you need more hydration or a better shade match.",
+          "reviewDate": "Reviewed in the United States on April 20, 2025",
+          "customer": "S Wang",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEHUVV5E7ZGASTPWWJ6W4THTMX2A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "21C Cool Ivory"
+          },
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "New Favorite Foundation",
+          "reviewText": "I'm obsessed with this foundation. The coverage is flawless while still feeling lightweight on the skin. It evens everything out beautifully without looking cakey. The color match was spot on, which is always a gamble ordering online. Application is so easy and it gives that smooth, airbrushed finish I've been looking for.",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "Shayla Duquette",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHOCMY6P6GYRPES25BLNJNBWDKSQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.15 Fl Oz (Pack of 1)",
+            "color": "23N Sand_New"
+          }
+        },
+        {
+          "reviewTitle": "Fine.",
+          "reviewText": "It's okay. Good coverage, but wants to separate with the rest of my makeup. The only way to keep it from doing so, is to use it so lightly that the coverage isn't doing it justice.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Lauren Mason",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3WYORUN3VLQDNRS4RZCQ4FD2SA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "17C Porcelain_New"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth, lightweight, and great coverage!",
+          "reviewText": "I\u2019ve purchased the orange (ai filter) and also the red compact (I\u2019m waiting for delivery) The orange compact was great! I think I like this particular one a little better. I have hyperpigmentation on my skin and I have tried so many foundations. This will not correct skin issues. However, the coverage is great as it\u2019s very lightweight. You don\u2019t need to apply multiple layers. You can put one layer down and then spot dab where you have discoloration or something you don\u2019t like, but this foundation is very smooth lasts throughout the day and minimal creasing. Color match great (obviously you have to choose the correct color for yourself) however if you\u2019re slightly off, I think it blends very well. Price is affordable, great value for my money for sure. Black Friday deals rn so I ordered all of them lol",
+          "reviewDate": "Reviewed in the United States on November 26, 2025",
+          "customer": "Heather",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZJ46KOI4T7UUH2UXSRRN2NPNHA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "23N Sand_New"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Works for me and my needs",
+          "reviewText": "It works really well for me. I have pretty fair skin that isn't always easy to find a match. For me a little goes a long way. Doesn't irritate my skin or cause me to break out which is great for my very sensitive skin. It has build able coverage for the days you really need it. Feels very light on skin, not cakey or greasy.",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "BlackCat84",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEJQ74TZABTJS4M3Z3PDHDJA3NUA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "17C Porcelain_New"
+          }
+        },
+        {
+          "reviewTitle": "Great foundation",
+          "reviewText": "I really like tirtir! It covers very well, quality is high. I don\u2019t get breakouts. It\u2019s good for sensitive skin. Texture is great, blends right into skin color. A lot for the $ especially when it\u2019s on sale! Very easy to use..just blot then blend.",
+          "reviewDate": "Reviewed in the United States on February 17, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH4ZFR3ZNFGCU27OL6F2ND5RQOCA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "21C Cool Ivory"
+          }
+        },
+        {
+          "reviewTitle": "Good quality, makeup became easier, I will buy again, thank you",
+          "reviewText": "Good quality, makeup became easier, I will buy again, thank you",
+          "reviewDate": "Reviewed in the United Kingdom on March 23, 2026",
+          "customer": "Ala Lisauskiene",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "13N Fair Ivory"
+          }
+        },
+        {
+          "reviewTitle": "A great foundation compact",
+          "reviewText": "Absolutely love this. I watch a lot of K-Dramas and they all use these types of compacts so wanted to try one myself. I love the fact that the powder puff has a little elastic piece so you can slip your fingers through rather than traditional foundation compacts where you have to hold the puff and I dont think you get as good coverage. It was a very good price although. The foundation goes on really well and is easy to blend in. I will definitely be getting more",
+          "reviewDate": "Reviewed in the United Kingdom on March 18, 2026",
+          "customer": "Cheryll",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "15C Fair Porcelain"
+          }
+        },
+        {
+          "reviewTitle": "Good coverage",
+          "reviewText": "Great coverage only thing is that it does make my skin oily",
+          "reviewDate": "Reviewed in Australia on February 1, 2026",
+          "customer": "Pelin bayhan",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "25N Mocha"
+          }
+        }
+      ]
+    }
+  }
+}

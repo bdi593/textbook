@@ -1,0 +1,328 @@
+{
+  "requestMetadata": {
+    "id": "623f16f8-df2a-4f5e-9519-e07eb582371f",
+    "status": "ok",
+    "html": "https://files.hasdata.com/623f16f8-df2a-4f5e-9519-e07eb582371f.html",
+    "json": "https://files.hasdata.com/623f16f8-df2a-4f5e-9519-e07eb582371f.json",
+    "url": "https://www.amazon.com/dp/B01DPA6T38"
+  },
+  "product": {
+    "asin": "B01DPA6T38",
+    "url": "https://www.amazon.com/dp/B01DPA6T38",
+    "title": "L'Oreal Paris Makeup Infallible Up to 24HR Pro-Glow Foundation, Sun Beige, 1 fl oz.",
+    "isAvailable": true,
+    "featureBullets": [
+      "Infallible Pro Glow Foundation With Spf: Lightweight and creamy, this long lasting medium-coverage foundation goes on smooth and finishes with a glow that lasts, The hydrating foundation with SPF is ideal for normal to dry skin",
+      "Infallible Face Makeup: Everything from the Infallible foundations, contour kits, and powders are professionally formulated for an expert look that lasts for hours on end, so you get color, definition and coverage that lasts",
+      "The Foundation Of Your Look: From BB creams to blush, L'Or\u00e9al has everything you need for a smooth, even finish, Highlight to illuminate your look, use concealer to hide imperfections or apply contouring makeup for enhanced, defined features",
+      "Because You're Worth It: L'Or\u00e9al Paris helps you create the look you want with our full line of makeup including foundations, concealers, highlighter makeup, eyeshadow palettes, lipsticks and much more",
+      "Perfect To Pair With: Try with our Infallible Pro Glow Face Primer to prepare, perfect and illuminate while it hydrates skin for better makeup application"
+    ],
+    "description": "Discover the new pro finish of longwear: up to 24 hour wear with a hydrating glow. Lightweight and creamy, L\u2019Oral Paris' Infallible Pro Glow Foundation is a long lasting foundation that goes on smooth with a glow finish that lasts. Hydrating foundation has medium coverage and instantly hides imperfections for a clear complexion. This luminous foundation with SPF is ideal for normal to dry skin. \u2022 Up to 24HR Foundation \u2022 Hydrating Glow, Medium Coverage \u2022 Healthy, Radiant Finish \u2022 The New Pro-Look of Longwear Apply to cheeks, forehead, and chin blending outward. Finish with Infallible Pro-Spray and Set for a lasting glow look. Octinoxate 3.01% Warnings. For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 12.97,
+      "beforePrice": 15.99,
+      "discount": "-19%",
+      "priceFrom": 12.97,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 1,
+    "primaryImage": "https://m.media-amazon.com/images/I/613tT75GstL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/613tT75GstL._SL1500_.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Sun Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Dry, Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00071249330500"
+      },
+      {
+        "key": "UPC",
+        "value": "071249330500"
+      },
+      {
+        "key": "Model Number",
+        "value": "71249330500"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "71249330500"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#40,101 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #356 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01DPA6T38"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Cream"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.05 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.77 x 1.85 x 4.71 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 986,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "79%",
+        "fourStars": "12%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "1%"
+      },
+      "customersSay": "Customers find this foundation provides excellent coverage that's buildable, with a beautiful glowy finish that looks natural on the face. The product is lightweight, blends smoothly, and lasts all day, with one customer noting it holds up well even in hot sun. The color match receives mixed feedback - while some find it matches their skin tone perfectly, others say it's not precise enough.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 49,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 22,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 15,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 10,
+          "status": "positive"
+        },
+        {
+          "aspect": "Residue",
+          "count": 9,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 14,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71xoJ6oUW0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71nOj+xmP0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-TBO9E5bL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CEo982lrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-gXQBbbIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61DoJ1DH+JL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Uk1KXLrOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/712NpWK-T6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71kbISeoPSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Very lightweight and buildable great coverage glowy",
+          "reviewText": "Glowy blendable and buildable non cakey and great coverage very light wearing feels like air",
+          "reviewDate": "Reviewed in the United States on January 21, 2026",
+          "customer": "Maverick",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFUFHZJPYOTZV7PELRVNWEHQQLIA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Its my favorite!",
+          "reviewText": "Have been using this foundation for yeeeears! Its THE BEST! And wonderful if you're a crier! Ha its waterproof and holds up PERFECTLY!",
+          "reviewDate": "Reviewed in the United States on February 18, 2026",
+          "customer": "Lisa Kaye",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQTIGQA6R6I2DYLKVEG5JD3TQDQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Flawless and Fabulous!!!",
+          "reviewText": "I was thoroughly impressed with this foundation. I'm Indian with olive/warm undertones and a NC 35-37 in MAC. I bought the 208 and found it to be a tad light with pink undertones but was able to make it work. I think 209 will work better. I still wore it out and it looked flawless. It is very lightweight but blends smoothly. Reminds me of MAC's water weight foundation but much much cheaper. Loreal basically owns the whole makeup market :) so I can see this on par with high end foundations. I used a beauty blender and set with loreal's setting spray. Recieved so many compliments on my skin! Build able coverage and feels like I had nothing on my skin. I absolutely love it. I have dry skin so I prefer this one over the matte one. Great dupe for many high end foundations. Lasted the whole night and did not melt off in the CA sun.",
+          "reviewDate": "Reviewed in the United States on July 17, 2016",
+          "customer": "Melanie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVFW4KV56MBHZGTE2BZ36NYBEHQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "My go to drug store foundation!",
+          "reviewText": "This is very light weight and even moisturizing and looks very natural on my face! Lasts all day and looks smooth to! Best drugstore foundation imo!",
+          "reviewDate": "Reviewed in the United States on December 30, 2024",
+          "customer": "Suzyq503",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3N5YQECX4Y4F27UY3NQ2KTS45A",
+          "customerStarsRating": 4
+        },
+        {
+          "reviewTitle": "Perfect Foundation",
+          "reviewText": "Not a heavy foundation! Goes on like a face cream and gives enough coverage!",
+          "reviewDate": "Reviewed in the United States on June 24, 2025",
+          "customer": "Missy Kiehl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEOCTHZJJJK5ROVIIQD6JLV4LS7A",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "My new found fav foundation",
+          "reviewText": "Love this! Gives you the right amount of glow without looking as greasy as the maybelline dewy fit me does.I even threw my Higher end foundations aside for this including my Mac studio fix and Clinique 24hr foundation, which feels heavy and breaks me out. The pro glow feels so lightweight and still gives you excellent coverage and allows ur skin to breathe! UNLIKE the pro matte which feels like cake face and heavy! My only complain is the colours are limited and it oxidizes like hell n gets darker! The which makes colour choice even harder! Hence the reason for four stars! Caramel beige would be my perfect match if it didn't oxidize so I usually buy sun beige and put a few drops of that as well. It also does not last 24hrs but with the right setting powder like Ben Nye and Laura mercier and the right baking technique (dampen sponge pressing powder to not skin) it lasts all day! Nonetheless I still give this two thumbs up cuz foundation is my most difficult beauty product to find with my crazy skin that starts off dry and then goes oily during the day esp as I live in the Caribbean where there is sunshine always!\ud83d\ude42",
+          "reviewDate": "Reviewed in the United States on June 20, 2017",
+          "customer": "roro",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHBQ5X7VMXPYZBVYOL37WH5WZPPA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Mskeup",
+          "reviewText": "Love this brand have used for years. Covers well but not heavy",
+          "reviewDate": "Reviewed in the United States on November 25, 2025",
+          "customer": "Josie Short",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHNCT264V4ANFWJ4D3CXCVETVXEA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Awesome",
+          "reviewText": "I usually hate foundation, and must time I spend natural as can\u2019t be bothered with makeup, but my face had a few bruises From standing on a sweeping brush - don\u2019t ask. I had a few outings to goto so I purchased this and the L\u2019Or\u00e9al infallible palette Firstly I impressed myself by ordering the right shade. I was expecting to hate this stuff but I wanted the coverage, to all its credit it was awesome, didn\u2019t look like I was wearing foundation and gave a lovely dewy youthful glow coverage. I\u2019m converted. I won\u2019t be wearing this every day as I\u2019m not that type of girl, for the odd night out I will definitely wear this for a more flawless look, as for the rest of the time I really don\u2019t care what I look like and I like my skin to breathe lol. I would recommend this as it did give a lovely finish, it\u2019s comparable to the Refy, infact this May slightly have the upper hand as it\u2019s more dewy. I used a kabuki brush to apply and it went on a dream. I think if you get the correct shade you\u2019ll live this stuff.",
+          "reviewDate": "Reviewed in the United Kingdom on November 18, 2021",
+          "customer": "Missy P",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "It melt away when applied to the face and definitely gives a pretty glow finish last for hours.",
+          "reviewText": "It's a complete guessing game when trying to order your foundation shade online. Trying to find the best colour match was like Am I 'Sand Beige'? What about Sun Beige ''? But after tested the Sun Beige 208. It was a little bit darker than my usual foundation colour tone (Shiseido Synchro skin glow Golden 4). Actually, maybe I'm more on the Natural Beige 205 (slight yellow town). Overall, I really like the texture of this foundation as it gives a dewy glow to your complexion with the same long lasting finish from morning till evening. This foundation is beloved for its medium, buildable coverage and natural dewy finish or by adding an extra layer to give a heavier coverage. To be honest, I am not sure if it would last for 24 hours as usually my make up will be fully off before then. if you not sure which colour to pick always pick one shade darker than your normal shade. I will definitely purchase L'Or\u00e9al Paris Infallible Pro Glow Foundation again, as its good value for money with long lasting results.",
+          "reviewDate": "Reviewed in the United Kingdom on March 5, 2019",
+          "customer": "Pauline Ellesse",
+          "customerStarsRating": 4
+        },
+        {
+          "reviewTitle": "GOOD PRODUCT",
+          "reviewText": "This is actually quite nice I've only used it a couple of times, but is nice to use if you don't want to wear full makeup and adds a little glow.",
+          "reviewDate": "Reviewed in Canada on October 2, 2017",
+          "customer": "Michele",
+          "customerStarsRating": 4
+        },
+        {
+          "reviewTitle": "Really love the finish of this foundation and definitely recommend if ...",
+          "reviewText": "Really love the finish of this foundation and definitely recommend if you can find your shade. Great if you love medium coverage and spf! The shade range does suck and I do wish there were more shades that were more yellow or olive. I'm an nc37 in mac studio fix and barcelona in nars sheer glow, and I bought the shade 208 sun beige.",
+          "reviewDate": "Reviewed in the United Kingdom on March 18, 2018",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "LOVE THIS ITS MY GO TO.",
+          "reviewText": "this foundation is light weight but also great coverage. perfect for hot climates. I always get sooo many compliments when I use it. give it a try!",
+          "reviewDate": "Reviewed in the United Kingdom on December 19, 2022",
+          "customer": "QUINCY",
+          "customerStarsRating": 5
+        }
+      ]
+    }
+  }
+}

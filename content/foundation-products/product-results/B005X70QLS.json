@@ -1,0 +1,79 @@
+{
+  "requestMetadata": {
+    "id": "0ae5ffef-968e-41ba-b13b-0f6f8790c2cf",
+    "status": "ok",
+    "html": "https://files.hasdata.com/0ae5ffef-968e-41ba-b13b-0f6f8790c2cf.html",
+    "json": "https://files.hasdata.com/0ae5ffef-968e-41ba-b13b-0f6f8790c2cf.json",
+    "url": "https://www.amazon.com/dp/B005X70QLS"
+  },
+  "product": {
+    "asin": "B005X70QLS",
+    "url": "https://www.amazon.com/dp/B005X70QLS",
+    "title": "Foundation and Earth",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "format": "if (typeof uet == 'function') {\n            uet('bb', 'audibleMediaMatrixScope', {wb: 1});  //timestamp body-begin\n        }\n    \n                      \n                           \n                        \n         Audiobook              \n\n    \n    .adblVerticalAlignCenter {\n        padding-top: 0 !important;\n        display: flex !important;\n        flex-direction: row;\n        justify-content: center;\n        height: 100%;\n        align-items: center;\n    }\n    .adblVerticalAlignTop {\n        padding-top: 4px !important;\n        display: flex !important;\n        flex-direction: row;\n        justify-content: flex-start;\n        height: 100%;\n        align-items: flex-start;\n    }\n    .adblShowExtraMessageWithoutPriceTitle {\n        position: inherit;\n        top: 12px;\n    }\n    .adblShowPriceWithoutExtraMessage {\n        margin-top: 9px;\n    }"
+    },
+    "features": {
+      "book5Of7": "Foundation",
+      "listeningLength": "18 hours and 44 minutes",
+      "author": "Isaac Asimov",
+      "narrator": "Larry McKeever",
+      "publicationDate": "October 19, 2011",
+      "language": "English",
+      "publisher": "Random House Audio",
+      "asin": "B005X70QLS",
+      "version": "Unabridged",
+      "programType": "Audiobook"
+    },
+    "description": "The fifth novel in Isaac Asimov\u2019s classic science-fiction masterpiece, the Foundation seriesTHE EPIC SAGA THAT INSPIRED THE APPLE TV+ SERIES FOUNDATIONGolan Trevize, former Councilman of the First Foundation, has chosen the future, and it is Gaia. A superorganism, Gaia is a holistic planet with a common consciousness so intensely united that every dewdrop, every pebble, every being, can speak for all\u2014and feel for all. It is a realm in which privacy is not only undesirable, it is incomprehensible.But is it the right choice for the destiny of mankind? While Trevize feels it is, that is not enough. He must know.Trevize believes the answer lies at the site of humanity\u2019s roots: fabled Earth . . . if it still exists. For no one is sure where the planet of Gaia\u2019s first settlers is to be found in the immense wilderness of the Galaxy. Nor can anyone explain why no record of Earth has been preserved, no mention of it made anywhere in Gaia\u2019s vast world-memory. It is an enigma Trevize is determined to resolve, and a quest he is determined to undertake, at any cost.",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Books",
+      "Science Fiction & Fantasy",
+      "Science Fiction",
+      "Hard Science Fiction"
+    ],
+    "variants": [
+      {
+        "asin": "B003EY7IHM",
+        "title": "Kindle",
+        "price": "$7.99",
+        "url": "https://www.amazon.com/dp/B003EY7IHM"
+      },
+      {
+        "asin": "B005X70QLS",
+        "title": "Audiobook",
+        "price": "$0.00",
+        "url": "https://www.amazon.com/dp/B005X70QLS"
+      },
+      {
+        "asin": "0385233124",
+        "title": "Hardcover",
+        "price": "$37.82",
+        "url": "https://www.amazon.com/dp/0385233124"
+      },
+      {
+        "asin": "0593159993",
+        "title": "Paperback",
+        "price": "$12.60",
+        "url": "https://www.amazon.com/dp/0593159993"
+      }
+    ],
+    "totalImages": 1,
+    "primaryImage": "https://m.media-amazon.com/images/I/91NKnAtPNNL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/91NKnAtPNNL._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 7485,
+      "rating": 4.5
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "requestMetadata": {
+    "id": "4461062c-ff5b-448a-b91c-acd7a4d62501",
+    "status": "ok",
+    "html": "https://files.hasdata.com/4461062c-ff5b-448a-b91c-acd7a4d62501.html",
+    "json": "https://files.hasdata.com/4461062c-ff5b-448a-b91c-acd7a4d62501.json",
+    "url": "https://www.amazon.com/dp/B07Z5LB7K8"
+  },
+  "product": {
+    "asin": "B07Z5LB7K8",
+    "url": "https://www.amazon.com/dp/B07Z5LB7K8",
+    "title": "Mary Kay TimeWise Luminous 3D Foundation 1 Fl oz. / 30 ml - Beige N 150",
+    "isAvailable": true,
+    "description": "Timewise luminous 3D foundation",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 23.8,
+      "beforePrice": 26.84,
+      "discount": "-11%",
+      "priceFrom": 23.8,
+      "otherOfferQuantity": 12
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Friday, April 3",
+    "primeMemberDeliveryIsoDate": "2026-04-03T00:00:00.000Z",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "ArkCoast",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1RWASBZTIAHI1",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61pGx8LZqNL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61pGx8LZqNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41aWfwAOKeL.jpg",
+      "https://m.media-amazon.com/images/I/71HKMOfVR5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81k9Jr95PEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51BHo38QtgL._SL1438_.jpg",
+      "https://m.media-amazon.com/images/I/61c+2hwkDBL._SL1057_.jpg",
+      "https://m.media-amazon.com/images/I/71EBv6lApGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51nJlRGBrRL.jpg",
+      "https://m.media-amazon.com/images/I/316ikylDD2L.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0628ee26-4758-4324-9ac0-a146652b4a49.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0628ee26-4758-4324-9ac0-a146652b4a49.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Beige N 150"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Dry"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Humidity- and sweat-resistant formula. Long-lasting yet weightless coverage"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Mary Kay"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Model Number",
+        "value": "1743-0821"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "1743-0821"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#39,978 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #354 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07Z5LB7K8"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Luminous"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Luminous"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.07 Pounds"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 407,
+      "rating": 4.7,
+      "starRates": {
+        "fiveStars": "84%",
+        "fourStars": "10%",
+        "threeStars": "2%",
+        "twoStars": "1%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation to be of good quality, with smooth application that creates a natural look. The product matches skin tones perfectly and provides nice coverage, with one customer noting it makes skin look less wrinkled. Customers appreciate its longevity, with one mentioning it lasts all day, and they like how it feels on the skin, particularly noting it eliminates crepey texture.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 16,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 15,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin feel",
+          "count": 6,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 5,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 5,
+          "status": "positive"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Foundation for mature women",
+          "reviewText": "After moisturizer on my face, I used this foundation and it looked and felt so natural! Great for older women.",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Racket",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGKBS7TLTAY5MXDEEUE4ASV5U7KA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Nice coverage with a natural look.",
+          "reviewText": "Doesn\u2019t feel or look as if I\u2019m wearing makeup. I\u2019m 81 & it makes my skin look dewy not caked.",
+          "reviewDate": "Reviewed in the United States on January 9, 2026",
+          "customer": "kathy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTKFZONMS4N4RBPL3F6AAMKO4HA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Mary Jay Make Up",
+          "reviewText": "Great coverage with porcelain look on skin. I've used this for many years.",
+          "reviewDate": "Reviewed in the United States on December 29, 2025",
+          "customer": "Km66",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGNS5FOP4NMJKV6N6YI55EBIB2CA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Makeup",
+          "reviewText": "Love this makeup. It gies on smoothly and doesn\u2019t cake after a few hours. I\u2019m well pleased! Boni Watkins",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "Boni Watkins",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHTXRHZ4JXRLD5JJMT6UT6MDIZFQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good stuff",
+          "reviewText": "I like it a lot , people notice it , likes it but a little too dark I think or I give it 5 stars",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "Dawnell Purcell",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEAXITUYC4GQN2ZESXM6RWYGZELQ",
+          "customerStarsRating": 4
+        },
+        {
+          "reviewTitle": "Matte foundation",
+          "reviewText": "Good color and easy to use!",
+          "reviewDate": "Reviewed in the United States on December 27, 2025",
+          "customer": "Carol Kawakami",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHKTKUPFL5HPXMKLHDVMTPP5YSOQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Entrega",
+          "reviewText": "I like that base.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Wanessa Cristina 3",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGWET33WU5IPD5LOVOUBZUYC47DA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Good quality",
+          "reviewText": "I like the luminous effect. Product wears well. The beige N150 is slightly light for my skin especially in the summertime. Occasionally I may blend it with Neutrogena healthy skin with SPF.",
+          "reviewDate": "Reviewed in the United States on June 29, 2025",
+          "customer": "Eddi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGE6YD7CED5GUWBUNBLDMKQOX2KQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "3 people found this helpful"
+        }
+      ]
+    }
+  }
+}

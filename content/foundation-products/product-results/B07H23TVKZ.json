@@ -1,0 +1,425 @@
+{
+  "requestMetadata": {
+    "id": "fc6cfe5e-38ad-465e-8c8f-e1dd4189ee02",
+    "status": "ok",
+    "html": "https://files.hasdata.com/fc6cfe5e-38ad-465e-8c8f-e1dd4189ee02.html",
+    "json": "https://files.hasdata.com/fc6cfe5e-38ad-465e-8c8f-e1dd4189ee02.json",
+    "url": "https://www.amazon.com/dp/B07H23TVKZ"
+  },
+  "product": {
+    "asin": "B07H23TVKZ",
+    "url": "https://www.amazon.com/dp/B07H23TVKZ",
+    "title": "Well People Bio Powder Foundation, Lightweight & Hydrating Foundation For Perfecting & Smoothing Skin, Semi-Matte Finish, Vegan & Cruelty-free, 4N",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "4N"
+    },
+    "featureBullets": [
+      "FOUNDATION FOR SMOOTH SKIN: Achieve that flawless skin \u201cno-makeup\u201d look. This weightless pressed powder foundation perfects and smooths the skin with a semi-matte finish.",
+      "HELPS CONTROL SHINE: This pressed powder vegan foundation combines the hydrating skin care benefits of organic squalane with the staying power of a liquid foundation to effectively help control shine and smooth your complexion.",
+      "LIGHT-TO-MEDIUM COVERAGE: This Bio Powder Foundation delivers light-to-medium coverage.",
+      "PLANT-POWERED INGREDIENTS: Made with Olive Derived Squalane, which promotes a healthy glow in your skin, Organic Corn Starch, which controls excess oil and makeup creasing, and Mica, which helps skin look luminous and smooth.",
+      "WELL PEOPLE: Clean Beauty Powered By Plants. This skincare product is dermatologist-developed, vegan, and cruelty-free. Well People is both PETA Cruelty Free and Leaping Bunny certified. Well People products are pregnancy friendly."
+    ],
+    "description": "What it is: A weightless pressed powder foundation that perfects and smooths the skin with a semi-matte finish. Why we love it: Light-to-medium coverage with a semi-matte finish Setting powder helps absorb oils and control shine Ultra-fine pigments smooth and perfect your complexion Infused with plant-powered ingredients like Olive Derived Squalane, Mica and Cornstarch Talc free Achieve that flawless skin \u201cno-makeup\u201d look. This pressed powder vegan foundation combines the hydrating benefits of organic squalane in skin care with the staying power of a liquid foundation to effectively control shine and smooth your complexion. The plant-based formula is lightweight and formulated with ultra-fine pigments, allowing you to customize your coverage into a natural, semi-matte finish. Plant-powered ingredients: Olive Derived Squalane: Promotes a healthy glow in your skin Organic Corn Starch: Controls excess oil and makeup creasing Mica: Helps skin look luminous and smooth Clean Beauty Powered By Plants. This makeup product is dermatologist-developed, vegan, and cruelty-free. Well People is both PETA Cruelty Free and Leaping Bunny certified. Well People products are pregnancy friendly. We formulate without Phthalates, Parabens, Oxybenzone, Triclosan, Phenols, Retinoids and Hydroquinone. We recommend always checking with a doctor before using any products while pregnant or breastfeeding.",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Powder"
+    ],
+    "variants": [
+      {
+        "asin": "B0BMK2RN9W",
+        "title": "7W",
+        "url": "https://www.amazon.com/dp/B0BMK2RN9W",
+        "imageUrl": "https://m.media-amazon.com/images/I/71GpEqlAuPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H1ZPSJZ",
+        "title": "1C",
+        "url": "https://www.amazon.com/dp/B07H1ZPSJZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SJIQiGJ0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BMKBR1R2",
+        "title": "11C",
+        "url": "https://www.amazon.com/dp/B0BMKBR1R2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zfF1ukMIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BML7Y82W",
+        "title": "5.5W",
+        "url": "https://www.amazon.com/dp/B0BML7Y82W",
+        "imageUrl": "https://m.media-amazon.com/images/I/71V1WK7OmGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H23XR89",
+        "title": "3W",
+        "url": "https://www.amazon.com/dp/B07H23XR89",
+        "imageUrl": "https://m.media-amazon.com/images/I/7186SL6Q+iL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H23DNXJ",
+        "title": "2W",
+        "url": "https://www.amazon.com/dp/B07H23DNXJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71W3iL+6ijL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H24Y6YY",
+        "title": "6N",
+        "url": "https://www.amazon.com/dp/B07H24Y6YY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Pt5IBv1hL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H23TVKZ",
+        "title": "4N",
+        "url": "https://www.amazon.com/dp/B07H23TVKZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ujzA26nML._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H1ZSR9J",
+        "title": "5C",
+        "url": "https://www.amazon.com/dp/B07H1ZSR9J",
+        "imageUrl": "https://m.media-amazon.com/images/I/71RwndQMUGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BMKVJRDG",
+        "title": "9W",
+        "url": "https://www.amazon.com/dp/B0BMKVJRDG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71hFFlw7wVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BML51X6H",
+        "title": "10N",
+        "url": "https://www.amazon.com/dp/B0BML51X6H",
+        "imageUrl": "https://m.media-amazon.com/images/I/717n8kO7v-L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 28,
+      "beforePrice": 28,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/71ujzA26nML._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71ujzA26nML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71YDh8ruvDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-D5AEAD+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LWoDN0UIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81U-wU+UauL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715aCbIyZ1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715dYp7vapL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1825986b-a20b-4592-b7f7-c23c54762eb4.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6879cdb0-1e09-44f2-945e-5bafb8b60c8c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/16a2720c-bb7f-457e-8a08-6dc68047a439.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04d00666-fbb5-4887-b295-f7bc2acc93b8.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a84a8c14-7549-4876-be63-cd66fd1c81e4.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/26ca8d6e-04eb-4b8d-8047-ae8872e84127.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7de7628e-6cb0-415c-a8b9-f7273e60416d.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4bca7c70-c89a-45c8-97af-59891ac1eb3c.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0d1418ca-32cb-4c8e-af73-4be5ae634194.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "4N"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face makeup, Even Complexion"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Well People"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Organic"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "UPC",
+        "value": "854836006428"
+      },
+      {
+        "key": "Model Number",
+        "value": "100022"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "100022"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Well People"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#23,354 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #115 in Face Powder"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07H23TVKZ"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Natural Ingredients, Not Tested On Animals, Organic"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Semi-Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.02 Pounds"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Petrochemical Free, Phthalate Free, Silicone Free, Triclosan Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 593,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "68%",
+        "fourStars": "12%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "9%"
+      },
+      "customersSay": "Customers find this foundation powder to be of excellent quality with clean, all-natural ingredients, and appreciate its lightweight formula that provides good coverage without being too heavy. The product receives positive feedback for its texture, with one customer noting it's comfortable on acne-prone skin, and its natural finish that makes skin look flawless. While some customers say it matches their skin well, others report that the color is slightly off, and opinions about skin compatibility are mixed.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 33,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 29,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 26,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 24,
+          "status": "positive"
+        },
+        {
+          "aspect": "Ingredients",
+          "count": 19,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 50,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 49,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color match",
+          "count": 34,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/711dCzZpRyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81DMjiAwx-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71F9vpz-+AL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bnsdp1xjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81eWYj-Cr5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81aPH7db6XL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61B4JERrbcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/711TaGcQAKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61+TxayI9jL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71vuao184lL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/B1v4m9NQhCS._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610sm7jheDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "LOVE LOVE LOVE",
+          "reviewText": "The Well People Bio Powder Foundation is an incredible product for achieving a flawless, semi-matte finish. The lightweight formula smooths and perfects my skin, offering great coverage without feeling heavy or cakey. I love that it feels hydrating throughout the day, leaving my skin looking fresh and natural. The shade 4N is a perfect match for my complexion, and knowing it\u2019s vegan and cruelty-free makes it even more appealing. Overall, this foundation provides great performance with a clean, healthy formula\u2014I highly recommend it!",
+          "reviewDate": "Reviewed in the United States on March 10, 2025",
+          "customer": "Whitney Curry",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHQ7QOU46PNF6O3FRFN22RHZAJUA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "4N"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Beautiful",
+          "reviewText": "I've been searching for a powder with good ingredients that my sensitive skin will tolerate. This goes on looking a little dry on my dry skin, but within maybe an hour it looks so natural and just right. It's easy to apply, light, the color is good, and very natural looking. My powder blush and bronzer also blend well and stay on with this powder. I'll also note my job requires taking a mask on and off all day and after the first mask I don't see any transfer, but my foundation is still doing it's job. I will repurchase. It's also lasted longer than previous powders of similar size product.",
+          "reviewDate": "Reviewed in the United States on February 24, 2025",
+          "customer": "Little Otter",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQI5Q6FZ7O375C6QG32UFJFNH4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "4N"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great for Mature Skin",
+          "reviewText": "It's challenging to find a foundation for more \"mature\" skin that contains only clean ingredients and gives the coverage I'd like, without going into the (gasp) fine lines I've developed. I have always used liquid foundations, but after months of searching and reading reviews, I picked this powder foundation. Not only is it lightweight (I sometimes forget I have it on), it matches my skin tone almost perfectly (it's hard to do a good match virtually) and it goes on quickly and easily. It leaves a smooth finish and isn't cakey or shiny. It's also a good value. This will be my go to foundation from now on.",
+          "reviewDate": "Reviewed in the United States on July 8, 2025",
+          "customer": "Marion",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF676UXZEXR47P7W3WFJX2QQWGBA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "3W"
+          },
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Order item alone",
+          "reviewText": "1C fits my fair European complexion well. It\u2019s easy to apply with a brush, the texture is comfortable on my acne-prone skin, and it lasts long enough for me not to have to reapply while I\u2019m not home. It\u2019s a good price point for me, and has natural-looking buildable coverage, so you don\u2019t necessarily look like you\u2019re wearing a face full of makeup. This was my 5th time ordering & it arrived completely smashed inside the compact. Perhaps, avoid ordering it alongside other items that will come together in a large box (this was my first time adding it to Subscribe & Save.)",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "Laila",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEUONEAFIXESZG22EC5WAHBCGB2A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "1C"
+          }
+        },
+        {
+          "reviewTitle": "No Harmful Ingredients, great coverage and low cost",
+          "reviewText": "I decided to try this product since it was EWG verified. I have become aware of so many beauty products with harmful chemicals that disrupt hormones and can be carcinogenic. I was hesitant to change the powder because I was so happy with what i had, but after seeing that this one was HALF the price of my powder, it was worth the shot. I like minimal coverage so I don't wear other foundation or anything. This is perfect. I think it actually smooths out my pores even better than the more expensive powder. Thankfully, I got the color right also. They have a product quiz on the Well People website that can help you choose your shade. Between that and comparing what I currently had, I chose the right color for me. It went on a little light but after 15 minutes or so is perfect. It has a little sheen look to it (versus fully matte), so if you have oily skin, this might not be for you. I think it makes my skin look more youthful (I'm 43 so things are looking more dull nowadays). In summary, if you like minimal or moderate coverage and are concerned about your health and your wallet, I highly recommend.",
+          "reviewDate": "Reviewed in the United States on May 14, 2024",
+          "customer": "Becca",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQCFFMMYUA4GNIKNQF6ME2IPAZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "4N"
+          },
+          "helpfulVotes": "24 people found this helpful"
+        },
+        {
+          "reviewTitle": "Poor quality",
+          "reviewText": "I bought this twice. Both times it dropped and easily cracked and all the makeup was gone. The color was good though",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "starry night",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHKKJWNFFLDDLWRHQNNP2M5YCWXA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "3W"
+          }
+        },
+        {
+          "reviewTitle": "Eh",
+          "reviewText": "Doesn't come with a puff and wasn't packaged with any padding so arrived with the power broken. Product itself feels nice with light coverage",
+          "reviewDate": "Reviewed in the United States on December 27, 2025",
+          "customer": "JeannieB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE57UIKD4UZC56NQ7KWBU775QS6Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "1C"
+          }
+        },
+        {
+          "reviewTitle": "Non toxic makeup!!",
+          "reviewText": "Such a steal for non toxic makeup! Bought specifically for my daughter to play with. She loves it!!",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Katelyn Case",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3OLOGPTABLPFMF2JEOQAYSYYSQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "3W"
+          }
+        },
+        {
+          "reviewTitle": "Not toxic and very good",
+          "reviewText": "Great product,good coverage,but light and not Cakey,and clean",
+          "reviewDate": "Reviewed in the United Kingdom on March 8, 2026",
+          "customer": "Recycle or eat plastic",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "3W"
+          }
+        }
+      ]
+    }
+  }
+}

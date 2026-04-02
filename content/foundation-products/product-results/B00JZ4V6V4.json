@@ -1,0 +1,333 @@
+{
+  "requestMetadata": {
+    "id": "e8f2826c-7ea3-41f8-ad4a-a8934acd9e44",
+    "status": "ok",
+    "html": "https://files.hasdata.com/e8f2826c-7ea3-41f8-ad4a-a8934acd9e44.html",
+    "json": "https://files.hasdata.com/e8f2826c-7ea3-41f8-ad4a-a8934acd9e44.json",
+    "url": "https://www.amazon.com/dp/B00JZ4V6V4"
+  },
+  "product": {
+    "asin": "B00JZ4V6V4",
+    "url": "https://www.amazon.com/dp/B00JZ4V6V4",
+    "title": "e.l.f. Poreless Face Primer, Skin-Smoothing Matte Makeup Base, Minimizes Pores & Fine Lines, Long-Lasting Foundation Primer with Tea Tree & Vitamins A & E, Vegan & Cruelty-Free",
+    "isAvailable": true,
+    "featureBullets": [
+      "SMOOTH PRIMER BASE: Creates a flawless, smooth canvas that helps makeup apply evenly and last longer throughout the day under foundation or concealer.",
+      "MINIMIZES PORES & SHINE: Oil-free, lightweight formula visibly reduces the look of pores while controlling excess shine for a matte, balanced finish. Wear alone or under makeup.",
+      "INFUSED WITH TEA TREE & VITAMINS: Face primer is made with tea tree and vitamins A & E for restorative benefits. Unscented formula.",
+      "LIGHTWEIGHT DAILY WEAR: Feather-light texture blends seamlessly without heaviness, perfect for daily use on all skin types.",
+      "VEGAN & CRUELTY-FREE: e.l.f. stands with every eye, lip, face, paw and fin. Proudly vegan, e.l.f. is double-certified cruelty-free by Leaping Bunny & PETA."
+    ],
+    "description": "The Poreless Face Primer is your secret weapon to a flawless face. 2014 Life & Style Best of Beauty Award Winner! When applied prior to your makeup, this restorative base will give your face a baby-soft finish\u2014filling in pores, imperfections, and wrinkles. It allows your foundation to do its job and not get stuck in the wrong places, and it also preps you for either a light-powder look or a full-makeup look\u2014you decide. This smaller-sized bottle is the perfect size to throw in your bag for everyday use or the next time you get away. e.l.f. makes the best of beauty accessible to every eye, lip, and face. Your originality is infinite, and we are inspired by what makes you unique. From the early explorer to the trend-obsessed beauty junkie\u2014glam or bare faced, minimalist, maximalist and every look in between\u2014we are for every eye, lip, and face. Proud to be 100% vegan and cruelty-free, worldwide.",
+    "boughtInPastMonth": "9K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation Primers"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.81,
+      "beforePrice": 8.81,
+      "discount": "-5%",
+      "priceFrom": 8.81,
+      "otherOfferQuantity": 6
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/514N8km4BsL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/514N8km4BsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/517gOxuNQVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61huYVqZWOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/815iq9RFHUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/814C67j-MjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61a9IHELalL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Lc9jA6pYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41b2N7f5ykL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/9e0e65f4-7913-498a-8f5e-7c93bb778c51.__CR0,0,2021,625_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/4ff13cff-df1e-47a7-9e23-c666f5245527.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/af7a3ca2-ea0b-48e6-a478-4c3b4cfac994.__CR0,0,2021,1250_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/0914e60f-6544-47e4-9d1a-a29f9ed046ea.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/08cb98d1-d4cd-4f8b-b662-da59d7fc28b6.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d7accc6d-3f3d-4b39-bbf9-179a19848cc8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/96883a15-993c-4c95-8d65-b8886358ad04.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1bab6777-1582-4166-a45b-0765ee2809db.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Product Benefits",
+        "value": "Smoothening"
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Specialty",
+        "value": "Vegan"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Brand Name",
+        "value": "e.l.f."
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "e.l.f. Cosmetics"
+      },
+      {
+        "key": "UPC",
+        "value": "609332834057"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00609332834057"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "83405"
+      },
+      {
+        "key": "Model Number",
+        "value": "83405"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,941 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #15 in Foundation Primers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00JZ4V6V4"
+      },
+      {
+        "key": "Item Volume",
+        "value": "0.47 Fluid Ounces"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.08 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.6 x 1.6 x 5.5 inches"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty-free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 19473,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "14%",
+        "threeStars": "9%",
+        "twoStars": "3%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find the primer smooth like butter on the face and rival high-end products in quality, with makeup going on smoothly and staying put all day. The product works well for mature skin and offers good value for money. Opinions are mixed regarding pore reduction, with some saying it smooths them out while others find it too oily. The fragrance receives mixed reactions, with some finding it pleasant while others note a very strong smell. The staying power is also mixed, with some saying it helps makeup stay put while others report it doesn't help at all.",
+      "aspects": [
+        {
+          "aspect": "Texture",
+          "count": 641,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 535,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 297,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 293,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 283,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pore reduction",
+          "count": 489,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Fragrance",
+          "count": 470,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Staying power",
+          "count": 166,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71H5DFMhqpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/619bV7r1bpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61KyFGv9+KL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71v2kD7kciL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61rCWiqGdJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61t5OilpwmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71sGimzDB4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+3kR5H+YL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61esjA6+t3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71DdOsK93eL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61eKTom50fL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71MJU8K8toL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "e.l.f. Poreless Face Primer: The Foundation for Flawless Makeup",
+          "reviewText": "My wife is a dedicated and repeat user of the e.l.f. Poreless Face Primer, and I can confidently say this product has become an essential step in her makeup routine. I'm the one doing the re-buying, so the 'repeat buyer' part is definitely true! It consistently delivers on its promise to create a truly flawless, smooth canvas for foundation application. The primer has a light, silky texture that glides effortlessly over the skin. Within seconds of application, it visibly minimizes the appearance of pores and fine lines, blurring imperfections without feeling heavy or greasy. It transforms textured areas into an incredibly smooth base, which is crucial for achieving a professional-looking finish with both liquid and powder foundations. More than just filling pores, this primer genuinely helps extend the wear time of her makeup, keeping everything locked in place throughout the day. Given its high-end performance at an incredibly affordable price point, the value is unbeatable. If you're looking for a makeup primer that restores a flawless, smooth canvas, this e.l.f. favorite is clearly worth becoming a repeat purchase.",
+          "reviewDate": "Reviewed in the United States on October 8, 2025",
+          "customer": "Richard Fletcher",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3J7NXXXZRPSQTK4ZPFULRYVQFA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "28 people found this helpful"
+        },
+        {
+          "reviewTitle": "Small Price for a Great Product",
+          "reviewText": "I love this stuff! I have \"mature\" skin and have not been happy with the way my pores look under makeup. I saw this product and thought I would give it a try. It's less than $10! I really assumed that I wouldn't like it, but I was definitely wrong! This makeup primer goes on so smoothly. My skin feels very soft and the pores are much less noticeable. If I had to offer one negative comment about the product it is that it does have a bit of a smell that I don't care for. But that goes away soon after applying this product. I'm currently on my third bottle. I've had such great experience with this product, that i'm currently searching e.l.f. for other products that I might like.",
+          "reviewDate": "Reviewed in the United States on September 26, 2025",
+          "customer": "KatyK",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AESB22YEA34OKQ6KTH5VEAD2D6CQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "35 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good product but still has 1 flaw",
+          "reviewText": "Feels great. It does blur some fine lines and pores. So it does what it's meant to do. Only qualm that I have is the smell. I don't know if it's only my product or others, but it smells exactly like chemically, like pinesol. Scent softens but it's lingers. Not something you want to smell when applying on the face.",
+          "reviewDate": "Reviewed in the United States on April 4, 2025",
+          "customer": "Valerie Huertas Johnson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFOPOGTPHSZAT3WQ5FEWKX6SOZZA",
+          "customerStarsRating": 4,
+          "helpfulVotes": "20 people found this helpful"
+        },
+        {
+          "reviewTitle": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f My Holy Grail Primer \u2014 Silky, Smooth, and Seriously Effective",
+          "reviewText": "I am obsessed with this primer. I\u2019ve tried so many over the years \u2014 from drugstore to high-end \u2014 and none of them compare to how buttery, silky, and flawless the e.l.f. Poreless Primer feels going on. The texture is like velvet. It glides on effortlessly and instantly smooths out my skin, blurring pores without feeling heavy or greasy. It\u2019s super easy to apply and melts in like a dream \u2014 no weird pilling or chalky finish. \u2728 Why I Love It: \u2022 Feels buttery and soft, not tacky or oily \u2022 Creates a flawless base \u2014 my makeup looks 10x better and lasts so much longer \u2022 Blurs pores beautifully, especially around my nose and cheeks \u2022 Lightweight and perfect for everyday wear \u2022 Honestly feels like a high-end product for a fraction of the price If you\u2019ve been debating trying it \u2014 do it. I don\u2019t see myself ever switching to anything else. It\u2019s that good.",
+          "reviewDate": "Reviewed in the United States on July 31, 2025",
+          "customer": "Kelley",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AETY6XFL6VPNCYD436OR42YXZZ7Q",
+          "customerStarsRating": 5,
+          "helpfulVotes": "22 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect primer for large pores",
+          "reviewText": "Great primer!! I bought this face primer to help conceal the pores on my nose and this product worked really well. It went on easily, using just my fingers and I applied to a clean, moisturized face. The primer was smooth and did a good job serving as a base for my makeup. My face felt silky and my makeup went on flawlessly.",
+          "reviewDate": "Reviewed in the United States on December 4, 2025",
+          "customer": "Whitney Florida",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHTXSDIQOKHX7WVROVNNH6W6MKVQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Disappointing!",
+          "reviewText": "I use and like other ELF skin care products, so I thought I would try this one. The best thing I can say is that it feels very, very nice when I smooth it onto my face. The downsides are: it does not smell nice (though the smell dissipates by the time I have finished putting on make-up), I depend on the matte finish to keep my make-up looking fresh for a few hours which it did not do, and even though I applied it sparingly, it did not last very long (the container is twice the size of the product volume.) All of that being said, I have mature skin that is sensitive to some ingredients so I do not use a standard foundation, I use a tinted moisturizing product with sunscreen in it. So with different skin types and different foundations it may give better results. I did enjoy how it felt on my skin, but I decided to go back to my usual \u201cThank Me Later\u201d primer.",
+          "reviewDate": "Reviewed in the United States on February 20, 2026",
+          "customer": "CFL",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEFVNWCXSSJZQQOP45QK4PPJ5SHA",
+          "customerStarsRating": 3,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Works and smells great!",
+          "reviewText": "Smells amazing, like lavender. Give a smooth look but doesn't actually \"dry\" like some I've used. Still looked great by the end of the day.",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Ashley Singletary",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5BUDNNXG562FU7ND6QWS6KSEFA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great product.",
+          "reviewText": "Goes on smooth, not drying. Good price, fast delivery. Just what I have been looking for. Will buy again.",
+          "reviewDate": "Reviewed in the United States on March 9, 2026",
+          "customer": "juniper",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5T27WYSFF47GZYLTJBNJ4LTBAQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "So good primer",
+          "reviewText": "So good for this primer",
+          "reviewDate": "Reviewed in India on October 16, 2018",
+          "customer": "Keerthana.vishnu",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Good product",
+          "reviewText": "Very nice one",
+          "reviewDate": "Reviewed in the United Arab Emirates on March 25, 2020",
+          "customer": "Mariya ivanova",
+          "customerStarsRating": 5
+        }
+      ]
+    }
+  }
+}

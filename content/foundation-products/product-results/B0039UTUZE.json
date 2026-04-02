@@ -1,0 +1,685 @@
+{
+  "requestMetadata": {
+    "id": "2e7cb67c-7a1d-4771-aab6-f8fd71156c95",
+    "status": "ok",
+    "html": "https://files.hasdata.com/2e7cb67c-7a1d-4771-aab6-f8fd71156c95.html",
+    "json": "https://files.hasdata.com/2e7cb67c-7a1d-4771-aab6-f8fd71156c95.json",
+    "url": "https://www.amazon.com/dp/B0039UTUZE"
+  },
+  "product": {
+    "asin": "B0039UTUZE",
+    "url": "https://www.amazon.com/dp/B0039UTUZE",
+    "title": "Revlon Liquid Foundation, ColorStay Face Makeup for Combination & Oily Skin, SPF 15, Medium-Full Coverage with Matte Finish, 220 Natural Beige, 1 Fl Oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "LONG-WEARING: Oil-free, fragrance-free foundation creates a flawless look for up to 24 hours, comfortable and lightweight feel",
+      "BUDGE-PROOF: Transfer-resistant, waterproof & mask-friendly, resists heat, sweat & humidity, SPF 15",
+      "SKIN-CARING: Antioxidant Vitamin E helps nourish & protect skin from pollutants",
+      "PORELESS, MATTE FINISH: Earth-sourced, multi-mineral powders control oil breakthrough",
+      "FOR ALL SKIN: 43 diverse shades"
+    ],
+    "description": "America's #1 long-wearing foundation! This oil-free foundation delivers a flawless matte finish for oily and combination skin, and wears for up to 24 hours.",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0039UTV4O",
+        "title": "370 Toast 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV4O",
+        "imageUrl": "https://m.media-amazon.com/images/I/71nCf6ZtB0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTV4E",
+        "title": "360 Golden Caramel 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV4E",
+        "imageUrl": "https://m.media-amazon.com/images/I/71u3uJGL2SL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VX6U9NI",
+        "title": "Toast 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00VX6U9NI",
+        "imageUrl": "https://m.media-amazon.com/images/I/51gVyRWGhhL._SL1280_.jpg"
+      },
+      {
+        "asin": "B0039UTV3K",
+        "title": "350 Rich Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV3K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71eeyo5mlBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDS8XRQ",
+        "title": "600 Cinnamon 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDS8XRQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71uwrFXdoJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDS8NY1",
+        "title": "285 Shell 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDS8NY1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71T8OjUBQ-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VX6U9J2",
+        "title": "Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00VX6U9J2",
+        "imageUrl": "https://m.media-amazon.com/images/I/418msAQ5UjL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0039UTV5I",
+        "title": "400 Caramel 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV5I",
+        "imageUrl": "https://m.media-amazon.com/images/I/71V6FUTFZeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTV1M",
+        "title": "310 Warm Golden 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV1M",
+        "imageUrl": "https://m.media-amazon.com/images/I/71oR6vtOi2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01CD8Z1A0",
+        "title": "Golden Beige (300) 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01CD8Z1A0",
+        "imageUrl": "https://m.media-amazon.com/images/I/51kkfErEcNL._SL1280_.jpg"
+      },
+      {
+        "asin": "B0039UTUZE",
+        "title": "220 Natural Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUZE",
+        "imageUrl": "https://m.media-amazon.com/images/I/71nKP4zDnXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTV26",
+        "title": "330 Natural Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV26",
+        "imageUrl": "https://m.media-amazon.com/images/I/712t8k2-U7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01KKHCF3C",
+        "title": "Golden Caramel 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01KKHCF3C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61aI6w605xL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTV0S",
+        "title": "250 Fresh Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV0S",
+        "imageUrl": "https://m.media-amazon.com/images/I/71OzodQXoFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01DLZJAD8",
+        "title": "Mahogany 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DLZJAD8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VrjxhjsDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTUZ4",
+        "title": "200 Nude 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUZ4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71dXIbbaKRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4PDQFF",
+        "title": "270 Chestnut 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4PDQFF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71UU8vdkDbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01N131DC8",
+        "title": "Mocha 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01N131DC8",
+        "imageUrl": "https://m.media-amazon.com/images/I/51BZ4r3rjbL._SL1280_.jpg"
+      },
+      {
+        "asin": "B07B4P4L61",
+        "title": "395 Deep Honey 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4P4L61",
+        "imageUrl": "https://m.media-amazon.com/images/I/71wi5SKPVqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4PDNHB",
+        "title": "455 Honey Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4PDNHB",
+        "imageUrl": "https://m.media-amazon.com/images/I/71VB+XtJj1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VX6U9DI",
+        "title": "Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00VX6U9DI",
+        "imageUrl": "https://m.media-amazon.com/images/I/41MAc-qyevL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07GDL839C",
+        "title": "290 Natural Ochre 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDL839C",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WOC78itJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4N54FD",
+        "title": "500 Walnut 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4N54FD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ncb7xXlAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDJQFNF",
+        "title": "280 Tawny 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDJQFNF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71UcEwIuiyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0037AN0QG",
+        "title": "Natural Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0037AN0QG",
+        "imageUrl": "https://m.media-amazon.com/images/I/51V-UcUN-jL._SL1280_.jpg"
+      },
+      {
+        "asin": "B0039UT9QY",
+        "title": "440 Mahogany 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UT9QY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71PwaODI4zL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GF7CQMN",
+        "title": "140 Oatmeal 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GF7CQMN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KRAZY-8LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4MRMN8",
+        "title": "260 Light Honey 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4MRMN8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71toIBzHFPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4GT1YR",
+        "title": "510 Pecan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4GT1YR",
+        "imageUrl": "https://m.media-amazon.com/images/I/717Xi2rUIOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTUYK",
+        "title": "180 Sand Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUYK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71dInEss9DL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTV58",
+        "title": "380 Rich Ginger 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV58",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xdUw66SNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTV1W",
+        "title": "320 True Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV1W",
+        "imageUrl": "https://m.media-amazon.com/images/I/71K3pNAXkNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDS8RLN",
+        "title": "520 Cocoa 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDS8RLN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71OaamrUD-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTV1C",
+        "title": "300 Golden Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV1C",
+        "imageUrl": "https://m.media-amazon.com/images/I/718ztOWchtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01LZKD9Q4",
+        "title": "Cappuccino 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01LZKD9Q4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71r2UN49tjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4P4L6C",
+        "title": "460 Macadamia 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4P4L6C",
+        "imageUrl": "https://m.media-amazon.com/images/I/7199O5WGCoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTUZO",
+        "title": "240 Medium Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUZO",
+        "imageUrl": "https://m.media-amazon.com/images/I/71LdG2JYzkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UT9RI",
+        "title": "450 Mocha 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UT9RI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71wZBpIAfyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GF3DWHS",
+        "title": "315 Butterscotch 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GF3DWHS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71FlaxKjMDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTUYA",
+        "title": "150 Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUYA",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AWESOMmVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01JA8BQSW",
+        "title": "355 Almond 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01JA8BQSW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IZYdDKKQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01JA8BQVY",
+        "title": "375 Toffee 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01JA8BQVY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71A1zLZ2P1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UT9QE",
+        "title": "410 Cappuccino 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UT9QE",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JzVBbdczL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDZ62LW",
+        "title": "295 Dune 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDZ62LW",
+        "imageUrl": "https://m.media-amazon.com/images/I/711LMT--lOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FZMK4NSG",
+        "title": "360 Golden Caramel 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FZMK4NSG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rX-iGANLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UTV3A",
+        "title": "340 Early Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTV3A",
+        "imageUrl": "https://m.media-amazon.com/images/I/71S-MvQ5NnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDYTPYT",
+        "title": "135 Vanilla 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDYTPYT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71dPqBqnvvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GF7CQMP",
+        "title": "620 Java 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GF7CQMP",
+        "imageUrl": "https://m.media-amazon.com/images/I/71jFdzT25wL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GF9N4HZ",
+        "title": "275 Cashew 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GF9N4HZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71wfU2VtkOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0039UUD00",
+        "title": "110 Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UUD00",
+        "imageUrl": "https://m.media-amazon.com/images/I/71y3y2pKDkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07B4HJMFJ",
+        "title": "390 Rich Maple 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07B4HJMFJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WOGE7kzhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDZ62LX",
+        "title": "392 Sun Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDZ62LX",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HwG6fRD2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GF2ZXJL",
+        "title": "610 Espresso 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GF2ZXJL",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bbUNcnvAL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 12.48,
+      "beforePrice": 15.99,
+      "discount": "-22%",
+      "priceFrom": 12.48,
+      "otherOfferQuantity": 8
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 12 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/71nKP4zDnXL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71nKP4zDnXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TW5CYEGlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Q8Ho5gtrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813X-W+PmeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813ZH+HVTXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LR9bRDMCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81hATzLR2KL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81B55VnnRNL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4abc646d-7959-49b3-8259-e930d3f1cdca.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d64f91f6-12a0-41dc-b5e0-d71d73ddf593.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d1f80e9d-c073-4a62-8eab-f909c6403970.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f455dbf4-6ef4-4ce8-ab70-6ab70f877c80.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2f35a893-78dd-4de9-a320-87e469cb2798.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e6a11257-4a83-441c-b5c7-d0c059510d0c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9280349-faab-421c-95da-9bab74b112fc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/948de9bd-27c0-499e-abb1-2ca61635788b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "220 Natural Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "REVLON"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Long-wearing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "long-lasting, skin-caring matte finish"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00309975410051"
+      },
+      {
+        "key": "UPC",
+        "value": "309975410051"
+      },
+      {
+        "key": "Model Number",
+        "value": "007382-05"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "14070050"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Revlon"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,554 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #19 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0039UTUZE"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Oil-Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "3.7 ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.25 x 1.25 x 4.13 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 33010,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "77%",
+        "fourStars": "12%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation to be one of the best drugstore options, praising its full buildable coverage that lasts all day. The product is excellent for oily skin, keeps it moisturized, and has a semi-matte finish that creates a natural look. They appreciate its lightweight feel and consider it good value for money, with one customer noting it's particularly suitable for dark skin tones. The color match receives mixed feedback, with some customers saying it's perfect for their skin tone while others find it too light.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 738,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 733,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 581,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 425,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 338,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 330,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 217,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 467,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61u8qDG10RL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61AKkheczGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71XzMi5A0IL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71sPnAkirWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YkdG6jhyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61pmT+Q5KOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Hmr2ERfgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Dh7Lv6KsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81D7MODRy-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/815Uu1I50LL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Xz4EBmrWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81BSqCgj3TL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great Foundation \ud83d\udc4d",
+          "reviewText": "Since my usual foundation is not available, I gave this one a try. I may just have a new product to buy now! Great coverage and stays on. The color is perfect as well.",
+          "reviewDate": "Reviewed in the United States on February 12, 2026",
+          "customer": "Holly",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGP4QTWGPTYO2IWFFYLMYERMRI7Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "110 Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Goes on smooth, great makeup",
+          "reviewText": "Oh my gosh love it! I ordered too light, my fault but will reorder a bit darker. The makeup goes on really smooth & feels great. Finally a new makeup to replace my old makeup they stopped making. Wish I had discovered this sooner. Great makeup & great deal. Thank you, truly happy.",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Gloria O",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHI7C6RV3MOBSDVKUGKMJZIAEFIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220 Natural Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great for controlling oil and comparable to higher-end brands",
+          "reviewText": "I\u2019ve been really happy with this foundation. I have combination/oily skin, and this does a great job of keeping my skin from getting greasy throughout the day, which is usually my biggest issue. The finish stays nicely matte without looking dry or heavy, and it holds up well for everyday wear without breaking down after a few hours. Coverage is solid\u2014medium to full\u2014and it evens everything out without looking cakey. The shade 370 Toast was also a great match for my skin tone, which can be hard to find without going too light or too orange. I also like that it has SPF 15 built in, so it adds a little extra sun protection for daily use, which is a nice bonus. Honestly, this performs just as well as some of the more expensive foundations I\u2019ve tried, including MAC. For the price, it\u2019s a great value. Overall, if you\u2019re dealing with oily skin and want something reliable that doesn\u2019t cost a ton, this is definitely worth it.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Keiarah Santos",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH2BL62TJESD3DYSYZ3BZCRKCTVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "370 Toast",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "GREAT COVERAGE",
+          "reviewText": "I absolutely love this foundation! It provides great coverage while still feeling lightweight on the skin. It blends seamlessly and gives a smooth, flawless finish that lasts throughout the day. I also appreciate how natural it looks\u2014it doesn\u2019t feel cakey or heavy at all. This has quickly become one of my go-to products, and I would definitely recommend it to anyone looking for a reliable foundation.",
+          "reviewDate": "Reviewed in the United States on March 19, 2026",
+          "customer": "Moya Morris",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFW4HHXDAIQKQL2FRDOLVZALT6A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "440 Mahogany",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great Coverage Without Feeling Heavy",
+          "reviewText": "I love this foundation! It lasts for hours and provides great coverage without feeling heavy or cakey on the skin. It goes on smoothly and holds up really well throughout the day. The scent doesn\u2019t bother me personally, but if you\u2019re sensitive to fragrances it might be something to keep in mind. Overall, I\u2019m very happy with it and I buy it all the time. Very affordable option.",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Oliwia M",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF6ZC4C5HDXDYCKJ76XZ6YNAKLQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "180 Sand Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "It works! Best foundation I've used for YEARS @ age 61!",
+          "reviewText": "I've tried it all...but keep using this! I'm almost 61 & have had so many people comment on my \"beautiful skin\"...which if they saw my real face without this foundation, they would not be saying! It makes my face look evened out all day! Of course I powder over it 1-2x's/day, & use blush, but I do have spots from tanning a LOT when I was young (inside & out). Covers all up! Just \"set it\" with a good powder (I recommend Neutrogena Shine Control which I've also used for years & N.'s \"Healthy Skin Blends\" nayiral radiance bronzer which works even on my fair skin! \u0136sorry for double review, but you must have a good, clear palette to work on b4 you use powder & blush & this foundation is IT! (From an artist's daughter.\" When I say years, I'm talking 15+ years!! I'm no young bunny. If it works I stick with it! This works! I'm fair skinned & use a #220. Also, has sunscreen in it - a great bonus!! Great product that's worked since day one... many, MANY years ago!",
+          "reviewDate": "Reviewed in the United States on November 8, 2025",
+          "customer": "A. American Woman",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF4ILWLWHQ5WO6PC5UC4PANQWKCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220 Natural Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "20 people found this helpful"
+        },
+        {
+          "reviewTitle": "Reliable Foundation",
+          "reviewText": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f Reliable Foundation Revlon ColorStay Foundation (Nude 200): This has been my go-to foundation for years, and it never lets me down. The coverage is medium to full but still feels breathable, and it keeps my skin looking matte all day without getting cakey. I have combination skin, and this foundation really controls shine without drying me out. The shade is just right for me and blends beautifully\u2014plus, I appreciate the SPF protection. I\u2019ve tried a lot of foundations, but I always come back to this one because it\u2019s reliable, affordable, and looks great.",
+          "reviewDate": "Reviewed in the United States on August 22, 2025",
+          "customer": "Candice Osterman",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEAI4NASUO4K4KKGC6YOT63XXRLQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "200 Nude",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "17 people found this helpful"
+        },
+        {
+          "reviewTitle": "You look like what you pay for...",
+          "reviewText": "I have a very oily T-zone, even when using my Becca mattifying primer. I was using Chanel Lumiere liquid foundation before this (not the one for oily skin, because I bought it in the winter when I was on a medication that gave me dry patches), which I loved, but I ran out and thought I'd give this much cheaper drugstore foundation with rave reviews a try. This foundation does prevent my typical t zone oil slick from developing when I wear it, even without mattifying primer. The coverage is great, especially with a couple of layers--a little of this goes a long way, so I would say that my typical application is thin. Since the bottle has no pump, I dip a clean q-tip into the bottle instead of touching the foundation and bottle with my fingers. I know that a lot of people hate foundations without a pump, but I like the fact that I can get EVERYTHING out. It kills me that I couldn't get to all of the makeup in my $60 bottle of Chanel foundation. That being said, this foundation feels SO thick on my skin. Maybe I'm just spoiled from using such a high quality liquid foundation before this, but I feel like my face is suffocating when I wear it. It feels like I'm covered in petroleum or something. I wore some just under my eyes, under my powdered mineral foundation yesterday, and when I tried to blend my eyeliner after this had dried, I realized how bad the consistency was...it was just sticky and thick. I guess the plus side to that is you definitely don't have to worry about transferring. It looks so unnatural to me. When I wear it my skin tone is even, blemishes and dark circles covered, but at a price!! My skin looks...weird. Older? I don't know. Just off in a bad way. I actually felt self conscious when I went out wearing this. Speaking of unnatural, the chemical smell of this...the chemicals IN this...I couldn't get over it like I thought I could. I used to be a nut about chemicals in my makeup and body care products....apparently some of that stuck, because I worry about my health when I put this on. My skin tone is hard to match because I'm biracial, so I was impressed that their golden beige worked well for me-- but it became too pale after I went to the pool one day. After that, this stuff really wasn't working for me. I've gone back to using Mineral Fusion loose mineral foundation (warm 2...you can buy this brand at Whole Foods or on Amazon!) instead of liquids in general. My skin looks flawless and natural while I still get full coverage and perfect color match. So Revlon Colorstay for oily/combo skin gets more like 2.5 stars despite my bad feelings for it because of how well it holds back oil, redness coverage, color range, low price....I gave this 3 instead of 2 stars because I was very impressed with the oil control and rarely find anything for oily skin that actually works. I'd rather apply a mattifying primer and pay more for a higher quality foundation than wear this, though.",
+          "reviewDate": "Reviewed in the United States on September 4, 2014",
+          "customer": "JDR",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHDXLMMK3ZLGG4ENRCLOLFWFZNMA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "300 Golden Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "22 people found this helpful"
+        }
+      ]
+    }
+  }
+}

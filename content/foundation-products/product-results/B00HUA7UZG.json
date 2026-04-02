@@ -1,0 +1,72 @@
+{
+  "requestMetadata": {
+    "id": "9bafc50e-cb13-4533-a208-36473b9187fd",
+    "status": "ok",
+    "html": "https://files.hasdata.com/9bafc50e-cb13-4533-a208-36473b9187fd.html",
+    "json": "https://files.hasdata.com/9bafc50e-cb13-4533-a208-36473b9187fd.json",
+    "url": "https://www.amazon.com/dp/B00HUA7UZG"
+  },
+  "product": {
+    "asin": "B00HUA7UZG",
+    "url": "https://www.amazon.com/dp/B00HUA7UZG",
+    "title": "Physicians Formula Super CC+ Cream Color-Correction + Care Cream Full Coverage Foundation, Anti Aging Hydrating Serum, For Uneven Skin Tone, Dermatologist Approved, Light",
+    "isAvailable": false,
+    "primaryFeatures": {
+      "color": "Light"
+    },
+    "featureBullets": [
+      "MULTI-TASKING MAKEUP: With micro color-correcting pigments & high-tech anti-aging ingredients, this CC Cream has the benefits of an anti-aging treatment, moisturizer, and foundation in one product.",
+      "HYDRATE & CORRECT: Our gentle formula helps minimize redness & other imperfections while providing hydration. Apply with fingers, brush, or blender for flawless, cruelty-free beauty.",
+      "BEST FACE FORWARD: With primers, highlighters, bronzers, & mineral powders, we have a full line of makeup to help you build a foundation for any look, all made without irritants or harsh additives.",
+      "SENSITIVE SKIN CARE: Physician's Formula offers a full line of skin care & makeup for sensitive skin, including mascaras, lipsticks, concealers, eyeshadow palettes, bb creams, bronzers & primers.",
+      "HEALTHY BEAUTY: All of our makeup & skincare products are hypoallergenic, safe for sensitive skin & eyes, & made without any of the 150 plus known harsh ingredients found in other personal care items."
+    ],
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00HUA7UZG",
+        "title": "Light",
+        "url": "https://www.amazon.com/dp/B00HUA7UZG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BpD2B1GCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00HUA6LCO",
+        "title": "Light\\/Medium",
+        "url": "https://www.amazon.com/dp/B00HUA6LCO",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x3iu4Xz4L._SL1500_.jpg"
+      }
+    ],
+    "totalImages": 12,
+    "primaryImage": "https://m.media-amazon.com/images/I/61BpD2B1GCL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61BpD2B1GCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71afAtu6zEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71JufxlzuqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71QHbta3XzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51TgalhzxtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GBB6nhYLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71eVdh7ytbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iaq+UZxoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31zl7LXMfsL.jpg",
+      "https://m.media-amazon.com/images/I/61JcCPYI8UL._SL1208_.jpg",
+      "https://m.media-amazon.com/images/I/61Y2pQg7ItL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61BwbFEZV4L._SL1000_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 6839,
+      "rating": 4.2
+    }
+  }
+}

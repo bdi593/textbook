@@ -1,0 +1,357 @@
+{
+  "requestMetadata": {
+    "id": "d17aff5b-eea4-434a-ae96-8f0b0a942de1",
+    "status": "ok",
+    "html": "https://files.hasdata.com/d17aff5b-eea4-434a-ae96-8f0b0a942de1.html",
+    "json": "https://files.hasdata.com/d17aff5b-eea4-434a-ae96-8f0b0a942de1.json",
+    "url": "https://www.amazon.com/dp/B0CPPSYG9N"
+  },
+  "product": {
+    "asin": "B0CPPSYG9N",
+    "url": "https://www.amazon.com/dp/B0CPPSYG9N",
+    "title": "AKARY Hydrating Men BB Cream SPF 15 PA++, Full-Coverage Foundation&Concealer, Mens Face Moisturizer Cream Evens Skin Tone, Oil Control and Cover Flaws, Natural Finish for All Skin Types, Natural 240",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Natural",
+      "size": "1.4 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "3-IN-1 CONCEALER, FOUNDATION & MOISTURIZER BB CREAM: A lightweight multifunction foundation and BB cream that firms, conceals, smooths, and perfects skin. Protect your skin with our BB Cream's SPF 15 PA++. Enjoy the benefits of sun protection without compromising on your daily makeup routine.",
+      "DESIGNED FOR MEN: Quality men's face care products. Our men bb cream is carefully crafted with a blend of natural ingredients, such as rosa rugosa flower extract, glycyrrhiza uralensis extract, and pearl powder, offering a luxurious texture that effortlessly absorbs into your skin. No more greasy residue.",
+      "ENHANCE YOUR COMPLEXION NATURALLY: Unveil your skin's true potential with our versatile face bb cream. It does more than just moisturize. It helps cover flaws, dark circles, redness, pores, and acne, revealing a naturally even and healthy-looking complexion.",
+      "LIGHTWEIGHT SMOOTH TEXTURE: Our natural face cream with a silky-smooth texture that effortlessly melts in, deeply hydrates, conditions, and repairs your skin, improves skin texture, and gives it a moisturized glow. Leaves skin looking smoother, more radiant, and refreshed.",
+      "LONG-LASTING WEAR: Face moisturizer cream works perfectly as your full-coverage foundation to prepare, correct, and moisturize skin for 24-hour hydration and a natural glow. Concealer cream covers pores, acne, and dark circles, oil control, and lets you get a matte makeup finish. (Due to different batches, some products may be delivered without packaging boxes)"
+    ],
+    "boughtInPastMonth": "200+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "BB Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B0CPPSYG9N",
+        "title": "1.4 Ounce (Pack of 1) Natural",
+        "url": "https://www.amazon.com/dp/B0CPPSYG9N",
+        "imageUrl": "https://m.media-amazon.com/images/I/51t0WyjQq0L.jpg"
+      },
+      {
+        "asin": "B0CPPT3S4M",
+        "title": "1.4 Ounce (Pack of 1) Light",
+        "url": "https://www.amazon.com/dp/B0CPPT3S4M",
+        "imageUrl": "https://m.media-amazon.com/images/I/41HVIW5sRxL.jpg"
+      },
+      {
+        "asin": "B0CPPVZF72",
+        "title": "1.4 Ounce (Pack of 1) Chocolate",
+        "url": "https://www.amazon.com/dp/B0CPPVZF72",
+        "imageUrl": "https://m.media-amazon.com/images/I/41OWlOo7wIL.jpg"
+      },
+      {
+        "asin": "B0CPPWGTBF",
+        "title": "1.4 Ounce (Pack of 1) Tan",
+        "url": "https://www.amazon.com/dp/B0CPPWGTBF",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Q1KlJlodL.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 6.79,
+      "beforePrice": 6.79
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Easilydays",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1WPRK17TR8549",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/51t0WyjQq0L.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51t0WyjQq0L.jpg",
+      "https://m.media-amazon.com/images/I/51jiq02cXtL.jpg",
+      "https://m.media-amazon.com/images/I/51PWIZkKCyL.jpg",
+      "https://m.media-amazon.com/images/I/510MqbsLv1L.jpg",
+      "https://m.media-amazon.com/images/I/51wSZey7J6L.jpg",
+      "https://m.media-amazon.com/images/I/616wNMiBINL.jpg",
+      "https://m.media-amazon.com/images/I/61K83TnWOWL.jpg",
+      "https://m.media-amazon.com/images/I/517R4-ibcUL.jpg",
+      "https://m.media-amazon.com/images/I/51B+F23DjmL.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2f69efe4-749f-4dd2-800e-b4f0ca80af9a.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a1772f5-7a85-47a0-89fc-5f752c788fef.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/af11b1ab-1dd0-4388-a70b-fdbf602df1f8.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/79debff5-7d78-48d7-9322-4847daedc9f7.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f26c991-ab8d-4248-9ba4-90b4bbdeba24.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b3f243d7-2603-437e-b19f-1eb9f7ec69aa.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eb1b76ae-0332-43e9-bfff-0bef18f82caf.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cae0acac-f967-400c-b493-3f6f639f7218.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5605327e-83a8-4b35-bc6c-37cdb9a2c46f.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/697c1fd7-d928-438c-9c48-33cfd97afbed.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/745f929a-b914-415e-a92a-ff1922073d7b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7b44b9ea-ae0d-46df-879c-799b4f76ebbd.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c01a1e60-7535-41ea-bb2d-2337890ed06e.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Natural"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Hydrating, Moisturizing, Concealing, Face makeup, Mattifying, Even Complexion, Sun Protection, Oil Control"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "AKARY"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating, Full Coverage"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium Deep"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "AKARY"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "AKARY"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#24,677 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #19 in BB Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CPPSYG9N"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Oil Free, Non Comedogenic"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte, Natural, Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.4 Ounce"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 253,
+      "rating": 4.1,
+      "starRates": {
+        "fiveStars": "60%",
+        "fourStars": "17%",
+        "threeStars": "10%",
+        "twoStars": "5%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find the BB cream effective at covering blemishes, with one mentioning it works well for under-eye bags and dark circles. The product matches skin tone perfectly and provides a natural look, while being non-greasy and easy to apply lightly. They appreciate its quality, with one customer noting it doesn't smear on clothes.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 27,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 23,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 14,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 12,
+          "status": "positive"
+        },
+        {
+          "aspect": "Greasiness",
+          "count": 10,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71+PJhYDuoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Se2D7yC1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51rDwh8Pd8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61a9MiPJh-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71nIQa-YEZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Surprisingly Good Product",
+          "reviewText": "I don\u2019t like to put anything on my face, let alone something tinted, but this product works great. It provides lots of moisture and the tint adds some tone, but is not visible or noticeable. There are more expensive products out there, but this one has worked great for me!",
+          "reviewDate": "Reviewed in the United States on January 5, 2026",
+          "customer": "Jben",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJVNHRLJYVPYPWKUP3MMFE7OVHA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.4 Ounce (Pack of 1)",
+            "color": "Tan"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Buy this item!!! It works!!!",
+          "reviewText": "Works wonder and definitely matches my skin tone!!! I would recommend. \ud83d\udc4c I'm mixed black and white and my skin favors that of a light Hispanic. So the matches was perfect. You can't even tell when I wear this product.",
+          "reviewDate": "Reviewed in the United States on February 12, 2026",
+          "customer": "Joshua Pleasant",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFJ2NL445P4FQRYMWBSDTO2YODCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.4 Ounce (Pack of 1)",
+            "color": "Tan"
+          }
+        },
+        {
+          "reviewTitle": "Decent BB cream, but-",
+          "reviewText": "Decent BB cream, goes on somewhat easily. Super easy to transfer off face if touched or anything, but I think this is commensurate with most all BB tinted sunscreen type products. After a few hours or sweat or something it can look uneven and bad, CC creams are lighter and don\u2019t have this issue, though also usually don\u2019t have built in sunscreen and are slightly less deep coverage.",
+          "reviewDate": "Reviewed in the United States on November 16, 2025",
+          "customer": "Jos",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBPB3KSBM3HFQD36QH6KMYPAL6Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1.4 Ounce (Pack of 1)",
+            "color": "Light"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Concealer",
+          "reviewText": "I purchased this item to try and see if it worked. I am in my sixties and have red areas on my face after shaving and flaky skin. I used a small amount pea size and it gave me great cover and concealed the red area and the flaky skin. It is a wonderful product and this is my first time using any type of makeup product. I highly recommend it if you are looking for something that looks natural",
+          "reviewDate": "Reviewed in the United States on July 30, 2025",
+          "customer": "Adam Vasquez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFBRSXTJDAV55M43OGLQ4FDBZ7QQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.4 Ounce (Pack of 1)",
+            "color": "Light"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Heavy",
+          "reviewText": "It is darker and heavier than I thought it would be. It clogs pores and resulted in pimples. However the cream does cover skin blemishes and a little bit covers a large area",
+          "reviewDate": "Reviewed in the United States on May 8, 2025",
+          "customer": "Steven Marshall",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHCNGWAG7MMWXJD7KIKQTHONQ3BQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "1.4 Ounce (Pack of 1)",
+            "color": "Tan"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Worth the money",
+          "reviewText": "It really fills in your pours and give you a younger look",
+          "reviewDate": "Reviewed in the United States on December 11, 2025",
+          "customer": "Brandon Hicks",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEDWYBSMEXZAFZ25NLRKFXJZEKGA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.4 Ounce (Pack of 1)",
+            "color": "Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Not so good",
+          "reviewText": "Product is cakey , yellowy and looks like you\u2019re wearing heavy stage make-up. Go for the e.l.f. bronzing drops for a dewey, healthy , sheer glow.",
+          "reviewDate": "Reviewed in the United States on December 3, 2025",
+          "customer": "Jonathan Carthew",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AESRFGR7OMVKY7BBD5CRLFBYK23A",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "1.4 Ounce (Pack of 1)",
+            "color": "Tan"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Very good",
+          "reviewText": "As a tan man it\u2019s not easy to find products that match my skin tone. The blending of the tan one works really well it\u2019s like it\u2019s not even there! It looks like my natural skin. Applying a small thin layer will really help minimize the shine and using a makeup primer will help as well",
+          "reviewDate": "Reviewed in the United States on December 19, 2025",
+          "customer": "JT",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEDCXESIOQTBQL7K32MTPWFPRVTQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.4 Ounce (Pack of 1)",
+            "color": "Tan"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        }
+      ]
+    }
+  }
+}

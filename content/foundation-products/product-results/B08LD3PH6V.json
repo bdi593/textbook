@@ -1,0 +1,458 @@
+{
+  "requestMetadata": {
+    "id": "8a40161f-9493-4c45-837c-2e424c07e193",
+    "status": "ok",
+    "html": "https://files.hasdata.com/8a40161f-9493-4c45-837c-2e424c07e193.html",
+    "json": "https://files.hasdata.com/8a40161f-9493-4c45-837c-2e424c07e193.json",
+    "url": "https://www.amazon.com/dp/B08LD3PH6V"
+  },
+  "product": {
+    "asin": "B08LD3PH6V",
+    "url": "https://www.amazon.com/dp/B08LD3PH6V",
+    "title": "tarte maracuja tinted moisturizer \u2013 Lightweight Sheer Foundation with Buildable Longwear Coverage, Hyaluronic Acid, Turmeric, Aloe for Hydrated Skin, Vegan & Cruelty Free",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "13B fair-light beige"
+    },
+    "featureBullets": [
+      "superfruit infused tinted moisturizer",
+      "delivers 12-hr hydration & wear",
+      "naturally radiant finish",
+      "CLINICAL RESULTS*, vegan, dermatologist tested, 12-hour longwear, 12-hour hydration *based on a clinical study with 31 participants",
+      "SKINVIGORATING INGREDIENTS: maracuja oil rich in essential fatty acids & vitamin C for firmer, brighter, smoother-looking skin, hyaluronic acid delivers moisture for firmer, more supple-looking skin, turmeric helps to even skin tone, aloe known for soothing moisturization"
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Tinted Moisturizers"
+    ],
+    "variants": [
+      {
+        "asin": "B08LD3PH6V",
+        "title": "13B fair-light beige",
+        "url": "https://www.amazon.com/dp/B08LD3PH6V",
+        "imageUrl": "https://m.media-amazon.com/images/I/61E8Sw5knEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD55FWH",
+        "title": "56S rich sand",
+        "url": "https://www.amazon.com/dp/B08LD55FWH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61o-ahYsMkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08L7ZBT1R",
+        "title": "40N tan neutral",
+        "url": "https://www.amazon.com/dp/B08L7ZBT1R",
+        "imageUrl": "https://m.media-amazon.com/images/I/61l+vYvMh9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LSZ6F8K",
+        "title": "10N fair neutral",
+        "url": "https://www.amazon.com/dp/B08LSZ6F8K",
+        "imageUrl": "https://m.media-amazon.com/images/I/618kljqzoTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GJCQDML",
+        "title": "20N light neutral",
+        "url": "https://www.amazon.com/dp/B08GJCQDML",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hZG+bmgmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD5Z8M7",
+        "title": "54S deep sand",
+        "url": "https://www.amazon.com/dp/B08LD5Z8M7",
+        "imageUrl": "https://m.media-amazon.com/images/I/618xHxwQgQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08FWRRB38",
+        "title": "34N medium neutral",
+        "url": "https://www.amazon.com/dp/B08FWRRB38",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ki3sJXZtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQYDQPK",
+        "title": "61H mahogany",
+        "url": "https://www.amazon.com/dp/B08TQYDQPK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61inpgioCGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD55JQB",
+        "title": "36S medium-tan sand",
+        "url": "https://www.amazon.com/dp/B08LD55JQB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BPsqyjC2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD3XJ5X",
+        "title": "13N fair-light neutral",
+        "url": "https://www.amazon.com/dp/B08LD3XJ5X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VtXZOxeEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GJD319S",
+        "title": "22S light sand",
+        "url": "https://www.amazon.com/dp/B08GJD319S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x73wMThWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08DS1ZSP1",
+        "title": "25B light-medium beige",
+        "url": "https://www.amazon.com/dp/B08DS1ZSP1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+VBfS4wNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD4X79B",
+        "title": "54N deep neutral",
+        "url": "https://www.amazon.com/dp/B08LD4X79B",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eNpzFlvOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD4JBZ4",
+        "title": "34H medium honey",
+        "url": "https://www.amazon.com/dp/B08LD4JBZ4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sq1R0BmzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD536D7",
+        "title": "56N rich neutral",
+        "url": "https://www.amazon.com/dp/B08LD536D7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mIS0UhgiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08DTQG8HY",
+        "title": "25N light-medium neutral",
+        "url": "https://www.amazon.com/dp/B08DTQG8HY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yFR8R8OPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD4DZR8",
+        "title": "48H tan-deep honey",
+        "url": "https://www.amazon.com/dp/B08LD4DZR8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pWrUtfcDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD3KXT5",
+        "title": "36H medium-tan honey",
+        "url": "https://www.amazon.com/dp/B08LD3KXT5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JomwpfzfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD6QPHH",
+        "title": "42S tan sand",
+        "url": "https://www.amazon.com/dp/B08LD6QPHH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+gqHoai5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08LD7MBVQ",
+        "title": "46N tan-deep neutral",
+        "url": "https://www.amazon.com/dp/B08LD7MBVQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yAMVjeVFL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 34,
+      "beforePrice": 34
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 10,
+    "primaryImage": "https://m.media-amazon.com/images/I/61E8Sw5knEL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61E8Sw5knEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81h162Of4OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61T0Ri2c9UL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81likVZaOBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81OIBDMCY7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AP0pHn6DL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yR3ib5c6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hPAE-w-QL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/815w6BoPlTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91RTFlg+CdL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5a036661-0c35-40c7-8f6d-580503aeffaa.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e827ff4-742a-4326-9de5-6b4913cb2f76.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef709e1a-abba-44dd-82d0-683e54951488.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/99954f04-a64c-4e34-aeff-41cfa9ad58b5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/033ed902-4271-4827-81e7-62674668de36.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f6d4ec15-67ff-4ef0-b07a-60521e5f3e94.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/370d5fbd-e25b-4ae3-af56-1096828c0f59.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "13B fair-light beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "apply formula to primed skin & blend out with fingers"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "tarte"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Medium coverage, radiant \u201cno-makeup\u201d finish, seaberry AKA nature\u2019s beauty fruit drenches skin in omega fatty acids, antioxidants & vitamins for a healthy appearance."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Very Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Vegan"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "UPC",
+        "value": "846733041343"
+      },
+      {
+        "key": "Model Number",
+        "value": "2343432"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "13B"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "tarte inc."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#14,332 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #22 in Facial Tinted Moisturizers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B08LD3PH6V"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Dermatologist Tested, Long Lasting"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.05 Kilograms"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "5.94 x 3.94 x 1.5 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Formaldehyde Free, Oxybenzone Free, Paraben Free, Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 864,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "77%",
+        "fourStars": "14%",
+        "threeStars": "5%",
+        "twoStars": "1%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this tinted moisturizer effective, noting it matches skin tone perfectly, provides light coverage, and stays on all day without smudging. Moreover, the product receives positive feedback for its moisturizing properties, with one customer mentioning it doesn't look cakey on mature skin, and its silky, smooth texture that feels nice on the skin.",
+      "aspects": [
+        {
+          "aspect": "Moisturizing",
+          "count": 49,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin tone match",
+          "count": 43,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 40,
+          "status": "positive"
+        },
+        {
+          "aspect": "Tinted moisturizer",
+          "count": 36,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 32,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 29,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 16,
+          "status": "positive"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Best Tinted Moisturizer",
+          "reviewText": "I have been using this product for years. I love that it is lightweight and leaves skin feeling moisturized and smooth. It has a very light coverage that creates an even skin tone but doesn\u2019t look like makeup. It balances out those variations in skin tone and redness. I use this as my base, a little bronzer for contouring and translucent setting powder for my T and it\u2019s my favorite 5 minute makeup routine! As long as you aren\u2019t rubbing your face it stays all day and doesn\u2019t settle into my wrinkles.",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Lace",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZ7HVYQBPSZMUZWFXUCFTUDX6UQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "25N light-medium neutral"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "This is by far one of my favorite products for a quick put together and feel my skin looks good products. Love how it penetrates the skin and leaves it feeling soft with a buildable coverage. I can use either my fingers or a brush to apply and it looks amazing.",
+          "reviewDate": "Reviewed in the United States on January 23, 2026",
+          "customer": "SMcGreal",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE2LGDSUQXEN3XDZFIEBTIFPUSWA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "13B fair-light beige"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent moisturizer, adds subtle color",
+          "reviewText": "It is the perfect coverage. It is not cakey, nor drying. It provides color and coverage without being overbearing. I use it every morning in lieu of my regular moisturizer.",
+          "reviewDate": "Reviewed in the United States on December 29, 2025",
+          "customer": "Michele T Trainor",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE372ULBZOUSXJT3JHU4S56SNZ2Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "25N light-medium neutral"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good but off a shade",
+          "reviewText": "I really like this tinted moisturizer. I have been searching for a new one since honestly company doesn\u2019t make theirs anymore. This has been my favorite one I found so far, but it is not quite the right shade for my skin tone. It works well as a foundation and blends well, and last all day. The scent is a lot odd but very mild and is not noticeable once it has been on for a few minutes. I feel like it does well at keeping my skin moist and is lightweight. I wish it was easier to find right shade or that it blended to my skin tone better. I will be trying other shades to see if I can find the right one.",
+          "reviewDate": "Reviewed in the United States on July 27, 2025",
+          "customer": "Laura Kate Patterson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTXF4YPLFRLQZQNY2OMUK7KRQ4A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "34H medium honey"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Favorite makeup product",
+          "reviewText": "The only \u201cfoundation\u201d I will use! Light enough it doesn\u2019t cover my freckles but still gives a little glow.",
+          "reviewDate": "Reviewed in the United States on March 3, 2026",
+          "customer": "Shae Dodge",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEMHP5MMPKEOOZAR7755F24OVFJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "22S light sand"
+          }
+        },
+        {
+          "reviewTitle": "100/10 will purchase again",
+          "reviewText": "I\u2019ve been searching for a tinted moisturizer that doesn\u2019t feel heavy, doesn\u2019t make me breakout, doesn\u2019t make me look shiny and doesn\u2019t pill on my skin within an hour of me having this on. I can finally say I found the perfect match. This goes on perfectly just with your fingers and gives you flawless skin, no matter what your bare skin looks like. It has not made me break out, it doesn\u2019t feel or look oily on my skin, doesn\u2019t make me look orange or pale and it doesn\u2019t pill at all. It is incredibly buildable if you want to layer some blush on top but I think it looks great without anything else. Will definitely be buying again!!!",
+          "reviewDate": "Reviewed in the United States on September 22, 2025",
+          "customer": "Lauren",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSULI5JCJTBLFGXIPXMMSNVOSVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "10N fair neutral"
+          },
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Just a Dash of Color and Coverage",
+          "reviewText": "Hard to pick color online, wish I\u2019d gone a shade lighter. But it is just the right amount of coverage!!",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "Julie A. Pribic",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFSNJBGLTSQVMVJJQNJ4JG5DMMJA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "25N light-medium neutral"
+          }
+        },
+        {
+          "reviewTitle": "I Love it!",
+          "reviewText": "I was never big on a full face of makeup. So foundation was never my thing. But I\u2019m very much into face moisturizer's, so when I started hearing about tinted moisturizer\u2019s, that was right up my ally!! I tried about 3 different brands total within the last 2 years and this one is my fav. It matches my skin tone perfectly and blends great! I typically only use it if I\u2019m going somewhere but it can totally be used daily. I like to use a natural face oil like vitamin C or E oil as my base, and then I put the tinted moisturizer on. To spice it up, I\u2019ll add some eye makeup & lip gloss & I\u2019m good to go! The moisturizer goes on smoothly and feels great! Super lightweight, gives me a little nice natural glow and it does not feel like you have anything on your face! This is my go to, it last all day and it's a great alternative for people who just want a little bit of something on but not a full face of makeup!",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "Mrs Johnson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGU7IT637526ZNPKW74AGRE3OQPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "40N tan neutral"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        }
+      ]
+    }
+  }
+}

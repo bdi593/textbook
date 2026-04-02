@@ -1,0 +1,287 @@
+{
+  "requestMetadata": {
+    "id": "a4726d65-61f5-4cb5-aa56-06e5423b294f",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a4726d65-61f5-4cb5-aa56-06e5423b294f.html",
+    "json": "https://files.hasdata.com/a4726d65-61f5-4cb5-aa56-06e5423b294f.json",
+    "url": "https://www.amazon.com/dp/B0DN6T47VG"
+  },
+  "product": {
+    "asin": "B0DN6T47VG",
+    "url": "https://www.amazon.com/dp/B0DN6T47VG",
+    "title": "bareMinerals Barepro Skin-Perfecting Powder Foundation, Matte Pressed Powder Foundation Full Coverage, Oil Control, Dermatologist-Tested, Longwear Mineral Matte Complexion",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "AD Fair 15 Cool",
+      "size": "NEW - 0.28 Ounce"
+    },
+    "featureBullets": [
+      "A crease-proof, talc-free full coverage powder foundation makeup that provides 24 hours of weightless wear and all-day oil control.",
+      "The transfer-proof pressed powder foundation is proven to reduce visible pores and texture in 4 weeks.",
+      "This longwearing foundation powder compact won't transfer and is sweat-, humidity-, and water-proof with no flashback.",
+      "Includes an application sponge for on-the-go use, this matte powder foundation can be applied wet or dry.",
+      "This non-comedogenic, non-acnegenic foundation is vegan, cruelty-free, and free of parabens, formaldehyde, synthetic fragrance, gluten, and more."
+    ],
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0DN6TZT6N",
+        "title": "NEW - 0.28 Ounce AP Light 25 Warm",
+        "url": "https://www.amazon.com/dp/B0DN6TZT6N",
+        "imageUrl": "https://m.media-amazon.com/images/I/81e0xIC5l5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6TBSK8",
+        "title": "NEW - 0.28 Ounce AN Light 25 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6TBSK8",
+        "imageUrl": "https://m.media-amazon.com/images/I/81u3WCNReZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6VC5FT",
+        "title": "NEW - 0.28 Ounce AS Medium 30 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6VC5FT",
+        "imageUrl": "https://m.media-amazon.com/images/I/81mkFf9G0HL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6TWP4L",
+        "title": "NEW - 0.28 Ounce AZ Medium Deep 45 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6TWP4L",
+        "imageUrl": "https://m.media-amazon.com/images/I/81gKj3EKijL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6T9K2D",
+        "title": "NEW - 0.28 Ounce AL Light 22 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6T9K2D",
+        "imageUrl": "https://m.media-amazon.com/images/I/81VDd+pUkmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6XKPW2",
+        "title": "NEW - 0.28 Ounce BG Deep 55 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6XKPW2",
+        "imageUrl": "https://m.media-amazon.com/images/I/816Wz3lpbIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6RM1NV",
+        "title": "NEW - 0.28 Ounce AI Light 22 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6RM1NV",
+        "imageUrl": "https://m.media-amazon.com/images/I/81oH88+pWpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6WCBFL",
+        "title": "NEW - 0.28 Ounce AY Medium Deep 40 Warm",
+        "url": "https://www.amazon.com/dp/B0DN6WCBFL",
+        "imageUrl": "https://m.media-amazon.com/images/I/81nQvFNjIFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6TFKZP",
+        "title": "NEW - 0.28 Ounce AO Light 27 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6TFKZP",
+        "imageUrl": "https://m.media-amazon.com/images/I/818lzmMINnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6TFLZB",
+        "title": "NEW - 0.28 Ounce BB Medium Deep 45 Warm",
+        "url": "https://www.amazon.com/dp/B0DN6TFLZB",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Aepr3ej+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6VWRKK",
+        "title": "NEW - 0.28 Ounce AQ Medium 30 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6VWRKK",
+        "imageUrl": "https://m.media-amazon.com/images/I/81bmSWopl-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6T32ZK",
+        "title": "NEW - 0.28 Ounce AR Medium 32 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6T32ZK",
+        "imageUrl": "https://m.media-amazon.com/images/I/81WsXTFu0aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6X9W3K",
+        "title": "NEW - 0.28 Ounce AV Medium 35 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6X9W3K",
+        "imageUrl": "https://m.media-amazon.com/images/I/81CReXRZrkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6TXPW7",
+        "title": "NEW - 0.28 Ounce BD Deep 50 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6TXPW7",
+        "imageUrl": "https://m.media-amazon.com/images/I/81IgmZORmhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6T47VG",
+        "title": "NEW - 0.28 Ounce AD Fair 15 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6T47VG",
+        "imageUrl": "https://m.media-amazon.com/images/I/81W9Lhi5nIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6XKWRG",
+        "title": "NEW - 0.28 Ounce AG Fair 15 Warm",
+        "url": "https://www.amazon.com/dp/B0DN6XKWRG",
+        "imageUrl": "https://m.media-amazon.com/images/I/81cycNVcx7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6VBT8Q",
+        "title": "NEW - 0.28 Ounce AK Light 20 Warm",
+        "url": "https://www.amazon.com/dp/B0DN6VBT8Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Qw9t+YILL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6T3QRT",
+        "title": "NEW - 0.28 Ounce BF Deep 55 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6T3QRT",
+        "imageUrl": "https://m.media-amazon.com/images/I/81FV2qHPiiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6VHX21",
+        "title": "NEW - 0.28 Ounce BI Deep 60 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6VHX21",
+        "imageUrl": "https://m.media-amazon.com/images/I/819DNkTovEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6VYGJ2",
+        "title": "NEW - 0.28 Ounce AW Medium 35 Warm",
+        "url": "https://www.amazon.com/dp/B0DN6VYGJ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/81VVlN0Y8-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6TT7YD",
+        "title": "NEW - 0.28 Ounce AF Fair 17 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6TT7YD",
+        "imageUrl": "https://m.media-amazon.com/images/I/8185RGxFRJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6W6M6X",
+        "title": "NEW - 0.28 Ounce AX Medium Deep 40 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6W6M6X",
+        "imageUrl": "https://m.media-amazon.com/images/I/81RbC7o4b+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6VDS8T",
+        "title": "NEW - 0.28 Ounce BA Medium Deep 45 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6VDS8T",
+        "imageUrl": "https://m.media-amazon.com/images/I/81S128lWz4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6WZ1DV",
+        "title": "NEW - 0.28 Ounce AJ Light 20 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6WZ1DV",
+        "imageUrl": "https://m.media-amazon.com/images/I/81zUsoT0wFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6VRCF7",
+        "title": "NEW - 0.28 Ounce AT Medium 30 Warm",
+        "url": "https://www.amazon.com/dp/B0DN6VRCF7",
+        "imageUrl": "https://m.media-amazon.com/images/I/811oqgbWjkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6XJ9QS",
+        "title": "NEW - 0.28 Ounce AB Fair 10 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6XJ9QS",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ZYMtkkr2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6WZH7Q",
+        "title": "NEW - 0.28 Ounce BH Deep 60 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6WZH7Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/81CO0jr0xiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6SK622",
+        "title": "NEW - 0.28 Ounce AM Light 25 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6SK622",
+        "imageUrl": "https://m.media-amazon.com/images/I/81JFB+8wrOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6VR6F5",
+        "title": "NEW - 0.28 Ounce BE Deep 50 Warm",
+        "url": "https://www.amazon.com/dp/B0DN6VR6F5",
+        "imageUrl": "https://m.media-amazon.com/images/I/81naCFaUPAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6TZG4C",
+        "title": "NEW - 0.28 Ounce AE Fair 15 Neutral",
+        "url": "https://www.amazon.com/dp/B0DN6TZG4C",
+        "imageUrl": "https://m.media-amazon.com/images/I/81hyJXL50UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6W8R7Q",
+        "title": "NEW - 0.28 Ounce BC Deep 50 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6W8R7Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/81WrrswaSkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6XMBTP",
+        "title": "NEW - 0.28 Ounce AU Medium 35 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6XMBTP",
+        "imageUrl": "https://m.media-amazon.com/images/I/81D4B1-dxPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6TM1MW",
+        "title": "NEW - 0.28 Ounce AA Fair 10 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6TM1MW",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ZZjJOkDQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6VM1DJ",
+        "title": "NEW - 0.28 Ounce AC Fair 10 Warm",
+        "url": "https://www.amazon.com/dp/B0DN6VM1DJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/81nvvtb7fvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DN6WHW95",
+        "title": "NEW - 0.28 Ounce AH Light 20 Cool",
+        "url": "https://www.amazon.com/dp/B0DN6WHW95",
+        "imageUrl": "https://m.media-amazon.com/images/I/81tOpy2uhYL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 35.7,
+      "beforePrice": 42,
+      "discount": "-15%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "bareminerals",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AE0P6T09OS79V",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/81W9Lhi5nIL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81W9Lhi5nIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81t8S5y1mPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71m-Wd53mJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sgQipbbhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xw0dVeivL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Ss9duGI9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HC-hSvkLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CUYU14XJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KUTabNudL._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1814,
+      "rating": 4.6
+    }
+  }
+}

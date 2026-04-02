@@ -1,0 +1,513 @@
+{
+  "requestMetadata": {
+    "id": "75840363-152d-4cb0-a4db-1653fd2a3caa",
+    "status": "ok",
+    "html": "https://files.hasdata.com/75840363-152d-4cb0-a4db-1653fd2a3caa.html",
+    "json": "https://files.hasdata.com/75840363-152d-4cb0-a4db-1653fd2a3caa.json",
+    "url": "https://www.amazon.com/dp/B0BDP9RPMZ"
+  },
+  "product": {
+    "asin": "B0BDP9RPMZ",
+    "url": "https://www.amazon.com/dp/B0BDP9RPMZ",
+    "title": "NYX PROFESSIONAL MAKEUP Bare With Me Blur Skin Tint Foundation Make Up with Matcha, Glycerin & Niacinamide - Light Neutral",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "04 Light Neutral",
+      "size": "1.01 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Bare With Me Makeup Foundation: Achieve an instantly smooth and blurred complexion with our first blurring skin tint foundation. In buildable, medium coverage matte foundation finish shades formulated to enhance your own skin color and tone",
+      "\"No Filter Needed\" Foundation Makeup: Treat your skin with skincare infused face makeup with Glycerin, Matcha and Niacinamide for visibly even, radiant and healthy-looking skin. Blurred finish feels lightweight on skin and provides 12HR hydration",
+      "Face From Foundation To Finish: Complete your makeup look with our full line of face products to aid in color correction and coverage from concealer, blush, bronzer, foundations and contouring to palettes and powders",
+      "Cruelty Free Cosmetics: We believe animals belong in our arms, not in a lab, All of our makeup is certified and acknowledged by PETA as a cruelty free brand, We don't test any of our products on animals",
+      "Discover NYX Professional Makeup: Try all of our professional makeup products today from eyeshadow, eyeliner, and false lashes to liquid lipstick, lip gloss, primer, concealer, setting sprays and eyebrow makeup"
+    ],
+    "description": "Skip the IG-filter. Introducing NYX Professional Makeup Bare With Me Blur Tint Foundation, the first blurring skin tint that blurs it all. Imperfections? BLURRED. Pores? BLURRED. Discoloration? BLURRED. Texture? BLURRED. Achieve instantly smooth filter-like blurred skin in 24 diverse shades, formulated to enhance your color and tone. Medium buildable coverage with a matte blurred finish that feels lightweight on skin and provides 12h hydration. Formulated with Glycerin, Matcha and Niacinamide for a skin so smooth, no filter needed. Use the Bare With Me Blur Tint Foundation Brush to buff the product all over face for an even streak-free blurred finish. Feel free to layer for fuller coverage. Use a small amount of product, a little goes a long way.",
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BDPK3R71",
+        "title": "10 Medium 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPK3R71",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Cf0EcA2hL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPCP44B",
+        "title": "06 Soft Beige 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPCP44B",
+        "imageUrl": "https://m.media-amazon.com/images/I/61W6IYc5WoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDNYJQWL",
+        "title": "03 Light Ivory 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDNYJQWL",
+        "imageUrl": "https://m.media-amazon.com/images/I/611uSAla8AL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDP39KNL",
+        "title": "24 Java 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDP39KNL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iHorrKMzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDP9RPMZ",
+        "title": "04 Light Neutral 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDP9RPMZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71UHLYXMvnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPL5FCL",
+        "title": "16 Warm Caramel 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPL5FCL",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZiHo5tRfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDP6HW8K",
+        "title": "22 Mocha 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDP6HW8K",
+        "imageUrl": "https://m.media-amazon.com/images/I/611n+PN5+UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDP1NPQV",
+        "title": "11 Medium Neutral 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDP1NPQV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pnd+Yzx1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDP7G73V",
+        "title": "02 Fair 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDP7G73V",
+        "imageUrl": "https://m.media-amazon.com/images/I/61J48XbeTtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPCRYK1",
+        "title": "07 Golden 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPCRYK1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Bqmvf2U6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPPP8WH",
+        "title": "08 Golden Light 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPPP8WH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71su0D5rBnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDP2NW32",
+        "title": "05 Vanilla 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDP2NW32",
+        "imageUrl": "https://m.media-amazon.com/images/I/61s4Z2Fm9xL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPCTWK2",
+        "title": "14 Medium Tan 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPCTWK2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71N5yfJghuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPCVVJ2",
+        "title": "13 Caramel 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPCVVJ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZDckAahZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDP6G43N",
+        "title": "21 Rich 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDP6G43N",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BPEHlT+TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPF4T2N",
+        "title": "15 Warm Honey 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPF4T2N",
+        "imageUrl": "https://m.media-amazon.com/images/I/71raLKAWyAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDP7G73W",
+        "title": "18 Nutmeg 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDP7G73W",
+        "imageUrl": "https://m.media-amazon.com/images/I/713hQHeQ6DL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPL78KT",
+        "title": "19 Deep Golden 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPL78KT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Z0HWeVMaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPL54ZV",
+        "title": "12 Medium Dark 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPL54ZV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71OS7oOx2CL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDNMSNJX",
+        "title": "20 Deep Bronze 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDNMSNJX",
+        "imageUrl": "https://m.media-amazon.com/images/I/7115bSEiWpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDP91BX2",
+        "title": "17 Truffle 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDP91BX2",
+        "imageUrl": "https://m.media-amazon.com/images/I/710Rduw8HhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPNHPMY",
+        "title": "01 Pale 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPNHPMY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-u7xvJAaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDPCF6VM",
+        "title": "09 Light Medium 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BDPCF6VM",
+        "imageUrl": "https://m.media-amazon.com/images/I/618TLSXj-0L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "ARS",
+      "currentPrice": 19575.5
+    },
+    "deliveryRawDate": "Wednesday, April 15",
+    "deliveryIsoDate": "2026-04-15T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "fastestDeliveryRawDate": "Thursday, April 9",
+    "fastestDeliveryIsoDate": "2026-04-09T00:00:00.000Z",
+    "fastestDeliveryPriceMessage": "fastest",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/71UHLYXMvnL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71UHLYXMvnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61os94s5VrL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81JjlSeH5EL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/617O2AQ5K8L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51E5gJD88ML._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/91k-FQY8FDL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f6340884-28bf-496a-905d-ffc9be5289f6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15fdd13d-7186-4259-a875-b2e5c48f800d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/173ec94a-9fb5-4662-a0e4-deae448febe6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3b21dca9-597e-4891-a961-9215ddbc88c6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f90eedff-259b-440b-90a3-a6711610b09d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1af14cfd-9d1b-4658-9dda-d6bec7c32531.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1bfe7024-ef58-4b3e-bc36-a30799e89101.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22819493-682a-425c-abec-27d6ea5a6ab9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b1ebd31-99eb-4147-9376-842c383aef12.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/93383cc0-03ac-4232-b75a-97841b4d133c.__CR0,375,3000,2250_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/159995b0-da0d-4fd8-bee2-289ef48849a9.__CR0,0,300,225_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fb23eb00-2f0a-4931-ad37-7c1a6ec314ec.__CR0,0,300,225_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/67c3ddf3-19f2-4829-9d8f-25b2260dfec9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d7accc6d-3f3d-4b39-bbf9-179a19848cc8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d7accc6d-3f3d-4b39-bbf9-179a19848cc8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2635e0a6-0549-42d1-9416-4cb5484135be.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "04 Light Neutral"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Makeup Bare,Makeup Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "NYX PROFESSIONAL MAKEUP"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00800897234300"
+      },
+      {
+        "key": "UPC",
+        "value": "800897234300"
+      },
+      {
+        "key": "Model Number",
+        "value": "11.236"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "0800897234300"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "NYX Professional Makeup"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#13,939 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #151 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BDP9RPMZ"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Cruelty Free,Lightweight,Matte,Radiant"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "5 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.57 x 0.79 x 1.18 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.01 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2804,
+      "rating": 4.1,
+      "starRates": {
+        "fiveStars": "61%",
+        "fourStars": "13%",
+        "threeStars": "10%",
+        "twoStars": "6%",
+        "oneStars": "10%"
+      },
+      "customersSay": "Customers find the foundation provides great coverage and can be adjusted for light or heavy application, with a smooth texture that glides easily onto the skin. They appreciate its natural look and quality. The color match receives mixed feedback, with some saying it matches their skin tone while others report the color being off. The finish and application experience are also mixed, with customers describing it as matte but very chalky, and some finding it hard to apply.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 48,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 40,
+          "status": "positive"
+        },
+        {
+          "aspect": "Foundation quality",
+          "count": 39,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 20,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pore coverage",
+          "count": 49,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color match",
+          "count": 44,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Finish",
+          "count": 23,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 21,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71i9b3qvtnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zPRiiiloL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71HFDvRZrqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/815Grpg-LPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YaPmq8TSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Y3ljteBpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-2Xw9+5jL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71IRuYSh+EL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71tc2CN8cRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81nFaqfNbTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81hsEB+cKxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71d5gsgCHmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Smooth coverage, hydrating, good color match",
+          "reviewText": "Nyx had a Bare With Me lightweight tinted hydrator/foundation years ago that I loved, and I've always been kind of searching for an equivalent to it ever since it was discontinued. This one comes close, but is still a little bit heavier than I normally prefer for everyday wear. Still, it has good coverage, looks dewy/moist without being greasy or heavy, and matches well. I have a light/neutral skin tone that can be tricky to get right. Overall, I recommend this foundation",
+          "reviewDate": "Reviewed in the United States on January 12, 2026",
+          "customer": "ARW",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEIULBRHI23X66ZIRT5VNHM26IAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 Light Neutral",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light and refreshing a little goes a long way!\ud83d\ude42",
+          "reviewText": "What I liked about the product was there\u2019s a lot of coverage with a little amount. My first time trying this and as an older woman people say you can\u2019t wear a liquid foundation, but I\u2019ve always been wearing it and this is incredible! I put a little under my eyes and it went a long way. I actually added on my cheeks as well just a dab maybe the size of a green pee over my nose my eyes I usually use my make up brush, but I was just curious how it was going to match my skin tone and it was perfect just perfect and it is lightweight. It looks nice on my skin, but I got it in the evening so tomorrow I\u2019m going to try it close to the window so I can doublecheck . But right now I\u2019m liking what I bought! Mine is light medium number 09",
+          "reviewDate": "Reviewed in the United States on August 12, 2025",
+          "customer": "Sharon M.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHAG3G3YMSFZSCUCJBJIPURYJGQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "09 Light Medium",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Makeup",
+          "reviewText": "These is smooth which I needed. It does have better coverage than I though.",
+          "reviewDate": "Reviewed in the United States on July 16, 2025",
+          "customer": "\u2014-",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE7ZR7GHO6W2BIT5TU6RAPP5NRFA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "11 Medium Neutral",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Like Airbrushing in a little squeeze bottle",
+          "reviewText": "I have oil/combo skin and this stuff is amazing on both the parts of my skin that are dry, and help up against my oils breaking through! I paired it with the Milk cosmetic primer and L'oreal powder and it was stunning. Looks like my skin but better! I think the shade I got is a little orange though - so I would definitely suggest going in store when possible to test out which shade you are. This is quickly becoming one of my favorite. After about 8hrs of wear, I did notice some creasing around my smile lines, but that was easily fixable. I know the price point is kept low by the packaging, but I would love a pump on this one. That would be my only complaint.",
+          "reviewDate": "Reviewed in the United States on November 11, 2025",
+          "customer": "Dashing Diva",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGTTW5T3FVZYCBRONQDNJAIO44IQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "21 Rich",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Too orange but it covers well.",
+          "reviewText": "I have this in med neutral and the biggest problem I have with it is that it\u2019s too orange. I have a love / hate with this stuff bc I like it bc it makes me look tan and I mix it with my lighter foundations \u2014 and it covers well and blurs well but ultimately it\u2019s too orange. 3.5 stars",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Merekat",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEEZJL4TBXHST7F3F7IL6X3QXXQA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "11 Medium Neutral",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "No",
+          "reviewText": "Just no no no. Foundation quality no. Stickiness way 2 much. Color match ok. Natural look no. Coverage awful. Smell no",
+          "reviewDate": "Reviewed in the United States on January 17, 2026",
+          "customer": "Dr. Seelah",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZCWR3IP2QKN7DNVRJCFYOPXSHQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "04 Light Neutral",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Good Foundation!",
+          "reviewText": "I really like this foundation, I tend to go for more lightweight light coverage face products and this one turned out really well for me, I picked the shade medium which is slightly lighter than my skin tone but with a little bronzer it\u2019s a perfect match. It is very matte which some may not be a fan of but that is easily combatted with a dewy finish product which is what I do and I love it, it comes out very skin like. A little goes a long way so I think it is a good value for the amount of product you\u2019re getting. It hit all the marks for me.",
+          "reviewDate": "Reviewed in the United States on June 6, 2025",
+          "customer": "Jahzaria Bankins",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEOMRBEVB52UYGAXRTJSRMOR276Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "10 Medium",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Feels full coverage but says medium!",
+          "reviewText": "It\u2019s not sheer, blending it out doesn\u2019t make it sheer either which is great for covering spots. But it\u2019s so matte and more on the thicker side right out the packaging that blending is a bit tricky. I give it 5 stars though because it is blurring and truly matte..It doesn\u2019t make me shiny in my T-zone at all. The package says medium coverage, I think it\u2019s closer to full coverage and not truly a medium coverage which is excellent imo.",
+          "reviewDate": "Reviewed in the United States on December 30, 2025",
+          "customer": "Araiyah Lovely",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMHYJTAE64EJSIDPUDMOX5PZYDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "06 Soft Beige",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice product",
+          "reviewText": "Happy that it has good coverage",
+          "reviewDate": "Reviewed in Australia on January 28, 2025",
+          "customer": "Julie Stark",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "10 Medium",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

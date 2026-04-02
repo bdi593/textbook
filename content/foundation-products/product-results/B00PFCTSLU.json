@@ -1,0 +1,570 @@
+{
+  "requestMetadata": {
+    "id": "3ff715ca-a70c-4daa-a3bb-2cb9baa890fa",
+    "status": "ok",
+    "html": "https://files.hasdata.com/3ff715ca-a70c-4daa-a3bb-2cb9baa890fa.html",
+    "json": "https://files.hasdata.com/3ff715ca-a70c-4daa-a3bb-2cb9baa890fa.json",
+    "url": "https://www.amazon.com/dp/B00PFCTSLU"
+  },
+  "product": {
+    "asin": "B00PFCTSLU",
+    "url": "https://www.amazon.com/dp/B00PFCTSLU",
+    "title": "L'Oreal Paris Cosmetics Makeup Infallible Pro-Matte Liquid Longwear Foundation, Shell Beige, 1 fl oz.",
+    "isAvailable": false,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "L'Oreal Paris Infallible Pro Matte Foundation: Lightweight and creamy, this full coverage foundation goes on smooth with a demi matte finish that lasts up to 24 hours, hiding imperfections for a smooth, clear complexion",
+      "Air Light Matte Finish Liquid Foundation Makeup: For a matte finish that won't fall flat, apply with fingers, makeup sponge, or foundation brush, starting at the center of the face and blending toward the jaw and hairline",
+      "The Foundation Of Your Look: From natural to full coverage, L'Or\u00e9al Paris face makeup has what you need for a smooth, even finish, Highlight to illuminate, use concealer to hide imperfections or use contouring makeup for enhanced, defined features",
+      "Because You're Worth It: L'Oreal Paris Makeup helps you create the look you want with our full line of makeup including foundations, concealers, highlighter makeup, brow pencils, eyeshadow palettes, lipsticks and much more",
+      "Perfect To Pair With: L'Oreal Paris Infallible Pro Matte Lock Long wear Face Primer, Pro Matte Lock Primer smoothes skin to perfect your complexion and prime your face for a better makeup application"
+    ],
+    "description": "Discover the new pro finish of longwear: Up to 24 hours demi matte foundation. Get a matte finish that won\u2019t fall flat with L'Oreal Paris' Pro-Matte Foundation. Air-light, longwearing liquid foundation provides medium coverage. Lightw8 and creamy, matte foundation goes on smooth with a demi matte finish that lasts all day, hiding imperfections for a smooth, clear complexion. Up to 24 hours matte without the flat. Air-light texture, demi-matte finish. Hides Imperfections for a Smooth Complexion. The pro look of longwear Apply Pro-Matte Foundation with fingers or with your favorite foundation brush.",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00PFCTSD8",
+        "title": "103 Natural Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTSD8",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Bw+m3s6bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PFCTO1O",
+        "title": "110 Cr\u00e8me Caf\u00e9 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTO1O",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HWsrDT+VL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FCGY2HK",
+        "title": "114 Rich Chocolate 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FCGY2HK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NEe0YU3LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FCKJN7D",
+        "title": "106.5 Shell 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FCKJN7D",
+        "imageUrl": "https://m.media-amazon.com/images/I/713FgT8RtkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKFGZXS",
+        "title": "Golden Sun 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKFGZXS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71w312bLb9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B085JC4LQG",
+        "title": "Nutmeg 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B085JC4LQG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71c0D65tmAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PFCTOBY",
+        "title": "105 Natural Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTOBY",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Dm80WBqkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FCFZYTK",
+        "title": "113 Brown Suede 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FCFZYTK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71tm4MKDo6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PFCTS2Y",
+        "title": "106 Sun Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTS2Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71c0P3tyXpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B085JCDSS5",
+        "title": "Hazelnut 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B085JCDSS5",
+        "imageUrl": "https://m.media-amazon.com/images/I/719YVjRMSbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B085JCLCD9",
+        "title": "Sand 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B085JCLCD9",
+        "imageUrl": "https://m.media-amazon.com/images/I/71t5BLG4u9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G62D3ZXG",
+        "title": "107 Fresh Beige 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0G62D3ZXG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61KXrgT8uTL._SL1073_.jpg"
+      },
+      {
+        "asin": "B00PFCTSLU",
+        "title": "102 Shell Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTSLU",
+        "imageUrl": "https://m.media-amazon.com/images/I/51LsyuX5jmL._SL1200_.jpg"
+      },
+      {
+        "asin": "B07FK1T5B5",
+        "title": "099 True Porcelain 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FK1T5B5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71vYYDDvAUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PFCTOFK",
+        "title": "108 Caramel Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTOFK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ysM3XuG7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PFCTLA8",
+        "title": "112 Cocoa 1 oz",
+        "url": "https://www.amazon.com/dp/B00PFCTLA8",
+        "imageUrl": "https://m.media-amazon.com/images/I/41eyCFOXxdL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07FCGY8NM",
+        "title": "101.5 Ivory Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FCGY8NM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71OAKVeQS5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FCQ96VZ",
+        "title": "104.5 Nude Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FCQ96VZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71FC7mIgBlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B085JD7RDP",
+        "title": "Golden Sun 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B085JD7RDP",
+        "imageUrl": "https://m.media-amazon.com/images/I/719HgLXd2jL._SL1500_.jpg"
+      },
+      {
+        "asin": "B085JC7H7G",
+        "title": "Light Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B085JC7H7G",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WPJ14dvqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKSMDFZ",
+        "title": "Nutmeg 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKSMDFZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71a0s2C2OgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PFCTS9C",
+        "title": "Golden Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTS9C",
+        "imageUrl": "https://m.media-amazon.com/images/I/41pvD91ZiiL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0GT73DX5Y",
+        "title": "110 Cr\u00e8me Caf\u00e9 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0GT73DX5Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71RzMu6vPxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FCKQ1R2",
+        "title": "100 True Alabaster 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FCKQ1R2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71RAUmLTf2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PFCTS6U",
+        "title": "101 Classic Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTS6U",
+        "imageUrl": "https://m.media-amazon.com/images/I/51b6-5rEyFL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07FCG6N22",
+        "title": "107.5 Ivory Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FCG6N22",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HQUETEBPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKP91GR",
+        "title": "Hazelnut 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKP91GR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+W1Yaq+jL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G4SMPGBR",
+        "title": "Sand 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0G4SMPGBR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+OKHHHXKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PFCTL80",
+        "title": "111 Soft Sable 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTL80",
+        "imageUrl": "https://m.media-amazon.com/images/I/51WlxQbE4rL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKB6HN1",
+        "title": "112 Cocoa 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKB6HN1",
+        "imageUrl": "https://m.media-amazon.com/images/I/51H67+fGU0L._SL1017_.jpg"
+      },
+      {
+        "asin": "B00PFCTO28",
+        "title": "109 Classic Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTO28",
+        "imageUrl": "https://m.media-amazon.com/images/I/71eSfruat1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00PFCTOO6",
+        "title": "107 Fresh Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00PFCTOO6",
+        "imageUrl": "https://m.media-amazon.com/images/I/51-f86fbEBL._SL1200_.jpg"
+      },
+      {
+        "asin": "B07FCG6JF4",
+        "title": "115 Rich Ebony 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FCG6JF4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HrLfsqcKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07FCKQ9N9",
+        "title": "108.5 Honey Bisque 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07FCKQ9N9",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SU84QOnDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B085JCSMRL",
+        "title": "Natural Rose 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B085JCSMRL",
+        "imageUrl": "https://m.media-amazon.com/images/I/717-KPfFuSL._SL1500_.jpg"
+      }
+    ],
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/51LsyuX5jmL._SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51LsyuX5jmL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61UxQvaYg-L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61Ne0+YcAfL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/51PpvjoiI9L._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/719vw7+DfnL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/513bzYzF9sL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/41JEPw0WP0L._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/613G3OUd4RS._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/713EW9ukxEL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/d9eca25b-415f-42ac-9f53-10428df3d9ba.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/4e5131d3-1cff-4ab0-a1ca-01f2e7014217.__CR0,0,1250,938_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/e38e692c-7497-49a1-8570-30ec86d78631.__CR0,0,1250,938_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/c334c967-a12b-4b2e-9b74-f457972af894.__CR0,0,1250,938_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/86b146ab-e326-4b79-a61c-98ef2e2a7b81.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/22de2b20-0587-4889-aa5a-222f26d195c3.__CR0,0,2500,1875_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7e8b0b3-a266-4209-bfb5-3413bb8c4806.__CR0,0,300,225_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/42bac858-383f-4572-a253-703fd67c8a15.__CR0,0,1250,938_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/d0f553bf-5f10-4cf2-a132-3628d94410f4.__CR0,0,2033,2916_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/9cf9fb2f-ac21-46fe-8bed-5e5162059ca2.__CR0,0,2033,2916_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/cfe242a4-8c49-40a2-b9e9-e6503771f6ba.__CR0,0,2033,2916_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/afd808d2-3d8e-45d8-9c64-9b575a225f44.__CR0,0,2033,2916_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/1c42b214-4a8c-4867-88af-ed8d2c920534.__CR133,0,2133,2400_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b19ae86-ec33-4242-8d2f-05c46a96b626.__CR167,0,2667,3000_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e7f7845-34c3-43fb-a225-242c57144d4f.__CR0,0,2400,2700_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ec25e51-1da9-4339-b7d1-084646983c64.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a7ef54e3-3b55-4423-83e6-c99c25dc003d.__CR0,0,200,225_PT0_SX200_V1___.png"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Stick"
+      },
+      {
+        "key": "Color",
+        "value": "102 Shell Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00071249293003"
+      },
+      {
+        "key": "UPC",
+        "value": "071249293003"
+      },
+      {
+        "key": "Model Number",
+        "value": "K1828700"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "K1828700"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Oreal Paris Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,369 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #31 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00PFCTSLU"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not Tested On Animals"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.09 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.74 x 1.85 x 4.78 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 25948,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "76%",
+        "fourStars": "13%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation provides solid medium coverage that lasts throughout the day, with a flawless look that makes skin look like porcelain. The product receives positive feedback for its quality, matte finish, and value for money. Regarding color match and oiliness, opinions are mixed - while some say it matches their skin tone perfectly and works well for oily skin, others find the color too dark and note it can be drying.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 861,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 539,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 534,
+          "status": "positive"
+        },
+        {
+          "aspect": "Matte finish",
+          "count": 386,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 240,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 227,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 451,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Oiliness",
+          "count": 361,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61dLGe0pZtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81CNIWyIZgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71A9nOkQhgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61uMiTJNQIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61AoB9kGefL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Znl1jeQgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71uZmM8ac7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6132ocoDVTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81413nO3T4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71g3pytZM2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7152RSeNg3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71FxWf9gccL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Repurchased go-to!",
+          "reviewText": "I\u2019ve bought L'Oreal Paris Infallible Pro Matte Foundation more than a handful of times now, and it\u2019s become my go-to foundation whenever summer rolls around. I tend to have very oily skin in the heat and humidity, and this formula does the job keeping me matte all day , no midday shine, no blotting every hour. The texture is lightweight and smooth, and it blends really easily with a brush or sponge. It\u2019s got that air-light feel but still gives medium to full coverage, hiding redness and imperfections without feeling heavy or cakey on the skin. It truly lasts all day . I can put it on in the morning, go out, run errands, deal with humidity, and come home with it still looking fresh. I\u2019ve tried other foundations that promise long wear, but this one actually delivers and for the price point it feels like a total steal. It\u2019s oil-free and mattifying, so if you struggle with oily skin like I do, this is definitely one you\u2019ll reach for again and again.",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBA7UGKCMIF4OSIEKPEUWAILPQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "103 Natural Buff",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "My Go-To Foundation for Years \u2013 Reliable, Long-Lasting, and Flawless",
+          "reviewText": "I\u2019ve been using L'Or\u00e9al Infallible 24HR Matte - Liquid Foundation for years, and it\u2019s hands down one of the best drugstore foundations out there. The coverage is buildable\u2014from medium to full\u2014and it blends beautifully without feeling heavy or cakey. It truly lives up to the \u201clong-wear\u201d claim. Whether I\u2019m running errands, at work all day, or going out in the evening, this foundation stays put and keeps my skin looking smooth and even. It handles humidity and long days without sliding off or settling into fine lines. I also love that it comes in a wide range of shades, making it easy to find a perfect match for my skin tone. It gives a natural matte finish that still looks like real skin\u2014not overly flat or dry. Reliable, affordable, and consistently great\u2014this has been a staple in my makeup routine for years, and I\u2019ll keep repurchasing it as long as L'Or\u00e9al keeps making it!",
+          "reviewDate": "Reviewed in the United States on July 5, 2025",
+          "customer": "K.A.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRPPDQZPDIAZO2ERM2HVWXFABQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "105 Natural Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "17 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Coverage w/Excellent Color Match!!!!",
+          "reviewText": "This foundation has a really nice, matte coverage. It has an excellent price point and a little goes a long way. I have always loved L'Oreal makeup, and I highly recommend this product. Thanks!!!!",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "DNA",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AESMXOWAGHB6XCIXXYXF23IU26SQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Golden Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Coverage, but Dries Fast!",
+          "reviewText": "I decided to try the L\u2019Oreal Infallible Pro-Matte Foundation (101 Classic Ivory) and overall it really does everything it claims. The coverage is great, it feels lightweight, and it gives a smooth matte finish that lasts throughout the day. My only real complaint is that it dries very quickly, so you have to work fast when blending, even doing in small sections. If you apply it without prepping your skin, it can look a little cakey, but using a moisturizer or even a bit of sweet almond oil beforehand made a big difference and helped it go on much more smoothly. Once I figured that out, the finish looked much nicer and more natural. For the price, it\u2019s a solid foundation and definitely worth trying, I give it 4 stars but I would give it a 4.5 if it were available...",
+          "reviewDate": "Reviewed in the United States on November 24, 2025",
+          "customer": "Christy Leigh",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGXO5POAAWUFDHAQPIHRU5W6ET7Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "101 Classic Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Satiny Finish, Great Coverage - A Few Pointers",
+          "reviewText": "I am the whitest white girl you ever did see. I get this in the lightest shade (ivory) and it's still not a true match / is slightly too dark with a bit of a pink undertone. Why do I keep using it? Because it's the best drugstore foundation I've found overall. Without any foundation on, I have an uneven complexion with redness in my cheeks, chin and the creases of my nostrils. I also have dry skin that can be a bit flaky. If you're in my boat, here's what I do to make this foundation work for me: 1) Wash my face with warm water (no soap), exfoliate gently with a wet washcloth, and rub in a small drop of plain olive oil while my face is still moist, then pat dry with a towel. (Olive oil won't clog your pores, is great for reducing visible inflammation naturally, and contains many antioxidants to fight aging like those 100-year old mediterranean people with perfect skin who use olive oil for everything.) 2) I apply a pea-to-dime sized amount of foundation to the back of my hand. Using a stippling brush (I use the Real Techniques one - cheap, works great, lasts forever without shedding fibers), I dab this onto my cheeks first, then chin, then blend in everywhere else. Some people complain this foundation doesn't spread well / dries too quickly / showcases dry patches, but using this method with olive oil on the skin beforehand, particularly for those of us with dry skin, I believe eliminates those problems. It spreads beautifully and smoothly with olive oil as a barrier to the skin - I wouldn't try putting this directly on my skin type because my skin is too dry. Your mileage may vary. The coverage is really pretty remarkable in my opinion. I require a medium coverage but prefer full-coverage and this is a great solution. It erases my redness and gives me a nice, even tone without maximizing pores or causing breakouts. Speaking of breakouts, it does okay with covering acne, but I'd recommend going over the pimple by putting a tiny dot of foundation on your clean fingertip and tapping it onto the pimple (after the main / full face application) just to ensure it's evenly covered. I sometimes have to reapply this product if I have a particularly long day, but it's the best looking foundation I've worn for a good price so I don't really mind. To me, it's not worth paying 3x as much to only apply once a day with a more premium brand. Before I had kids, I was a runway model for years so I've had every high-dollar foundation out there applied to my face and I STILL think people are nuts for spending so much on trendier foundations. This foundation, when properly applied, does 80% of the job for 30% of the price. That's a trade-off I can live with. The one thing I don't like about it (aside from the lightest shade not being light enough, which is the case with virtually all drugstore foundations) is that it does transfer onto clothing etc. if your face comes into contact with it. Naturally, I really like hugging my husband, but he's taller than me so a hug often results in a powdery \"face smear\" right around armpit level of his shirts - tooootally annoying. If he's wearing black it can look like he got in a fight with a bag of powdered sugar and lost. So, buyer beware - keep your face away from anything you don't want a ghostly face print on. Overall, this is a great product at an excellent price point and I wouldn't hesitate to recommend it to others.",
+          "reviewDate": "Reviewed in the United States on June 15, 2016",
+          "customer": "Juzley",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEQLTPJHPI3UFGY2OP5QRO3TKNA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "101 Classic Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "134 people found this helpful"
+        },
+        {
+          "reviewTitle": "Awesome product",
+          "reviewText": "Great light to medium coverage clean foundation! Wore great all night long at a wedding and didn\u2019t feel cakey",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Jordon Stanley",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEJQ5USPJW757OKNLRSCLM4Q7PFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "099 True Porcelain",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "MADE ME CHANGE",
+          "reviewText": "I ABSOLUTELY AM WOWED BY THIS MAKEUP IT COVERS AND DORS NOT TAKE ALOT TO COVER IT IS LIGHTWEIGHT AND STAYS ON REALLY WELL AND EASY TO WASH OFF I HAVE CHANGED MY ENTIRE MAEUP TO THIS \ud83c\udfc6",
+          "reviewDate": "Reviewed in the United States on March 19, 2026",
+          "customer": "AMY THOMPSON",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFDQE3JDQCXE6AFIUJZGPLJ5UG5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "101 Classic Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "All Day Foundation",
+          "reviewText": "I love this foundation, really I do. It stays on for ever, it has build able coverage, it does everything I need. I like that one little coat isn't too heavy because I personally don't like heavy makeup, but it does build up really well for those days when I want more coverage. Even though it's a matte, it's okay for dry skin as long as you moisturize - I have skin like the Sahara and it works just fine! It's also really good that this shade is pale. I'm really really pale - NW13 at MAC - and this is just barely pale enough, so it's great that I found one that's good enough.",
+          "reviewDate": "Reviewed in Canada on February 15, 2016",
+          "customer": "Anna",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "101 Classic Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Four Stars",
+          "reviewText": "To dark",
+          "reviewDate": "Reviewed in the United Kingdom on December 24, 2016",
+          "customer": "Rose",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "112 Cocoa",
+            "size": "1 oz"
+          }
+        }
+      ]
+    }
+  }
+}

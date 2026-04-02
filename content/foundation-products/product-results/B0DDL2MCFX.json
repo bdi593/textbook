@@ -1,0 +1,428 @@
+{
+  "requestMetadata": {
+    "id": "2c5eea71-ac83-4411-9f30-ea0a36996359",
+    "status": "ok",
+    "html": "https://files.hasdata.com/2c5eea71-ac83-4411-9f30-ea0a36996359.html",
+    "json": "https://files.hasdata.com/2c5eea71-ac83-4411-9f30-ea0a36996359.json",
+    "url": "https://www.amazon.com/dp/B0DDL2MCFX"
+  },
+  "product": {
+    "asin": "B0DDL2MCFX",
+    "url": "https://www.amazon.com/dp/B0DDL2MCFX",
+    "title": "2PCS TLM Colour Changing Foundation - Flawless Coverage, Lightweight Formula, Adapts to Skin Tone, Hides Wrinkles & Lines, Hydrating & Long-Lasting, BB Cream Makeup Base Concealer Cover",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 2)",
+      "color": "2PCS Colour Changing"
+    },
+    "featureBullets": [
+      "Secret Beauty Formula: The exclusive formula contains shade-sensing beads which are activated by pressure upon application That deliver perfect shade transformation upon blending into the skin. As the makeup is thoroughly blended into skin, it intuitively transforms to your skin tone for all day, natural looking color in your perfect shade.",
+      "Flawless Coverage - Our TLM Colour Changing Foundation provides impeccable coverage, adapting seamlessly to your unique skin tone for a natural finish. Say goodbye to guesswork and hello to a foundation that matches your skin perfectly every time.",
+      "SPF 15 Protection - Shield your skin from harmful UV rays with our built-in SPF 15. This foundation offers daily sun protection, reducing the risk of sun damage and ensuring your skin stays healthy and vibrant, even after hours in the sun.",
+      "Lightweight & Hydrating - Our innovative formula feels like a second skin, delivering hydration without heaviness. Perfect for all-day wear, it keeps your skin moisturized and comfortable, while providing long-lasting coverage that doesn\u2019t crease or fade.",
+      "Perfect for All Skin Types - Whether you have dry, oily, or combination skin, our TLM Colour Changing Foundation is designed to work with your skin\u2019s natural chemistry. Enjoy a smooth, even complexion that lasts all day, with no touch-ups needed."
+    ],
+    "description": "TLM Colour Changing Foundation - Flawless Coverage, SPF 15, Lightweight Formula, Adapts to Skin Tone, Hides Wrinkles & Lines, Hydrating & Long-Lasting, BB Cream Makeup Base Concealer Cover",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BYH85JNX",
+        "title": "1 Fl Oz (Pack of 1) Buff Beige #104",
+        "url": "https://www.amazon.com/dp/B0BYH85JNX",
+        "imageUrl": "https://m.media-amazon.com/images/I/513eQxtN-GL._SL1200_.jpg"
+      },
+      {
+        "asin": "B07NYCDDFV",
+        "title": "1 Fl Oz (Pack of 2) 102 Nude & 103 Warm Peach",
+        "url": "https://www.amazon.com/dp/B07NYCDDFV",
+        "imageUrl": "https://m.media-amazon.com/images/I/51CZgltqdhL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0BYHH4BVN",
+        "title": "1 Fl Oz (Pack of 1) Nude #102",
+        "url": "https://www.amazon.com/dp/B0BYHH4BVN",
+        "imageUrl": "https://m.media-amazon.com/images/I/412+udttcvL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0DDL2KT2M",
+        "title": "1 Fl Oz (Pack of 1) Colour Changing",
+        "url": "https://www.amazon.com/dp/B0DDL2KT2M",
+        "imageUrl": "https://m.media-amazon.com/images/I/41BFBOq3h1L.jpg"
+      },
+      {
+        "asin": "B0DDL2MCFX",
+        "title": "1 Fl Oz (Pack of 2) 2PCS Colour Changing",
+        "url": "https://www.amazon.com/dp/B0DDL2MCFX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ypg+QhwUL._SL1000_.jpg"
+      },
+      {
+        "asin": "B08ZSVFS9G",
+        "title": "1 Fl Oz (Pack of 2) 2 Pack Buff Beige #104",
+        "url": "https://www.amazon.com/dp/B08ZSVFS9G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Ki7+cyhkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08ZSC4XK1",
+        "title": "1 Fl Oz (Pack of 2) 2 Pack Nude #102",
+        "url": "https://www.amazon.com/dp/B08ZSC4XK1",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Nd7Fepd2L._SL1000_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.99,
+      "priceFrom": 9.99,
+      "otherOfferQuantity": 3
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "BEAUTY GLAZED",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1QTNGXSCYMMA3",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61ypg+QhwUL._SL1000_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61ypg+QhwUL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/514e02C8vpL.jpg",
+      "https://m.media-amazon.com/images/I/611a9gCzhhL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51xe51HKQAL.jpg",
+      "https://m.media-amazon.com/images/I/51LyBgXGipL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51o6SXqwl8L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51o6SXqwl8L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/31gG4ETZQ+L.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e565b685-a302-44ae-bb02-69de43066695.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "2PCS Colour Changing"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Indoor"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "BestLand"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "BestLand"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#29,341 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #273 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DDL2MCFX"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Finish Types",
+        "value": "translucent"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.2 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "2"
+      },
+      {
+        "key": "Unit Count",
+        "value": "2.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 6819,
+      "rating": 4.1,
+      "starRates": {
+        "fiveStars": "62%",
+        "fourStars": "13%",
+        "threeStars": "8%",
+        "twoStars": "6%",
+        "oneStars": "11%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage without being cakey, and appreciate its lightweight feel and natural appearance with a nice matte finish. The product offers excellent value for money and matches skin tones well, with one customer noting it's buildable. While some customers report it lasts all day, others mention it dries quickly, and opinions about the skin tone match are mixed, with some saying it adapts perfectly while others find it heavily orange-tinted.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 417,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 217,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 124,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 118,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 118,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 116,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 168,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin tone match",
+          "count": 100,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61x-tv-BtAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71TA5KEtllL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71URmLzFYgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41CwdPhJ-2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gAmTeExHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61YavGkEPFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71KJfj3uRJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610znpTDFlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61M9D3YpSPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pm0lVgOJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61tLmD6X81L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rfb+vb3rL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Wait ! What this really works !",
+          "reviewText": "Well on a scale of 1-10 on skepticism I would have been a 10 BUT being the curious person I am I figured why not , not $40 dollar foundation and I\u2019ve paid that and more and Not liked it \u2014 BUT this stuff works , miracle in a bottle ? It\u2019s lightweight , smooths the skin and gives a tint of color but yet some coverage , no scent , I\u2019m 66 and I love it !! So glad I tried it It\u2019s a keeper I have dry skin to normal and hard to match light olive to med skin tone it matches !! I may add a video later",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "King town",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEXGOW4JQ33RT4FV4TUHTPZJVTAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Works like magic! Matched my skin tone perfectly!",
+          "reviewText": "Works like magic! I was very skeptical as it goes on white & matched my skin perfectly after blending in with a brush. I created a light coverage that just evened out my skin tone and covered redness well. I am very pleased with this product, especially since I like a very natural no-makeup makeup look. It looks like my skin only better! Also without the expensive price tags of other products that I was seeing out there. Great purchase!",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "April Lyttek",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF34I254UAMS3JJLVAEUIAK73JNA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          }
+        },
+        {
+          "reviewTitle": "Perfect Moisturing Perfect Color Match",
+          "reviewText": "I want to leave 5 stars, however I have never used a product like this before. I am a senior and this is by far the best color match. I wasted hundreds over my lifetime trying to find the perfect match. It's amazing how this product matches to my skin tone perfectly. I appreciate the moisturizer equally. Coverage is not full coverage. I am too old for that. It does provide a clean smooth finish that minimizes troubled areas. It is perfect for daily wear. It is natural with light coverage. No dry foundation. No caking in wrinkles. Blends evenly. I can apply double coverage and build upon it until I reach my desired appearance. Then again I am very satisfied and amazed with one application. My skin feels softer and never dries out.it has no odor. No stickiness. The intended functionality of this product is not makeup. It's perfection. Definitely going into my Subscription.",
+          "reviewDate": "Reviewed in the United States on June 21, 2025",
+          "customer": "Robin Scott",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPMIGP4UHMPQ244ATZGTQ636IRA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          },
+          "helpfulVotes": "19 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great product that works as advertised.",
+          "reviewText": "Works as advertised! Really like this product. I'm not much of a makeup person even at 72. It's lightweight and adapts to my coloring even though it goes on white. It has a pleasant scent that is not overpowering. Blurs my dark spots and uneven color. Make sure you moisturize before applying. I use my fingers and its works like a dream. Very happy with the product and will purchase again. And did I mention sunscreen? Good price point as well.",
+          "reviewDate": "Reviewed in the United States on November 23, 2025",
+          "customer": "Susan G",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFZIEWKEMOEAODZAAK6PCG3BJIZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Disappointment with product",
+          "reviewText": "I wanted so to use this product from the get go as I haven't worn makeup for a very long time. Well, I washed my face gently, patted my face dry and proceeded to put on some light CeraVe moisturizer and waited for 2 minutes for it to dry. I pumped a small amount of the TLM Foundation Color Changing and BAM, what a shock!! The PERFUME fragrance was so overwhelming I couldn't believe it!! I thought this can't be right, why is there so much fragrance I asked in this product?? Maybe I just needed to wait a minute or two, but no it remained there. I decided to apply a little to one side of my face being careful to stay away from my eye area, glad I did! About 8 minutes later I had to take it all off, it started to make my eye tear. What a shame this product had so much fragrance, ladies please be careful.",
+          "reviewDate": "Reviewed in the United States on January 19, 2026",
+          "customer": "Lily",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFNSKHIOUWSO3R3AXMBQ6YPE3FA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Works Great for Me",
+          "reviewText": "I wanted to review this because it said that this is a frequently returned item. I think it won\u2019t work for everyone, but if you get the right shade, it should work for most people. I am a mature woman, and I take very good care of my skin. I find this an all day foundation that provides a really nice base if I want to put an additional color on top during the winter in my skin is lighter. I can use it without another foundation on top, I would encourage you to try it. Sometimes you can\u2019t trust the reviews because people can be very picky.",
+          "reviewDate": "Reviewed in the United States on January 14, 2026",
+          "customer": "Chris Wagner",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEFDPY42BZWEIEY6F6S32YJ234FA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not for me",
+          "reviewText": "Not for me. My daughter loves it but it makes my skin feeling like it is burning.",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Barbara S. Fox",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH7C22YUDLDWR2NV3T5YOFIIGCFQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 2)",
+            "color": "2PCS Colour Changing"
+          }
+        },
+        {
+          "reviewTitle": "This is a true 5 star product",
+          "reviewText": "What I liked most was how smooth it went on my face with just A small amount. Yes you get full coverage and it STILL looks like your skin . I use a sun screen under this make up as well. I didn't see on make bottle that a sun screen was in there but I could be wrong. I'm in Colombia \ud83c\udde8\ud83c\uddf4 and we are very close to the equator. There is a pump on bottle but the make up would not come out of the pump. I just shake it before using and unscrew pump and top and use a make up spatula to get the small amount I need . I couldnt believe the healthy looking glass skin on my face. I always \u2665\ufe0f use the sammy setting spray and .... presto the magic lasts all day. I have paid 40 to 50 $$$ more in prestige brands and this is a dupe for under $11 dollars. I won't pay extra money any more EVER. I have traveled for some serious cosmetic companies and know amazing results when I get it. I'm fair to light skin and got the #2 nude shade. BONUS I have some age spots on each side of my face, but not with this. I look flawless. Like I said the price is extremly affordable and works on my normal to dry skin but I know the bottle says it's good on oily skin too. This Foundation goes on like silk. If you get the right shade you simply won't believe this 100 percent full coverage and you look like you have nothing on your face. I've tried other dupes but nothing compares to this brand. Thank you PHOERA",
+          "reviewDate": "Reviewed in the United States on June 24, 2023",
+          "customer": "Betsy Brown",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGIRLHYV3XGTKT6U3I6TTSOSQ76Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Nude #102"
+          },
+          "helpfulVotes": "37 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good quality and afordable price.",
+          "reviewText": "I order for my sister, she is happy, I took a little bit, and it is light weight and nice, good light coverage.",
+          "reviewDate": "Reviewed in Canada on March 3, 2026",
+          "customer": "None",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          }
+        },
+        {
+          "reviewTitle": "Worst makeup ever",
+          "reviewText": "I hated it it was like mud",
+          "reviewDate": "Reviewed in Australia on September 4, 2023",
+          "customer": "It was like mud I absolutely hated it",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 2)",
+            "color": "102 Nude & 103 Warm Peach"
+          }
+        },
+        {
+          "reviewTitle": "Great coverage!!",
+          "reviewText": "Loved it!! Wonderful coverage and matches my skin perfectly!!",
+          "reviewDate": "Reviewed in Canada on February 14, 2026",
+          "customer": "Stacey Allaby",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          }
+        },
+        {
+          "reviewTitle": "Poor quality all around",
+          "reviewText": "It went on white and pretty much stayed white it was thick and heavy on my face. Would not recommend it.",
+          "reviewDate": "Reviewed in Canada on December 28, 2025",
+          "customer": "Leaha",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          }
+        },
+        {
+          "reviewTitle": "Great Quality & Price",
+          "reviewText": "When first using this make up I thought it was very think. However, it does smooth out and goes on very nice. It takes on your skin tone which I liked making it look more natural. I would order this again.",
+          "reviewDate": "Reviewed in Canada on November 9, 2025",
+          "customer": "pauline smith",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Colour Changing"
+          }
+        }
+      ]
+    }
+  }
+}

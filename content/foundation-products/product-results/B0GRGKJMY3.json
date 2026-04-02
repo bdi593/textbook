@@ -1,0 +1,169 @@
+{
+  "requestMetadata": {
+    "id": "0856f13d-0755-4618-9394-5a95b65d8b5f",
+    "status": "ok",
+    "html": "https://files.hasdata.com/0856f13d-0755-4618-9394-5a95b65d8b5f.html",
+    "json": "https://files.hasdata.com/0856f13d-0755-4618-9394-5a95b65d8b5f.json",
+    "url": "https://www.amazon.com/dp/B0GRGKJMY3"
+  },
+  "product": {
+    "asin": "B0GRGKJMY3",
+    "url": "https://www.amazon.com/dp/B0GRGKJMY3",
+    "title": "Color Changing Foundation Stick, Dual-Ended Korean Skin Care Foundation Stick, Detachable Brush, Full to Medium Coverage Base Hydrating Makeup Portable & Travel-Friendly (Natural)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Natural"
+    },
+    "featureBullets": [
+      "Smart Color-Matching Formula\uff1aThis innovative Korean foundation stick starts as a soft white balm and adapts to your unique skin tone as you blend. It provides smooth, buildable coverage\u2014from medium to full\u2014for a naturally even complexion that enhances your glow",
+      "Hydrates While It Covers\uff1aInfused with niacinamide, collagen, and botanical extracts, the formula actively nourishes skin. It helps keep your complexion moisturized, soft, and comfortable throughout the day",
+      "Lightweight, Dewy & Breathable Finish\uff1aEnjoy a fresh, luminous look without heaviness. The creamy texture glides on smoothly, resists settling into fine lines, and avoids caking or greasiness for a naturally radiant finish",
+      "Stick with Detachable Brush\uff1aTwo ends, one perfect application. The color-changing foundation is on one side, on the other, a soft detachable brush enables seamless, mess-free blending for an airbrushed effect",
+      "Compact, Travel-Ready Design\uff1aDesigned for convenience. This sleek stick replaces bulky bottles and tools\u2014ideal for your purse, desk, or travel bag. Perfect for quick touch-ups anytime, anywhere"
+    ],
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0GRGKJMY3",
+        "title": "Natural",
+        "url": "https://www.amazon.com/dp/B0GRGKJMY3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71fYXue9kRL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 24.99
+    },
+    "deliveryRawDate": "April 18 - May 4",
+    "deliveryIsoDate": "2026-04-18T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "fastestDeliveryRawDate": "April 18 - May 2",
+    "fastestDeliveryIsoDate": "2026-04-18T00:00:00.000Z",
+    "fastestDeliveryPriceMessage": "fastest",
+    "returns": "30-day refund / replacement",
+    "seller": "Nuvie Official",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3IKUM248KXTE6",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/71fYXue9kRL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71fYXue9kRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71kd8JPtvxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71p55bgb+7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71A9a3sTWpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71y8kYk0QQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71b9CE6m40L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716Qz76mm6L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9df66bcf-cf17-4e75-975b-b85544679ff6.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/271882e1-97ab-481d-bab9-11c832f05178.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7f36b8de-1102-4972-a8b7-5a4575dc9618.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57f1d2a6-007d-48fd-ab75-768ade076ee6.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0b3bd431-1f6e-4c14-8d84-344c0a047a47.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Natural"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Lumine Skin"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Lumine Skin"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#33,379 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #304 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0GRGKJMY3"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Long Lasting"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3,
+      "rating": 2,
+      "starRates": {
+        "fiveStars": "26%",
+        "fourStars": "0%",
+        "threeStars": "0%",
+        "twoStars": "0%",
+        "oneStars": "74%"
+      },
+      "reviews": [
+        {
+          "reviewTitle": "Worth Every Penny",
+          "reviewText": "I've dropped serious cash on luxury foundations that don't perform half as well as this stick. The coverage is incredible, the color match is spot-on, and it lasts all day. Plus, the stick format means I use every last bit\u2014no waste. This is luxury results at an affordable price.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Hunter Wollaston",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFXMQEJ4OKL4CSXL6BCWH7FISXCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Airbrushed Look in 60 Seconds",
+          "reviewText": "Who has time for complicated makeup routines? Not me. This stick glides on smoothly and blends out in under a minute. The finish? Totally airbrushed. It blurs my pores and evens out my redness without looking like I'm wearing a mask. My skin, but make it Photoshop.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Amos Fielding",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEAIMQX2TYFWRCY4SMJPUG546TQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural"
+          },
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

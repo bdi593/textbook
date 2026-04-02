@@ -1,0 +1,401 @@
+{
+  "requestMetadata": {
+    "id": "a0858084-da3f-4d81-9cd6-0130a416384e",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a0858084-da3f-4d81-9cd6-0130a416384e.html",
+    "json": "https://files.hasdata.com/a0858084-da3f-4d81-9cd6-0130a416384e.json",
+    "url": "https://www.amazon.com/dp/B00HDLXWRC"
+  },
+  "product": {
+    "asin": "B00HDLXWRC",
+    "url": "https://www.amazon.com/dp/B00HDLXWRC",
+    "title": "IT Cosmetics Celebration Foundation Illumination - Full-Coverage, Anti-Aging Powder Foundation - Blurs Pores, Wrinkles & Imperfections - 0.3 oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Light (fair light shade with warm undertones)"
+    },
+    "featureBullets": [
+      "LIT FROM WITHIN - Celebration Foundation just got brighter! Illumination is the same highly pigmented, full-coverage powder foundation that lets you achieve your most flawless skin\u2014now with added radiance for glowing skin!",
+      "COMPLEXION PERFECTION - This game-changing powder instantly airbrushes the look of fine lines, pores & imperfections while delivering buildable coverage that lasts all day, without creasing or cracking, and makes your skin look younger!",
+      "ANTI-AGING INGREDIENTS - Our skin-loving, ultra-hydrating formula is infused with anti-aging ingredients, including hydrolyzed collagen, silk, peptides and antioxidants, for your most beautiful results.",
+      "HOW TO APPLY - Allow your skincare and primers to fully dry before applying. Swirl the Heavenly Luxe Flat Top Buffing Foundation Brush #6 into compact, then buff in circular sweeping motions, down and outward, for natural-looking results.",
+      "IT REALLY WORKS - With clinical insights from plastic surgeons, plus ingredient and skincare expertise from dermatologists, IT Cosmetics creates problem-solving products that give you real results!"
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00H9RYVSY",
+        "title": "Fair (porcelain shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B00H9RYVSY",
+        "imageUrl": "https://m.media-amazon.com/images/I/81VPC8tvE8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00OU1QBEE",
+        "title": "Tan (rich medium shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B00OU1QBEE",
+        "imageUrl": "https://m.media-amazon.com/images/I/81GVPQT36mL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00HDLXWRC",
+        "title": "Light (fair light shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B00HDLXWRC",
+        "imageUrl": "https://m.media-amazon.com/images/I/81tf4mOxUJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07BH5K32X",
+        "title": "Medium Tan (medium shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B07BH5K32X",
+        "imageUrl": "https://m.media-amazon.com/images/I/812G76BTMkL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 49,
+      "beforePrice": 49,
+      "discount": "-10%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "IT Cosmetics",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AH5UK1NMFV20Y",
+    "shipper": "Amazon",
+    "totalImages": 5,
+    "primaryImage": "https://m.media-amazon.com/images/I/81tf4mOxUJL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81tf4mOxUJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71T91hGvAaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718AzBhI7RL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ITWBiQeEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Y9xnkVB-L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b28130bc-8967-4019-bfb8-a76ea0923302.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68c0b955-9faf-4c9a-964a-d4c6941a821d.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c5190933-f1c5-4b7f-a72e-a977e5b7d36e.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/515c88d7-a47a-419a-a9e8-f97a40ceffe1.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c66ad4ae-022e-4e8f-b4c4-7feb7ed415d3.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2d1dc4ed-4d37-40c4-8f85-f49778ce32db.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74c505a1-8856-41a3-80da-6452bccd7ea8.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/81facd41-a0b3-4e57-8aa4-71d65f061bb2.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9b22e1c-2e47-45f3-b886-741913e1526a.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0628ee26-4758-4324-9ac0-a146652b4a49.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0628ee26-4758-4324-9ac0-a146652b4a49.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2850b0d8-c7f1-473c-be4a-56b8f32a8599.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "Light (fair light shade with warm undertones)"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "IT Cosmetics"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Airbrushes the look of fine lines, pores & imperfections with coverage that lasts without creasing or cracking."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Fair"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "natural"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00817919011405"
+      },
+      {
+        "key": "UPC",
+        "value": "817919011405"
+      },
+      {
+        "key": "Model Number",
+        "value": "S5284100"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "S5284100"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "IT Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#16,931 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #180 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00HDLXWRC"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "buildable"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.09 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "5.91 x 3.19 x 0.98 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3008,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "77%",
+        "fourStars": "12%",
+        "threeStars": "4%",
+        "twoStars": "3%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this foundation provides excellent coverage, with one mentioning it's particularly effective for rosacea and scars. The product receives positive feedback for its natural appearance, lasting throughout the day, smooth application, and lightweight feel. The color match receives mixed reviews - while some say it's a perfect match for their skin, others find it too pale. The texture also gets mixed reactions, with some describing it as silky while others note it's not cakey.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 213,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 119,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 75,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 57,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 45,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 42,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 76,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 35,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81fUYJKJILL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81gYEgtdt8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81YBaoQgozL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Ht4YZ5xIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71n6CjH8bbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718hqvFwKsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61welZ+9GuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61o4Kpj4J7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71GrX-ytCUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91UkdB-sacL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81YW+zgEy3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61zXuXuUEPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great foundation",
+          "reviewText": "Covers well. Stays fresh all day",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGYVNNLLLE6C3PAIRMHPN6GPZ5NA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "IT Cosmetics Celebration Foundation",
+          "reviewText": "Love this powder foundation! It is my go to for coverage and shine.",
+          "reviewDate": "Reviewed in the United States on February 23, 2026",
+          "customer": "Denise",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AENHBMGIU6TISSULG7UNUNKUA5TQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light (fair light shade with warm undertones)"
+          }
+        },
+        {
+          "reviewTitle": "Love IT",
+          "reviewText": "I have skin that is sensitive and this make up doesn\u2019t feel heavy like most makeup does on my face. It gives nice coverage and blends in my skin tone nicely. It comes with a brush to apply but I use my own because I like to put more on quickly.",
+          "reviewDate": "Reviewed in the United States on January 1, 2026",
+          "customer": "Dana Otts",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH33CUSY7ZRYE5RVAC5UCGQ6PG2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light (fair light shade with warm undertones)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Works well for my older, but still a bit oily skin.",
+          "reviewText": "I don't think I have ever left a review, but this is very nice. I am 71, and have always had a bit of a natural glow. Fortunately, I still do, but, I have some discoloration from growing up in the sunshine, so I wear foundation to even it up a bit. This powder somehow slill gives me a bit of a glow without being greasy or tacky, like liquid foundations. I will have to see if it lasts all day in the sun and humidity (it's cool now). It's very pricy, so will also have to see how long it lasts.",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "J.Taylor",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEXXSHTYOC7KFFSVZDJKDPRELOCQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Light (fair light shade with warm undertones)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Coverage is perfect",
+          "reviewText": "why did i stop using this product. it is wonderful.",
+          "reviewDate": "Reviewed in the United States on March 11, 2026",
+          "customer": "Cali Girl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEXRORWJBGNILT7QVGJU4RCFTDVQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Tan (rich medium shade with warm undertones)"
+          }
+        },
+        {
+          "reviewTitle": "Smooth, great cover, natural looking",
+          "reviewText": "I love this powder. It is lightweight and blends in easily. It does not feel dry but makes your skin feel soft. Can't believe I wasted so many years with liquid foundation!",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "Fleck",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFPCR2NSFALFUG7ZRKR7QARHVAAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Fair (porcelain shade with warm undertones)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup",
+          "reviewText": "I've been wearing this same product for 10 years. Good stuff!",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Mama C",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6W5DUVACH3MRPPXVD2WKSXTWXQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Works great",
+          "reviewText": "Works great and cover well",
+          "reviewDate": "Reviewed in the United States on March 6, 2026",
+          "customer": "Angela Olivas",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEINFCJLUPHN42UACFEDDGMVTDPQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Charged 17.50 at post office for shipping on a product costing 87.50. Not pleased.",
+          "reviewText": "I like this product and have used it for a long time. It is expensive at 87.50 and then to be charged another 17.50 at post office for its shipping is unacceptable. I will not be ordering again.",
+          "reviewDate": "Reviewed in Canada on December 27, 2022",
+          "customer": "PMM",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Would buy again.... top notch",
+          "reviewText": "Great product and good price",
+          "reviewDate": "Reviewed in Canada on May 12, 2017",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light (fair light shade with warm undertones)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing!!",
+          "reviewText": "Amazing product. Closest thing to airbrushing. Totally helps with skin texture over open pores, as well as covering blemishes without looking powdery!!",
+          "reviewDate": "Reviewed in the United Kingdom on September 26, 2018",
+          "customer": "lisa Bardell",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Wonderful foundation",
+          "reviewText": "Very easy to apply,matches my skin tone perfectly,and last all day but costly",
+          "reviewDate": "Reviewed in Canada on May 7, 2024",
+          "customer": "Didi",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Fair (porcelain shade with warm undertones)"
+          }
+        },
+        {
+          "reviewTitle": "Good setting powder.",
+          "reviewText": "I adore this range. Good setting powder that goes well with the IT foundation.",
+          "reviewDate": "Reviewed in the United Kingdom on November 19, 2019",
+          "customer": "Margaret Baldwin",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light (fair light shade with warm undertones)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

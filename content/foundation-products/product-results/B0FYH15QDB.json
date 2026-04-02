@@ -1,0 +1,547 @@
+{
+  "requestMetadata": {
+    "id": "6a09c1c0-5813-4080-b74a-046e1fe5dc93",
+    "status": "ok",
+    "html": "https://files.hasdata.com/6a09c1c0-5813-4080-b74a-046e1fe5dc93.html",
+    "json": "https://files.hasdata.com/6a09c1c0-5813-4080-b74a-046e1fe5dc93.json",
+    "url": "https://www.amazon.com/dp/B0FYH15QDB"
+  },
+  "product": {
+    "asin": "B0FYH15QDB",
+    "url": "https://www.amazon.com/dp/B0FYH15QDB",
+    "title": "Maybelline Lifter Plump & Glow Foundation, Liquid Foundation with 2% Niacinamide + Hyaluronic Acid, Plumping and Brightening Face Makeup, 118, 1 Count",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "118 WARM"
+    },
+    "featureBullets": [
+      "Instant Plump & Glow: Discover Maybelline's Lifter Plump & Glow Foundation, a revolutionary, skincaring formula clinically tested to visibly plump and brighten skin instantly while improving your skin's health over time",
+      "90% Skincaring Formula: Our 90% skincare-meets-make up formula is supercharged with Niacinamide, a powerful antioxidant that helps refine pores and even skin tone, and Hyaluronic Acid to deeply hydrate and plump skin, minimizing the look of wrinkles",
+      "Sheer to Full Coverage Foundation: Achieve your perfect complexion with buildable coverage, from a sheer, natural skin tint and glow to a more full-coverage makeup foundation finish. Layer effortlessly without ever looking cakey or heavy",
+      "Glowy, Hydrating Finish: The radiant finish enhances your skin's natural luminosity, leaving you with a healthy, vibrant glow. Our long-wearing face makeup formula stays put all day, keeping you looking fresh and confident",
+      "Find Your Perfect Match: Available in 24 diverse shades, This Maybelline foundation is designed to complement a wide spectrum of skin tones, from fair to deep. Discover your shade and experience a flawless, natural-looking complexion"
+    ],
+    "description": "Foundation that's more than just makeup - it's skincare, too! Meet Lifter Plump & Glow Foundation from Maybelline New York! Clinically tested to visibly plump and brighten skin over instantly and over time. 90% skincare base with 2% Niacinamide and Hyaluronic Acid for a plumped, brightened look.",
+    "boughtInPastMonth": "800+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FYH13YZV",
+        "title": "090 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYH13YZV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61E5mQWdkqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH3D12J",
+        "title": "340 WARM",
+        "url": "https://www.amazon.com/dp/B0FYH3D12J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NyuVcjxRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYGVTQN2",
+        "title": "120 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYGVTQN2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61osQMNjmQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH3V218",
+        "title": "332 WARM",
+        "url": "https://www.amazon.com/dp/B0FYH3V218",
+        "imageUrl": "https://m.media-amazon.com/images/I/61YvUYkUdBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH2N344",
+        "title": "400 COOL",
+        "url": "https://www.amazon.com/dp/B0FYH2N344",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LEBaFVNlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYGYPK8Q",
+        "title": "112 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYGYPK8Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61K1pEfOFCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH15QDB",
+        "title": "118 WARM",
+        "url": "https://www.amazon.com/dp/B0FYH15QDB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Fy9UIbL6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYGY1BPC",
+        "title": "110 WARM",
+        "url": "https://www.amazon.com/dp/B0FYGY1BPC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Piz6iEiIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYGZZ5V9",
+        "title": "115 COOL",
+        "url": "https://www.amazon.com/dp/B0FYGZZ5V9",
+        "imageUrl": "https://m.media-amazon.com/images/I/616LKjpBFTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH1Y915",
+        "title": "405 COOL",
+        "url": "https://www.amazon.com/dp/B0FYH1Y915",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pnoLZ3iRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH6WJPY",
+        "title": "113 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYH6WJPY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61esgB1QZjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYGW4LVX",
+        "title": "373 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYGW4LVX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61n3JR4NlYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYFVKH97",
+        "title": "355 COOL",
+        "url": "https://www.amazon.com/dp/B0FYFVKH97",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jw5qbr+UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH337ZJ",
+        "title": "102 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYH337ZJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QhELkYk0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH6K4SP",
+        "title": "330 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYH6K4SP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bbJf+olsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH3HY62",
+        "title": "220 WARM",
+        "url": "https://www.amazon.com/dp/B0FYH3HY62",
+        "imageUrl": "https://m.media-amazon.com/images/I/61blDXsb-yL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYGZQXYY",
+        "title": "210 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYGZQXYY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mHGSGDoaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH3CCVM",
+        "title": "385 COOL",
+        "url": "https://www.amazon.com/dp/B0FYH3CCVM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61d2JYEd+4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH2MGTQ",
+        "title": "130 COOL",
+        "url": "https://www.amazon.com/dp/B0FYH2MGTQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61rWCc-f5xL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYGWZ1ZH",
+        "title": "235 COOL",
+        "url": "https://www.amazon.com/dp/B0FYGWZ1ZH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Ujf3T1iBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH34F9W",
+        "title": "368 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYH34F9W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RvCVA52rL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH2M587",
+        "title": "367 COOL",
+        "url": "https://www.amazon.com/dp/B0FYH2M587",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OJWkP8OCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH18PM9",
+        "title": "359 NEUTRAL",
+        "url": "https://www.amazon.com/dp/B0FYH18PM9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FUGwAhO5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYH4JHLC",
+        "title": "375 COOL",
+        "url": "https://www.amazon.com/dp/B0FYH4JHLC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61U0141P0VL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 11.98,
+      "beforePrice": 15.99,
+      "discount": "-25%",
+      "priceFrom": 11.98,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61Fy9UIbL6L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61Fy9UIbL6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pHdDOS0EL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81a12SxOc-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91mksu8q8dL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sDADtMyvL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91vSPS2QKML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/815PuqMQvcL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/19bdaf30-3073-4acd-81ac-92e38252e583.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d28382ff-7cf6-4361-94f1-581a6ab954b2.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ef66ab9-92ae-4850-9b06-2deebb5439d8.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/86aced2e-a7dc-466b-90dd-3b8913bd7704.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6264e513-8b51-481d-bd56-e1178725355f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d83c23e7-44c6-43cf-b157-da7a4433e0a3.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d757945c-8d14-407f-b933-bd5d970d355c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3abc81a-23ca-4eaf-b87c-05486723f7d1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d79b2718-b84b-4935-bcb3-4f51b8e2b6e5.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ea780c8-0c2d-45a6-80d9-37e95bb4b1b1.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/25db872e-bebd-42e7-9a95-e743b2f28978.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/25db872e-bebd-42e7-9a95-e743b2f28978.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1d92e99c-79ff-410b-8876-79e43f2aaddd.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e709a3a5-5100-43ea-b90f-0956900b7b0e.mp4/productVideoOptimized.mp4",
+      "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A3FSJSS2NCSC3Q/1674670591425/89eafdaa-d6f8-4db6-afb7-b6e44228f760/1674670604014sbv.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dccd8b8d-d17a-4a49-9586-a6caca9ee1ba.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "118 WARM"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Combination, Dry, Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MAYBELLINE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Color Correction, Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "041554101133"
+      },
+      {
+        "key": "Model Number",
+        "value": "0041554101133"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "0041554101133"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Maybelline New York"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#5,751 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #67 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FYH15QDB"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Luminous"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.24 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.18 x 1.18 x 4.61 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Count"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 261,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "57%",
+        "fourStars": "17%",
+        "threeStars": "10%",
+        "twoStars": "7%",
+        "oneStars": "9%"
+      },
+      "customersSay": "Customers find the foundation's finish beautiful with an amazing glowy look, and appreciate its lightweight, seamless blendability. Moreover, the product receives positive feedback for its quality, with one customer describing it as a \"miracle in a bottle.\" However, the coverage and color match receive mixed reviews - while some say it looks like great skin, others report immediate patchiness, and many find the shade too dark. Additionally, customers disagree on the product's longevity, with some saying it lasts all day while others report it doesn't wear well. Dryness is also a concern, with multiple customers noting it leaves skin very dry.",
+      "aspects": [
+        {
+          "aspect": "Finish",
+          "count": 16,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 14,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 10,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 35,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color match",
+          "count": 23,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Dryness",
+          "count": 15,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 15,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61VwWp5u81L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/714k09p-ytL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81buz5z6VnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71DZm56W6hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61a20sflA3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613gVULPhVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/717hafdXYRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61tsAVLYDWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ftRBuv1xL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/710JrcyYPHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/715MgtM6HAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zR6zuSSOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Glowy foundation",
+          "reviewText": "You know what, this is really a nice foundation. Not too thick and not too heavy. Kind of melts on your face. Wears well. And you can't tell I'm wearing foundation. Leaves a nice glow too. I really like this foundation. Great dupe for Natasha Denona and the color match was much better.",
+          "reviewDate": "Reviewed in the United States on March 1, 2026",
+          "customer": "Susan N. Krubl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTJZFHT4RVPFHYOUS7XQTITJPSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220 WARM"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Absolutely beautiful.",
+          "reviewText": "This foundation is absolutely amazing and it has already become my favorite foundation out of all the ones I wear. I was skeptical to buy it because the reviews have been mixed. I think if you have oily skin, it seems that you probably won\u2019t like this one and apparently the shades are not that great, but for me personally , I have normal skin so this is absolutely beautiful on my mature skin. It feels so nice going on. It doesn\u2019t settle into any lines or wrinkles. It covers. It doesn\u2019t look like makeup and it doesn\u2019t feel like make up and the shade I got 118 does not oxidize on me. I did have to go down a few shades from my normal Maybelline shade numbers. I would recommend getting a shade 10 digits less than whatever you normally use in Maybelline fit me or Maybelline serum foundation.",
+          "reviewDate": "Reviewed in the United States on December 28, 2025",
+          "customer": "Beth",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFO3J2S6SQO5BXTPYGXHZENEYBVQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "118 WARM"
+          },
+          "helpfulVotes": "21 people found this helpful"
+        },
+        {
+          "reviewTitle": "Beautiful skin like finish not the coverage. A lot of women will need.",
+          "reviewText": "It is a beautiful foundation with a soft, natural finish. The coverage is light to light-medium\u2014maybe close to medium\u2014but it doesn\u2019t build beyond that. I get about six hours of wear, which is decent, but it doesn\u2019t last a full day for me . I\u2019m 52 with slight rosacea and normal skin, I needed a bit more coverage and staying power. If you have good skin and want a fresh, skin-like look, this would be lovely. If you need fuller coverage or all-day wear, it may not be the best fit.",
+          "reviewDate": "Reviewed in the United States on January 19, 2026",
+          "customer": "C. M.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFZM42NW7A4NZKBZEXJFSU7HV62Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "118 WARM"
+          },
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "Skin like foundation",
+          "reviewText": "I been looking for a foundation for my combination skin. I also don\u2019t like makeup that is heavy on my skin. This foundation is like my skin while covering my blemishes. A co-worker asked why my skin was glowing. This foundation is buildable but I like to have a thin layer and I still have \u201cgreat skin\u201d after all day of wearing it. My work requires a mask and this foundation stayed on longer than my old one. Doesn\u2019t have that ugly dryness at the nose like other foundation.",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Chau Tran",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEL6EM7MUEV272CJBXYNQKMYI2UQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "113 NEUTRAL"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "For a younger woman this is perfect. Four more mature women, not so much",
+          "reviewText": "I have mature skin. I'm 59 years old, and I've tried dozens of foundations. This one is just kind of middle of the road. It does settle in my fine lines after it's been on for about an hour. I would recommend this for a younger woman. It is silky and smooth and I love that part of it but it just is not a great choice for an older woman.",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Teri Frey",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEHA3Z75LA2A46TGSEISMHQLBAMA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "113 NEUTRAL"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Orange, orange, orange",
+          "reviewText": "I purchased 090 neutral with fair neutral combo skin. The finish of this after about six hours of light-activity wear without powder was gorgeous. It was perfectly glowy without looking greasy, and sat well over my dry patches. It was light, natural-looking coverage, which I prefer. Unfortunately, despite a great color match on application, it oxidized to be completely orange. In fact, it was an unwearable and clown-faced orange that I couldn\u2019t even tamp down with concealer. I understand and accept that some oxidation can occur, even in my favorite foundation (NARS Light Reflecting). But such an extreme change is ridiculous and disappointing. I couldn\u2019t believe the difference between the color of the bottle and what I was seeing on my face. Clearly this is an oversight in the formula since I chose a neutral / light shade. If you\u2019re tan, this could be a good foundation for you, but otherwise, steer clear.",
+          "reviewDate": "Reviewed in the United States on December 12, 2025",
+          "customer": "cwo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF7FN27MVB7LSNNAVCCKNSYCZPBQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "090 NEUTRAL"
+          },
+          "helpfulVotes": "29 people found this helpful"
+        },
+        {
+          "reviewTitle": "Pretty darn perfect",
+          "reviewText": "I bought this in color 102 because I had another that was too dark. Have a lite complexion that freckled in the old days. The pump dispenser means I need to be careful with how much I get of each but this worked out ok. I like the texture on my 75 year old skin. I do use a color corrector on my dark spots first & get really good coverage without looking heavy, It lasts all day too.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "BigFan In MO.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFO3E73O63EAV7SNE2EIXOYBLXNA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "102 NEUTRAL"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love",
+          "reviewText": "Love the coverage. Leaves my skin feeling smooth and hydrated. I have combo oily skin so I do need to set but it sits great under powder. It does oxidize a little but nothing too drastic.",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "mayra",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHAVJEITHEHTRBAZFBDKBK6PVWFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220 WARM"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great for Aged skin",
+          "reviewText": "I have very dry skin and this foundation is great, doesn't dry out my skin",
+          "reviewDate": "Reviewed in Canada on February 27, 2026",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "102 NEUTRAL"
+          }
+        },
+        {
+          "reviewTitle": "Loved for semi oily skin",
+          "reviewText": "I have a acne prone skin and was nerveous about trying this product. I have used it twice now and I love the texture and how it feels",
+          "reviewDate": "Reviewed in Canada on February 27, 2026",
+          "customer": "Paris",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "112 NEUTRAL"
+          }
+        },
+        {
+          "reviewTitle": "Good wear time",
+          "reviewText": "Good wear time and it does give the skin a nice healthy looking glow. My only complaint is that the shade range is pretty warm, the closest shade for my skin tone is a bit yellowish for me",
+          "reviewDate": "Reviewed in Canada on January 24, 2026",
+          "customer": "Lori",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "118 WARM"
+          }
+        },
+        {
+          "reviewTitle": "Not for my mature skin !",
+          "reviewText": "Not so good for my mature skin, settled in lines and wrinkles even with powder Coverage was light",
+          "reviewDate": "Reviewed in Canada on January 18, 2026",
+          "customer": "Jewelieb",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "112 NEUTRAL"
+          }
+        },
+        {
+          "reviewTitle": "Fantastic foundation!",
+          "reviewText": "Best foundation - love the sheen- skins feels and looks great- make-up applies easily and looks beautiful!",
+          "reviewDate": "Reviewed in Canada on March 27, 2026",
+          "customer": "Charming",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "115 COOL"
+          }
+        }
+      ]
+    }
+  }
+}

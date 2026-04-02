@@ -1,0 +1,419 @@
+{
+  "requestMetadata": {
+    "id": "b6ebc404-240c-4f50-b542-0bc3877f63a3",
+    "status": "ok",
+    "html": "https://files.hasdata.com/b6ebc404-240c-4f50-b542-0bc3877f63a3.html",
+    "json": "https://files.hasdata.com/b6ebc404-240c-4f50-b542-0bc3877f63a3.json",
+    "url": "https://www.amazon.com/dp/B07MDG1BGT"
+  },
+  "product": {
+    "asin": "B07MDG1BGT",
+    "url": "https://www.amazon.com/dp/B07MDG1BGT",
+    "title": "Black Radiance Color Perfect Foundation Stick with Soft Brush Applicator Duo \u2013 Buildable, Blendable Versatile Pigment-Rich Formula - Beautiful Bronze",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Beautiful Bronze",
+      "size": "0.25 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "SERVING FACE: Black Radiance Color Perfect Foundation Sticks have a pigment-rich foundation stick on one side & a soft brush applicator on the other side so your face makeup is always on point.",
+      "SCULPT & CONTOUR: Inspired by the contouring, shaping & shading trend, the Color Perfect Foundation Stick is the quintessential tool to help sculpt & add dimension to your face.",
+      "LOVE YOUR SHADE: For more than two decades, Black Radiance has pursued its vision to be the #1 trusted expert & resource for black beauty. We have a wide range of cosmetics for darker skin tones.",
+      "EMPOWERED BEAUTY: Black Radiance combines high style with the latest technology, offering exclusively formulated foundations, concealers, highlighters, eye & lip colors for a diverse range of skin tones.",
+      "BLACK BEAUTY MATTERS: We enable women of color around the world to be even more beautiful. Black Radiance highlights the strength & beauty of today\u2019s black women with a portfolio of luxurious, affordable cosmetics."
+    ],
+    "description": "SERVING FACE: Black Radiance Color Perfect Foundation Sticks have a pigment-rich foundation stick on one side & a soft brush applicator on the other side so your face makeup is always on point.",
+    "boughtInPastMonth": "600+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B07MNW521C",
+        "title": "Chocolate Dipped 0.25 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07MNW521C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bCyJmM8gL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07MNW2CV2",
+        "title": "Cocoa Bean 0.25 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07MNW2CV2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71m+puu9NCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07MDG1BGT",
+        "title": "Beautiful Bronze 0.25 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07MDG1BGT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71j0AivAHkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07M63SNBC",
+        "title": "Cappuccino 1 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07M63SNBC",
+        "imageUrl": "https://m.media-amazon.com/images/I/711hXMmpzQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07MNW51ZN",
+        "title": "Cashmere 0.25 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07MNW51ZN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+qLyCpeqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09QRKM7ZK",
+        "title": "Espresso 0.25 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09QRKM7ZK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71EY3jK3FSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07M63S81Z",
+        "title": "Bronze Glow 0.25 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07M63S81Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/71mfu+CDdIL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 10.99,
+      "beforePrice": 10.99,
+      "discount": "-5%",
+      "priceFrom": 10.99,
+      "otherOfferQuantity": 4
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 12 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/71j0AivAHkL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71j0AivAHkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61fJjiy8JfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71pcju5MjYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81wobf2AaSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71myUtifFjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61yOPxoYNGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71njzckPLEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GDOU2U18L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ba6754a-c26d-4b76-9875-e5f9a00ab61c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f96d1c46-c400-4ce8-9f6f-23f34fd23999.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/89b73c19-2d42-41fd-bf89-d7e3f4294cfd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/450c4577-d7c3-4539-8aca-35e8bd7e67e2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2fc71f83-75bb-4232-a18e-33ecc6060424.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/67ac9d93-390d-4f2c-bc48-6fcc26234962.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/67ac9d93-390d-4f2c-bc48-6fcc26234962.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02812952-4ac4-4f2a-adb3-45ec67d6d85d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Stick"
+      },
+      {
+        "key": "Color",
+        "value": "Beautiful Bronze"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Black Radiance"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Deep"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult, Teen"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00077802647573"
+      },
+      {
+        "key": "UPC",
+        "value": "077802647573"
+      },
+      {
+        "key": "Model Number",
+        "value": "6822"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "GP-BUTTY13776"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Markwins Beauty Brands"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Foundation Stick"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#8,991 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #99 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07MDG1BGT"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not-Applicable"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Cream"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.01 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.99 x 1.03 x 4.41 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Count"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 6263,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "64%",
+        "fourStars": "15%",
+        "threeStars": "10%",
+        "twoStars": "5%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this foundation stick to be of good quality, with excellent coverage and ease of application. The product blends well, particularly with bronze skin, and customers appreciate its value for money. The color and texture receive mixed feedback - while some find the color perfect and the texture smooth, others mention the color being too red and the product feeling heavy on the face.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 79,
+          "status": "positive"
+        },
+        {
+          "aspect": "Contouring",
+          "count": 58,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 54,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 50,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 43,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 42,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 149,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 67,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61kr5fCjBnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61jQw4tjcOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61+I9quLz5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71w7PsI2sxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61POfRzE8FL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71i-Zbkf6DL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qrydL-WyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61PJTSmpmUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61MT4B2eLnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61grK8ywT+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71sGTIHzR1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61E1As6pNqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Liked! Color is not easy to match",
+          "reviewText": "Liked the consistency but if you have uneven skintone it's hard to match",
+          "reviewDate": "Reviewed in the United States on March 9, 2026",
+          "customer": "Mimi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4XUSUHAS35ENDK6TTMZLLB6TJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Cocoa Bean",
+            "size": "0.25 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Color",
+          "reviewText": "Quality, color excellent!",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Rita",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGWGSXSVV7OXEVWLUOGWDKC3RYPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Cashmere",
+            "size": "0.25 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Skin care",
+          "reviewText": "This Black Radiance Color Perfect Foundation Stick gives smooth, natural coverage that blends easily. It feels lightweight, doesn\u2019t cake, and matches my skin tone perfectly. Great for everyday wear!",
+          "reviewDate": "Reviewed in the United States on January 11, 2026",
+          "customer": "Shamarah Joseph",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZV74YUDN4FCUIXNZWWP7EBDYIQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Bronze Glow",
+            "size": "0.25 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good coverage!",
+          "reviewText": "This makeup is great ! Covers well easy to apply",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "dawn jackson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AERBUXPFVMGOU2VOLZK3AOZ4OFHQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Cashmere",
+            "size": "0.25 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Decent foundation that will probably arrive damaged.",
+          "reviewText": "It is a nice product, but came damaged. The foundation came cracked and stuck to the lid, and when the lid was removed, the stick snapped right off and then split into different pieces and made a mess. Consistency is a little weird too - a shard of foundation fell out of it (because it was a mess when it opened) and didn't realize it had gotten on my jeans. I looked down and a whole clump had come out and smeared itself everywhere, but there was still a chunk there. After warming up a bit, it had the consistency of like....playdoh. A little strange for foundation. I have a replacement coming because I reported it damaged on here, but the fact that it originally came this way tells me that the way it is packaged or created has a flaw, because makeup should never arrive in that condition, not if it is a high quality item made well and with care. So while the color seems fine and it works as a foundation stick should......it really has no business being that beat up on arrival - having to get replacements sent days later and send back the item to not get charged again all because they can't ship well doesn't make it a fun purchase.",
+          "reviewDate": "Reviewed in the United States on February 15, 2025",
+          "customer": "Anthony S.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGXJU2ZBGMCCTBSPYM3UFL6ENHIA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Chocolate Dipped",
+            "size": "0.25 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best makeup!",
+          "reviewText": "Perfect for my complexion! Absolutely the best affordable as well",
+          "reviewDate": "Reviewed in the United States on January 30, 2026",
+          "customer": "TJ",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBFDOH6KHCSHTXO773AQQDYYCLA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Cashmere",
+            "size": "0.25 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Best foundation on the market for women of colour!",
+          "reviewText": "Perfect shade. Goes on easy and looks natural. Light a d non greasy. Excellent quality. Worth every penny! I will definitely be a repeat customer.",
+          "reviewDate": "Reviewed in the United States on December 16, 2025",
+          "customer": "Buyer in Jamaica.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGVSSNEBOGLAY5EHUHTOOX6U6I3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Beautiful Bronze",
+            "size": "0.25 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Feels Stiff But Works",
+          "reviewText": "Blends in very nicely, even has a cute little brush at the other end which really helps blend. It does feel a little hard and stiff but once on your face it warms up and blends.",
+          "reviewDate": "Reviewed in the United States on December 19, 2025",
+          "customer": "T",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHBAYYDU5TLSC2FVGT3NUKCONOVQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Cocoa Bean",
+            "size": "0.25 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Worst product and total waste of money!! Don't buy",
+          "reviewText": "The worst foundation ever, the colour specified in the description didn't match the actual colour of the product when received. I returned it as the colour was off, foundation was smeared all over when received. Its a total waste of money. I have returned the product but the seller has bluntly refused to refund me:-(",
+          "reviewDate": "Reviewed in Australia on March 25, 2025",
+          "customer": "Elsie",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Bronze Glow",
+            "size": "0.25 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

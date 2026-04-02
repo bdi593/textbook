@@ -1,0 +1,502 @@
+{
+  "requestMetadata": {
+    "id": "21e352f6-1ec1-4b7f-9d24-cea3102a6afd",
+    "status": "ok",
+    "html": "https://files.hasdata.com/21e352f6-1ec1-4b7f-9d24-cea3102a6afd.html",
+    "json": "https://files.hasdata.com/21e352f6-1ec1-4b7f-9d24-cea3102a6afd.json",
+    "url": "https://www.amazon.com/dp/B001MS7HFK"
+  },
+  "product": {
+    "asin": "B001MS7HFK",
+    "url": "https://www.amazon.com/dp/B001MS7HFK",
+    "title": "Neutrogena Healthy Skin Liquid Foundation Makeup with Broad Spectrum SPF 20 Sunscreen, Lightweight, Medium Coverage Makeup with Sunscreen and Pro-Vitamin B5, Natural Ivory 20, 1 fl. oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "020 Natural Ivory",
+      "size": "1 fluid ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "Neutrogena Healthy Skin Liquid Makeup Foundation with SPF 20 in 1 Fl. Oz. delivers natural-looking, even coverage while helping protect against sun damage and nourishing skin with Pro-vitamin B5 and antioxidants",
+      "This lightweight makeup foundation provides medium coverage and features Pro-Vitamin B5 and antioxidants to support healthy-looking skin, making it suitable for normal to dry skin types",
+      "Made with broad spectrum SPF 20 sunscreen with titanium dioxide and UVA/UVB protection to help prevent sunburn and signs of early aging when used as directed with other sun protections measures",
+      "Formulated with a blend of antioxidants, including Pro-Vitamin B5, to help nourish skin & keep skin looking radiant while providing medium makeup coverage",
+      "Neutrogena\u2019s face foundation blends skin-enhancing makeup with daily sunscreen protection for smooth, healthy-looking skin\u2014perfect for your everyday beauty routine"
+    ],
+    "description": "Product Description Neutrogena Healthy Skin Liquid Makeup Foundation with Broad Spectrum SPF 20 Sunscreen and Pro-Vitamin B5 provides skin-enhancing coverage with sun protection in every application. This lightweight, nourishing liquid foundation makeup helps visibly even skin tone while defending against harmful UVA/UVB rays with titanium dioxide sunscreen. The Healthy Skin Liquid foundation formula contains a blend of antioxidants which help protect skin from environmental stressors and Pro-Vitamin B5 to nourish skin. Its non-greasy formula supports a healthy-looking and youthful glow that visibly evens skin tone while combining the nourishing benefits of Pro-Vitamin B5. This lightweight, medium coverage foundation makeup blends seamlessly, leaving skin looking naturally radiant. Use this foundation with sunscreen as a part of your daily beauty routine to create any desired look while helping to protect your skin from the sun. Brand Story By Neutrogena Cosmetics",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B001MS7HH8",
+        "title": "060 Natural Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HH8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TRAwN0TLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0711BB129",
+        "title": "40 Nude 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0711BB129",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AlyXiMDcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MS7HF0",
+        "title": "010 Classic Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HF0",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wCtAQrfOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BS5TPGBN",
+        "title": "060 Natural Beige 1 fluid ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BS5TPGBN",
+        "imageUrl": "https://m.media-amazon.com/images/I/7106aqxOAAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MS7HGE",
+        "title": "040 Nude 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HGE",
+        "imageUrl": "https://m.media-amazon.com/images/I/61YG05KgZuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MS7HHI",
+        "title": "070 Fresh Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HHI",
+        "imageUrl": "https://m.media-amazon.com/images/I/614BoLQCFFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MS7HIW",
+        "title": "100 Natural Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HIW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Zo8DflDPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01BZOMWY6",
+        "title": "Chestnut 0.5 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B01BZOMWY6",
+        "imageUrl": "https://m.media-amazon.com/images/I/718siRHuohL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MS7HFU",
+        "title": "030 Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HFU",
+        "imageUrl": "https://m.media-amazon.com/images/I/617-lc6BntL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MS7HFK",
+        "title": "020 Natural Ivory 1 fluid ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HFK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tH3L8+hGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MS7HGO",
+        "title": "050 Soft Beige 1 fluid ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HGO",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ju9JXgqBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MS7HIC",
+        "title": "Warm Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HIC",
+        "imageUrl": "https://m.media-amazon.com/images/I/711lHTc6e9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CW7D4Y36",
+        "title": "080 Medium Beige 1 fluid ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CW7D4Y36",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rQm2gOktL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MS7HI2",
+        "title": "080 Medium Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001MS7HI2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fM3LmAOmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01BZOMWKA",
+        "title": "115 Cocoa 1 fl oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B01BZOMWKA",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eiXa8cVPL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.99,
+      "beforePrice": 11.97,
+      "discount": "-25%",
+      "priceFrom": 5.84,
+      "otherOfferQuantity": 4
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 18,
+    "primaryImage": "https://m.media-amazon.com/images/I/61tH3L8+hGL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61tH3L8+hGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71QGkVaeeJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KrE73xgKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pLUBizECL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71fAounTEbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/817ZF5VudjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SCv0iswIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PZAJAK1QL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cg3MPcUPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ZZuHXAseL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8139birVW+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KYpIUYD0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61GDGHzgv-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61oHopJjwiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HOKa08ZwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bQRZ65fzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Y3L+4s0SL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ai8CYxvWL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/530c6a38-4dc0-4e6b-ba7e-26247f04702b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9952bb82-44ab-4518-bfea-dc382d77d436.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a79fdef-b056-444e-b3d5-28b6187ba693.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b1ef15a-c92e-4e14-890e-0214530cd347.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d5e53a9-66c2-42b9-a8da-8465192552ed.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aaa758f3-b666-4642-872e-6b4788f64d0e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "020 Natural Ivory"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup,Makeup Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Neutrogena"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Benefits: Our silky, lightweight formula provides flawless makeup coverage for a perfectly natural look. The Broad Spectrum SPF 20 formula, with an exclusive antioxidant blend, works to visibly improve luminosity, tone and texture for healthier looking skin."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00086800670025"
+      },
+      {
+        "key": "UPC",
+        "value": "086800670025"
+      },
+      {
+        "key": "Model Number",
+        "value": "686700200"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "86800670025"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Kenvue"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#3,166 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #38 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B001MS7HFK"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "20 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.14 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "6 x 5 x 4 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "29.57 Milliliters"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 8135,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "12%",
+        "threeStars": "7%",
+        "twoStars": "3%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this foundation to be of good quality, with smooth application and even coverage that evens out skin tone. The product works well for sensitive skin and doesn't clog pores or enhance wrinkles, while leaving a nice even finish. The color match receives mixed feedback - while some say it matches their skin tone well, others find it darker than expected. The foundation's longevity is also mixed, with some saying it lasts all day while others report losing product.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 251,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 204,
+          "status": "positive"
+        },
+        {
+          "aspect": "Oiliness",
+          "count": 147,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 112,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 108,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 97,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 223,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 115,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71RiRk5e4qL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71xMRBkhT1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61yzB5tBiAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/617TNl0RktL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sp2vu4oTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wRVT-9JXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41BzeNEMmrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81bgV5X7eML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61zoKz+1ZDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71aiKt+OauL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/712O3EyCI0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61LDNgrFOoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "It\u2019s so good \ud83d\ude0a",
+          "reviewText": "\u201cI\u2019ve been using the Neutrogena Healthy Skin Liquid Makeup for a while now, and I\u2019m really impressed. The formula is lightweight, non-greasy, and glides on so smoothly for a flawless, natural finish. It evens out my skin tone beautifully and gives my skin a healthy glow without feeling heavy. I also love that it has broad-spectrum SPF 20 for daily sun protection. With ingredients like vitamin E, feverfew, and soy, my skin actually looks better even after I take it off. It feels more like skincare than makeup, and it\u2019s perfect for everyday wear.",
+          "reviewDate": "Reviewed in the United States on December 15, 2025",
+          "customer": "Gina",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH6OGBKJVICWTRXVILQHOFILCA7A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "060 Natural Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Very nice, light foundation. Excellent.",
+          "reviewText": "Have worn this for years. Very light but great coverage. Approve!",
+          "reviewDate": "Reviewed in the United States on February 21, 2026",
+          "customer": "L. Watty",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGDJCTEXOLYKEUDPM6Q7L5WE6HPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "050 Soft Beige",
+            "size": "1 fluid ounce (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best foundation!",
+          "reviewText": "The perfect combination of skincare and makeup in one.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Nubia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGUITB7MYMIPMHQIMP5IYIB6PIDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "080 Medium Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Feels smooth",
+          "reviewText": "I like the feel of this on my skin. Just the right shade for me and not chalky.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "A. Harrison",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGB6RVC2QAKYKVOEIXW2YQBQIUTA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "080 Medium Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "One of the best foundations I\u2019ve used, even when compared to upscale brands!",
+          "reviewText": "I previously used Neutrogena\u2019s Hydro Boost hydrating tint in the shade nude 40 and it instantly became my favorite light coverage foundation. When I recently ran out, I couldn\u2019t go to the store to buy another one so I decided to look for it on Amazon. I came across this foundation and decided to buy this one instead as it was cheaper and has SPF 20, unlike the hydrating tint. It arrived sooner than expected and in perfect condition. I used it the same day for work, and instantly it became my new favorite foundation! I like it even better than upscale brands I\u2019ve used previously such as Est\u00e9e Lauder, Clinique, Laura Mercier and so on. This foundation does it all, flawless coverage without any \u2018heavy\u2019 feeling or even feeling like you\u2019re wearing foundation, lasts all day without needing to be retouched, doesn\u2019t rub off or stain my clothes if I wear sweatshirts, my mask for work or such, and best of all doesn\u2019t break out my sensitive skin! I have sensitive as well as oily skin, so many foundations tend to be a bad fit for me and especially with cheaper makeup. It works perfectly and I will most certainly continue buying this product as it is now my go to foundation. My only sole complaint would be the shade is a little different from the Hydro Boost tint, but I\u2019m assuming it\u2019s due to it being a tint/lighter rather than a higher coverage foundation. It still fits my skin color, it\u2019s just a wee bit darker and all I have to do is blend it in more and use less which I don\u2019t mind at all! Overall, one of the best foundations I\u2019ve ever used and highly recommend trying/purchasing this! For the price and quality, it is very hard to beat this deal.",
+          "reviewDate": "Reviewed in the United States on April 23, 2020",
+          "customer": "Lauren Nicole \ud83d\udc9f",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFDSXCZBUH4ZNCEFVLYCVS45RBQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "040 Nude",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "28 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect on a budget!",
+          "reviewText": "My favorite non-expensive makeup. What more can I say except it goes on easy and there are enough shades for everyone, and every season. The texture is perfect, not too thick and not too thin.",
+          "reviewDate": "Reviewed in the United States on February 3, 2026",
+          "customer": "MCrystal",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEFN7LGG5PCUEXNDS6ZI4UJKKM6Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "060 Natural Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not for fair or light skin tones",
+          "reviewText": "I really want to like this foundation because it goes on really well it looks very natural and it doesn't clog my sensitive skin or cause any bad reactions. However it is not usable for anybody with pale or even just light skin. Even the lightest formulation number 10 is too dark and definitely has a yellow undertone which does not work for me. If I go up to 20 it has the pink undertone that I need but it is even darker and will oxidize a little bit orange so it's like I'm trying to apply fake tan. For reference I am quite pale but I have rosacea so I'm not even trying to match my actual skin tone I'm just trying to tone down the red and it is still too dark. Neutrogena is generally light skin friendly so I'm guessing there's something with the sunscreen that is skewing the color. If you have pale skin just skip this product and try something else.",
+          "reviewDate": "Reviewed in the United States on July 3, 2025",
+          "customer": "SandraKat",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVUTCN6HQMXWLBDB7WO4DXBO64Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "010 Classic Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "22 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lucky choice perfect.",
+          "reviewText": "Finally after many tries this one works great quality great match, this will be a repurchase for sure.",
+          "reviewDate": "Reviewed in the United States on February 21, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEN5QPXOZUJY2YDOSECXFCXWHI2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "020 Natural Ivory",
+            "size": "1 fluid ounce (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice, natural coverage",
+          "reviewText": "I'm really happy with this foundation (Ivory 20). I was a bit skeptical when I opened the box, as the colour looked a bit too dark for me but it's actually a perfect match. It's very lightweight coverage and doesn't look or feel cakey on my skin. I do wish the bottle had a pump, but other than that it's great. Will definitely be ordering more.",
+          "reviewDate": "Reviewed in Canada on July 30, 2021",
+          "customer": "Bridgette",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "020 Natural Ivory",
+            "size": "1 fluid ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "The skin color also covers my scars, which also look so natural",
+          "reviewText": "It's amazing, I've used it for the last 5 years!",
+          "reviewDate": "Reviewed in the United Kingdom on March 19, 2026",
+          "customer": "Alexis Hernandez",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "040 Nude",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Superb",
+          "reviewText": "The very best foundation I have ever had!! shall be buying more!! would recommend over and over soooooo smooth. I used buff and it is great on my fair skin.",
+          "reviewDate": "Reviewed in the United Kingdom on April 27, 2021",
+          "customer": "Isobel Flanagan",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "030 Buff",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

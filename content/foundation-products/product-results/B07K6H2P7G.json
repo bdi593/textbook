@@ -1,0 +1,434 @@
+{
+  "requestMetadata": {
+    "id": "5f227864-a7b0-4d95-958b-6df9984d1152",
+    "status": "ok",
+    "html": "https://files.hasdata.com/5f227864-a7b0-4d95-958b-6df9984d1152.html",
+    "json": "https://files.hasdata.com/5f227864-a7b0-4d95-958b-6df9984d1152.json",
+    "url": "https://www.amazon.com/dp/B07K6H2P7G"
+  },
+  "product": {
+    "asin": "B07K6H2P7G",
+    "url": "https://www.amazon.com/dp/B07K6H2P7G",
+    "title": "Amazon Basics Smart Box Spring Bed Base, 5-Inch Height Mattress Foundation, Tool-Free Easy Assembly, Metal Support, Full, 74\" x 53\"",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "Full(74\"L x 53\"W)",
+      "style": "5-Inch Height"
+    },
+    "featureBullets": [
+      "COMFORT AND SUPPORT BOOST: Enhances mattress comfort and stability",
+      "VERSATILE MATTRESS COMPATIBILITY: Supports all mattress types - spring, memory foam, latex and hybrid",
+      "IMPRESSIVE WEIGHT CAPACITY: Twin size supports 350 lbs, Full, Queen, King & California King sizes hold up to 700 lbs total (350 lbs per person max for all sizes)",
+      "EASILY SETUP: Tool-free, interlocking design assembles in minutes",
+      "ROBUST DUARABLE STEEL CONSTRUCTION: Durable frame with horizontal slats for strong mattress support",
+      "EASY-CLEAN DESIGN: Removable two-piece zip cover for convenient spot cleaning",
+      "Product Dimension: 74\"L x 53\"W x 5\"H (Length x Width x Height)"
+    ],
+    "description": "Product Description An Amazon Brand. From the Manufacturer Amazon Basics, this product may originate from [China] or [Vietnam]",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": true,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Home & Kitchen",
+      "Furniture",
+      "Bedroom Furniture",
+      "Mattresses & Box Springs",
+      "Box Springs"
+    ],
+    "variants": [
+      {
+        "asin": "B07K6H8K68",
+        "title": "Twin(74\\\"L x 38\\\"W) 5-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6H8K68",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B07K6H8618",
+        "title": "Queen(79\\\"L x 59.5\\\"W) 5-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6H8618",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B082T8Q8RS",
+        "title": "Twin(74\\\"L x 38\\\"W) 7-Inch Height",
+        "url": "https://www.amazon.com/dp/B082T8Q8RS",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Mxknzr1hL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B07K6HF9HK",
+        "title": "Full(74\\\"L x 53\\\"W) 9-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6HF9HK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B07K6F77TW",
+        "title": "Twin(74\\\"L x 38\\\"W) 9-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6F77TW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B07K6JBRKS",
+        "title": "California King(83\\\"L x 71\\\" W) 5-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6JBRKS",
+        "imageUrl": "https://m.media-amazon.com/images/I/81bJoOaBzYL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B07K6MP2SL",
+        "title": "King(79\\\"L x 75.5\\\"W) 9-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6MP2SL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B082T8214X",
+        "title": "California King(83\\\"L x 71\\\" W) 7-Inch Height",
+        "url": "https://www.amazon.com/dp/B082T8214X",
+        "imageUrl": "https://m.media-amazon.com/images/I/414aFCiqgsS._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B07K6JF1Y8",
+        "title": "California King(83\\\"L x 71\\\" W) 9-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6JF1Y8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B07K6H8MBV",
+        "title": "Queen(79\\\"L x 59.5\\\"W) 9-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6H8MBV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B07K6H2P7G",
+        "title": "Full(74\\\"L x 53\\\"W) 5-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6H2P7G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B082T8HXS5",
+        "title": "King(79\\\"L x 75.5\\\"W) 7-Inch Height",
+        "url": "https://www.amazon.com/dp/B082T8HXS5",
+        "imageUrl": "https://m.media-amazon.com/images/I/414aFCiqgsS._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B082T8D9XC",
+        "title": "Queen(79\\\"L x 59.5\\\"W) 7-Inch Height",
+        "url": "https://www.amazon.com/dp/B082T8D9XC",
+        "imageUrl": "https://m.media-amazon.com/images/I/414aFCiqgsS._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B082T8QCZS",
+        "title": "Full(74\\\"L x 53\\\"W) 7-Inch Height",
+        "url": "https://www.amazon.com/dp/B082T8QCZS",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EP0BxLmzL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B07K6F34M7",
+        "title": "King(79\\\"L x 75.5\\\"W) 5-Inch Height",
+        "url": "https://www.amazon.com/dp/B07K6F34M7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 86,
+      "beforePrice": 86,
+      "discount": "-6%",
+      "priceFrom": 79.92,
+      "otherOfferQuantity": 3
+    },
+    "condition": "Buy new",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 11 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "stockWarning": "Only 1 left in stock - order soon.",
+    "returns": "FREE 90-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61bt76FjI0S._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jk6bqZXcL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81v-o141CYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Jouvi6GdL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6191f5hRWoS._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71nBHEK7XdS._AC_SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/98924de9-3267-4fd7-b28d-849f409f0107.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/98924de9-3267-4fd7-b28d-849f409f0107.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e888793c-925f-4b09-a88f-dfdf526d50c2.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c9d39ff6-a4a5-4c5d-8e08-382a234f6a1b.mov/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5396384b-e829-4e61-8a8d-c51d919f5ce5.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c9069283-655e-41df-b3e2-03c691a8ad85.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Size",
+        "value": "Full(74\"L x 53\"W)"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "74 x 53 x 5 inches"
+      },
+      {
+        "key": "Item Weight",
+        "value": "31.9 Pounds"
+      },
+      {
+        "key": "Material Type",
+        "value": "Metal"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Required Assembly",
+        "value": "Yes"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Amazon Basics"
+      },
+      {
+        "key": "UPC",
+        "value": "190517873812"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00190517873812"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Amazon"
+      },
+      {
+        "key": "Model Number",
+        "value": "AMZ-5KDBS-F2"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "AMZ-5KDBS-F2VN"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Durable"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "box-springs"
+      },
+      {
+        "key": "Included Components",
+        "value": "Screw"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#412 in Our Brands (See Top 100 in Our Brands) #1 in Box Springs"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07K6H2P7G"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 37978,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "74%",
+        "fourStars": "11%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find the box spring easy to assemble and appreciate its quality, with one noting it's better than wooden alternatives. The foundation is sturdy, with one customer mentioning it supports up to 180-185lbs, and customers consider it well worth the price. While some say it fits perfectly, others report issues with the cover being too tight. Durability receives mixed feedback - some say it holds up great while others report it breaking in multiple places. Noise levels are also mixed, with some customers reporting no squeaks while others mention hearing squeaking noises.",
+      "aspects": [
+        {
+          "aspect": "Assembly",
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "status": "positive"
+        },
+        {
+          "aspect": "Sturdiness",
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 865,
+          "status": "positive"
+        },
+        {
+          "aspect": "Ease of use",
+          "count": 698,
+          "status": "positive"
+        },
+        {
+          "aspect": "Fit",
+          "count": 788,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Durability",
+          "count": 675,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Noise",
+          "count": 453,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71Akt-QIx1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/31gna0yu9EL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/612e00PF-fL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gDFPr1DWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81hKwlHLDKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81YuSacbHKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91it4xcsPOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71OUf8epfXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/815r8S+Bf1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91vylhAqkPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71AHD1T+a-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Xnh2wRUrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Worth the money!",
+          "reviewText": "Wow! Just wow! I had low expectations for self-assembly box springs from Amazon. I was so wrong. We ordered a king and a queen. Instructions were provided, but we hardly used them. It was pretty obvious where everything goes. It was easy to assemble them and they are well-made and sturdy.",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Lisa Linville",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH7NBXORPUQ4HSRFBX6OT72OMZDQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "King(79\"L x 75.5\"W)",
+            "style": "9-Inch Height"
+          }
+        },
+        {
+          "reviewTitle": "Very good quality",
+          "reviewText": "This box spring was so easy to put together with no tools needed. Everything fit together easily including the cover that came with. It is very sturdy and provides good support for my foam mattress. Very good product at a good price.",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "Karen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGCOLXAIQKWJQZJ4H4K7OQZOG7QQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Twin(74\"L x 38\"W)",
+            "style": "5-Inch Height"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great buy!",
+          "reviewText": "Very easy to put together, no screws. The box spring is sturdy yet light weight making it easy to move around. The box spring also fit my queen sized bed perfectly. Delivery was quick! Almost felt like same day delivery considering I ordered this late last night! Thank you! Thank you!",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Diamond Willis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEP6HQMGRUNSJFFEFWY6LVEFUL5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Queen(79\"L x 59.5\"W)",
+            "style": "9-Inch Height"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Box spring metal base",
+          "reviewText": "This was pretty easy to put together. Of course, mt husband put it together in less than 10 minutes without even looking at the instructions (corrections if need be.) The cover that you have to unzip and then wrangle on, did take about another 10 t0 15 minutes. I am pretty impressed with the design and build of the metal framework. There isn't much to mess up putting it together. It seems much easier and looks stronger than the other metal ones that I have tirelessly researched before deciding on this one. It is a tight fit into the metal bed frame, and I hope that helps keep everything even sturdier. I hope that this lasts. We haven't really used this as it's for the guest bedroom. I will update if there are any problems in the future.",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "dinodirt",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEUXTSFWJ7642JNWL4DCE36EGVFQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "Full(74\"L x 53\"W)",
+            "style": "7-Inch Height"
+          }
+        },
+        {
+          "reviewTitle": "Well made",
+          "reviewText": "Well made and perfect height. Easy assembly. Cover itself is worth it.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Lisa Cattaneo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFJGNFQ3NWYRQP4ZSGOVOMGXVJMA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Queen(79\"L x 59.5\"W)",
+            "style": "5-Inch Height"
+          }
+        },
+        {
+          "reviewTitle": "Suuuuuper Easy To Assemble, Sturdy",
+          "reviewText": "This box spring was super easy to put together, arrived in one box, and does the job well. I had no idea one could assemble one's own box spring! Price was great, too.",
+          "reviewDate": "Reviewed in the United States on March 9, 2026",
+          "customer": "J. Dennis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEAVCOZEUOY6WCECJEZFBQKGGVAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Full(74\"L x 53\"W)",
+            "style": "5-Inch Height"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Failed completely at 4 months. weak metal, small poor spot welds.",
+          "reviewText": "2 small girls share this bed,. 1 is 120 lbs, the other is 100lbs. We purchased a new mattress and this box support 4 months ago for the existing queen frame in their room. we also were replacing the traditional spring mattress with a hybrid so we changed support style to steel slat box to give firmer coverage to the mattress design as recommended by the mattress mfr. If you look at the 3rd photo in the ad, where the steel frame is being assembled by a hand inserting 1 of the rods, you can catch an inward curve of the side of the outer rails both upper and lower edge. This true on mine as well and ended up becoming the 1st issue. the corners measured fine and went to the proper measurement for our queen base, and sit perfectly square on the bed frame, but the middle on 1 side rolls inward, narrowest was a full centimeter narrower than the corners. This got worse over time and eventually let the box slip off the frame when it began to flex the 2nd or 3rd month we had it in use (after the 30 day return had ended). I eventually remeasured, and yes it had lost several more millimeters from flexing. So I ended up bending the frame of the bed on the side to give additional support. That helped for a couple of months. yesterday, 1 corner of the bed dropped 4 inches or so from the corner to the middle of the bed, the other 3 stayed at height. one of the girls was sitting on that corner putting on her boots and it just suddenly DROPPED she said. I flipped up the mattress and removed the box cover. The upper and lower rails of the frame are pre-made with support ribs every foot or so to give it strength and maintain rigidity. 3 of the bars on the collapsed corner had broken their spot welds, and the cause of this was the premade corner joint metal had flexed and broken and you can see the weld was poor so the corner was weak and eventually gave way. This is not due to excess weight, or kids playing bounce games on the bed. It was used by 2 slender teenage sisters with a total weight of 220 lbs, the frame is rated at over 600. The only reason this happened is the welds could not withstand the on and off application of weight and flexed till they broke. since the corner holds the angle and shape integrity, once it broke the supports ribs then had to absorb the now moving rail spacing and eventually their welds cracked. Steel that is rated over 600lbs needs to be durable enough to hold 220 lbs forever, not measured to not collapse with 600 for 10 seconds and then claim \"Hold 600 lbs!\". Less than 225 lbs over 4 months bent it more which should not happen even if it started slightly curved, it bent more over time because the weak metal flexed stressing the weld joints till they physically cracked likely 1 at a time. It simply isnt a sturdy or high quality piece. It was curved when it arrived. I addressed that by making the frame cirve to make sure it didnt have a less supported rail on 1 side. The 2 months later the welds cracked on 1 corner. I dont even want to warranty it after seeing how it failed. , I expect the same issues will repeat. I assembled it myself, and noticed the slight curve even when I put it together. but the bed frame still had a grip on the box enough it looked like it wasnt perfect but should manage. I liked the high star rating which is why I bought it. Thousands of purchases. However I am a mechanic by trade, with a welding certification and 30 years experience. I do not want this frame again. It has inherent weaknesses in its construction quality that wont affect it for everyone when new, but will make it fail earlier than needed even if you get a better one than the defective one I apparently got. You get what you pay for. There is a reason this box support is 100 dollars cheaper than many of its competitors.",
+          "reviewDate": "Reviewed in the United States on October 8, 2023",
+          "customer": "Kelly M. Garvey",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBVBFDXKQOZEK3RMH2XIOXCSKVQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "Queen(79\"L x 59.5\"W)",
+            "style": "7-Inch Height"
+          },
+          "helpfulVotes": "178 people found this helpful"
+        },
+        {
+          "reviewTitle": "Quick & Easy",
+          "reviewText": "Was able to put this together myself, directions can get confusing but you will figure it out (common sense), no tools required, sturdy, quick to put together",
+          "reviewDate": "Reviewed in the United States on March 3, 2026",
+          "customer": "Megan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHURWOBWESYFG6YATVG5LSY75JAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "King(79\"L x 75.5\"W)",
+            "style": "5-Inch Height"
+          }
+        },
+        {
+          "reviewTitle": "top quality",
+          "reviewText": "best Spring box you can buy",
+          "reviewDate": "Reviewed in the United Arab Emirates on October 7, 2024",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Queen(79\"L x 59.5\"W)",
+            "style": "7-Inch Height"
+          }
+        },
+        {
+          "reviewTitle": "Excellent Value. I can reccomend this box spring.",
+          "reviewText": "It was very easy to put together. You don\u2019t need any tools. Wr organized it on our living room floor and then carried the frame up the stairs to the bedroom, without the 10 crossbars in place. It was lighter and we didn\u2019t want them falling out. A couple of thr crossbars were hard to put it. One of them my husband had to take the little \u201cinsert\u201d out of the end to get it to fit. Thr most difficult part was the cover. It has to be tight but it\u2019s quite difficult to get the last corner in. We kept zipping it up and the zipper came apart. In the end we both pulled in the fabric and the corner fabric popped into place and the cover fits perfectly. I think it would need two people to get the cover on. It makes the box spring look professional. Very good quality. I would recommend it.",
+          "reviewDate": "Reviewed in Canada on February 16, 2026",
+          "customer": "Liz williams",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Full(74\"L x 53\"W)",
+            "style": "5-Inch Height"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "requestMetadata": {
+    "id": "574b8a5f-b4f6-4a5c-9bb9-5516bcd4ff7c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/574b8a5f-b4f6-4a5c-9bb9-5516bcd4ff7c.html",
+    "json": "https://files.hasdata.com/574b8a5f-b4f6-4a5c-9bb9-5516bcd4ff7c.json",
+    "url": "https://www.amazon.com/dp/B0CVB75YW4"
+  },
+  "product": {
+    "asin": "B0CVB75YW4",
+    "url": "https://www.amazon.com/dp/B0CVB75YW4",
+    "title": "Clinique Acne Solutions Liquid Foundation Makeup With Salicylic Acid For Dry Combination to Oily Skin Types | Medium Coverage, Natural Matte Finish",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "AD Ivory CN 28"
+    },
+    "featureBullets": [
+      "SALICYLIC ACID\u2013POWERED FOUNDATION MAKEUP: Helps treat and prevent acne with 0.5% USP grade salicylic acid. Oil-free formula controls shine all day.",
+      "FACE MAKEUP WITH LACTOBACILLUS FERMENT: A post-biotic technology that helps visibly reduce irritation to help promote a balanced microbiome.",
+      "WORKS HARD, LOOKS NATURAL: Liquid foundation covers blemishes with 24-hour wear and a natural matte finish. In a range of shades for your perfect match.",
+      "CLINICAL EXPERTISE: Allergy tested. 100% fragrance free. Dermatologist tested. Non-acnegenic. Ophthalmologist tested.",
+      "BUILT ON DERMATOLOGICAL SCIENCE: As a dermatologist-guided brand, Clinique\u2019s commitment to safety starts with skincare science. We partner with the best minds in dermatology and formulate for all skin types, tones, concerns\u2014in service of all skin."
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0CVB9PL36",
+        "title": "AC Alabaster CN 10",
+        "url": "https://www.amazon.com/dp/B0CVB9PL36",
+        "imageUrl": "https://m.media-amazon.com/images/I/61MRzPApmIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB8LL4Z",
+        "title": "AF Cream Chamois CN 40",
+        "url": "https://www.amazon.com/dp/B0CVB8LL4Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/61I+YowTpxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB88DM1",
+        "title": "AV Mahogany WN 125",
+        "url": "https://www.amazon.com/dp/B0CVB88DM1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WZbzYVsvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB99S2Y",
+        "title": "AG Cashew WN 56",
+        "url": "https://www.amazon.com/dp/B0CVB99S2Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BQW6UHbHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB9BB64",
+        "title": "AQ Deep Honey WN 100",
+        "url": "https://www.amazon.com/dp/B0CVB9BB64",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WvcaOqrYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVBBM6VQ",
+        "title": "AJ Oat WN 48",
+        "url": "https://www.amazon.com/dp/B0CVBBM6VQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kFaExLlGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB7BR6N",
+        "title": "AU Amber WN 118",
+        "url": "https://www.amazon.com/dp/B0CVB7BR6N",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ssK5RFl6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB958VL",
+        "title": "AM Toasted Wheat WN 76",
+        "url": "https://www.amazon.com/dp/B0CVB958VL",
+        "imageUrl": "https://m.media-amazon.com/images/I/41oTQRmZDGL.jpg"
+      },
+      {
+        "asin": "B0CVB93ZTS",
+        "title": "AN Nutty CN 78",
+        "url": "https://www.amazon.com/dp/B0CVB93ZTS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61MLWSnIZQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB75YW4",
+        "title": "AD Ivory CN 28",
+        "url": "https://www.amazon.com/dp/B0CVB75YW4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61D3TMqegOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB79HFF",
+        "title": "AI Honey CN 58",
+        "url": "https://www.amazon.com/dp/B0CVB79HFF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wwssfgQ8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB8WVYB",
+        "title": "AX Espresso CN 126",
+        "url": "https://www.amazon.com/dp/B0CVB8WVYB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61z3lm8d3QL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB89MRK",
+        "title": "AL Vanilla CN 70",
+        "url": "https://www.amazon.com/dp/B0CVB89MRK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jXRp7oNaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB7WWW3",
+        "title": "AS Golden WN 114",
+        "url": "https://www.amazon.com/dp/B0CVB7WWW3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61PFjRIYXgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB8713J",
+        "title": "AB Linen CN 08",
+        "url": "https://www.amazon.com/dp/B0CVB8713J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61nnsNG4Z5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB9PQFW",
+        "title": "AK Neutral CN 52",
+        "url": "https://www.amazon.com/dp/B0CVB9PQFW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-4rqDhRDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB8QZLP",
+        "title": "AO Beige CN 74",
+        "url": "https://www.amazon.com/dp/B0CVB8QZLP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zX3+P1W8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB83WJJ",
+        "title": "AA Flax WN 01",
+        "url": "https://www.amazon.com/dp/B0CVB83WJJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BoTuEdGGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB989M8",
+        "title": "AE Stone WN 38",
+        "url": "https://www.amazon.com/dp/B0CVB989M8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xtxdA46oL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB91743",
+        "title": "AT Mocha WN 115.5",
+        "url": "https://www.amazon.com/dp/B0CVB91743",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IgKpS6YLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB9PL86",
+        "title": "AH Golden Neutral WN 46",
+        "url": "https://www.amazon.com/dp/B0CVB9PL86",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CoVgaSILL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB7WKM7",
+        "title": "AW Clove WN 122",
+        "url": "https://www.amazon.com/dp/B0CVB7WKM7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NcQfl2-HL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB89FJV",
+        "title": "AP Sand CN 90",
+        "url": "https://www.amazon.com/dp/B0CVB89FJV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qRKAfhSeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CVB9HNV8",
+        "title": "AR Ginger WN 112",
+        "url": "https://www.amazon.com/dp/B0CVB9HNV8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JVXcq1X9L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 39,
+      "beforePrice": 39,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61D3TMqegOL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61D3TMqegOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61fERKu8JZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711l-1cUlCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81E4aMAgBgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81DuD4FZM2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81c-w1YmKJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xGEl9Mv4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71tukpuFCtL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4fbe9b43-8d03-4aba-9490-9ccd87c117ec.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/02fc193d-d075-4c23-964f-61c423a4a49a.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e4724f95-dff1-4e99-b7a2-e9c9820d778f.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/29057304-84aa-4a09-9723-7b9bcca82da9.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a1cd1de2-9171-43f5-b3c6-063385691e28.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/33aeeb89-155d-4493-80db-04db1c2a4ea1.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a85dd574-c07c-476b-a8cb-aa4628711ce0.__CR750,0,1500,3000_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/09524499-2912-46b7-8bb1-5ebb810a2a82.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fdd58534-d35a-423b-865a-72c5e79f21a7.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/62fbfeae-85a9-4b05-90f5-1d3f30c5481c.__CR0,0,150,300_PT0_SX150_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/370d5fbd-e25b-4ae3-af56-1096828c0f59.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/265ae486-33cb-4ecc-a7de-362a8e11b41f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f77b36c5-9fb8-45dd-aa7e-29e4c1b4f61f.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "AD Ivory CN 28"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Redness Reduction, Anti-Blemish"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Clinique"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Natural matte coverage instantly blurs pores and mattifies. Controls shine all day. 24-hour wear."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Very Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Fragrance Free, Waterproof"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00192333175439"
+      },
+      {
+        "key": "UPC",
+        "value": "192333175439 020714394776"
+      },
+      {
+        "key": "Model Number",
+        "value": "V93A031000"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "V93A030000"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Clinique"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#14,394 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #156 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CVB75YW4"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "60 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.09 x 1.02 x 3.43 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 652,
+      "rating": 4.7,
+      "starRates": {
+        "fiveStars": "83%",
+        "fourStars": "10%",
+        "threeStars": "4%",
+        "twoStars": "1%",
+        "oneStars": "2%"
+      },
+      "customersSay": "Customers find this foundation provides medium to full coverage, particularly suitable for oily skin, and appreciate its lightweight feel on the face. The product receives positive feedback for its quality, color match, and natural finish that looks good.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 33,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 20,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural finish",
+          "count": 7,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71VmQ3sBiqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61dTG5hzfiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61C2sguq3GL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51v3i5X3tFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61hIlRBmFCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61l5OFXb8zL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61I06OobezL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51nAaPJTnUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61bVqeE+ttL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sSoWOUbJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61x+rsCWJWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61r6Jt8soAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great foundation",
+          "reviewText": "I have used this foundation for years. I no longer have acne issues but I have yet to find a better foundation.",
+          "reviewDate": "Reviewed in the United States on February 12, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHG7SVR5JR5BXYD2M754PBKPUABQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AK Neutral CN 52"
+          }
+        },
+        {
+          "reviewTitle": "Perfect Foundation for Sensitive Skin",
+          "reviewText": "I don't often write reviews, but this foundation is worth it. I have extremely sensitive skin prone to acne. I have spent a lifetime never wearing any makeup on my face because, even wearing it for a rare special occasion, would make my face breakout for weeks. I decided to try this foundation on a whim for a special occasion, and what a difference. I still occasionally get a pimple if I wear it on a hot, sweaty day, but most of the time, my skin is clear. It took me a few tries to find my perfect match. I have light skin with red undertones. The match that worked best for me is AC Alabaster CN 10. I tried Flax, Ivory, and Cream Chamois. The Alabaster matches my skin naturally. I understand that skin is unique, and what works wonders for me, may not work on someone else's skin. That said, I highly recommend this foundation for anyone who struggles with sensitive, acne-prone skin. If it works, it's absolutely worth it. If it doesn't, your search continues...",
+          "reviewDate": "Reviewed in the United States on November 4, 2025",
+          "customer": "Corrine Hoenisch",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF3OXUPT67AVKLNJOIG3O7PCGS5Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AC Alabaster CN 10"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Quality!",
+          "reviewText": "I love this foundation. It doesn\u2019t make me break out and looks great on my skin!",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "Jordan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFRWKPB6KM5S2HFPR225CWDF2XXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AB Linen CN 08"
+          }
+        },
+        {
+          "reviewTitle": "One of my favorites for my oily skin",
+          "reviewText": "I love it. I find that the shades are very versatile and forgiving. I\u2019m not a fan of finger application but I do prefer applying this foundation with my fingers, because it dries quickly. I find that applying w my fingers helps it glide more evenly. In any case, I like it a lot. Coverage is good without looking too plastered and fake.",
+          "reviewDate": "Reviewed in the United States on December 20, 2025",
+          "customer": "MissMoPR",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMBDE6O3N2HV53ZYUZSW7OZ34PQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AB Linen CN 08"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Doesn\u2019t hide acne",
+          "reviewText": "Makeup sticks to acne spots and causes white spots, so while it doesn\u2019t cause further break outs, it doesn\u2019t help cover them up either",
+          "reviewDate": "Reviewed in the United States on January 11, 2026",
+          "customer": "Paige",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGPQL4PZYKDVLK5565P625NNW2CA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "AA Flax WN 01"
+          }
+        },
+        {
+          "reviewTitle": "Shade Appropriate",
+          "reviewText": "What I ordered. I should have ordered samples before settling on a shade, but I'm happy with the product.",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHLMCNYVXJQWYRFDRYUSD3UWTQXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AQ Deep Honey WN 100"
+          }
+        },
+        {
+          "reviewTitle": "Covers redness",
+          "reviewText": "My fav foundation for acne, it blends in so well",
+          "reviewDate": "Reviewed in the United States on March 19, 2026",
+          "customer": "Gabriella Saavedra",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF6XCI4TFAQDWZG3Z5WJLMSPXQHA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AD Ivory CN 28"
+          }
+        },
+        {
+          "reviewTitle": "Perfect blend and color match",
+          "reviewText": "Bought this product more than 5 times\u2026love it for my 50 plus ouly/combo skin\u2026sets well and doesn\u2019t make me break out! Love it",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Sara",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFEIJYYJPDCD6XVZKLTXAJQN56QQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AH Golden Neutral WN 46"
+          }
+        }
+      ]
+    }
+  }
+}

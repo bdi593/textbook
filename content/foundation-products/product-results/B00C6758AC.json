@@ -1,0 +1,548 @@
+{
+  "requestMetadata": {
+    "id": "c919b45b-82e5-4af2-b3f6-f14ff27a4c70",
+    "status": "ok",
+    "html": "https://files.hasdata.com/c919b45b-82e5-4af2-b3f6-f14ff27a4c70.html",
+    "json": "https://files.hasdata.com/c919b45b-82e5-4af2-b3f6-f14ff27a4c70.json",
+    "url": "https://www.amazon.com/dp/B00C6758AC"
+  },
+  "product": {
+    "asin": "B00C6758AC",
+    "url": "https://www.amazon.com/dp/B00C6758AC",
+    "title": "COVERGIRL Outlast All-Day Ultimate Finish Foundation, Classic Ivory",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Count (Pack of 1)"
+    },
+    "featureBullets": [
+      "THREE-IN-ONE: Foundation works as a liquid, powder, and concealer all at once",
+      "ALL-DAY WEAR: Coverage lasts for hours after just one application",
+      "SPONGE INCLUDED: Glides on effortlessly with the included sponge applicator",
+      "FIND YOUR RIGHT SHADE: Many shades to choose for creating your ultimate natural look",
+      "CRUELTY-FREE: Covergirl products are Leaping Bunny Certified by Cruelty-Free International, meaning they are never tested on animals"
+    ],
+    "description": "Get flawless three-in-one coverage with Outlast All-Day Ultimate Finish Foundation. This foundation covers and conceals like a liquid, then sets with the soft, polished look of a powder, so you get the results of three different products all in one sleek little compact. It glides on effortlessly with the included sponge applicator and provides coverage that lasts all day. With several shades to choose from, you can easily find the right color for creating your ultimate natural look. Pro-tip: Finish off with Covergirl Outlast All-Day Lip Color for gorgeous results that hold up all day long.",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FYKHQWX4",
+        "title": "Ivory 0.4 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKHQWX4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Bi5Cmsr3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07JQ2BJJG",
+        "title": "Creamy Natural (520) 1 Count (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B07JQ2BJJG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71XogJfNj8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00C677WV0",
+        "title": "Classic Ivory 0.39 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00C677WV0",
+        "imageUrl": "https://m.media-amazon.com/images/I/71-WrLM74vL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00C6758AC",
+        "title": "Classic Ivory 1 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00C6758AC",
+        "imageUrl": "https://m.media-amazon.com/images/I/6162LDzZddL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000QS87PG",
+        "title": "Natural Ivory (515) 0.41 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000QS87PG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71MRnL4TBqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01MZBHQCK",
+        "title": "Classic Ivory 0.41 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MZBHQCK",
+        "imageUrl": "https://m.media-amazon.com/images/I/919vGyXJSTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00C674S5S",
+        "title": "Buff Beige 0.4 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00C674S5S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61f4ilBGolL._SL1500_.jpg"
+      },
+      {
+        "asin": "B003FBMHSE",
+        "title": "Classic Beige (130) 1 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B003FBMHSE",
+        "imageUrl": "https://m.media-amazon.com/images/I/71FfExRIg2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYQ2WA",
+        "title": "Classic Tan 0.4 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYQ2WA",
+        "imageUrl": "https://m.media-amazon.com/images/I/615P5mgfZ3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00LSA0F8S",
+        "title": "Ivory (505) 0.41 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00LSA0F8S",
+        "imageUrl": "https://m.media-amazon.com/images/I/6102TD8UnhL._SL1280_.jpg"
+      },
+      {
+        "asin": "B003FBKBKU",
+        "title": "Natural Beige 0.44 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B003FBKBKU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71LptaHt6aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00C674PGU",
+        "title": "450 Creamy Beige 0.4 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00C674PGU",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BdLOEQ3SL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKRDF7H",
+        "title": "Cranberry 0.4 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKRDF7H",
+        "imageUrl": "https://m.media-amazon.com/images/I/71oNOysv+bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B002VECJ3Y",
+        "title": "Ivory (505) 0.44 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002VECJ3Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JZCF+0W9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B000RE7GMO",
+        "title": "Soft Honey 0.4 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000RE7GMO",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kT8CkqZqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00C674QS2",
+        "title": "Ivory 0.4 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00C674QS2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zG-1blu8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07193YVWM",
+        "title": "Black\\/Pink 0.41 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07193YVWM",
+        "imageUrl": "https://m.media-amazon.com/images/I/81tOTtQSWCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000QSA5JW",
+        "title": "Buff Beige (525) 0.44 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000QSA5JW",
+        "imageUrl": "https://m.media-amazon.com/images/I/51gUmouU5uL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00C6784Y4",
+        "title": "135 Medium Light 1 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00C6784Y4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SpFDAZ0vL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07JPBSLRF",
+        "title": "Classic Ivory (510) 0.44 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B07JPBSLRF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JchYyg-qL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001ESIZ8Q",
+        "title": "Black 1 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001ESIZ8Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/516XGzzoozL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYNXTU",
+        "title": "Natural Beige 0.4 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYNXTU",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BUZDx1gXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKLD9LV",
+        "title": "Classic Tan 0.4 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKLD9LV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Fl68a8O5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B003FBQJCE",
+        "title": "Soft Honey 155 1 count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B003FBQJCE",
+        "imageUrl": "https://m.media-amazon.com/images/I/714r1XPbDzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000RE3YIE",
+        "title": "Creamy Natural - 420 0.4 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000RE3YIE",
+        "imageUrl": "https://m.media-amazon.com/images/I/61auQBK4fzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B002VECJ66",
+        "title": "Creamy Natural (420) 0.4 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002VECJ66",
+        "imageUrl": "https://m.media-amazon.com/images/I/91ODbCjJMFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B002VECKG0",
+        "title": "Tawny (165) 0.39 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002VECKG0",
+        "imageUrl": "https://m.media-amazon.com/images/I/71iTkt8ToGL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.74,
+      "beforePrice": 8.74,
+      "discount": "-5%",
+      "priceFrom": 8.74,
+      "otherOfferQuantity": 6
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/6162LDzZddL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/6162LDzZddL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51SEeQxr7CL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81GOL0NOWAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PceEBQUJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71vKLw-BF0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716UVU-dxmL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/2f3234e2-6a3f-47c8-82a6-969131ad77a5.__CR0,0,970,300_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/ccb6e5d4-58c6-4728-8ab7-6b18b5963ddd.__CR0,0,301,401_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/1f85580f-5374-4996-9c38-0f1d1f388977.__CR0,0,350,175_PT0_SX350_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/3d718932-4913-41a8-8e9e-86f09f861a86.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/06fc5124-bec3-42fb-bfd0-7d6666a3e13e.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/b16d8401-d617-447c-b743-a86170d98e99.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/62326717-0c0c-4a69-9283-1c6d6699f0df.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/709b1610-cd00-4375-8160-a805a4613bef.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/af5c694c-a938-45ee-87c5-197982cb7dc4.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/213a81cf-7c7d-44f1-a65f-4d1e997872ab.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/32c85abb-0837-4c79-bb91-da3b61657b4d.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/cf6ea96f-76b3-4bad-97b9-033b8a76d994.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/713401ed-89fa-4343-9298-89cf43ee94e6.__CR0,0,150,300_PT0_SX150_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/34b32be4-19e7-42ef-92a2-52c6171e6204.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/34b32be4-19e7-42ef-92a2-52c6171e6204.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d8863db8-9c3e-4c91-9da4-2d1df9ba463f.mp4/productVideoOptimized.mp4",
+      "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A3FSJSS2NCSC3Q/1674670591425/89eafdaa-d6f8-4db6-afb7-b6e44228f760/1674670604014sbv.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91a0042a-0076-45fe-8e9a-f0b4640fc1da.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7039ec59-8b36-4cea-9317-eb669bbaca6a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid, Powder"
+      },
+      {
+        "key": "Color",
+        "value": "Classic Ivory"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "COVERGIRL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Softening,Hypoallergenic"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "three-in-one foundation, all-day wear, cruelty-free"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00022700078202"
+      },
+      {
+        "key": "UPC",
+        "value": "022700078202"
+      },
+      {
+        "key": "Model Number",
+        "value": "177458"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "177458"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Coty Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#3,877 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #48 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00C6758AC"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Cruelty Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "73 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.94 x 0.8 x 5.63 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Count"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Gluten Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 20511,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "79%",
+        "fourStars": "11%",
+        "threeStars": "5%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation to be of good quality and appreciate its smooth, silky texture that goes on easily with a sponge. The product offers full coverage and works well over sunscreen, with one customer noting it blurs out skin imperfections. The color receives mixed feedback - while some find it perfect for their skin tone, others say it's darker than expected. The pore control aspect also gets mixed reviews, with some saying it leaves a healthy finish while others note it settles into wrinkles. Customers consider it good value for money.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 455,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 374,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 268,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 215,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 205,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 161,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 328,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Pore control",
+          "count": 202,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61zFeQhRB+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-m8TQaylL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+HpCjUKAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+49gIuoCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71uD3-4eqiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718vFB6a5FL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71lLM-IyQDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71OTgmlQZ5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CZJzV+yYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71SPJdfItxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gPEx8qr+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/217Ga4p54-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Nice foundation.",
+          "reviewText": "I really like this. Full coverage. Good color. Goes on very smooth and creamy but stays put. I would by again.",
+          "reviewDate": "Reviewed in the United States on December 28, 2025",
+          "customer": "Issabella Jane",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHICNPIDTNSOESYX54USANIZ5UGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Buff Beige",
+            "size": "0.4 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup",
+          "reviewText": "Great color for me. I like the coverage. It's lightweight and buildable. It blends smooth. I really like it.",
+          "reviewDate": "Reviewed in the United States on January 7, 2026",
+          "customer": "Rebecca",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH5RD6AOOOJLLGKCEQ277LZN7WAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Classic Ivory",
+            "size": "1 Count (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good product",
+          "reviewText": "Arrived timely and quality was goid",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Geesreview",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFUSNE2VQS5ZIN3H4HCWOQVO2JDQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Classic Ivory",
+            "size": "1 Count (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Light and great coverage",
+          "reviewText": "This is my favorite foundation! Stays on all day and is not heavy. I get compliments all the time on how natural it looks. Priced reasonably and live that I can purchase at local stores or off of amazon",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Kimberley H.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH4KXFKOV5IB3IMYHURZOG32URHA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Classic Tan",
+            "size": "0.4 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Nice Coverage",
+          "reviewText": "Since my old favorite foundation was discontinued, had to find something else. This works well,just be aware it's only 0.4 ounces, so you will run out quickly.",
+          "reviewDate": "Reviewed in the United States on December 22, 2025",
+          "customer": "DC",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTVWBJHQUBM4U36HC6O42HH2QIA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Soft Honey",
+            "size": "0.4 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Good Value for Money",
+          "reviewText": "As you can see, this product does a good job at covering redness and spots. It also minimizes the appearance of dark circles under the eyes, but it did not fully remove mine. I still gave it 5 stars, because you can\u2019t expect something under $10 to do what the more expensive products do. This will be perfect as a base to my Il Makiage foundation, since I mostly use Il Makiage in the problem spots that cheaper makeup does not fully remove. I do that to save money by not using the more expensive foundation as much. I also would wear this Covergirl 3-in-1 foundation for a more natural, every day look. Also, it appears much darker before applying and blending, as you can see in the photos attached. I should have went with the creamy natural or natural beige, since I have been becoming lighter with the season change. This soft honey shade was less than $5 though, so I decided to give it a try because I tan easily and my shade changes frequently. I don\u2019t recommend using the blending sponge that comes with this product. My makeup sponge was much better and didn\u2019t remove some of the product like the sponge they supply did. I was confused for just a moment when I opened it and thought there wasn\u2019t a lid, but you just have to take the lid off from the back and snap it in place yourself. I definitely recommend and will be ordering again in a lighter shade. I hope this review helped anyone considering purchasing this product!",
+          "reviewDate": "Reviewed in the United States on October 22, 2025",
+          "customer": "Tara M",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGAOGIH3UDR2IZ7HGMMGMCBTER6Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Soft Honey",
+            "size": "0.4 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "24 people found this helpful"
+        },
+        {
+          "reviewTitle": "Powder me perfect !",
+          "reviewText": "Love this product! Light feeling and matches my color well. Won\u2019t clog pores and easy to use. I definetly recommend this product",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Kelly Clericuzio",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGOUWGZBUJFAKGSHUFVPUUKGI3OA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Buff Beige (525)",
+            "size": "0.44 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great product that I have used for years.",
+          "reviewText": "I have used Covergirl finish foundation for years. It makes putting on foundation easy. I love the way it blends.",
+          "reviewDate": "Reviewed in the United States on February 1, 2026",
+          "customer": "Ruth Seither",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE55FN6OXNRRAK5BVMNBYQ6G4AYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Classic Ivory",
+            "size": "1 Count (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love it",
+          "reviewText": "Love I would buy it again",
+          "reviewDate": "Reviewed in Canada on April 23, 2024",
+          "customer": "Joycelyn coates",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Classic Tan",
+            "size": "0.4 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

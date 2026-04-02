@@ -1,0 +1,428 @@
+{
+  "requestMetadata": {
+    "id": "310125f4-a703-4690-848a-360d567c100e",
+    "status": "ok",
+    "html": "https://files.hasdata.com/310125f4-a703-4690-848a-360d567c100e.html",
+    "json": "https://files.hasdata.com/310125f4-a703-4690-848a-360d567c100e.json",
+    "url": "https://www.amazon.com/dp/B00EC9P85C"
+  },
+  "product": {
+    "asin": "B00EC9P85C",
+    "url": "https://www.amazon.com/dp/B00EC9P85C",
+    "title": "Max Factor Panstik Foundation, No.13 Nouveau Beige",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Nouveau Beige",
+      "size": "1 Count (0.31 Fl Oz)"
+    },
+    "featureBullets": [
+      "This handy stik foundation gives you full coverage with less effort",
+      "It is recommended for daily use please store in a cool dry place",
+      "Formulated to cover and color naturally, in an easy to use, swivel-up stick",
+      "Helps conceal pigmentations, birthmarks and blemishes",
+      "Slips on lightly for a silky-matte finish",
+      "Smoothes away appearance of fine lines and wrinkles"
+    ],
+    "description": "Panstik Foundation has rich, creamy texture glides on easily, and creates a perfect, dewy canvas for a great everyday foundation look. Ideal for on the go touch ups and great at covering blemishes and pigmentation.",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B001GNBVSK",
+        "title": "Green 1 Count (0.4 Fl Oz)",
+        "url": "https://www.amazon.com/dp/B001GNBVSK",
+        "imageUrl": "https://m.media-amazon.com/images/I/611GwotTM4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001GNBVSA",
+        "title": "25 Fair 1 Count (0.4 Fl Oz)",
+        "url": "https://www.amazon.com/dp/B001GNBVSA",
+        "imageUrl": "https://m.media-amazon.com/images/I/41UcMrTLyxL._SL1000_.jpg"
+      },
+      {
+        "asin": "B00EC9P9PG",
+        "title": "Bisque Ivory 0.1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00EC9P9PG",
+        "imageUrl": "https://m.media-amazon.com/images/I/718E769xN0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00LW4KDZU",
+        "title": "Peach 3 Count (1.2 Fl Oz)",
+        "url": "https://www.amazon.com/dp/B00LW4KDZU",
+        "imageUrl": "https://m.media-amazon.com/images/I/619NiEvqtDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00EC9P85C",
+        "title": "Nouveau Beige 1 Count (0.31 Fl Oz)",
+        "url": "https://www.amazon.com/dp/B00EC9P85C",
+        "imageUrl": "https://m.media-amazon.com/images/I/71FDiol0lTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001NJ179U",
+        "title": "Deep Olive 1 Count (0.4 Fl Oz)",
+        "url": "https://www.amazon.com/dp/B001NJ179U",
+        "imageUrl": "https://m.media-amazon.com/images/I/617XPaJRzhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B003JH820Q",
+        "title": "Green 3 Count (1.2 Fl Oz)",
+        "url": "https://www.amazon.com/dp/B003JH820Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ypsm02uqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B003JM4OCG",
+        "title": "True Beige 1 count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B003JM4OCG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gsFEi9MpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001GNBVS0",
+        "title": "14 Cool Copper 1 Count (0.3 Fl Oz)",
+        "url": "https://www.amazon.com/dp/B001GNBVS0",
+        "imageUrl": "https://m.media-amazon.com/images/I/51w0HM9XXtL._SL1000_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.71,
+      "priceFrom": 9.71,
+      "otherOfferQuantity": 4
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "stockWarning": "Only 17 left in stock - order soon.",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "No1 Sale",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A193AM7MNKCOJ6",
+    "shipper": "Amazon",
+    "totalImages": 1,
+    "primaryImage": "https://m.media-amazon.com/images/I/71FDiol0lTL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71FDiol0lTL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/sota/d5b1dacc-5fb8-4533-936b-d1f47c72760b.__CR0,0,600,180_PT0_SX600_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/2d2bf7df-c80a-45b5-8ede-25c11272d303.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/7927f63f-ae78-4f48-9e04-459af461cac0.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/131890cf-668c-4e7f-8d47-f181a321d55f.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/e898d4d9-789a-4f77-b275-14a7a8763367.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/a37be20f-eab8-4a0d-83ab-fcf894675860.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/5c801c4a-1958-4271-9cbc-654c92ccf702.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Stick"
+      },
+      {
+        "key": "Color",
+        "value": "Nouveau Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Buildable Coverage, Full Coverage, Wrinkles"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Max Factor"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00843711074560"
+      },
+      {
+        "key": "UPC",
+        "value": "778714061470 843711074560"
+      },
+      {
+        "key": "Model Number",
+        "value": "0000050884476"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "0000050884476"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Max Factor"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#15,409 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #164 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00EC9P85C"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "30 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "4 x 1 x 1 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Gluten Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 16361,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "74%",
+        "fourStars": "11%",
+        "threeStars": "7%",
+        "twoStars": "3%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find the foundation provides full coverage without caking, applies easily and isn't heavy or cakey, stays on all day, and creates a flawless look with a hint of dewy finish. The product receives positive feedback for its quality and natural appearance. However, the color receives mixed reviews, with some finding it perfect for their skin tone while others say it's too light, and opinions on value are divided between those who find it worth the price and those who consider it too expensive for the small amount. The size is also criticized, with customers noting the tube is much smaller than expected.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 635,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 618,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 223,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 220,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 164,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 323,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 260,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Size",
+          "count": 302,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71hCP6deMTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61DBRMQoTFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Ab2ixcRpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Q8wsGiWvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/611e2V7ZSXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71DbhP1Cp9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91GUuf1hrmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81I3SyjOc-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71q5xR0rr5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71UcYXJ6XXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71V-fu8KNbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51KfAF0B39L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Small but worth it! Lasts a long time",
+          "reviewText": "I REALLY love this makeup! I was worried it was going to be too dark for me, but it was perfect! It goes on smoothly and the coverage is more medium but it blends so well and it\u2019s buildable. It lasts all day for me and it wasn\u2019t sticky. It\u2019s nice and lightweight, not heavy at all. If you are older like me, or typically go heavier on moisturizers, serums, etc, give it all time to soak in or this foundation will look bad because it will just sit on top of your skin. It\u2019s already moisturizing, so go light or skip some of your pre-makeup applications. I never should have stopped using this back in the day. I\u2019ll try to add pictures later.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Maternatron",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEKCXW4KLVIVEQTHICSNRSXZE2DA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Nouveau Beige",
+            "size": "1 Count (0.31 Fl Oz)"
+          }
+        },
+        {
+          "reviewTitle": "Versatile and Full-Coverage Foundation \u2013 A Must-Have for Flawless Skin!",
+          "reviewText": "I recently tried the Max Factor Pan Stik Foundation in True Beige, and I have to say, it has quickly become one of my go-to makeup products. This foundation is a game-changer, offering a range of benefits that make it perfect for anyone looking for full coverage and easy application. Packaging and Application: The Max Factor Pan Stik comes in a sleek, portable stick format that makes it easy to apply directly to the skin without needing brushes or sponges. The packaging is compact and travel-friendly, making it a great choice for on-the-go touch-ups. I love how easy it is to swipe on and blend\u2014whether I\u2019m applying it to my face in the morning or using it for quick touch-ups during the day, the stick format is convenient and hassle-free. Coverage and Finish: The True Beige shade is a perfect match for my skin tone, providing a natural-looking finish. This foundation gives full coverage with just one swipe, effectively covering blemishes, redness, and uneven skin tone. It has a creamy consistency that blends effortlessly into the skin, leaving behind a smooth, even canvas. Despite its full coverage, it doesn\u2019t feel heavy or cakey. The finish is more matte but still looks natural, without the powdery, dry effect some other full-coverage foundations can give. It\u2019s perfect for those who want to hide imperfections while maintaining a skin-like, non-oily look. Longevity and Wear: One of the standout features of the Max Factor Pan Stik is its long-lasting power. I wore it for an entire workday, and by the end of the day, my makeup still looked fresh. It holds up well in both hot and humid conditions and doesn\u2019t slide off or fade away after a few hours. The foundation stays in place and maintains its smooth texture throughout the day, making it an excellent choice for long wear. Blendability: The creamy texture of this foundation makes it incredibly blendable. I can easily apply it with my fingers, a beauty sponge, or a brush, and it always blends seamlessly into my skin. Whether I\u2019m applying a light layer for a more natural look or layering it on for more coverage, it doesn\u2019t streak or leave uneven patches. Skin Feel: Despite offering full coverage, the Max Factor Pan Stik doesn\u2019t feel heavy on the skin. It\u2019s comfortable to wear throughout the day and doesn\u2019t clog pores or cause breakouts. My skin feels breathable, and I don\u2019t feel like I\u2019m wearing a mask of makeup. It\u2019s moisturizing enough to keep my skin from feeling dry, but not too greasy, making it a great option for both dry and combination skin types. Versatility: This foundation stick is also super versatile. It works great for both foundation application and contouring. The creamy formula makes it easy to build up layers for contouring and highlighting, making it a multi-purpose product for any makeup routine. Final Thoughts: The Max Factor Pan Stik Foundation in True Beige is a must-have in my makeup bag. Its full coverage, long-lasting wear, and natural finish make it a standout product that can be worn every day or for special occasions. It\u2019s affordable, easy to use, and delivers great results. Whether you\u2019re looking for flawless coverage or a convenient, portable option for on-the-go, this product is perfect for achieving a smooth, even complexion. I highly recommend it to anyone looking for a reliable, full-coverage foundation that\u2019s both practical and effective!",
+          "reviewDate": "Reviewed in the United States on February 6, 2025",
+          "customer": "Average Person",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEZTXNQKZ4LHD7M6QIKQYKPMMBYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "True Beige",
+            "size": "1 count (Pack of 1)"
+          },
+          "helpfulVotes": "26 people found this helpful"
+        },
+        {
+          "reviewTitle": "Outstanding Makeup",
+          "reviewText": "This is the best foundation ever! I am in my 50's and I am so sorry to see that Max factor isn't available in the USA anymore, unless you purchase it here. I remember this brand in my teens & 20's. It really is high performing and covers everything! I hope it comes back to be sold again in drugstores, there is nothing like it.",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Catwoman",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSHYOR3AL76S5WCOTXCVX4KXQPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Nouveau Beige",
+            "size": "1 Count (0.31 Fl Oz)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "The quick stick!",
+          "reviewText": "This is a really great product! It is very easy and quick to apply. Covers imperfections nicely, also working as a concealer. ... I give this product 4 out of 5 stars because the colors run very light. I purchased the #12 True beige, it appears on the skin as more of an Ivory/light color. This foundation blends very well making it a go-to product for those who like a quick & easy makeup routine!",
+          "reviewDate": "Reviewed in the United States on February 1, 2026",
+          "customer": "Amanda",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGD65UIFXJTV4AB6NU26YWMMT2HQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "True Beige",
+            "size": "1 count (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "The perfect concealer.",
+          "reviewText": "This concealer is perfect for hiding little imperfections. It's not heavy, doesn't cake in crevices, and lasts all day. My mother used this product. I'm 61 and I use it! For a product to be on the market this long, lots of people must be buying it to keep it in demand.",
+          "reviewDate": "Reviewed in the United States on February 20, 2026",
+          "customer": "Tammy N.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHMDO2VD5QYUQ4VURB2OF2Q6ES2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "True Beige",
+            "size": "1 count (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Wonderful Product",
+          "reviewText": "It is small but I love it! Have always loved this product. Goes on smoothly and is easily blended. \ud83d\udcaf",
+          "reviewDate": "Reviewed in the United States on February 8, 2026",
+          "customer": "Lisa Brown",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZSBMMGYAGXU6UIH2M4TJTHMGZQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Nouveau Beige",
+            "size": "1 Count (0.31 Fl Oz)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not all that",
+          "reviewText": "Influenced to try this as I was hoping it was a cheaper alternative to the Makeup Forever HD stick. Sadly, this didn\u2019t live up to the hype or the MUFE stick. Firstly, the shade range obviously sucks but it\u2019s a very old makeup line that I believe is no longer in production. I have fair neutral skin so I went with Fair 25, even though the reviews and research I did showed it was going to lean pinkish. The shade was t horrible but definitely pinkish but easily fixed by using a few dots of a more neutral foundation. Even in the areas I didn\u2019t mix foundations, this stuff feels heavier on the skin and I wanted to wash my face quickly after applying. I kept it on for about 6 hours and noticed it was breaking up a lot around my mouth/ nose. The coverage is medium to full and on my dry skin it seemed to do ok, although setting it with powder was a bad idea- it became cakey pretty quickly- but if you do not set it it feels creamy the whole time and I can\u2019t stand that. Overall I think I will like this more as a concealer than a full face product. It easily blends out but my favorite stick foundations are still Bobbi Brown or MUFE HD stick\u2026sadly they\u2019re both much more expensive. The makeup revolution stick is nice as well but difficult to find as it is also discontinued.",
+          "reviewDate": "Reviewed in the United States on May 16, 2024",
+          "customer": "Anon",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFLMRDBKU7BH5IUZL7XGZWLWZLXQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "25 Fair",
+            "size": "1 Count (0.4 Fl Oz)"
+          },
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "Full coverage.",
+          "reviewText": "Full coverage and great color. I recently use them with a brush and it blends well. These are becoming so hard to find.",
+          "reviewDate": "Reviewed in the United States on March 9, 2026",
+          "customer": "Elizabeth",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFGYO3XG2S3MUWRTAN2BUYDFZX6Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "True Beige",
+            "size": "1 count (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Unavailable",
+          "reviewText": "Always unavailable",
+          "reviewDate": "Reviewed in India on July 16, 2025",
+          "customer": "Sanuja Altaf",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "25 Fair",
+            "size": "1 Count (0.4 Fl Oz)"
+          }
+        },
+        {
+          "reviewTitle": "Five Stars",
+          "reviewText": "Excellent",
+          "reviewDate": "Reviewed in India on July 18, 2016",
+          "customer": "Faraz Khan",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "True Beige",
+            "size": "1 count (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "The best buildable full coverage foundation",
+          "reviewText": "My go-to for photoshoots, nights out or bad skin days. The shades are a bit off, but workable. The best buildable coverage that I have found in a mess-free stick.",
+          "reviewDate": "Reviewed in Australia on April 20, 2025",
+          "customer": "Leila",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "25 Fair",
+            "size": "1 Count (0.4 Fl Oz)"
+          }
+        }
+      ]
+    }
+  }
+}

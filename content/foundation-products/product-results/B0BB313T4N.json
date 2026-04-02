@@ -1,0 +1,339 @@
+{
+  "requestMetadata": {
+    "id": "65111247-d45e-4000-96d5-2dec0845fed4",
+    "status": "ok",
+    "html": "https://files.hasdata.com/65111247-d45e-4000-96d5-2dec0845fed4.html",
+    "json": "https://files.hasdata.com/65111247-d45e-4000-96d5-2dec0845fed4.json",
+    "url": "https://www.amazon.com/dp/B0BB313T4N"
+  },
+  "product": {
+    "asin": "B0BB313T4N",
+    "url": "https://www.amazon.com/dp/B0BB313T4N",
+    "title": "ICONIC LONDON Underglow Blurring Primer | Blurs Imperfections and Gives Skin a Radiant Glow, Cruelty-Free, Vegan Makeup Universal Shade, 0.91 Fl oz",
+    "isAvailable": true,
+    "featureBullets": [
+      "Uncover your natural radiance with THE must-have for fresh-faced, smooth, flawless-looking skin\u2026 ICONIC's soft-focus, radiant Underglow Blurring Primer.",
+      "Underglow Blurring Primer brilliantly primes, preps, minimises the appearance of pores and helps to blur imperfections \u2013 leaving your skin looking flawless, refreshed and perfected, ready for the next step in your makeup routine. Blended with ultra-delicate champagne pearls, it gives your complexion a seriously dreamy luminosity and a demi-matte finish \u2013 allowing skin to glow-from-within, with a soft, \u2018candlelit\u2019 glow.",
+      "Directions: After moisturising, use the ICONIC dropper to apply 2-3 drops of makeup primer all over the face \u2013 focusing on any areas that are often prone to excess shine. Use your fingertips (or your favourite ICONIC base brush to blend the refreshing formula into your skin."
+    ],
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation Primers"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 34,
+      "beforePrice": 34,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 6 hrs 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Iconic London Inc",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3DUBVMMIQCBEN",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61GXTpwzuXL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61GXTpwzuXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/812S137n1gL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YXbuAMVGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715VN1c45CL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iel3dFqGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Ooj-FyDdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81B8rz0Sc+L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c29d61ee-8255-4b13-b9d1-32075cfefb70.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/466220d3-bd39-40c2-b7b5-076a7064f403.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2850b0d8-c7f1-473c-be4a-56b8f32a8599.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2850b0d8-c7f1-473c-be4a-56b8f32a8599.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3bb1588c-517b-46a0-9e09-6981b1eae1c0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f6d4ec15-67ff-4ef0-b07a-60521e5f3e94.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a1887a0b-91e3-4db1-8777-d778074099fd.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Gel"
+      },
+      {
+        "key": "Color",
+        "value": "Universal Shade"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "ICONIC LONDON"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Underglow Blurring Primer instantly melts and blends all over, creating a flawless-looking canvas for your makeup."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Cruelty Free, Vegan"
+      },
+      {
+        "key": "Model Number",
+        "value": "FD21030"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "FD21030"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "ICONIC LONDON"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#7,970 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #35 in Foundation Primers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BB313T4N"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Shimmery"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.13 Kilograms"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.57 x 1.57 x 4.09 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 756,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "67%",
+        "fourStars": "11%",
+        "threeStars": "7%",
+        "twoStars": "7%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find the primer provides a nice underglow with a pretty shimmery tone and works well on dry mature skin, leaving it looking better. The product has a silky texture that feels great under makeup and blends effortlessly, with one customer noting it effectively blurs imperfections without feeling greasy or heavy. While many customers say it's not sticky at all, opinions about stickiness are mixed.",
+      "aspects": [
+        {
+          "aspect": "Glow",
+          "count": 96,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 79,
+          "status": "positive"
+        },
+        {
+          "aspect": "Primer quality",
+          "count": 64,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 52,
+          "status": "positive"
+        },
+        {
+          "aspect": "Fragrance",
+          "count": 31,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blurring",
+          "count": 28,
+          "status": "positive"
+        },
+        {
+          "aspect": "Non-sticky",
+          "count": 32,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/617JVfMYDEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61BESdEDfdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Od3qfh4+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+3gYLYecL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BRl-IzR+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Jnrb53VqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ToHIyzisL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71t9X8BFwiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71oK6zCfHKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51YZKlFfsTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71DM9QdBlCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61bdrgoLNpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Perfect addition to my beauty routine",
+          "reviewText": "This primer is amazing! The ICONIC LONDON Underglow Blurring Primer smooths everything out instantly and gives my skin the prettiest soft-focus glow. It blurs pores, evens texture, and makes my makeup go on like a dream. I love that it\u2019s cruelty-free and vegan, and the universal shade blends in perfectly. Lightweight, radiant, and long-lasting \u2014 absolutely a new staple in my routine!",
+          "reviewDate": "Reviewed in the United States on November 18, 2025",
+          "customer": "Jessica Taylor",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFGLB32WHYAD57ITBLOT5NZR4USA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Even if not for a glow, this stuff is PERFECT for dry skin",
+          "reviewText": "Prime day didn\u2019t fail me with this one, I love this stuff so much. I use this daily and it assists SO well for dry skin. I do daily routines to attempt to give needed moisture to my 34 year old face and nothing seems to truly assist. This however, makes my skin FEEL amazing and it lasts through the day. It may be a primer but it really soaks into my skin and I immediately feel a difference, as well as the nice smell attached to it. The glow aspect I could honestly care less about. I do notice a slight difference in quality from this one vs in store purchase but it still works, just a little harder to mix (seems thicker?) but overall 10/10 and will continue to purchase. This has truly been a saving Grace to my face lol.",
+          "reviewDate": "Reviewed in the United States on August 24, 2025",
+          "customer": "Veronica",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEPN7AQM6Q776UKOVH6IYGUSJBZA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "17 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great for dry, sensitive, reactive skin",
+          "reviewText": "I have dry, sensitive, extremely reactive skin that recently thought it would be funny to be oily for literally no reason. YAY! Wore this with the matching skin tint and a professional makeup artist couldn't stop raving about how \"glowing\" and \"professional \" my skin looked. I was sold! Do yourself a favor: put the primer on by hand and make sure it's fully absorbed before adding the skin tint with a makeup wedge, blending completely. Once the rest of your makeup is done, use the glow setting spray. I set my look at 6:30 am, got home for 9 pm and it still looked amazing! Im blown away and will definitely repurchase.",
+          "reviewDate": "Reviewed in the United States on September 8, 2025",
+          "customer": "Anna",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGJDKMLT37ROGDGYOL6UWMGMDVFQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "22 people found this helpful"
+        },
+        {
+          "reviewTitle": "Glowy, Smooth, and Flawless!",
+          "reviewText": "The ICONIC LONDON Underglow Blurring Primer is everything I didn\u2019t know I needed! It gives my skin the most beautiful, soft-focus glow while blurring imperfections and minimizing the look of pores. My makeup applies smoother and lasts longer, but I also love wearing it alone for a radiant, healthy look. The texture is lightweight, the universal shade blends perfectly, and I love that it\u2019s cruelty-free and vegan. The only downside is the dropper\u2014it doesn\u2019t dispense the product very well and can be a bit frustrating. But the formula itself is so good, it\u2019s worth working around. Definitely a must-have in my routine!",
+          "reviewDate": "Reviewed in the United States on June 11, 2025",
+          "customer": "Kelly M",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHX5CFWMROXNLNIDO7GM7AZWQBVA",
+          "customerStarsRating": 4,
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "It\u2019s Beautiful \ud83d\udc95",
+          "reviewText": "I love it! I was so excited to get Iconic Underglow & I wasn\u2019t disappointed. I don\u2019t like wearing a lot of makeup so this is perfect. It definitely gives a nice healthy glow & blurs nicely without feeling greasy or heavy. I put it on this morning and decided I wanted a little more glow so I blended in more & it was perfect, lasting all day long without fading or sliding off in the Florida heat. I only added blush lip stain and mascara but it felt natural glowy & soft. The scent is nice & the glow is perfect like a model\u2019s. The dropper doesn\u2019t dispense well but I don\u2019t care I love the product too much. This product is perfect to wear alone or as a nice under glow base prior to your foundation. Perfect for your wedding day, date night & even the beach. I\u2019m so happy ai took the chance & got Ionic..so worth it..",
+          "reviewDate": "Reviewed in the United States on August 8, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFFVZK73WDXJGCHXQEYPN2RMG6VQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth skin",
+          "reviewText": "This really smooths my skin. No pores and even skin tone. Im 59. I love it!",
+          "reviewDate": "Reviewed in the United States on March 5, 2026",
+          "customer": "tess keesling",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHS562WUS67VJY2A7J3CZOTF25ZA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "two thumbs down \ud83d\udc4e\ud83d\udc4e",
+          "reviewText": "not a very good product. overpriced, and the product peels after 20 minutes of wear. it also has a weird coppery smell, it separates from it\u2019s base so the pigment sits at the bottom of the container, and the dropper broke after using it twice. it\u2019s not natural at all\u2014 it made me look kinda peanut-buttery. i\u2019ve noticed break-outs on my cheeks after i use it as well (i cleanse with micellar water and i only bought it a week ago, so i know it\u2019s not a me problem).",
+          "reviewDate": "Reviewed in the United States on December 20, 2025",
+          "customer": "Veronica H.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE5ZQ2NR3X3VRZ5FVN6OEBPUZMCQ",
+          "customerStarsRating": 2,
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great base!",
+          "reviewText": "This grew on me at first I was disappointed and thought it was blah and me be breaking me out. However, I changed my skin care up and my foundation and added this back into my routine during the winter. It gives subtle glow with added hydration. This is my second purchase and I use it under lumi matte foundation and dewy foundation or mixed with my foundation like a skin tint. I really like it as a primer. Acne safe, no glitter, no smell.",
+          "reviewDate": "Reviewed in the United States on November 26, 2025",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG3MDZBYDPTMNBOUK2BPPAUWHTBA",
+          "customerStarsRating": 4,
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing",
+          "reviewText": "Love this! Lightweight formula. I would definitely buy this again.",
+          "reviewDate": "Reviewed in Australia on February 11, 2026",
+          "customer": "Paula Escobar",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Love the Iconic London Underglow Blurring Primer!",
+          "reviewText": "I\u2019ve been using the Iconic London Underglow Blurring Primer for the past month, and I\u2019m absolutely loving it! It works beautifully with my combination skin \u2014 giving me a smooth, radiant base without feeling heavy or greasy. It pairs perfectly with foundation too, my makeup glides on effortlessly and looks flawless all day. I\u2019ve noticed that my makeup not only looks better but also stays put longer, which is such a win. Plus, there\u2019s no peeling or patchiness at all \u2014 just a soft, blurred glow that makes my skin look healthy and fresh. Definitely one of my new favorite primers!",
+          "reviewDate": "Reviewed in the United Kingdom on November 10, 2025",
+          "customer": "Karolina Sz",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Very nice glow",
+          "reviewText": "I love it",
+          "reviewDate": "Reviewed in the United Arab Emirates on June 3, 2025",
+          "customer": "Tamara al shakaa",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Great",
+          "reviewText": "Great product",
+          "reviewDate": "Reviewed in Saudi Arabia on September 18, 2025",
+          "customer": "Schahrazade",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Makes skin feel soft",
+          "reviewText": "Just perfect. Its so smooth and easy to apply. It smell is lovely. Give a lovely subtle glow. Great value",
+          "reviewDate": "Reviewed in the United Kingdom on November 9, 2025",
+          "customer": "JBow49",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

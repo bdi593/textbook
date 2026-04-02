@@ -1,0 +1,422 @@
+{
+  "requestMetadata": {
+    "id": "073cfeb2-37fc-42d6-9078-0f3ce576ec78",
+    "status": "ok",
+    "html": "https://files.hasdata.com/073cfeb2-37fc-42d6-9078-0f3ce576ec78.html",
+    "json": "https://files.hasdata.com/073cfeb2-37fc-42d6-9078-0f3ce576ec78.json",
+    "url": "https://www.amazon.com/dp/B00435JPCM"
+  },
+  "product": {
+    "asin": "B00435JPCM",
+    "url": "https://www.amazon.com/dp/B00435JPCM",
+    "title": "Clinique Redness Solutions Liquid Foundation Makeup Broad Spectrum SPF 15 With Probiotic Technology For Redness-Prone Skin| Medium Coverage + Natural Finish",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "AD Calming Neutral - very fair, cool-neutral undertones"
+    },
+    "featureBullets": [
+      "FOUNDATION FOR REDNESS-PRONE SKIN: Moderate-coverage foundation makeup helps neutralize and cover redness. Gives skin a perfected look.",
+      "COLOR CORRECTOR FOR REDNESS: Made with yellow and green neutralizing pearls, it helps counteract red tones in the skin.",
+      "COMFORTS AND PROTECTS: Hydrating foundation helps comfort skin as it covers. SPF protects skin from UVA/UVB rays.",
+      "CLINICAL EXPERTISE: Allergy tested. 100% fragrance free.",
+      "BUILT ON DERMATOLOGICAL SCIENCE: As a dermatologist-guided brand, Clinique\u2019s commitment to safety starts with skincare science. We partner with the best minds in dermatology and formulate for all skin types, tones, concerns\u2014in service of all skin."
+    ],
+    "boughtInPastMonth": "600+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00435JPEU",
+        "title": "AE Calming Honey - moderately fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B00435JPEU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71y1qZpTJFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00435JPCM",
+        "title": "AD Calming Neutral - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B00435JPCM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71n4I4h2qwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00435JPHC",
+        "title": "AF Calming Vanilla - moderately fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B00435JPHC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71BU75-NCqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00435HNNK",
+        "title": "AC Calming Ivory - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B00435HNNK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xb7ljKK4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00435HNLC",
+        "title": "AA Calming Alabaster - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B00435HNLC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61MW8xM--0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00435FO4K",
+        "title": "AB Calming Fair - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B00435FO4K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NlQxA2quL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 40,
+      "beforePrice": 40,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 15 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/71n4I4h2qwL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71n4I4h2qwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6129ljGg7IL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71F-A-eNisL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81umUpfejzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SaWPX53HL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71LyzlsIkuL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/83075959-b4f8-4191-9d72-9eb60535509e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/14396146-57ec-4b9f-a426-897c379b2d3e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f8ffa1d-4299-4cf0-890a-bea8234b1465.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea518464-bef7-4247-ab94-c788059a71d3.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab2f6cf1-3cd7-409c-87be-1d728cdaaaf4.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fec62647-959f-4047-8d18-e37b190b8340.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e0c1a77a-a574-4151-9fda-3f1bdedfa146.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0186e60-8b6c-44a8-9684-0417a36eea10.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f033ba09-2f36-4ba0-9087-40d8898fe86d.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e9e14676-41ad-422b-8f5d-4704af4b6aec.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dcfb1b42-1af4-4568-95dd-7f2d08060cd0.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bad34c23-97ab-4849-ab38-1d05409f6d3f.__CR0,0,200,225_PT0_SX200_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d7accc6d-3f3d-4b39-bbf9-179a19848cc8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e46a57fb-ab26-47ee-8326-37f2f527cc01.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "AD Calming Neutral - very fair, cool-neutral undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Redness Reduction"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Clinique"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Liquid foundation color-corrects flushing and blushing, minimizing the look of redness. Protects with SPF."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Fragrance Free"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00020714419141"
+      },
+      {
+        "key": "UPC",
+        "value": "020714419141"
+      },
+      {
+        "key": "Model Number",
+        "value": "70JW041000"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "20714419141"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Clinique"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#11,145 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #118 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00435JPCM"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.03 Kilograms"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.61 x 1.14 x 3.7 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free, Oil Free, Paraben Free, Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2347,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "80%",
+        "fourStars": "10%",
+        "threeStars": "5%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation effective at covering redness and matching skin tones perfectly, with one customer noting it works well for pink blotches. The product receives positive feedback for its lightweight feel, all-day wear, and compatibility with sensitive skin. While some customers consider it well worth the price, others find it expensive.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 190,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 76,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 59,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 46,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 36,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 33,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 37,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61ahlEVhOgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81qwV+7CkwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81XJ8w18mnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71tK2dtdIiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61LkVsCPIdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mTqNdA+tL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/710sB3VDj7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71LafMP5cfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ephKTCvWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/21DOKUtnS1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61uwTLzlaQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Good product",
+          "reviewText": "Definitely works to cover rosacea red marks. It\u2019s a matte finish and use it sparingly. So far it\u2019s better than anything I tried.",
+          "reviewDate": "Reviewed in the United States on January 19, 2026",
+          "customer": "JES",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFKMVOM7VGY7OTJFRFFNFFMMZ4FA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AD Calming Neutral - very fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Recommend",
+          "reviewText": "Worth the money and product covers umeven skin tones well. This last ne a long time. Close to a year .",
+          "reviewDate": "Reviewed in the United States on February 22, 2026",
+          "customer": "Lin Hammond",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AETIGWHOBWPJSMTUB3N2XWBUZJRA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AC Calming Ivory - very fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Great for after CO2 Laser",
+          "reviewText": "This stuff helped tremendously in helping to hide the redness of my face after ablative CO2 laser peel.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Jami",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSR3MIVGPO7NICAIJLJN7672BQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AA Calming Alabaster - very fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "ideal for skin with rosacea",
+          "reviewText": "The coverage is perfect and it doesn't damage my skin, it's excellent.",
+          "reviewDate": "Reviewed in the United States on March 5, 2026",
+          "customer": "Orlando",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGDOBKEOYKRLRSTOVOJVIBYRASUA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AC Calming Ivory - very fair, cool-neutral undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Good start but need something else to help take redness from my nose.",
+          "reviewText": "It doesn't take the red from my nose but does dull down the lighter red on my face.",
+          "reviewDate": "Reviewed in the United States on February 17, 2026",
+          "customer": "SQ",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFXU5ER3WKISLMNMT5XPD257G63A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "AD Calming Neutral - very fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Works",
+          "reviewText": "Reduces redness but is drying",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "PlantNut-20",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGRTBQQ4LZ67Y4QEFNXKXKWUZIGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AA Calming Alabaster - very fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Would recommend for sensitive skin. MEDIUM coverage though",
+          "reviewText": "I usually don't have much luck in purchasing makeup from Amazon. The quality usually isn't there and it normally doesn't compare to buying it at a brick and mortar store. Luckily this items quality was just as I had hoped. It's medium coverage but its nice to have a lighter option for my fair, rosacea prone skin.",
+          "reviewDate": "Reviewed in the United States on October 20, 2025",
+          "customer": "Areyn",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEZET4TJUEL5WQZG2EHMJAWLXBKA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AB Calming Fair - very fair, cool-neutral undertones"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "This stuff works",
+          "reviewText": "This stuff is great. Goes on smooth and stays on all day! It has been one of the best products I've used to counteract the facial redness from my rosacea. Kind of pricey buy a little goes a long way and it is of noticeably higher quality than other products I've tried. Give it a try!",
+          "reviewDate": "Reviewed in the United States on January 16, 2026",
+          "customer": "Kristi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF3UGVMB5N3LYJASBKV42PGRHPHA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AA Calming Alabaster - very fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Good product at a good price.",
+          "reviewText": "Clinique Redness Solutions really helps to tone down the redness, a great product and a super service. Thank you.",
+          "reviewDate": "Reviewed in the United Kingdom on October 20, 2024",
+          "customer": "Christine Lake",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AF Calming Vanilla - moderately fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "reduces the red color on my neck",
+          "reviewText": "Very happy with the product, works very well with my red neck.",
+          "reviewDate": "Reviewed in Canada on March 22, 2026",
+          "customer": "MARGRIT HIRSCH",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AB Calming Fair - very fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Love it - worth the money",
+          "reviewText": "I love this product. I don\u2019t usually spend a lot on makeup but this is worth it - you only need a tiny spot to cover under eyes, cheeks and chin. Great coverage, feels nice on.",
+          "reviewDate": "Reviewed in the United Kingdom on January 28, 2024",
+          "customer": "Victoria Davies",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AE Calming Honey - moderately fair, cool-neutral undertones"
+          }
+        }
+      ]
+    }
+  }
+}

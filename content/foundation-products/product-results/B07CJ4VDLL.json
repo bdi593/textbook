@@ -1,0 +1,740 @@
+{
+  "requestMetadata": {
+    "id": "1e4d9b95-2300-4f1d-b58a-99e57ab4b67b",
+    "status": "ok",
+    "html": "https://files.hasdata.com/1e4d9b95-2300-4f1d-b58a-99e57ab4b67b.html",
+    "json": "https://files.hasdata.com/1e4d9b95-2300-4f1d-b58a-99e57ab4b67b.json",
+    "url": "https://www.amazon.com/dp/B07CJ4VDLL"
+  },
+  "product": {
+    "asin": "B07CJ4VDLL",
+    "url": "https://www.amazon.com/dp/B07CJ4VDLL",
+    "title": "COVERGIRL TruBlend Matte Made Liquid Foundation, Classic Ivory, 1 Fl Oz (Pack of 1)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "SOFT MATTE FORMULA: Comfortable matte foundation gives you that flawless-looking finish",
+      "ABSORBS OIL: Mattifying powders absorb excess oil and minimize the appearance of your pores for a smooth, polished look",
+      "LONG-LASTING WEAR: Stays on for up to 12 hours of matte-skin goodness",
+      "SO. MANY. SHADES: Available in 40 shades, so you\u2019re sure to find the right match for your skin tone",
+      "CRUELTY-FREE: Covergirl products are Leaping Bunny Certified by Cruelty-Free International, meaning they are never tested on animals"
+    ],
+    "description": "Give your face that flawless finish with Covergirl TruBlend Matte Made Liquid Foundation. Developed with flexi-hold technology, this formula creates a strong yet flexible film on skin to deliver the smooth, matte appearance you love without looking dry or cakey. Excess oils are absorbed, and the look of pores are minimized thanks to the foundation\u2019s mattifying powders. The transfer-resistant foundation won\u2019t budge, so you can enjoy long-lasting coverage for up to 12 hours. Pro-tip: Before use, create the perfect canvas for your matte look by using Covergirl TruBlend Base Business Skin Smoothing Face Primer.",
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FYKP8WT8",
+        "title": "SOFT HONEY 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKP8WT8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71lHrlbHGWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CB6C5N5Z",
+        "title": "ESPRESSO 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CB6C5N5Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/71yBlKXouqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJHWF6W",
+        "title": "BRONZE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJHWF6W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RvzYfG91L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07N8SQ5NK",
+        "title": "BUFF BEIGE 2.02 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07N8SQ5NK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wjYSI64hL._SL1358_.jpg"
+      },
+      {
+        "asin": "B07CJ74Z4W",
+        "title": "SUN BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ74Z4W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61735zI+MvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ5BWP7",
+        "title": "M15 Buff Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ5BWP7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61O7AmGlyeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07C88LHRJ",
+        "title": "CARAMEL 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07C88LHRJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lr35K19VL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ6MRKQ",
+        "title": "FAIR BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ6MRKQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pB5QFNAUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ6MH3K",
+        "title": "PERFECT BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ6MH3K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OG2f-gyHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CG19PZ3B",
+        "title": "DEEP BRONZE 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CG19PZ3B",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bZO6FwhxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CGGQ2WQ",
+        "title": "WARM HONEY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CGGQ2WQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HvZG6IeyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ3HYBL",
+        "title": "GOLDEN CARAMEL 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ3HYBL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Fx9J0fX6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ53NVS",
+        "title": "TRUE IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ53NVS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CVdhzSSzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07C88G6SF",
+        "title": "GOLDEN IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07C88G6SF",
+        "imageUrl": "https://m.media-amazon.com/images/I/611Br-WnVaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CGD2889",
+        "title": "TRUE CARAMEL 1.01 ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CGD2889",
+        "imageUrl": "https://m.media-amazon.com/images/I/618DvDjlhJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ5BWP5",
+        "title": "SAND BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ5BWP5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VgDDHgnQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07N8R1F9C",
+        "title": "TOASTED ALMOND 1 count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07N8R1F9C",
+        "imageUrl": "https://m.media-amazon.com/images/I/31fdU9zGAEL.jpg"
+      },
+      {
+        "asin": "B07CJ6R2FY",
+        "title": "ESPRESSO 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ6R2FY",
+        "imageUrl": "https://m.media-amazon.com/images/I/617yiLCRPeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CGC5BDR",
+        "title": "TAWNY 1.01 ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CGC5BDR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61G73K4wgGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ737TQ",
+        "title": "FAIR PORCELAIN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ737TQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GyXQJLLOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GDSTZ73B",
+        "title": "WARM HONEY 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0GDSTZ73B",
+        "imageUrl": "https://m.media-amazon.com/images/I/71gmhgtY6BL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ4VDLL",
+        "title": "CLASSIC IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ4VDLL",
+        "imageUrl": "https://m.media-amazon.com/images/I/611S-FeQTKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ42DJH",
+        "title": "WARM BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ42DJH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61a1tlxTESL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ59DYZ",
+        "title": "TOASTED ALMOND 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ59DYZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UURxsR2EL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C4KBCCWS",
+        "title": "WARM SUN 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0C4KBCCWS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71vY54I9wtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07N8RPH6S",
+        "title": "PORCELAIN 2 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07N8RPH6S",
+        "imageUrl": "https://m.media-amazon.com/images/I/51NQcm7PpGL._SL1280_.jpg"
+      },
+      {
+        "asin": "B0C1FLJPXC",
+        "title": "SOFT TAN 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0C1FLJPXC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71q92W7WWUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJKPNXZ",
+        "title": "PORCELAIN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJKPNXZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/717lTjniaLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CGDC33K",
+        "title": "TOASTED CARAMEL 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CGDC33K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GrZDax3pL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ77782",
+        "title": "LIGHT NUDE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ77782",
+        "imageUrl": "https://m.media-amazon.com/images/I/71uaFJCnfBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ4LZ3T",
+        "title": "NATURAL TAN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ4LZ3T",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NjeByvlRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ74966",
+        "title": "WARM NUDE 1.01 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ74966",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HlQ6m55NL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ6R327",
+        "title": "CLASSIC BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ6R327",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mLmGr+yPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CGKL8BB",
+        "title": "NATURAL IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CGKL8BB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61B5UkADaoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07DT653SF",
+        "title": "CLASSIC IVORY 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B07DT653SF",
+        "imageUrl": "https://m.media-amazon.com/images/I/413rzT0gCxL.jpg"
+      },
+      {
+        "asin": "B0CB6DVVTR",
+        "title": "SOFT SABLE 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CB6DVVTR",
+        "imageUrl": "https://m.media-amazon.com/images/I/710NjE2h59L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ738G8",
+        "title": "NATURAL BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ738G8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QCZXzq8eL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ47RQT",
+        "title": "WARM SUN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ47RQT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GXatJ5dXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07N8R1HV8",
+        "title": "CAPPUCCINO 1 count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07N8R1HV8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61oYtr3LXhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ53NVY",
+        "title": "GOLDEN AMBER 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ53NVY",
+        "imageUrl": "https://m.media-amazon.com/images/I/610E34CgGBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07N8RPGX7",
+        "title": "WARM TAWNY 2 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07N8RPGX7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61X698g87DL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CGDBYZR",
+        "title": "SOFT TAN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CGDBYZR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61aZgNcRWXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CGC59T3",
+        "title": "SOFT HONEY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CGC59T3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Ch8RKAVUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ3HYBM",
+        "title": "LIGHT IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ3HYBM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61B2t2RNCtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ6QN83",
+        "title": "GOLDEN HONEY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ6QN83",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+yNozkFUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G1VFT1BB",
+        "title": "BRONZE 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0G1VFT1BB",
+        "imageUrl": "https://m.media-amazon.com/images/I/71gtX4cd2iL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJHWWFP",
+        "title": "DEEP GOLDEN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJHWWFP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61r1onCMeKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07N8SBQ6V",
+        "title": "DEEP GOLDEN 2 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07N8SBQ6V",
+        "imageUrl": "https://m.media-amazon.com/images/I/61O4u0E+PCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ3W8WZ",
+        "title": "SOFT SABLE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ3W8WZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-UatSSBJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ6SGYS",
+        "title": "WARM TAWNY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ6SGYS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ChXH6uHNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CGDC2LK",
+        "title": "CARAMEL BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CGDC2LK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xeuiWWBIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07C88LHR3",
+        "title": "GOLDEN NATURAL 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07C88LHR3",
+        "imageUrl": "https://m.media-amazon.com/images/I/51OFZnQv0RL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CGDBZQB",
+        "title": "HONEY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CGDBZQB",
+        "imageUrl": "https://m.media-amazon.com/images/I/6168TMB-rmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ7777Z",
+        "title": "CAPPUCCINO 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ7777Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EOJycKNML._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CJ16J2G",
+        "title": "DEEP BRONZE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07CJ16J2G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xrgW8KFyL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.74,
+      "beforePrice": 9.74,
+      "discount": "-5%",
+      "priceFrom": 9.68,
+      "otherOfferQuantity": 12
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 4,
+    "primaryImage": "https://m.media-amazon.com/images/I/611S-FeQTKL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/611S-FeQTKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61rEU7iLrwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YseEl-wvL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61rEU7iLrwL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/36b5a2bf-ea96-4aa8-b9b9-607827b816b8.__CR0,0,970,300_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc204135-0cff-4d2d-babc-e91390b5fe82.__CR0,0,300,400_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/82cfef6b-b064-4703-ac3f-77548fe45991.__CR0,0,350,175_PT0_SX350_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fca39d95-57ce-43b6-ad23-5d9f936b6c81.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/02204c78-4e06-49f2-b486-9ccda5487b59.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b7191a5-1ef7-4504-9984-96f456d3c714.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f54623e4-a067-4443-84a0-b444dc0c0d74.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68ffaecc-3db7-4b65-bf89-c75ea36b2dfd.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5a59b3f8-6760-430b-98df-b60f6d9f0ca3.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/00d06f40-229f-4a8f-9d56-26225dc7a9d1.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f54623e4-a067-4443-84a0-b444dc0c0d74.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68ffaecc-3db7-4b65-bf89-c75ea36b2dfd.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5a59b3f8-6760-430b-98df-b60f6d9f0ca3.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/00d06f40-229f-4a8f-9d56-26225dc7a9d1.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b72748f-6bdf-4864-9353-a6e23cbb26a8.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a1c169c0-7204-4e86-a94f-36d490818d6b.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9df54a3e-4b05-43b9-8337-5e3777c93762.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9aba597f-90ac-424e-8f23-4eef57623ef1.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fa2b5de4-a503-4143-8f18-35e2257bdfdf.__CR0,0,150,300_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/45003e0b-d2a0-4f0a-92d7-2f299e231efc.__CR0,0,150,300_PT0_SX150_V1___.png"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "CLASSIC IVORY"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "COVERGIRL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Cruelty Free, Mattifying"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "03614225303289"
+      },
+      {
+        "key": "Model Number",
+        "value": "3614225303289"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "4346658274"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Coty Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#5,786 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #68 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07CJ4VDLL"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not-Applicable"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.26 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.15 x 1.46 x 4.44 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "cruelty free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 10146,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "77%",
+        "fourStars": "13%",
+        "threeStars": "5%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation provides great coverage and works well for oily skin, with a beautiful flawless natural look that stays on all day without looking cakey. They appreciate its lightweight feel and moisturizing properties for normal skin types, and consider it an affordable full coverage option. The color match receives mixed feedback - while some say it matches their complexion perfectly, others find it too dark.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 257,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 195,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural finish",
+          "count": 124,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 118,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 89,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 88,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 85,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 182,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71Vn6rI5yKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71S4Wio+HsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81pKIXviiLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61WxGpCjABL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61IlXj05AnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81hRExRf9wL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81YjRYbKSaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613tCES5q8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718vwoPCtXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71EiP0kq1AL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Z5cEiDPFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71SSjP4km2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Good quality",
+          "reviewText": "This is a popular product for a reason and I won't be telling you anything new if you already saw someone review this. I am usually very worried about purchasing makeup on Amazon but my local drug stores don't seem to carry this line and I was really curious to try it so I took a chance. The product arrived fully sealed and is in good condition so I was very pleased by this. I managed to choose a good color match just based on the photos in the listing. I was looking for a more full coverage foundation for my aging skin. I have dry skin with oily t-zone so I have large pores in that area and a lot of foundations settle into pores and dry spots. This looks really nice on my skin even when I do have a few dry spots, and it works well with primer. I am very pleased to have an option when I do want full coverage foundation for an event or special occasion. I would probably exfoliate and super hydrate as part of the preparation to get the best look, of course. I am surprised by the longevity of this product, it has a satin-like finish rather than a full matte. I prefer a satin finish to either a matte finish or a glowy finish, so I was very happy. I am really fair and they have a lot of fair toned color options which you don't see a lot these days especially in a drugstore line. A little goes a long way so I appreciate that the pump dispenses the small amount at a time. Very easy to use and practical for long-term storage.",
+          "reviewDate": "Reviewed in the United States on April 4, 2024",
+          "customer": "SandraKat",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVUTCN6HQMXWLBDB7WO4DXBO64Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "LIGHT IVORY",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Happy with my new foundation",
+          "reviewText": "I\u2019ve been looking for a new foundation but picking a brand and color online is so hard and I can\u2019t believe I got it right with this one. It was in my cart for a while before i decided to buy. I spent time trying to figure out if I was cool, warm , or neutral. Honestly I\u2019m still not 100% but when checking online it seems like I\u2019m a deep winter with more neutral tones. Light olive in the winter and dark olive in the summer. Hopefully these details help someone else. Anyway I wound up choosing classic beige a shade on the end of the lighter neutrals and it\u2019s so close to my actual tone I couldn\u2019t have chosen better. I think In the summer I will def have to move to a medium neutral color like honey or something similar but I will figure it out and then update. Anyway no problems with breakouts as of yet like some have mentioned and my skin is very sensitive. I\u2019ve used it a handful of times and so far so good.",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Dana Dee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG3MDLAS4V45YEERZJ5WBGJFQKSQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "CLASSIC BEIGE",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Saved by Covergirl.. again",
+          "reviewText": "I was very scared to try this product because I\u2019ve been loyal to Covergirl Clean but since it\u2019s been discontinued and the new formula just doesn\u2019t feel the same, I decided to branch out and try something new. This product is amazing. It blended seemingly and flawlessly. It\u2019s buildable as well. I usually like to be light with foundation but you can definitely get the coverage you want. The texture was creamy. Not watery at all. I will say to go a little lighter than usual with this product because it is darker and that\u2019s probably from it being a matte finish. I read comments before ordering and took it into consideration. I also had a friend who had to return to get a shade lighter. So by that information, I got the perfect color for my skin tone. I think this is a BANG for your buck! I will continue to use this from now on. Thank you Covergirl!! \ud83d\ude3c",
+          "reviewDate": "Reviewed in the United States on February 3, 2026",
+          "customer": "Veronica Garcia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFT4ABXTPEOQO4UL5OPUVUXZHJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "NATURAL IVORY",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Covergirl TruBlend Makeup",
+          "reviewText": "This is my everyday makeup, fits my color perfectly. I like the pump, keeps it fresh. My only complaint...It is thick and when it gets low, the pump can't get the rest of the makeup. I ended up buying a thin silicone spoon to scrape it out. I tried thinning it with different products, but it didn't work. I'll continue buying it because it matches my skin tone perfectly.",
+          "reviewDate": "Reviewed in the United States on February 1, 2026",
+          "customer": "M. Fucone",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFERZDOWAH5RLMPEX5DF63KSNXKA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "WARM HONEY",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Matted look",
+          "reviewText": "I love the no shine look, color always looks great, doesn't cake up, quality great, price is right, face feels not dry either",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Doris Bledsoe",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHI4Z4NR5J65R3LMGXMNBT3BLPAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "CLASSIC BEIGE",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Face makeup",
+          "reviewText": "Great coverage stays on last a long time I would recommend this product",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "terri klink",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWZMIJQ3ROYK7ZOPL46DWSVW6NA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "DEEP GOLDEN",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Good Product",
+          "reviewText": "This remains my foundation of choice. Product is true to its description.",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "Sharleen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF6NI6NHJEDQ7R5AKK3NJVXV355A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "TOASTED CARAMEL",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "\u201cMatte without the mask.\u201d",
+          "reviewText": "I\u2019ve got combination skin and have always struggled to find a matte foundation that doesn\u2019t dry me out or slide off by noon. This one hits the sweet spot. It gives a soft matte finish that still looks like skin, and it\u2019s buildable without getting heavy. Great coverage, natural finish, and it wears well all day \u2014 no weird separation or oily patches. A solid drugstore gem!",
+          "reviewDate": "Reviewed in the United States on August 7, 2025",
+          "customer": "James Torres",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG72OJELBJJ7UXYFVCGYDW7AWWAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "CLASSIC IVORY",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great",
+          "reviewText": "Great coverup ...will be buying again",
+          "reviewDate": "Reviewed in Canada on May 24, 2020",
+          "customer": "christene",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "WARM NUDE",
+            "size": "1.01 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Pretty darn good for drugstore foundation",
+          "reviewText": "I ordered L15 and L30 (warm light shades) to mix because I always need to mix drugstore foundations to achieve a match for my NC20 skin. But, this shade range is incredible and L30 was all I needed!! It goes on two shades lighter than it dries down to so don't let the wet shade scare you. So, I guess it oxidizes? To me, it just dries down. At first I used it over moisturizer, no primer, just to see how it would work out and it was kind of cakey and sort of uneven.looking. But, over primer (i'm currently using NYX Shine Free- transparent and siliconey) and it looks really well all day. Not cakey or uneven at all. I do wish it had slightly better coverage but it layers well. At this point, however, if I have to use three pumps, I might as well just buy MAC Studio Fix liquid because while it's more expensive, I need to use far less and it's just a better foundation. But, if you want the convenience of the drugstore, have oily skin or just like a matte finish and don't want anything more than a light/medium coverage, this is a great foundation! It dries slightly chalky, it's definitely drugstore quality, it reminds me a bit of the Rimmel matte in the tube, but I use a dewy but long lasting setting spray and illuminating powders to counter the dry look and it lasts all day and looks pretty well, really. For the price and colour match, you can't go wrong.",
+          "reviewDate": "Reviewed in Canada on June 16, 2018",
+          "customer": "MyPublicName",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "GOLDEN IVORY",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Would recommend",
+          "reviewText": "Great coverup. Covers nicely and little imperfections and last quite a while without any primer under it . Goes on smoothly not too think or liquid .. perfect. Also it didn\u2019t dry out my face like some coverups do but rather hydrated it",
+          "reviewDate": "Reviewed in Canada on May 2, 2020",
+          "customer": "kolleen",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "NATURAL IVORY",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great match for my skin tone",
+          "reviewText": "My specific match from this brand isn't in stores anymore, so I have to buy from here. Its one of very few brands that actually match my skin tone, and covers so well. It is very difficult to find my specific neutral tan",
+          "reviewDate": "Reviewed in Canada on May 12, 2025",
+          "customer": "Alex",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "WARM SUN",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

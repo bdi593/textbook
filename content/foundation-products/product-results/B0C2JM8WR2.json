@@ -1,0 +1,466 @@
+{
+  "requestMetadata": {
+    "id": "70e0cb8e-5f28-441c-bb9f-cadf750c2571",
+    "status": "ok",
+    "html": "https://files.hasdata.com/70e0cb8e-5f28-441c-bb9f-cadf750c2571.html",
+    "json": "https://files.hasdata.com/70e0cb8e-5f28-441c-bb9f-cadf750c2571.json",
+    "url": "https://www.amazon.com/dp/B0C2JM8WR2"
+  },
+  "product": {
+    "asin": "B0C2JM8WR2",
+    "url": "https://www.amazon.com/dp/B0C2JM8WR2",
+    "title": "Ogee Sculpted Complexion Foundation Stick (Linden 1.25N Light Beige, Neutral Undertones) Full Coverage Foundation Makeup - Instantly Balance & Even Complexion - 70% Organic Ingredients",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Linden 1.25N Light Beige, Neutral Undertones",
+      "size": "0.34 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "FLAWLESS, SECOND-SKIN FINISH: This foundation stick effortlessly enhances the appearance of bright, beautiful skin with pure mineral pigments that instantly balance and even complexion for healthy skin tone and texture",
+      "CUSTOMIZABLE COVERAGE: This weightless makeup stick formula allows for the product to glide across skin, delivering breathable, blendable, and buildable coverage",
+      "HIGH-PERFORMANCE PROTECTION: A powerful blend of anti-aging ingredients targets Hyaluronic Acid, Collagen, and Elastin to promote firmer-looking skin, hydration, and long-term benefits"
+    ],
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Concealers & Neutralizers"
+    ],
+    "variants": [
+      {
+        "asin": "B0C2JHK7CT",
+        "title": "0.34 Ounce (Pack of 1) Aspen 1.0W - Fair, Warm Undertones",
+        "url": "https://www.amazon.com/dp/B0C2JHK7CT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61du-2vrxXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLPQMCV4",
+        "title": "0.34 Ounce (Pack of 1) Larch 2.25C - Light Medium, Beige Undertones",
+        "url": "https://www.amazon.com/dp/B0CLPQMCV4",
+        "imageUrl": "https://m.media-amazon.com/images/I/615Td8nT0TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2JL7B6J",
+        "title": "0.34 Ounce (Pack of 1) Mahogany 14.5N - Deep Cocoa, Rich Undertones",
+        "url": "https://www.amazon.com/dp/B0C2JL7B6J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GRrWBXZ9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLQJCMDN",
+        "title": "0.34 Ounce (Pack of 1) Cedar 1.20C - Fair, Pink-Beige Undertones",
+        "url": "https://www.amazon.com/dp/B0CLQJCMDN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61t-sGHHTQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLQ7W7SX",
+        "title": "0.34 Ounce (Pack of 1) Hazel 2.00N - Light, Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0CLQ7W7SX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mOBIsnRDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2JM8WR2",
+        "title": "0.34 Ounce (Pack of 1) Linden 1.25N Light Beige, Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B0C2JM8WR2",
+        "imageUrl": "https://m.media-amazon.com/images/I/616I+KS5cGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLPZX2HJ",
+        "title": "0.34 Ounce (Pack of 1) Anjou 11.5N - Deep Beige, Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0CLPZX2HJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DpofXI8SL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLQ9S7J6",
+        "title": "0.34 Ounce (Pack of 1) Acacia 12.25C - Deep, Red Undertones",
+        "url": "https://www.amazon.com/dp/B0CLQ9S7J6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qYZjRo8zL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2JL8K6Q",
+        "title": "0.34 Ounce (Pack of 1) Oak 5.5N - Medium Beige, Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0C2JL8K6Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QkRoHKPJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLPQPQJ5",
+        "title": "0.34 Ounce (Pack of 1) Spruce 12.75N - Deep, Bronze Undertones",
+        "url": "https://www.amazon.com/dp/B0CLPQPQJ5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Mc95r71OL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2JLSS62",
+        "title": "0.34 Ounce (Pack of 1) Sequoia 13.5C - Deep Auburn, Copper Undertones",
+        "url": "https://www.amazon.com/dp/B0C2JLSS62",
+        "imageUrl": "https://m.media-amazon.com/images/I/61neCQcaQxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2JM4KLR",
+        "title": "0.34 Ounce (Pack of 1) Maple 9.0W - Medium Deep, Golden Bronze Undertones",
+        "url": "https://www.amazon.com/dp/B0C2JM4KLR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NAplvRklL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLQ6KVMY",
+        "title": "0.34 Ounce (Pack of 1) Palmetto 2.80N - Medium Light Tan, Olive Undertones",
+        "url": "https://www.amazon.com/dp/B0CLQ6KVMY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sovCThmUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2JMTMG8",
+        "title": "0.34 Ounce (Pack of 1) Banyan 2.75W - Medium Light, Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0C2JMTMG8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZgpXcyOjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLQ7RY6C",
+        "title": "0.34 Ounce (Pack of 1) Willow 3.00C - Medium Light, Peach-Beige Undertones",
+        "url": "https://www.amazon.com/dp/B0CLQ7RY6C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Rzf4h+pUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLQFRHRT",
+        "title": "0.34 Ounce (Pack of 1) Chestnut 13.75W - Deep Auburn, Rich-Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0CLQFRHRT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71LaT0-0vCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLQ2G7JJ",
+        "title": "0.34 Ounce (Pack of 1) Ginkgo 5.00N - Medium Tan, Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B0CLQ2G7JJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Nhpyd9Z3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2JKYC36",
+        "title": "0.34 Ounce (Pack of 1) Juniper 3.25W - Medium Light Tan, Olive Undertones",
+        "url": "https://www.amazon.com/dp/B0C2JKYC36",
+        "imageUrl": "https://m.media-amazon.com/images/I/614dm0LPdIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLQ1CGV3",
+        "title": "0.34 Ounce (Pack of 1) Poplar 0.10C Fair, White-Pink Undertones",
+        "url": "https://www.amazon.com/dp/B0CLQ1CGV3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DJBtXxrNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C2JK9SPL",
+        "title": "0.34 Ounce (Pack of 1) Birch 0.25N - Fair, Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B0C2JK9SPL",
+        "imageUrl": "https://m.media-amazon.com/images/I/619-XSaj+kL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 38.4,
+      "beforePrice": 48,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Ogee Organic Skincare",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A26XWZ7M5YRWLR",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/616I+KS5cGL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/616I+KS5cGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81rEiaDifyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71HzNmu6lGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/818wXih7PIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71w2E5akaTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81RY3nAd5pL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91jhrPvCOwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71tkKlkaGTL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04f977a6-66fc-4c54-90d1-d528868cc17b.__CR255,0,1623,502_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3137ffd5-939e-4a50-b48e-4c775e36fcd7.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7092d49b-d6d9-438d-b0f3-710623c6d2de.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/60f5b166-2f00-448b-8180-6a88b5ecff36.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5405c20d-8c7a-4b72-bc92-ed417b8cccbd.__CR0,0,1000,1000_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bc885e7a-73b7-4401-8d9e-52945ef92e17.__CR0,0,1000,1000_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2bd7860c-3236-4477-839d-6162c55ba00e.__CR0,0,1000,1000_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4004f8b9-a0ef-4dba-97a7-f4824266dfc0.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bee74d32-a43f-4d23-b4da-62a8eab94b46.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6fdde478-7fcf-40e6-bc33-b43cbd33a454.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+    ],
+    "totalVideos": 4,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/67ac9d93-390d-4f2c-bc48-6fcc26234962.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02812952-4ac4-4f2a-adb3-45ec67d6d85d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ca688fa6-92f7-4836-987e-f10be70418c0.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Stick"
+      },
+      {
+        "key": "Color",
+        "value": "Linden 1.25N Light Beige, Neutral Undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Evens skin tone, enhances glow"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Ogee"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "UPC",
+        "value": "855312008974"
+      },
+      {
+        "key": "Model Number",
+        "value": "Sculpted Complexion Stick"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "Sculpted Complexion Stick"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Ogee"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#7,452 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #125 in Concealers & Neutralizing Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0C2JM8WR2"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Anti-aging,Breathable"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural, Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light-Medium, Buidable to Full Coverage"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.08 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty-Free, Fragrance Free, Gluten Free, Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1118,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "65%",
+        "fourStars": "14%",
+        "threeStars": "7%",
+        "twoStars": "4%",
+        "oneStars": "10%"
+      },
+      "customersSay": "Customers find the foundation stick provides great coverage, particularly for light to medium applications, and appreciate its silky texture that feels light on the skin. The product receives positive feedback for its natural-looking finish and color match, with many noting the fairest shade matches their skin perfectly. The application and blendability receive mixed reviews - while some say it goes on smoothly and blends nicely, others report it doesn't go on smoothly and is hard to blend. Skin type reactions are also mixed, with some finding it good for their skin while others note it accentuates wrinkles and pores.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 99,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 94,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 91,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 85,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 72,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 114,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin type",
+          "count": 72,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 62,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71Usl-h5sDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Loyi6gafL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ktMabsqNL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dcjIi8M2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Ge9lAjU4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/710AcCltsqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71SSHULUwLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/619M+obJYUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YRT7fnqxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/612y4swjkKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613-fLe3I0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718JTyUDhqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Highly recommend!",
+          "reviewText": "Love that it\u2019s all natural! Goes on smoothly, covers well, and has beautiful finish. Great for more mature skin as it doesn\u2019t form creases. Very creamy and rich without leaving a greasy appearance. No odor which is a plus as well.",
+          "reviewDate": "Reviewed in the United States on February 11, 2026",
+          "customer": "jane childers",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGRM4SGQP7BIGJE3LYQ3HCTYOZUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.34 Ounce (Pack of 1)",
+            "color": "Linden 1.25N Light Beige, Neutral Undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Worth it, healthy ingredients",
+          "reviewText": "All this talk/ ads from Hush Glo foundation being oh so fab for older women, ding ding WRONG! I fell weak and ordered Hush and big mistake. It has mineral oil in it and nothing that's healthy for your skin. Ogee is the BEST, it's easy to blend and gives your skin good stuff. Hush also has a cute little mushroom shaped applicator that falls apart( 1st app for me). Ogee is pricey but let's face it girls we're worth it. The plus side is it works, you have more control over where you want to apply it, you can use an Ogee brush or your preference or your fingers, it's compact and is travel convenient. Ogee may be pricey but you get a high quality product that is more than just a foundation.",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Cian",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AED36BEGY2MBCPTIQPKES3SBATJA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.34 Ounce (Pack of 1)",
+            "color": "Linden 1.25N Light Beige, Neutral Undertones"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Causes skin reaction and breakout",
+          "reviewText": "I really wanted to like this makeup!! I had heard such wonderful things about it and it is absolutely beautiful! I loved the silky feel of it on my skin. Perfect coverage. Good, clean makeup is hard to come by! But I noticed as soon as I started wearing it that my skin became red and bumpy and started breaking out. I wanted to believe it was just hormonal changes so I gave it some time. It would get worse and worse as I wore it over a few days and I kept wearing it to cover up the awful breakouts, then I'd be home for a few days without makeup and my skin would clear up. I'd start wearing it again and same reaction! Anytime I wore it around my eyes, my eyes would burn and water all day. I gave it 2 months of wearing before I determined for certain that it was this makeup causing the reaction and painful breakout. I'm extremely disappointed for the amount of money I spent on it! I missed the return window because I didn't realize in time that this was for sure the culprit.",
+          "reviewDate": "Reviewed in the United States on May 28, 2024",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGFCEXRSPYXFK4HIJS2XN2ZVDMAA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.34 Ounce (Pack of 1)",
+            "color": "Birch 0.25N - Fair, Neutral Undertones"
+          },
+          "helpfulVotes": "37 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Product",
+          "reviewText": "Was a perfect shade match and coverage is buildable where I need more coverage. No extra waste of foundation like liquid foundations. Definitely will stick with this. I like the 70% organic ingredients. No skin irritation.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Cindy B.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEMCAMSQSXLOKGD5N7KZQRMTZXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.34 Ounce (Pack of 1)",
+            "color": "Birch 0.25N - Fair, Neutral Undertones"
+          }
+        },
+        {
+          "reviewTitle": "Love it!",
+          "reviewText": "I love Ogee! I am over 50 and it doesn't sit in the lines on my face, great coverage and tone. I have had no skin irritation, and it goes on super easy.",
+          "reviewDate": "Reviewed in the United States on February 21, 2026",
+          "customer": "Holly Nelson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHOY2XJQULOH6IR5EXRIWPVD25CQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.34 Ounce (Pack of 1)",
+            "color": "Aspen 1.0W - Fair, Warm Undertones"
+          }
+        },
+        {
+          "reviewTitle": "BEST FOUNDATION FOR MATURE SKIN - DID NOT SETTLE INTO MY LINES OR WRINKLES \ud83c\udf37\u2764\ufe0f",
+          "reviewText": "I am so HAPPY WITH THIS PURCHASE ! I\u2019m 66 years old, I bought this in the color Linden 125N. It matched perfectly ! DOES NOT SET INTO LINES \ud83c\udf37\u2764\ufe0f. I wish I could afford the contour set to go along with this Foundation.. but honestly I don\u2019t think I even need it, due to awesomeness of this foundation. TIP: Make sure you moisturize prior to applying because it does go on a bit dry.. but that could because of my aged dry skin.",
+          "reviewDate": "Reviewed in the United States on November 14, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEXD3D6DAQSFXE74JEXBRMIFPPCA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.34 Ounce (Pack of 1)",
+            "color": "Linden 1.25N Light Beige, Neutral Undertones"
+          },
+          "helpfulVotes": "17 people found this helpful"
+        },
+        {
+          "reviewTitle": "Meh!",
+          "reviewText": "Meh!!! Just ok. A little less coverage than I\u2019d like and also there is perfume in the makeup. I wouldn\u2019t have bought it had I known. The smell is not awful but does not smell like it\u2019s necessarily natural either. I won\u2019t buy it again but for the right skin and someone who likes perfume, it has a nice texture. Easier to put on with fingers than with a brush.",
+          "reviewDate": "Reviewed in the United States on October 16, 2025",
+          "customer": "teabird",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHT45QN73WAQVKJI2NL45TKSRZGQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "0.34 Ounce (Pack of 1)",
+            "color": "Linden 1.25N Light Beige, Neutral Undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Meh",
+          "reviewText": "Like the ingredients and color, but not impressed with the look and application of this foundation. You have to make sure your skin is already very prepped, smooth, and moisturized to use this. Shows if you have any flaky skin. It doesn\u2019t just melt naturally into your skin as it\u2019s hyped up to do. I was negatively surprised at how the stick doesn\u2019t glide effortlessly on your face. Feels like pulling my skin when I put it on. I wanted to love this foundation but find it \u201cjust ok.\u201d For the price point and all the social media advertising, I expected greatness. It\u2019s not the foundation I reach for on a daily basis like my Saie slip tint tinted moisturizer.",
+          "reviewDate": "Reviewed in the United States on February 3, 2026",
+          "customer": "Briana",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFET6RTJLNCDQX5J6GDJGWK7666Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "0.34 Ounce (Pack of 1)",
+            "color": "Linden 1.25N Light Beige, Neutral Undertones"
+          }
+        }
+      ]
+    }
+  }
+}

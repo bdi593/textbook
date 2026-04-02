@@ -1,0 +1,470 @@
+{
+  "requestMetadata": {
+    "id": "81be8987-a1d3-473c-a50b-fada688275c7",
+    "status": "ok",
+    "html": "https://files.hasdata.com/81be8987-a1d3-473c-a50b-fada688275c7.html",
+    "json": "https://files.hasdata.com/81be8987-a1d3-473c-a50b-fada688275c7.json",
+    "url": "https://www.amazon.com/dp/B0BBFWFN42"
+  },
+  "product": {
+    "asin": "B0BBFWFN42",
+    "url": "https://www.amazon.com/dp/B0BBFWFN42",
+    "title": "Tower 28 SunnyDays SPF 30 Tinted Moisturizer - 2-in-1 Buildable Coverage Foundation + Mineral Sunscreen for Face - Zinc Oxide, Aloe & Prickly Pear for Sensitive Skin - 15/Light Warm (1 oz)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "15 MELROSE"
+    },
+    "featureBullets": [
+      "SPF 30 Tinted Moisturizer - SunnyDays is a 2-in-1 mineral sunscreen and foundation that provides broad spectrum SPF 30 protection with light-to-medium buildable coverage for a natural finish that lets real skin shine through. Shade 15 \"Melrose\" is light with warm undertones.",
+      "Formulated for Sensitive Skin - This fragrance-free, non-comedogenic mineral face sunscreen is made for sensitive, blemish-prone skin. SunnyDays uses non-nano zinc oxide for gentle, dermatologist-recommended sun protection.",
+      "No White Cast - Enriched with aloe vera to calm stressed skin and prickly pear to soften and repair, this breathable face makeup formula delivers skincare-powered ingredients with complexion-evening coverage and zero white cast or heaviness.",
+      "How to Use - Use fingertips for sheer, natural coverage or apply with a brush or sponge for buildable medium coverage. Use as the last step in your morning skincare routine or the first step in your makeup application. Reapply at least every 2 hours for full protection and use a water-resistant sunscreen if swimming or sweating",
+      "Good. Clean. Fun. Always. - Tower 28 was inspired by Los Angeles living and built around real skin needs - creating safe, high-performance formulas for sensitive skin that blend dermatologist-approved skin care with bold, joyful beauty for all."
+    ],
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Tinted Moisturizers"
+    ],
+    "variants": [
+      {
+        "asin": "B0BVGFCLCD",
+        "title": "55 TEMESCAL",
+        "url": "https://www.amazon.com/dp/B0BVGFCLCD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61g4m-8AF9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPCRD37",
+        "title": "13 La Cienega",
+        "url": "https://www.amazon.com/dp/B0CCPCRD37",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ylGdlZdgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVGHDNGR",
+        "title": "50 SUNSET",
+        "url": "https://www.amazon.com/dp/B0BVGHDNGR",
+        "imageUrl": "https://m.media-amazon.com/images/I/619A1NoKpRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVGF22XV",
+        "title": "35 POINT DUME",
+        "url": "https://www.amazon.com/dp/B0BVGF22XV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61k0KdinrcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPCVTKL",
+        "title": "18 Montana",
+        "url": "https://www.amazon.com/dp/B0CCPCVTKL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ro8glragL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVGH6D9C",
+        "title": "20 MULHOLLAND",
+        "url": "https://www.amazon.com/dp/B0BVGH6D9C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QoohNt6aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVGHT7WM",
+        "title": "30 PCH",
+        "url": "https://www.amazon.com/dp/B0BVGHT7WM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mHDP+Uq+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPDYHL8",
+        "title": "38 Pomona",
+        "url": "https://www.amazon.com/dp/B0CCPDYHL8",
+        "imageUrl": "https://m.media-amazon.com/images/I/612+Yh9p6ZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVGD1G6C",
+        "title": "70 VENIC",
+        "url": "https://www.amazon.com/dp/B0BVGD1G6C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61nhiyF0nsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVGG5LXS",
+        "title": "45 SILVER LAKE",
+        "url": "https://www.amazon.com/dp/B0BVGG5LXS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RwD85qS8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BDQTBXNT",
+        "title": "10 LARCHMONT",
+        "url": "https://www.amazon.com/dp/B0BDQTBXNT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Se65Sc3uL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BBFWFN42",
+        "title": "15 MELROSE",
+        "url": "https://www.amazon.com/dp/B0BBFWFN42",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VSgJ3dV0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVGBTPGV",
+        "title": "60 THIRD STREET",
+        "url": "https://www.amazon.com/dp/B0BVGBTPGV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ypn66JUJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVG9XP36",
+        "title": "65 TOPANGA",
+        "url": "https://www.amazon.com/dp/B0BVG9XP36",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AR0p8dzqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVGJCXWR",
+        "title": "40 RUNYON",
+        "url": "https://www.amazon.com/dp/B0BVGJCXWR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zqNjLAs8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BBFRVL8W",
+        "title": "25 OCEAN PARK",
+        "url": "https://www.amazon.com/dp/B0BBFRVL8W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FnT4i4gUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BMGY2BVH",
+        "title": "05 FAIRFAX",
+        "url": "https://www.amazon.com/dp/B0BMGY2BVH",
+        "imageUrl": "https://m.media-amazon.com/images/I/51-cY3ERDlL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 32,
+      "beforePrice": 32,
+      "discount": "-10%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "LA Beauty 2026",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3Q8DNSRRZA668",
+    "shipper": "Amazon",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/61VSgJ3dV0L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61VSgJ3dV0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ZwKfsevQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71os8lAChKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71HWD9w5HrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/814f1i+9FIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81FxoFaqDML._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/247b7cc4-d43d-4ada-8e50-3c6410987938.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7dcfa4b0-ba08-4dde-b01e-5ec7b2aa737f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72cffd08-b33d-4599-81f5-64ce688df694.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7cf6d1d0-d0e0-4bd5-89b6-33821d3bc8b8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/735c0c16-7f7a-4f20-b793-96424c663924.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/690c988f-3f18-410a-bc26-6d9cc092f24b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/009800de-3948-4bb1-9b71-757c07cb1f15.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5de2f1c7-5465-41c5-85ac-eac5b5b325df.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3fa6d6b5-93f4-45af-8a14-fce2ae79ac35.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c0f0d8bb-6f88-48be-9a43-61fa2613120e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/562fb5c7-659a-4e2c-8ff1-c7ecf954a2cd.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/edc1759a-8953-4087-9024-a325d12405e9.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cab2cc72-6b5d-40c5-8480-1573ce325ad7.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3adafb4-8359-4eb1-b351-a81187cb02c8.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b9daa762-4f5e-4303-bb81-6082c83718f1.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc0c08a2-542d-4f7f-8755-e2b178f2343c.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dda5a8d7-f004-423e-aa26-1da6e0ec8727.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/170a8a12-462e-48ce-8186-631cc45077ac.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/170a8a12-462e-48ce-8186-631cc45077ac.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b9e41abd-b0b0-4dfe-9310-f5930f78e214.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8a42aef9-afdf-4b81-9dd6-20176df5c504.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/254dcb75-3ddf-4288-8c1a-7facbde197db.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Scent Name",
+        "value": "Pear"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "UV Protection, Soothing, Even Skin Tone"
+      },
+      {
+        "key": "Sun Protection Factor",
+        "value": "30 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Sensitive"
+      },
+      {
+        "key": "Water Resistance Level",
+        "value": "Water Resistant"
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Target Use Body Part",
+        "value": "Face"
+      },
+      {
+        "key": "Color",
+        "value": "15 MELROSE"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Alcohol-free,Non-comedogenic"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.1 Pounds"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.5 x 1.5 x 4.9 inches"
+      },
+      {
+        "key": "Item Volume",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Tower 28"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "American Samoa"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Tower 28 Beauty"
+      },
+      {
+        "key": "UPC",
+        "value": "850003234373"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "T020-03-0000"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#3,976 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #7 in Facial Tinted Moisturizers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BBFWFN42"
+      },
+      {
+        "key": "Material Features",
+        "value": "Fragrance Free, Non Greas, Vegan"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol-free,Non-comedogenic"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 802,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "75%",
+        "fourStars": "10%",
+        "threeStars": "6%",
+        "twoStars": "4%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this sunscreen provides light to medium coverage and matches their skin tone beautifully, making their face look well moisturized and silky smooth. Moreover, the product is highly recommended for daily use, with a dewy finish that feels light on the face and doesn't irritate sensitive skin. Additionally, they appreciate its smooth application and how it works well for various skin types, with one customer noting it's particularly suitable for dry and sensitive skin.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 94,
+          "status": "positive"
+        },
+        {
+          "aspect": "Tinted",
+          "count": 89,
+          "status": "positive"
+        },
+        {
+          "aspect": "Sun protection",
+          "count": 67,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 64,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 53,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 51,
+          "status": "positive"
+        },
+        {
+          "aspect": "Finish",
+          "count": 45,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 36,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/818fmlQIU+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wHp1kuJeL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71PJmnJWBiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61rXWc0vp8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/511QSoW4CxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/719+135jtBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51sMvGUVJnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zRTac-8pL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51n4HBbty6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613WXudnmjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+FMko8+CL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71hvg5X-c9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f Finally, a Sunscreen That Loves Pale, Sensitive Skin Back \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+          "reviewText": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f Finally, a Sunscreen That Loves Pale, Sensitive Skin Back \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f Finding a tinted mineral sunscreen that works on very pale, highly sensitive skin can feel like chasing a unicorn\u2014but Tower 28\u2019s Tinted Mineral Sunscreen in Fairfax is the real deal \ud83e\udd84\u2728 First off, the color match is chef\u2019s kiss. Fairfax blends seamlessly into pale skin without turning me orange, gray, or ghostly. And speaking of ghosts\u2014zero white cast. None. Not even a hint. The coverage is another pleasant surprise. It\u2019s lightweight and breathable, yet somehow still manages to even out my skin beautifully. You can wear it sheer for a \u201cmy skin but better\u201d vibe or build it up where you need a little extra help\u2014without it feeling heavy or cakey. Now for the real perks: no breakouts, no irritation, no reactions. My skin is extremely sensitive and reactive, and this sunscreen behaves like a polite guest\u2014calm, gentle, and respectful. In short: flattering, calming, long-lasting, and reliable. Tower 28 Fairfax has officially earned a spot in my routine\u2014and my sensitive skin is very grateful \ud83d\udc9b\u2600\ufe0f Highly recommend!",
+          "reviewDate": "Reviewed in the United States on January 20, 2026",
+          "customer": "Xazmeen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHAFSHL7EFJPS72PW7W4Q43LYS7A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05 FAIRFAX"
+          },
+          "helpfulVotes": "18 people found this helpful"
+        },
+        {
+          "reviewTitle": "Favorite new face product.",
+          "reviewText": "Wow! My new favorite face product! I\u2019ve always wanted to be someone that wears a full beat everyday but I am not that girl. I am more of a skin care girly so when I heard about this being a clean brand, pretty good coverage, and sun protection?? I was going to give it a try! And it did not disappoint! My skin looks fresh, clean, even, and it still looks like skin. It blended really well with my fingers. It\u2019s such a weight lifted off my shoulders knowing i am going out with sun protection AND makeup. I will definitely be trying out some more of their products. It also was really easy to put cream or powder products on top but honestly it wasn\u2019t necessary to put anything on top. I took a picture inside and outside for comparison and this is just the tinted moisturizer by itself. No concealer or powder",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Mariah",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTBPLV227EZ6KZZS3UHTCYXGZQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "13 La Cienega"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "LOVE this product",
+          "reviewText": "This is a great product to use if you\u2019re going for that \u201cno makeup\u201d look. It\u2019s very easy to apply and super moisturizing. It\u2019s not streaky and you would never know there\u2019s any sunscreen in it. It leaves me glowing! However, it\u2019s very light coverage so if you\u2019re looking for medium to heavy coverage, this probably isn\u2019t for you.",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFIXWRYPHR6WJA7GBM4L7FZUOIFA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "20 MULHOLLAND"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Very natural on skin, love",
+          "reviewText": "Love, love , love! Perfect coverage for a light make up look and feels good on my skin. No creases or cakey spots. The sunscreen in it doesn\u2019t irritate my eyes, or cheeks like some do. So happy! Does seem a bit oily at first but I put a tiny bit of setting powder over it and fixed that but I think if it sat for a bit it wouldn\u2019t absorb and not be as oily.",
+          "reviewDate": "Reviewed in the United States on February 26, 2026",
+          "customer": "Danielle",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGSTFDYFAGLMOBKQP6R7QW43GE6Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "13 La Cienega"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "The color on your skin is beautiful.",
+          "reviewText": "Excellent and healthy facial sunscreen. It has a dewy finish that gives you a double benefit: protection and hydration. Just be careful when applying it near your eyes, as it can be irritating if it gets too close to the inner corner of your eye.",
+          "reviewDate": "Reviewed in the United States on December 18, 2025",
+          "customer": "Alimar Salomon",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGWAQEQIXREW2C3GP5CBPKSW4FVQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "15 MELROSE"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "No breakouts!!",
+          "reviewText": "This is hands down one of the nicest tinted sunscreens I\u2019ve tried. It blends like a dream, doesn\u2019t pill, and gives my skin this pretty, natural glow instead of looking greasy. I love that it actually feels hydrating while still giving solid sun protection. On low-makeup days, this is basically all I need.",
+          "reviewDate": "Reviewed in the United States on February 11, 2026",
+          "customer": "Cassie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGSO2J2W3EQAZ7K7J5AYE4ELZFKA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "13 La Cienega"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect! protective and works well.as makeup u get alot! Lightweight buildable! See other comment",
+          "reviewText": "Obsessed! I waited and I attempted to find a sunscreen that did not burn my eyes or a face sunscreen then did not burn my eyes but I could not do it I was between this and LaRoche POSE which are both very good brands but I used the spray by Tower 22 before when my skin was acting up in my skin was acting up prior to getting this then I believe this may have even been cheaper either way I did not tan at all I went to South Carolina was on the beach at least 5 days out of 8:00 and for this on my face and my face did not burn at all I'm kind of a little mad at you didn't get at least a little color but goes to show that it works very well they say that the foundations with sunscreen do not work but this absolutely does although I don't know if this is a foundation it is very late but I feel like it covers a lot I use elf bronzer drops with mine because now I'm a little bit Tanner but I use it as my everyday foundation and now I feel like I can't live without it... So much comes in it it's worth everybody so if you're thinking about it just do it as far as the match like I said you can add browsing drops to it and it's such a lightweed that unless you get it too dark I think it would be a good match even if you did get a too dark because it is so lightweight.",
+          "reviewDate": "Reviewed in the United States on July 10, 2025",
+          "customer": "Lindsey Ford",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHA6YSEXUN3ESC727E6BXTTA4FCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "20 MULHOLLAND"
+          },
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not for the truly pale girls",
+          "reviewText": "I love the way it feels on the skin but unfortunately the lightest shade is too dark. Pale girlies don\u2019t be fooled by the model pictures! Disappointed because the product seems great.",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "Emily Carter",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFXCU4Y4PMLLNST75MXDGBOFAMHA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "05 FAIRFAX"
+          }
+        }
+      ]
+    }
+  }
+}

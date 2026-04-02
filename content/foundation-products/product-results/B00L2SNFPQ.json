@@ -1,0 +1,450 @@
+{
+  "requestMetadata": {
+    "id": "c89c59fd-6aed-48b7-b9bb-52e600e31541",
+    "status": "ok",
+    "html": "https://files.hasdata.com/c89c59fd-6aed-48b7-b9bb-52e600e31541.html",
+    "json": "https://files.hasdata.com/c89c59fd-6aed-48b7-b9bb-52e600e31541.json",
+    "url": "https://www.amazon.com/dp/B00L2SNFPQ"
+  },
+  "product": {
+    "asin": "B00L2SNFPQ",
+    "url": "https://www.amazon.com/dp/B00L2SNFPQ",
+    "title": "L'Or\u00e9al Paris Makeup Magic Skin Beautifier BB Cream Tinted Moisturizer, Anti-Redness, 1 fl oz, 1 Count",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Anti-Redness",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Anti-Redness BB Cream ultra-light lotion delivers 4 beautifying actions in 1: neutralizes the look of redness, corrects skin color for an even complexion, hydrates for all day moisture and hides imperfections",
+      "With Color Transforming Pigments: Formulated with Beautifying Beads, encapsulated, color-transforming pigments that counteract redness and transform to a universal shade to reduce the look of redness",
+      "Universal Formula For All Skin Tones: This skin beautifier instantly matches your skin and transforms to your perfect shade for a flawless, bare skin finish, making it perfect for all skin tones",
+      "The Foundation of Your Look: From BB creams to blush, L'Or\u00e9al face makeup has everything you need, Highlight to illuminate your look, use concealer to hide imperfections or apply contouring makeup for enhanced, defined features",
+      "L'Oreal Paris Beauty: A leading total beauty care company based in Paris, we offer innovative products and unique expertise from beauty experts in makeup, skin care, hair care, styling and hair color"
+    ],
+    "description": "L'Or\u00e9al Paris presents the Magic Skin Beautifier BB Cream, your one-step secret to a naturally flawless and even-toned complexion. This revolutionary anti-redness formula is designed for those who crave a perfect finish without the weight of traditional makeup. Our ultra-light lotion is powered by Beautifying Beads\u2014smart, encapsulated pigments that start as a green, redness-neutralizing cream and magically transform to match your unique skin tone as you blend. The 4-in-1 formula simplifies your beauty routine by priming, correcting, hydrating, and perfecting all at once. It glides on effortlessly to conceal imperfections and provide all-day moisture, leaving you with a velvety, \"bare skin\" finish that feels as good as it looks. Perfect for quick trips to the store, busy mornings, or days when you want your natural beauty to shine through. Simply apply a pea-sized amount with your fingertips and watch the magic happen. Experience the confidence of visibly calm, even skin.",
+    "boughtInPastMonth": "8K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "BB Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B0BPRPCG61",
+        "title": "Anti-Fatigue 1 Fl Oz (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0BPRPCG61",
+        "imageUrl": "https://m.media-amazon.com/images/I/71FXpavc0PL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00L2SNFPQ",
+        "title": "Anti-Redness 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00L2SNFPQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71lcuV3OgwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0084A5PWG",
+        "title": "Deep 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0084A5PWG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71K7a1Qrc9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07QSWFS5C",
+        "title": "Light 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B07QSWFS5C",
+        "imageUrl": "https://m.media-amazon.com/images/I/81LQaPJ6DkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B078JJY7Z6",
+        "title": "Anti-Redness 1 fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B078JJY7Z6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71GW9XQf4QL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00JU5AXMG",
+        "title": "Anti-Fatigue 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00JU5AXMG",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Kq8yEdtVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0084A5PVM",
+        "title": "Light 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0084A5PVM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71cXs86ISjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0084A5PWQ",
+        "title": "Medium 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0084A5PWQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71lSWUW-oIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0084A5PSK",
+        "title": "Fair 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0084A5PSK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71m84L7DfRL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 10.82,
+      "beforePrice": 14.99,
+      "discount": "-28%",
+      "priceFrom": 10.82,
+      "otherOfferQuantity": 12
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/71lcuV3OgwL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71lcuV3OgwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Cdv3OebFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81EepN3XluL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91sqCU8OfTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81qymO4QX1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61uAFXQJKqL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e7eb65d9-f9e5-499c-b126-d3c3e6609512.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f1d925fe-2f65-46e9-8df7-8ed09469b35f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6fc1e536-fd5c-4b7a-ad23-a857c83b9bed.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6fc1e536-fd5c-4b7a-ad23-a857c83b9bed.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4dc7641c-e59b-4f54-992b-7fa51b0cde7e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1d475e1c-c02b-4666-9e2c-2fd474b5f0b9.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Anti-Redness"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "neutralizes the look of redness, evens skin tone, hydrates and perfects"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00071249283714"
+      },
+      {
+        "key": "UPC",
+        "value": "071249283714"
+      },
+      {
+        "key": "Model Number",
+        "value": "hfs-koi-zk-a8405"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "K1729000"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,238 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #3 in BB Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00L2SNFPQ"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Our Magic Anti-Redness BB cream is formulated with Beautifying Beads, encapsulated, color-transforming pigments that counteract redness. This multi-tasking, ultra-light lotion delivers 4 beautifying actions in 1: neutralizes the look of redness, evens skin tone, hydrates and perfects. It instantly transforms to your perfect shade for a flawless, bare skin finish. FOR ALL SKIN TONES"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "5 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.97 x 1.52 x 5.23 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 48580,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "69%",
+        "fourStars": "13%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find this BB cream effective at covering redness and blemishes, providing flawless coverage without looking cakey, and appreciate its lightweight, natural-looking finish. The product receives positive feedback for its quality, with one customer noting it works better than expensive alternatives. The color match receives mixed reviews, with some customers finding it evens skin tones while others say it's too orange for their skin tone. The moisturizing properties are also mixed, with some customers saying it feels like moisturizer while others find it very dry.",
+      "aspects": [
+        {
+          "aspect": "Redness coverage",
+          "count": 932,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 725,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 637,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 549,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 474,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 474,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 478,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71yknr5l-fL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71DYDgKX3JL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61XBfSylvlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/719xzTTDdGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Njh158-dL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6193yBc1E3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61prYB61RjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Db0UZtTYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71i8W4d-xBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61RbYDPJfQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pUGaNlwbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Rz2ivSzkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Unable to find a color match. Discontinued",
+          "reviewText": "Since the Fair color is no longer available I ordered the light. Light is shades darker than Fair. I will not be able to use this product anymore. I am extremely disappointed since I have been using this product for years. Is there a replacement for the color fair.",
+          "reviewDate": "Reviewed in the United States on February 18, 2026",
+          "customer": "Debora",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFIEF6TWH44RJHAGNZQM6XZLEDYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Fair",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "No more makeup or cakey skin!",
+          "reviewText": "My new favorite cream! For the first time ever I don\u2019t wear makeup anymore. Just this and a touch of under eye concealer. It gets rid of my red blotchy skin! It lasts all day! It is lightweight and not greasy! I have oily acne prone skin and it does not make me break out! In fact it doesn\u2019t clog my pores or look cakey! It makes my face look flawless! The first picture is without anything, second picture is first thing in the morning after it set in, and their picture is after 12 hours of wear without any kind of touch ups or powder or anything. I saw an Instagram influencer use another ridiculously priced brand and I decided to try this one and I love love love it! You only need a pea size and it will last months!",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Brianna Olomua",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6SD5PE6XP4FYSQSTAAPH6FKETA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Anti-Redness",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great quality \ud83d\ude00",
+          "reviewText": "Absolutely gorgeous! Goes on white then turns into color, light, medium or dark. You get a good coverage, it wears long, it's not sticky, foundation quality. Moisturizes your skin as it can be worn alone or with foundation.",
+          "reviewDate": "Reviewed in the United States on March 13, 2026",
+          "customer": "Sara Fernandez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHLS2YLCORFSIRECFQOBPVQNFD5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Goes o green to help blur redness. Works!",
+          "reviewText": "This was exactly what I was looking for. I do wish it came in different colors as it goes on green but is tinted a tan color which helps disguise the redness. A little goes along way and I use a wet beauty sponge to apply so it\u2019s not to obvious a tan color. Last all day, doesn\u2019t make me oily or greasy. Lightweight. No scent.",
+          "reviewDate": "Reviewed in the United States on February 11, 2026",
+          "customer": "brittney",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFYIZTMVM4TQSFMLHY7YXTJ6K22A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Anti-Redness",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Works great for reducing redness, evening out skintone",
+          "reviewText": "I don't typically need to wear a lot of foundation and usually just want a natural look, being a guy who's not usually putting lots of layers of makeup on. I've previously used the Thank Me Later green primer but decided to try this and it's a good replacement. They're pretty comparable, it just gives my skin a natural, even complexion and covers up red areas that are noticeable to me. It's very easy to apply and only needs a few drops to cover my face. The thickness is creamy and pretty soft. I regularly wear it throughout the day without needing to reapply. I have used it with foundation but generally feel it works better on its own or with a small amount of concealer. Great product and well worth the price.",
+          "reviewDate": "Reviewed in the United States on November 20, 2025",
+          "customer": "KB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFY7VWGV6Z7CFCNM36VIAMUVUCSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Anti-Redness",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Too yellow/dark for pale skin",
+          "reviewText": "I'm not sure why I believed the marketing on this one, this is a color changing sheer foundation like we have seen with many other types of BB cream or CC cream or light coverage foundations. If you are actually pale this will turn into a very yellow based dark tan. It does not blend in with your complexion and if you sheer it out to the point where it's acceptable it has no color correction whatsoever. I'm afraid this was a huge bust for me. However, if you are a creamier tone leaning towards peach and especially with a yellow undertone this is brilliant because it will contract your redness and have a pleasing texture when used without sheeing it into oblivion. Fair warning this does have a fragrance and although it didn't seem to irritate my skin immediately when I took it off after a few hours my skin was more red than when I put it on. Too bad.",
+          "reviewDate": "Reviewed in the United States on October 5, 2025",
+          "customer": "SandraKat",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVUTCN6HQMXWLBDB7WO4DXBO64Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Anti-Redness",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "21 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice smooth coverage",
+          "reviewText": "This is the best product. It is inexpensive and great. It adjusts to your skin tone with light coverage.",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "Placeholder",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGUQ5J7DIUI45CFTMJIV2YQO4GDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Covers Redness",
+          "reviewText": "I bought this because I have very bad rosacea and I needed something to cover my severe redness on my face. A tiny drop of this goes a very long way and it does cover pretty well. My only complaint is that it doesn't seem to blend easily so you can tell where you've put it. It sits on top of the skin and not in it. It's thick and not very lightweight to me. The color is also a little orange for me too. All that said, it does help with the redness so it does help.",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "starshine9160",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEX62GEIXMZ4YCDBC72WI7D6EKBA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Anti-Redness",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love ir",
+          "reviewText": "I loved, really cover all the skin and doesn\u2019t let the skin oily",
+          "reviewDate": "Reviewed in the United Arab Emirates on July 27, 2023",
+          "customer": "Erika",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Wonderful product",
+          "reviewText": "A beautiful product. Looks lovely on the skin with a nice colour to it. Does what it says and reduces the appearance of redness on the skin. I have chosen to wear this daily now instead of any foundation. I also tried the more expensive Erborian CC cr\u00e8me for redness but this L\u2019Or\u00e9al product better suited my skin tone so I gave the Erborian away to a friend who has fairer skin than me.",
+          "reviewDate": "Reviewed in Australia on November 20, 2025",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Anti-Redness",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "Love this stuff. Use it under powder foundation. Goes in nice and has good colour match",
+          "reviewDate": "Reviewed in Canada on February 26, 2026",
+          "customer": "Cari Mell",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "requestMetadata": {
+    "id": "e031e742-757b-42db-8a1c-d4d32c1669ad",
+    "status": "ok",
+    "html": "https://files.hasdata.com/e031e742-757b-42db-8a1c-d4d32c1669ad.html",
+    "json": "https://files.hasdata.com/e031e742-757b-42db-8a1c-d4d32c1669ad.json",
+    "url": "https://www.amazon.com/dp/B07M8SQMN3"
+  },
+  "product": {
+    "asin": "B07M8SQMN3",
+    "url": "https://www.amazon.com/dp/B07M8SQMN3",
+    "title": "MISSHA M BB Boomer Primer for Face I Creamy-Soft, Illuminating Makeup Primer for Dewy Finish, Hydrating Radiant Cream, Moisturizing Makeup Base, Glass Skin, 1.35 Fl oz/40ml",
+    "isAvailable": true,
+    "featureBullets": [
+      "Illuminating Primer: This creamy-soft face primer enhances the longevity of your makeup. As a face primer for makeup, it extends wear time, ensuring your foundation remains flawless throughout the day, providing a radiant, dewy finish.",
+      "Moisture-Rich Formula: Our makeup primer for face is enriched with premium ingredients like squalene and moringa, acting as a hydrating primer. It deeply moisturizes, maintaining skin's natural balance and enhancing makeup adherence for lasting beauty.",
+      "Radiant Effect: Experience the radiance-boosting benefits of this primer for face before makeup application. Infused with pearl powder, it subtly illuminates your complexion, ensuring your makeup primer contributes to a luminous, youthful glow.",
+      "Wrinkle Care Benefits: Adenosine in our primer face makeup provides wrinkle care, smoothing fine lines and enhancing skin texture. This primer ensures your makeup primer for face not only beautifies but also nurtures your skin for lasting youthfulness.",
+      "Key Ingredients: Patented Moringa Oil hydrates and protects against environmental factors. Mannan quickly absorbs to moisturize and soften the skin. Squalene helps retain moisture and enhances overall skin health."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation Primers"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 10.92,
+      "beforePrice": 15,
+      "discount": "-27%"
+    },
+    "condition": "Regular Price",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "30-day refund / replacement",
+    "seller": "MISSHA US",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3LN26WPO9U6RR",
+    "shipper": "Amazon",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/51Clj2KtgYL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51Clj2KtgYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61XkfyeoXVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61B6BgE+9gL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61MbZ18OvJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71JWB6+OkoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61wnnvcIMLL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/84ed0528-adea-4565-bf96-135529fb44a7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/91cc3686-d5d9-4258-a771-dfc7237f8834.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/96b97ccc-ac22-4c9a-a9a3-2c51ad4cae21.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ddcfc214-24c1-4974-b9c3-c3094fa0653a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/281ef00b-6d47-4373-8ded-7dcf22d3422f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/793d90d7-e6d5-49d3-9778-0657b041be85.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8675bdf0-9c4b-4b4e-8089-72ab1f5f1f1e.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b6d10962-89a1-4819-bd84-4e4971891642.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5604020e-152c-48e8-b565-da7f0eb741e9.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12408ba4-7246-4269-93d4-e867640d3ee8.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/951564da-fa7e-4e87-836f-1f38876242e6.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f6d4ec15-67ff-4ef0-b07a-60521e5f3e94.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Neutral"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Falten"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MISSHA"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Radiant Finish"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Japan"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "08809581451476"
+      },
+      {
+        "key": "Model Number",
+        "value": "8809581451476"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "8809581451476"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Able C&C"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#12,967 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #59 in Foundation Primers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07M8SQMN3"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Long Lasting"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Luminous"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.07 Kilograms"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.57 x 1.18 x 5.51 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.35 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 305,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "11%",
+        "threeStars": "5%",
+        "twoStars": "5%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find the primer smooth and silky, with one mentioning it keeps makeup looking fresh throughout the day. The product receives positive feedback for its coverage, with one customer noting it makes skin look flawless. The fragrance and moisturizing properties receive mixed reviews - while some love the scent, others find it very strong, and while some say it's very moisturizing, others find it not very hydrating. The appearance and application also get mixed reactions.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 14,
+          "status": "positive"
+        },
+        {
+          "aspect": "Primer",
+          "count": 14,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 9,
+          "status": "positive"
+        },
+        {
+          "aspect": "Appearance",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Fragrance",
+          "count": 13,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 9,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 5,
+          "status": "mixed"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "A must have!!!",
+          "reviewText": "A product I would buy over and over along with the bb creams from this brand this makes your bb creams and foundations look flawless. Very lightweight not greasy but it is creamy feeling so wait about 2-3 minutes before applying bb cream or foundation and wait another minute or two to let foundation dry down because this is a very moisturizing product that needs to set before any kind of powder is used loose or pressed.",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "Miles/Lori",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBMUJKDSWFAGR74M4JKECIN3YHA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect Primer",
+          "reviewText": "Perfect primer, pairs perfectly with the missha bb foundation. I get compliments on my makeup and skin constantly. It\u2019s light weight, stays on well and makes my skin look flawless. Love it",
+          "reviewDate": "Reviewed in the United States on February 22, 2026",
+          "customer": "Amber Tobler",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEYIUTRLPQ5FBHIOJJ76PFVC4EOA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Quality",
+          "reviewText": "I have mature skin, and this is the best primer I think I have ever purchased, goes on smooth has a light nice clean scent and gives your face a glow",
+          "reviewDate": "Reviewed in the United States on January 15, 2026",
+          "customer": "Tamara Klink",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEYKXGYAZJOOCUFCOH5Y2AAZCYCA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Boomer Primer",
+          "reviewText": "I\u2019m not sure that it works like a primer to conceal pores, but it does make my face feel moisturized. I do feel like it helps keep the BB cream looking fresh throughout the day. I will definitely use the tube and possibly purchase again. It does have a scent that reminds me of my grandma but it\u2019s not unpleasant.",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Amy Lang",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMUKK7WB7QMKR767YOGJETBDY3A",
+          "customerStarsRating": 4,
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Awesome!",
+          "reviewText": "I purchased Lancome foundation and found it to be too matte for my 71yr old skin. But when I combine it with BB Boomer, it smooths on evenly and my skin looks moist. Highly recommend.",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Seedsong",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE5AJJR4HQ6ZVW4SUZQBQCGAY4SQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "10/10",
+          "reviewText": "Brightening and Dewy",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Kaylei Stewart",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGNMT5V5WMYPHQPNBE3NE5B7DVFQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Not for those with a sensitive nose\u2026",
+          "reviewText": "I bought this with the Missha Perfect Cover BB Cream and returned it for the same reason as the BB cream: so heavily scented I got a migraine. It smells like perfume and I had to wash my face before I was done testing it, and even then I could still smell it. I can\u2019t attest to whether it\u2019s a good product because I couldn\u2019t wear it long enough but I can say if you\u2019re sensitive to scent this is not for you.",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "StPauliGirl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHATDKYEOPHI72CWFMXXYMQ7IIUA",
+          "customerStarsRating": 1,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "primer",
+          "reviewText": "perfect product for under your makeup very smooth shiny and it allows your Make Up to stay on all day",
+          "reviewDate": "Reviewed in the United States on February 1, 2026",
+          "customer": "Judith Dunning",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE5B6T4OQWZ7BN6ZVYQTP2X46SNQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "\ud83d\udc4d",
+          "reviewText": "\ud83d\udc4d",
+          "reviewDate": "Reviewed in France on October 23, 2021",
+          "customer": "Karababa",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "All good",
+          "reviewText": "Very nice moisturiser.",
+          "reviewDate": "Reviewed in the United Kingdom on November 30, 2024",
+          "customer": "All good",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Makes your skins smooth but...",
+          "reviewText": "It's a great product. But does it really makes your bb cream last longer ? I'm not sure about that.",
+          "reviewDate": "Reviewed in Belgium on November 5, 2023",
+          "customer": "Jordan",
+          "customerStarsRating": 4
+        }
+      ]
+    }
+  }
+}

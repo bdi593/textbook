@@ -1,0 +1,436 @@
+{
+  "requestMetadata": {
+    "id": "d45aa78e-0d6a-4109-bff6-d65574d2088c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/d45aa78e-0d6a-4109-bff6-d65574d2088c.html",
+    "json": "https://files.hasdata.com/d45aa78e-0d6a-4109-bff6-d65574d2088c.json",
+    "url": "https://www.amazon.com/dp/B0BD4MMFVM"
+  },
+  "product": {
+    "asin": "B0BD4MMFVM",
+    "url": "https://www.amazon.com/dp/B0BD4MMFVM",
+    "title": "GAOY 16ml 2 Pcs Glassy Gel Top Coat and Base Coat Set,No Wipe Foundation Combination for UV Light Cure Nail Polish",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Gel Top Coat and Base Coat",
+      "size": "0.54 Fl Oz (Pack of 2)"
+    },
+    "featureBullets": [
+      "BIGGER VOLUME: 2 Pcs 16ml large bottles with brushed-stainless-steel-look chrome silver design.",
+      "MORE THAN GLOSSY: Top coat cures rock hard like glass, clear and shiny with no noticeable dulling of the nail color underneath.",
+      "NO WIPE FOUNDATION: Cure with a quality UV light for about 60 seconds to dry base coat or top coat.",
+      "MINIMAL ODOR: All ingredients in strict compliance with FD&C Act and SGS certified to ensure zero harsh smells.",
+      "LONGER PROTECTION: Follow our directions carefully and you can get an up to 4 weeks long-lasting gel manicure."
+    ],
+    "boughtInPastMonth": "10K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Foot, Hand & Nail Care",
+      "Nail Art & Polish",
+      "Base & Top Coats",
+      "Combination Base & Top Coats"
+    ],
+    "variants": [
+      {
+        "asin": "B0CYPDHFTS",
+        "title": "Stain Resistant Top Coat 0.54 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CYPDHFTS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61S5UdcUznL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CSNS238Y",
+        "title": "Crystal Glossy Gel Top and Base Coat Set 0.54 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CSNS238Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OkpJYaMqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BD4MMFVM",
+        "title": "Gel Top Coat and Base Coat 0.54 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BD4MMFVM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61KI6PPoUGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CSNTVS4V",
+        "title": "Crystal Glossy Top Coat 0.54 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CSNTVS4V",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UzWtuiMkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GH2Q5WMB",
+        "title": "Gel Top Coat, Base Coat and Cuticle Oil 0.54 Fl Oz (Pack of 6)",
+        "url": "https://www.amazon.com/dp/B0GH2Q5WMB",
+        "imageUrl": "https://m.media-amazon.com/images/I/71C9DzGJ5sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F214H8NZ",
+        "title": "2 Pcs Gel Top Coat and 2 Pcs Base Coat 0.54 Fl Oz (Pack of 4)",
+        "url": "https://www.amazon.com/dp/B0F214H8NZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ftAxhcuHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CFVCVPN1",
+        "title": "Gel Top Coat, Matte Top Coat and Base Coat 0.54 Fl Oz (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0CFVCVPN1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vBHC59ygL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CMHLXTJ3",
+        "title": "Gel Top Coat, Nail Glue Gel and Base Coat 0.54 Fl Oz (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0CMHLXTJ3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uao+RwEFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CZL9L3Z6",
+        "title": "Gel Top Coat, Blooming Gel and Base Coat 0.54 Fl Oz (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0CZL9L3Z6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iO4mZYN2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CYPC1TR5",
+        "title": "Builder Top Coat 0.54 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CYPC1TR5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61rhfP3-gmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CFVD6M2F",
+        "title": "Gel Top Coat, Base Coat and Cuticle Oil 0.54 Fl Oz (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0CFVD6M2F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61I5yRLiXKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CHY85NZV",
+        "title": "Gel Top Coat, Builder Gel and Base Coat 0.54 Fl Oz (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0CHY85NZV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61V6CwT2I2L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 5.94,
+      "beforePrice": 6.99,
+      "discount": "-15%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "GAOY Store",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A23VNXRZNLS14Z",
+    "shipper": "Amazon",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/61KI6PPoUGL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61KI6PPoUGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613voe4IUEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61rd-6QBubL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ndmoxzNwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/611pCxctAmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6112OcL3v9L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/faa1a098-bcfb-4944-ab17-c636757daf7f.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/43246a40-f75e-42d1-bf7f-4e945b7604be.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e9482003-216a-43f0-95a1-a6118fe74e97.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ce87935c-1d96-4ab0-939e-64ec1cd40037.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3acc183c-3c1c-4f69-8d8e-21e2ddaaa50c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c42fdfac-7627-496a-add7-24d5d94a4b9e.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aab3ff08-9e3f-4067-80d8-0296dcc92601.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c178bb7b-20f5-4d8b-a5df-de47d5c6bee7.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3dcba7d2-140f-4c6c-a040-dccda00e38c4.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e214855-8ba7-40be-bef7-2e64235f4616.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4cfa6af7-8909-4fbc-9c20-f8d6f49e1962.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e8c5b5f-d050-4b8c-bb51-37e13f72844f.__AC_SR150,300___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/64c73242-5f52-43a3-a66d-ff4c04028cb2.mov/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/64c73242-5f52-43a3-a66d-ff4c04028cb2.mov/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3edd51d6-3aac-4e88-9fd2-1fb6323b212c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ee068476-8358-4ebf-8e6c-ef00c49e4744.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/721c1039-a3a5-46d4-9ce5-1c85c2e5d763.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6be73cab-b7bd-4bd8-8fd3-03c8eff5a0b9.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "GAOY"
+      },
+      {
+        "key": "Nail Polish Type",
+        "value": "gel"
+      },
+      {
+        "key": "Model Name",
+        "value": "Glassy Gel Top Coat and Base Coat Set"
+      },
+      {
+        "key": "Item Form",
+        "value": "Gel"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "GAOY Cosmetics Inc."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#750 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #2 in Combination Nail Base & Top Coats"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BD4MMFVM"
+      },
+      {
+        "key": "Liquid Volume",
+        "value": "16 Milliliters"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.3 x 1.5 x 0.8 inches"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.08 Fluid Ounces"
+      },
+      {
+        "key": "Number of Items",
+        "value": "2"
+      },
+      {
+        "key": "Number of Pieces",
+        "value": "2"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.13 Kilograms"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      },
+      {
+        "key": "Material Features",
+        "value": "Non-Toxic"
+      },
+      {
+        "key": "Color",
+        "value": "Gel Top Coat and Base Coat"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Glossy"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Long Wearing"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Long-lasting gel manicure up to 4 weeks with glossy finish and minimal odor"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 8013,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "78%",
+        "fourStars": "10%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find the nail polish set delivers professional results with a nice glossy shine that maintains after top coat application, and appreciate its ease of application and good value for money. The curing time and stickiness receive mixed feedback - while it dries nicely with UV light, some say it takes forever to cure/dry, and while it adheres well, others report it becomes sticky. The durability receives mixed reviews, with some saying it lasts 3-4 weeks while others report it peels off within 24 hours.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 312,
+          "status": "positive"
+        },
+        {
+          "aspect": "Shine",
+          "count": 210,
+          "status": "positive"
+        },
+        {
+          "aspect": "Curing",
+          "count": 191,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 152,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 138,
+          "status": "positive"
+        },
+        {
+          "aspect": "Durability",
+          "count": 318,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Stickiness",
+          "count": 166,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Drying time",
+          "count": 138,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/618XWOKLERL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61IwcuPM4+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61kGZtK6-3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61eYxRNZn2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pcIZlYMKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71JyqvMptXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mEtoiuT2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71MZC25XxXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61S0aTe8rVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YesC2jGUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Q-8E5ffpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61FxYoeAEmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Protective glassy coat holds up under tough use",
+          "reviewText": "This is my first time using a gel polish that requires curing with UV or LED light. I was skeptical because I've been doing my own nails forever with regular polish and some fast-drying types, and I'm pretty good at it. But it does take a long time to dry, and I end up doing them over a couple days to really let them harden, which gets in the way of other activities. SO - I bought a very inexpensive light, some inexpensive gel nail polish, and this set of Gaoy base- and top-coat, as a frugal way to dip my toes in so to speak. Well I'm very surprised - not just the great quality, but that I did a pretty good job and it was a quick process all the way through! These pictures show almost two weeks wear, and they still had perfect gloss, no chipping, no scratches or dulling, no wear at the edges, no lifting (these are my natural nails btw, no tips). The base coat is very smooth and easy to apply, and slight tack adheres the color perfectly. The top coat goes on smooth too, so you can get a thin coat that will come out hard and shiny as glass. All in all a great value!",
+          "reviewDate": "Reviewed in the United States on January 19, 2026",
+          "customer": "T.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFD42OVSCNBRTDQWG4DQIFOROQGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Gel Top Coat and Base Coat",
+            "size": "0.54 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent quality, professional shine, and long-lasting",
+          "reviewText": "Excellent quality, professional shine, and long-lasting I bought the GAOY Base Coat and Top Coat gel set (16 ml each) and it completely exceeded my expectations. The base coat applies easily, isn't too thick, and helps the color adhere very well without lifting. The top coat leaves a spectacular, professional salon-quality shine, and best of all, it doesn't dull over time. They cure quickly with a UV/LED l and my manicure lasted more than two weeks intact, without chipping. The packaging is elegant, the size is generous and lasts a long time, ideal for both personal and professional use. It's undoubtedly an excellent option for the price, offering premium quality and long-lasting results. I would buy it again without hesitation!",
+          "reviewDate": "Reviewed in the United States on February 9, 2026",
+          "customer": "Ninoska",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGSQB2EWSFNQZFF5MBXJYFQF4WCA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Gel Top Coat and Base Coat",
+            "size": "0.54 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Professional finish at home",
+          "reviewText": "The GAOY 16ml 2 Pcs Glassy Gel Top Coat and Base Coat Set is easy to use and works exactly as expected. The base coat protects my nails, and the top coat gives a shiny, smooth finish that lasts for days without chipping. Overall, it feels high quality, makes my gel manicures look professional, and is a great value for the price.",
+          "reviewDate": "Reviewed in the United States on January 25, 2026",
+          "customer": "Tran Nguyen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGXMGRLZNRQ5DQGLG72DWWI45JWQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Gel Top Coat and Base Coat",
+            "size": "0.54 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Very good product",
+          "reviewText": "I waited 20 days after applying the products before writing this review so I could really see how good they were. I really liked the base coat and top coat. They\u2019re easy to apply and not too thick or too runny. The base helps the polish stay in place, and the top coat gives a nice shine. After curing with a UV/LED l my nails lasted several days without lifting or losing shine. I recommend them, especially if you do your nails at home. I would buy them again. \ud83d\udc85\u2728",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "Lorena MB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFJSLDBL6P3C7CU2ZTFI7C2QSVYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Gel Top Coat and Base Coat",
+            "size": "0.54 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good product but..",
+          "reviewText": "Good product but they keep leaking out if they are tipped over while closed",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Dee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG74PFA3QKK33MJ3Z4UFISJBD7NA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Gel Top Coat and Base Coat",
+            "size": "0.54 Fl Oz (Pack of 2)"
+          }
+        },
+        {
+          "reviewTitle": "Yes the base coat will be sticky after curing!",
+          "reviewText": "Well it took me an hour and some investigating but I was able to come out with shiny and strong picture perfect nails. FOR NEWBIES LIKE ME: the base coat will be sticky after curing, if you continue to cure hoping for it to feel more dry you will just end up with bubbles in the base coat. Please just let it be sticky and do your gel polish coat! Haha I only did one coat of #2919 gel polish because I am a minimalist and love a more shiny natural nail look. The top coat was smooth and feels hard. As I get older my nails get thinner and I am happy I found something to strengthen my nails. Will update when my nail starts chipping :) UPDATE: for a working mom these do not hold up the two weeks people say they do, mine started cracking the next day BUT fixing it takes less than 10 minutes. Faster and cheaper than going to a salon I suppose.",
+          "reviewDate": "Reviewed in the United States on December 29, 2025",
+          "customer": "Dani",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH6YY5TDD65Q53TX33OWARZILOCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Gel Top Coat and Base Coat",
+            "size": "0.54 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "25 people found this helpful"
+        },
+        {
+          "reviewTitle": "AMAZING quality for a SUPER affordable price",
+          "reviewText": "This is easily the BEST top and base coat I\u2019ve EVER used!! Goes on so so smooth have ready does an amazing job at self leveling, and cured in exactly 60 seconds no tack at all!! Compared to \u201chigher end\u201d aka more expensive brands I\u2019ve used (OPI GELement and Kiss gel polish) this one is WAY more affordable and works 100x BETTER!! Also the color is GAOY Navy Blue which was just as amazing in all the same ways!!",
+          "reviewDate": "Reviewed in the United States on January 14, 2026",
+          "customer": "lily",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHOQHXYT26OHG5JEL6AKX37LNEIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Gel Top Coat and Base Coat",
+            "size": "0.54 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Over all great",
+          "reviewText": "The product was over all great the only problem was that the top coat came broken and it was spilt in the package.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Rachel",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVRRFVI5IXGSBUXJJYINKSVL57Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Gel Top Coat and Base Coat",
+            "size": "0.54 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Yellow",
+          "reviewText": "The base coat is Ok. But the Top Coat makes light And white color Looking yellow. For red its Good it makes long Lasting shine. But it\u2019s not the best of Top coats!",
+          "reviewDate": "Reviewed in Saudi Arabia on January 10, 2024",
+          "customer": "Jana",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "Gel Top Coat and Base Coat",
+            "size": "0.54 Fl Oz (Pack of 2)"
+          }
+        }
+      ]
+    }
+  }
+}

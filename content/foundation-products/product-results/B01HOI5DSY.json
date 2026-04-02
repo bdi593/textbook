@@ -1,0 +1,160 @@
+{
+  "requestMetadata": {
+    "id": "60aa41ce-218e-4786-b8f8-83812fcd6f7c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/60aa41ce-218e-4786-b8f8-83812fcd6f7c.html",
+    "json": "https://files.hasdata.com/60aa41ce-218e-4786-b8f8-83812fcd6f7c.json",
+    "url": "https://www.amazon.com/dp/B01HOI5DSY"
+  },
+  "product": {
+    "asin": "B01HOI5DSY",
+    "url": "https://www.amazon.com/dp/B01HOI5DSY",
+    "title": "Neutrogena Hydro Boost Hydrating Tint with Hyaluronic Acid, Lightweight Water Gel Formula, Moisturizing, Oil-Free & Non-Comedogenic Liquid Foundation Makeup, 20 Natural Ivory, 1.0 fl. oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "020 Natural Ivory",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "1.0 fluid ounces of Neutrogena Hydro Boost Hydrating Tint with to boost skin hydration while evening your complexion",
+      "This liquid foundation makeup for dry skin boosts hydration with a lightweight water gel formula that features hyaluronic acid, an ingredient known for its skin plumping & hydrating properties",
+      "The moisturizing tint is designed to hydrate your skin and refreshes thirsty skin for 24 hours with a breathable water gel formula",
+      "The weightless, oil-free makeup formula is non-comedogenic, so it won't clog pores and it's even better for your skin than wearing no foundation at all",
+      "Suitable for daily use, the tinted hydrating makeup can be incorporated into any skincare routine and comes available in 10 blendable makeup shades that offer enough coverage to help even your complexion"
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0CJMG8MMZ",
+        "title": "040 Nude 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CJMG8MMZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zj7j3W6sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI5ES8",
+        "title": "115 Cocoa 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI5ES8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61w2QVtRAEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI5DSY",
+        "title": "020 Natural Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI5DSY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61d2BchBCIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BPS44FTS",
+        "title": "115 Cocoa 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BPS44FTS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71PE7iR0enL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI588E",
+        "title": "010 Classic Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI588E",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dRyAEp3AL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI5KKK",
+        "title": "050 Soft Beige 1 fl oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI5KKK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FlYm6gt6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CJLRHH2X",
+        "title": "105 Caramel 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CJLRHH2X",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rBvnAmWGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI5E4C",
+        "title": "105 Caramel 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI5E4C",
+        "imageUrl": "https://m.media-amazon.com/images/I/613fmeQe8FL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI5JLK",
+        "title": "060 Natural Beige 1 fl oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI5JLK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NShyd5jZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI5K0K",
+        "title": "085 Honey 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI5K0K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61b7FM9vVaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI5E9M",
+        "title": "030 Buff 1 fl oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI5E9M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61D1z8FVv-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI5JO2",
+        "title": "040 Nude 1 fl oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI5JO2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jznD13i7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01HOI5F6O",
+        "title": "135 Chesnut 1 fl oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01HOI5F6O",
+        "imageUrl": "https://m.media-amazon.com/images/I/616QncfZEzL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.49,
+      "beforePrice": 12.49,
+      "discount": "-24%",
+      "priceFrom": 8.99,
+      "otherOfferQuantity": 5
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 15 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "Non-returnable due to Food safety reasons",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 13,
+    "primaryImage": "https://m.media-amazon.com/images/I/61d2BchBCIL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61d2BchBCIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718G7khWuFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XecEngZSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ukX3kkThL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81dGeTRrVPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+OEL0-YCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61JGcJrw2rL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81QyB+QUTkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ch-cAFkUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FAcDD3qHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FBAR07cVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iixtmEBjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bSE5sPd7L._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 13087,
+      "rating": 4.4
+    }
+  }
+}

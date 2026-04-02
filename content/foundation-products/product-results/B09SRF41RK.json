@@ -1,0 +1,641 @@
+{
+  "requestMetadata": {
+    "id": "848e1632-b182-4717-a5b7-b102962cd4e9",
+    "status": "ok",
+    "html": "https://files.hasdata.com/848e1632-b182-4717-a5b7-b102962cd4e9.html",
+    "json": "https://files.hasdata.com/848e1632-b182-4717-a5b7-b102962cd4e9.json",
+    "url": "https://www.amazon.com/dp/B09SRF41RK"
+  },
+  "product": {
+    "asin": "B09SRF41RK",
+    "url": "https://www.amazon.com/dp/B09SRF41RK",
+    "title": "Clinique Even Better Clinical Serum Full Coverage Hydrating Foundation Broad Spectrum SPF 25 With Vitamin C, Salicylic Acid + Hyaluronic Acid For Oily Skin Types",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "AM Cream Chamois CN 40 - very fair, cool-neutral undertones"
+    },
+    "featureBullets": [
+      "SKINCARE-POWERED, FULL-COVERAGE FOUNDATION: Delivers 24 hours of full coverage with a satin matte finish in a range of color-true shades. Sweat and humidity resistant, with 24-hour defense against caking, settling, poring, and streaking.",
+      "LIQUID FOUNDATION WITH 3-SERUM TECHNOLOGY: UP302 + Vitamin C help visibly reduce dark spots. Salicylic acid helps re-texturize skin. Hyaluronic acid helps plump fine, dry lines.)",
+      "LIQUID FOUNDATION WITH SPF: SPF 25 helps protect skin from future discoloration.",
+      "CLINICAL EXPERTISE: Allergy tested. 100% fragrance free. Dermatologist tested. Ophthalmologist tested. Non-acnegenic.",
+      "BUILT ON DERMATOLOGICAL SCIENCE: As a dermatologist-guided brand, Clinique\u2019s commitment to safety starts with skincare science. We partner with the best minds in dermatology and formulate for all skin types, tones, concerns\u2014in service of all skin."
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0CCPDLLRS",
+        "title": "BE Toffee WN 104 - medium, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPDLLRS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x1YOTJriL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPHKP3X",
+        "title": "AV Vanilla CN 70",
+        "url": "https://www.amazon.com/dp/B0CCPHKP3X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61rw-9ezu4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BD98VX6L",
+        "title": "AZ Tawnied Beige WN 80 - medium, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0BD98VX6L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GVSvUbiKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPCZHWL",
+        "title": "BD Deep Honey WN 100 - medium, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPCZHWL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Zuae0ClGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPDR6ZY",
+        "title": "BM Sienna WN 124 - deep, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPDR6ZY",
+        "imageUrl": "https://m.media-amazon.com/images/I/619yxwM7weL._SL1500_.jpg"
+      },
+      {
+        "asin": "B098KJ6YGB",
+        "title": "BC Cream Caramel WN 98 - medium, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B098KJ6YGB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XfznixrUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08W3T4MP2",
+        "title": "AF Meringue WN 12 - very fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B08W3T4MP2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61KbLsTEmWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPFJZ6D",
+        "title": "BB Deep Neutral WN 94 - medium, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPFJZ6D",
+        "imageUrl": "https://m.media-amazon.com/images/I/61j+PlshtAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPH7GPN",
+        "title": "BK Pecan WN 120 - deep, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPH7GPN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sekmD6mvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPD72MX",
+        "title": "BI Spice CN 116 - deep, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPD72MX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uHgsRZETL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B3FPYQ9C",
+        "title": "AW Beige CN 74 - medium, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0B3FPYQ9C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sX9JXViJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09SRBN8N5",
+        "title": "AI Fair CN 20 - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09SRBN8N5",
+        "imageUrl": "https://m.media-amazon.com/images/I/616+j5R1x1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPCYXGX",
+        "title": "AO Oat WN 48 - medium fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPCYXGX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ny8-qlsXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09TLH4SV1",
+        "title": "AR Cashew WN 56 - medium fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09TLH4SV1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x4GEHk4zL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0933LJ416",
+        "title": "AC Bone 04 - very fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0933LJ416",
+        "imageUrl": "https://m.media-amazon.com/images/I/61PqeWhI7-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08W28S9JJ",
+        "title": "AK Biscuit WN 30 - very fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B08W28S9JJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hchy-rZEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPGDSXV",
+        "title": "AU Butterscotch WN 64 - medium fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPGDSXV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fy8LFg7OL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09SQYQ382",
+        "title": "AH Cream Whip CN 18 - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09SQYQ382",
+        "imageUrl": "https://m.media-amazon.com/images/I/616X1rN1VLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPFWCBW",
+        "title": "AB Breeze CN 02 - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPFWCBW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61O2g0ZrsGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09SR5X666",
+        "title": "AJ Ivory CN 28 - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09SR5X666",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Hqr0VAFQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09SRF41RK",
+        "title": "AM Cream Chamois CN 40 - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09SRF41RK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mIvmdymfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPFDNVW",
+        "title": "BN Mahogany WN 125 - deep, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPFDNVW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yBbpI0s2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09JQTBV3N",
+        "title": "AD Linen CN 08 - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09JQTBV3N",
+        "imageUrl": "https://m.media-amazon.com/images/I/61cN9F3xarL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPF5CD4",
+        "title": "BO Espresso CN 126 - deep, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPF5CD4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61N7jDs7P3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09JRHYNTH",
+        "title": "AN Golden Neutral WN 46 - medium fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09JRHYNTH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pfx3lL84L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCX65N22",
+        "title": "AY Nutty CN 78 - medium, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0BCX65N22",
+        "imageUrl": "https://m.media-amazon.com/images/I/61YtPt99uyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCX75F1F",
+        "title": "AQ Honey Wheat WN 54 - medium fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0BCX75F1F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZjJRXxZvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPG917W",
+        "title": "AX Toasted Wheat WN 76 - medium, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPG917W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zpQsJ+HPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09CF3CKNN",
+        "title": "BG Golden WN 114 - deep, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09CF3CKNN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61oUmxtekNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BMB49D28",
+        "title": "AS Honey CN 58 - medium fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0BMB49D28",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LgNigZDbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08VGY7BQQ",
+        "title": "AL Stone WN 38 - very fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B08VGY7BQQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61rey0LWxVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPDX8S4",
+        "title": "BA Sand CN 90 - medium, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPDX8S4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+P+V3sWEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B093WZVVRH",
+        "title": "AG Buff WN 16 - very fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B093WZVVRH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yTf3KEsDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPD7ZXC",
+        "title": "BH Mocha WN 115.5 - deep, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPD7ZXC",
+        "imageUrl": "https://m.media-amazon.com/images/I/610zktyae-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPD6ZMV",
+        "title": "BP Truffle CN 127 - deep, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPD6ZMV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XPudifeOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B4BMRB4N",
+        "title": "AT Porcelain Beige CN 62 - medium fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0B4BMRB4N",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ECI24qW6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPC8PHS",
+        "title": "BL Clove WN 122 - deep, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPC8PHS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CiJdhVFwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09SR7FGQF",
+        "title": "AA Flax WN 01 - very fair, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09SR7FGQF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61a+jKYnUDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09SR6MV8M",
+        "title": "AP Neutral CN 52 - medium fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09SR6MV8M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fDk2A3aPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPJFX1B",
+        "title": "BJ Amber WN 118 - deep, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPJFX1B",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vo+K-vraL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPCKY3M",
+        "title": "BF Ginger WN 112 - medium, warm-neutral undertones",
+        "url": "https://www.amazon.com/dp/B0CCPCKY3M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TYwIv0StL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09SRB8QW1",
+        "title": "AE Alabaster CN 10 - very fair, cool-neutral undertones",
+        "url": "https://www.amazon.com/dp/B09SRB8QW1",
+        "imageUrl": "https://m.media-amazon.com/images/I/6109jpABFxL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 48,
+      "beforePrice": 48,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs 55 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61mIvmdymfL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61mIvmdymfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51EczfPv-PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71RWqrwMUsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xR98XPCiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ozzC7RnCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71RlEzEiOLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81QxVHOJT0L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/98365dcf-1f56-4d89-b751-cfd29d7f45f8.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/692be219-5af4-47ae-8ec2-bffa56a36c4d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7a734f5a-dfaa-417a-b8c3-8d49718d2c0a.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8cfdbdc7-8951-4566-95a0-ed8395bb42cf.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dec21d7c-70a5-44f9-bbc3-14fdc6291628.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/27d0563b-3965-4e1e-b1dd-1d2eda3adf9c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/36b3425b-542f-40ee-a0a8-7689ac5494a9.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de3bdd89-8835-49bb-82cf-a168f8f86b89.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eaa45d3b-1bb1-41a5-b7fb-807c5d2b999f.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/93cba068-3d8f-4aaa-a3a9-90c0e05be886.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0186e60-8b6c-44a8-9684-0417a36eea10.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efd59649-0e01-43f3-844b-ba8120556f44.__CR0,0,200,225_PT0_SX200_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b5bc344e-3370-434d-8092-685a310d152d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f77b36c5-9fb8-45dd-aa7e-29e4c1b4f61f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/73d55839-377a-4770-bcc5-aac5dba76b51.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "AM Cream Chamois CN 40 - very fair, cool-neutral undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Evens Skin Tone"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Clinique"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "86% skincare formula. Powered by 3-serum technology for even better-looking bare skin."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Very Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "192333034637"
+      },
+      {
+        "key": "Model Number",
+        "value": "KNXW041000"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "KNXW041000"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Clinique"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#13,410 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #145 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B09SRF41RK"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "25 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Oil-free,Matte"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free, Paraben Free, Phthalate Free, Sodium Lauryl Sulfate Free, Synthetic Color Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1308,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "79%",
+        "fourStars": "10%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation effective and appreciate its coverage, with one noting it works well for uneven skin and redness. The product receives positive feedback for its smooth application that doesn't leave a sticky feeling, and customers like its natural look, with one describing it as airbrushed. They praise its longevity, saying it holds up well throughout the day, and consider it good value for money. The color match and texture receive mixed reviews - while some appreciate the wide shade range, others find it too dark, and while many like the smooth texture, some report it gets cakey.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 66,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 57,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 29,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 20,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 20,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 39,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 34,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61qPntcF3OL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61iXnaA36mL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Avsk5AQZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/711n0jhDDCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61qQAI4ZgyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Dplp5iWlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Duz57yJpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61GVFet+RSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71v61d7c9qL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-FkOyH9sL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61E--p0if+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61KONK2V50L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Flawless Coverage and Skincare Benefits Combined",
+          "reviewText": "I recently started using the Clinique Even Better Clinical Serum Foundation Broad Spectrum SPF 25, and it has quickly become a staple in my daily beauty routine. Here\u2019s why I highly recommend this foundation: Impressive Coverage: The foundation provides medium to full coverage that effectively conceals imperfections, redness, and uneven skin tone. It blends seamlessly into the skin, giving a natural, radiant finish that lasts all day. Skincare Benefits: What sets this foundation apart is its serum-like formulation that includes beneficial skincare ingredients. It contains vitamin C, salicylic acid, and hyaluronic acid, which help brighten the complexion, improve skin texture, and maintain hydration throughout the day. Broad Spectrum SPF 25: The added SPF 25 is a great bonus, offering protection against harmful UVA and UVB rays. It\u2019s reassuring to know that my skin is protected from sun damage while looking flawless. Lightweight and Comfortable: Despite its excellent coverage, the foundation feels incredibly lightweight on the skin. It doesn\u2019t feel heavy or cakey, even after hours of wear. It\u2019s perfect for everyday use, providing comfort and breathability. Long-Lasting Wear: This foundation has impressive staying power. It holds up well throughout the day, resisting sweat and humidity. I rarely need to touch up, even on long days, which is a major plus. Wide Shade Range: Clinique offers a wide range of shades to suit various skin tones. Finding the perfect match for my complexion was easy, ensuring a seamless and natural look. Non-Irritating Formula: As someone with sensitive skin, I appreciate that this foundation is fragrance-free and non-comedogenic. It doesn\u2019t cause any irritation or breakouts, making it suitable for all skin types, including sensitive and acne-prone skin. Buildable Coverage: The buildable formula allows me to customize the coverage based on my needs. For a more natural look, I apply a light layer, and for special occasions, I build it up for more coverage without it looking heavy. Packaging: The packaging is sleek and practical, with a pump dispenser that ensures easy and hygienic application. It also helps in controlling the amount of product dispensed, reducing waste. In summary, the Clinique Even Better Clinical Serum Foundation Broad Spectrum SPF 25 is an outstanding product that delivers both flawless coverage and skincare benefits. It\u2019s lightweight, long-lasting, and protective, making it an excellent choice for anyone looking for a high-performance foundation. I highly recommend this foundation to anyone seeking a product that enhances their skin\u2019s appearance while providing essential skincare benefits.",
+          "reviewDate": "Reviewed in the United States on June 7, 2024",
+          "customer": "Favorites on Amazon",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF452VGXGDPHZ6T7P47A4FTWA5AQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AE Alabaster CN 10 - very fair, cool-neutral undertones"
+          },
+          "helpfulVotes": "45 people found this helpful"
+        },
+        {
+          "reviewTitle": "Clinique serum foundation",
+          "reviewText": "Best foundation/bb cream for adult acne prone skin. I spray microbial toner before and after and my skin has never been better. The color matching is pretty close but not perfect, however the slight color difference is worth the effect. Coverage is excellent if you\u2019re looking for a blurred natural look, can\u2019t express that enough. Very natural look, moisturizing enough for my oily skin. You definitely need a finishing powder or else the makeup will rub off onto mugs, lids, sweaters, etc.",
+          "reviewDate": "Reviewed in the United States on January 12, 2026",
+          "customer": "Briana",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTSLR6VOQG7NSTEXY5MCPK4DOMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AS Honey CN 58 - medium fair, cool-neutral undertones"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wonderful, high quality foundation.",
+          "reviewText": "My cousin recommended this product, as I love how she looks. I bought it and it makes my skin look very smooth and even has sunscreen. I\u2019m very happy with this foundation.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Lynn",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQBRPZFX4QUGJWRQA254UC6YF3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AD Linen CN 08 - very fair, cool-neutral undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Clinique foundation",
+          "reviewText": "This foundation has sun protection. Also goes on skin evenly and smooth.",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Janice knox",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AER7GKV7WKCGNHOOB34FRTVT3TAA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "BC Cream Caramel WN 98 - medium, warm-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Good product but a little drying for my skin.",
+          "reviewText": "This is a quality product but I'm giving four stars because it doesn't totally work for my skin type. It has a very matte dry finish and I need a foundation that is more moisturizing. I love the color, coverage and staying power though.",
+          "reviewDate": "Reviewed in the United States on April 28, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE7RT5JCYFLCZ7PN7KG6L6VRJ2HA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "AD Linen CN 08 - very fair, cool-neutral undertones"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Quality product",
+          "reviewText": "I purchased this product for years from Macys. They closed in our town, so I am happy to get it from Amazon.",
+          "reviewDate": "Reviewed in the United States on March 3, 2026",
+          "customer": "Peg K",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFFXW3XS3FVDJKVHFRK6Y7OCFEEA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AJ Ivory CN 28 - very fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Good Choice-Looks Natural",
+          "reviewText": "This makeup spreads smoothly, doesn\u2019t look streaky, and does a fairly good job of covering reddish face blotches and brownish sun damage. I am in my 70s. I have tried drug store makeup and this makeup is worth the extra cost. I dot it all over my face and use a small sponge to spread it evenly.",
+          "reviewDate": "Reviewed in the United States on January 5, 2026",
+          "customer": "Wanna be Three Pines tourist.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3LAULVIZINWDHSLUR5ULIZBCUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AT Porcelain Beige CN 62 - medium fair, cool-neutral undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Finish smooth",
+          "reviewText": "Love the coverage. Small amounts with great color",
+          "reviewDate": "Reviewed in the United States on January 25, 2026",
+          "customer": "Taz",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEKJE7SQIMY4BOE3RACCX24FMHYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AJ Ivory CN 28 - very fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Lasts all day",
+          "reviewText": "Good for light to medium coverage. Goes on smooth and lasts all day. Doesn\u2019t cake or feel oily on my skin. Great colour match provided by Clinique online. Bought it from Amazon as it was on sale.",
+          "reviewDate": "Reviewed in Canada on July 15, 2025",
+          "customer": "Kareena",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AP Neutral CN 52 - medium fair, cool-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Not bad",
+          "reviewText": "Not bad !",
+          "reviewDate": "Reviewed in Singapore on November 28, 2023",
+          "customer": "Tin Mi Thi",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AC Bone 04 - very fair, warm-neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Love this foundation",
+          "reviewText": "I've been using this for years. The colour blends perfectly and it keeps the oil and shine down. Plus it has sun protection and fights mild acne.",
+          "reviewDate": "Reviewed in Canada on November 18, 2025",
+          "customer": "Akosha Baier",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AV Vanilla CN 70"
+          }
+        },
+        {
+          "reviewTitle": "Good makeup",
+          "reviewText": "Excellent product, very creamy, spreads well.",
+          "reviewDate": "Reviewed in Canada on February 2, 2026",
+          "customer": "Marilyn Fraser",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "AE Alabaster CN 10 - very fair, cool-neutral undertones"
+          }
+        }
+      ]
+    }
+  }
+}

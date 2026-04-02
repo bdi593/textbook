@@ -1,0 +1,395 @@
+{
+  "requestMetadata": {
+    "id": "8f1715dd-4035-4ea3-96bd-83e7fa0149e3",
+    "status": "ok",
+    "html": "https://files.hasdata.com/8f1715dd-4035-4ea3-96bd-83e7fa0149e3.html",
+    "json": "https://files.hasdata.com/8f1715dd-4035-4ea3-96bd-83e7fa0149e3.json",
+    "url": "https://www.amazon.com/dp/B01N8QGSAH"
+  },
+  "product": {
+    "asin": "B01N8QGSAH",
+    "url": "https://www.amazon.com/dp/B01N8QGSAH",
+    "title": "Ruby Kisses Flawless Finish with 3D Contour Cream Makeup Palette \u2013 Lightweight, Multi-Palette, Contouring Foundation, Creamy, Sculpt &Highlighting, Define Cheekbones (Dark Medium)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Dark Medium"
+    },
+    "featureBullets": [
+      "ALL-DAY WEAR: Specifically formulated for 12+ hours of flawless wear makeup ensuring long-lasting confidence & a gorgeous, lightweight finish",
+      "FULL COVERAGE FORMULA: Provides full coverage that controls shine and reduces the appearance of blemishes for a flawless complexion while ensuring your skin looks fresh and flawless from morning to night",
+      "MULTI-FUNCTIONAL USE: Works as both a foundation, contour and concealer with multiple shades, offering versatility to easily sculpt and highlight your beautiful features",
+      "SEMI-MATTE FINISH: Achieve a natural, clean makeup look with the perfect \u201cyour skin but better\u201d fresh and flawless finish",
+      "SUPER BLENDABLE: Designed to deliver a creamy texture that effortlessly blends into your skin for a smooth, seamless finish, feeling light & lasts all-day long"
+    ],
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Makeup Palettes"
+    ],
+    "variants": [
+      {
+        "asin": "B094YNSM48",
+        "title": "Light+Light Medium+Medium Dark",
+        "url": "https://www.amazon.com/dp/B094YNSM48",
+        "imageUrl": "https://m.media-amazon.com/images/I/71q-DErjnQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B079NMH9FW",
+        "title": "Medium Dark",
+        "url": "https://www.amazon.com/dp/B079NMH9FW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lacLJgpRL._SL1422_.jpg"
+      },
+      {
+        "asin": "B01MTXSRHS",
+        "title": "Light Medium",
+        "url": "https://www.amazon.com/dp/B01MTXSRHS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rknwN2PUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01N8QGSAH",
+        "title": "Dark Medium",
+        "url": "https://www.amazon.com/dp/B01N8QGSAH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Q4Ddlbe2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01MSKC6OT",
+        "title": "Multi-colored (Contour & Highlight Shades)",
+        "url": "https://www.amazon.com/dp/B01MSKC6OT",
+        "imageUrl": "https://m.media-amazon.com/images/I/81DPqM7lAAS._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.29,
+      "beforePrice": 9.29,
+      "priceFrom": 9.29,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "IVY Beauty",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AMS2DC6MJM43V",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/71Q4Ddlbe2L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71Q4Ddlbe2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AlfkKkxIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71beWQo5lbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bX5gbY8UL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71BaMZBNIpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71VXOPVpPWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61UhTA8prZL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3211b8c5-47a9-4e59-a094-0cb0d80bc1dd.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8890ff2-1a93-45fd-953f-05b81f0f8653.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8c2be038-9510-4cbf-b035-c3764c66a7ed.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94f602f5-c046-4493-9ccd-db449d9bdf45.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a8651fa-4d9d-4214-ab1c-dacee1815150.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/91063894-1fad-4ca3-bd8e-3edbcde9a0d2.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab2c3cd3-9a00-4f93-9dd4-5e052c526ec6.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/14d769a5-3f9b-4c0f-bb16-98e6fb881dab.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/958cab8c-5f45-4455-8cb6-a000eb80bb19.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "Ruby Kisses"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "China"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Palette"
+      },
+      {
+        "key": "UPC",
+        "value": "731509671643"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "KISS"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#22,925 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #35 in Makeup Palettes"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01N8QGSAH"
+      },
+      {
+        "key": "Coverage",
+        "value": "Lightweight,Medium"
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Contour"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Container Type",
+        "value": "Palette"
+      },
+      {
+        "key": "Item Weight",
+        "value": "18.14 g"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Color",
+        "value": "Dark Medium"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3316,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "74%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "2%",
+        "oneStars": "2%"
+      },
+      "customersSay": "Customers find this makeup palette to be of high quality, with colors that blend well with dark skin tones and a creamy texture that melts into the skin. The product is budget-friendly and easy to apply, with good coverage and perfect blending properties. They particularly appreciate its suitability for wigs, with one customer noting it's great for beginners with the right brushes.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 55,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pigmentation",
+          "count": 54,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 34,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 29,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 27,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 27,
+          "status": "positive"
+        },
+        {
+          "aspect": "Suitability for wigs",
+          "count": 25,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71a-7GfCtBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71MamlqZnwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61TmSOvIlaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ENj+B9zfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71QXssr9F-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71SrIP6Ku9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rzmPwuFEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71JQ-0BVDmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71TzAZz8d0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61aDXQYAdEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ThKEKcnrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BENQ5V4DL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Best Concealer Pallete",
+          "reviewText": "This product has a good wear test. The quality is the bomb and so creamy. Its full coverage aswell and the colors are perfect for medium to deep skin tones.",
+          "reviewDate": "Reviewed in the United States on January 29, 2026",
+          "customer": "ankhrakii",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGYPPFJ7UHWLXBPO3LFZQMVYQGUA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark Medium"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Product",
+          "reviewText": "Easy to apply",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "janeen mannings",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH6SY7POYKWY6DUJ7JHWKRMVJX6Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark Medium"
+          }
+        },
+        {
+          "reviewTitle": "Great Cream Contour Palette \u2013 Blends Like a Dream!",
+          "reviewText": "This Ruby Kisses 3D Contour Cream Makeup Palette in Dark Medium is a hidden gem! I was looking for an affordable cream contour palette that actually works for my wig parting and skin tones, and this one really delivered. The texture is creamy and super blendable, not chalky or dry at all. It feels lightweight on the skin and gives a natural finish without looking cakey. I love that the palette includes multiple shades so I can customize my contour and highlight depending on the look I\u2019m going for. The highlight shades brighten without being ashy, and the contour shades define my cheekbones beautifully. A little goes a long way, so the palette lasts longer than expected. It's also compact and perfect for travel or on-the-go touch-ups. If you're looking for a budget-friendly contour palette that performs like a high-end product, this is it. Highly recommend for beginners and pros alike!",
+          "reviewDate": "Reviewed in the United States on June 5, 2025",
+          "customer": "Shanese Edwards Nevers",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH5ULS7WXTW6RYXJFAC4FAOT37OA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark Medium"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lovely",
+          "reviewText": "It just blends in with my complexion just like that I really do recommend n full coverage also",
+          "reviewDate": "Reviewed in the United States on December 21, 2025",
+          "customer": "Shantol Blackwood",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGAVJWEK4FR3XJUDJVFTZ2PRBHQQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Dark Medium"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Quality Make-up",
+          "reviewText": "Great product and price. Great for contours, easy to use, and good quality. Will buy again.",
+          "reviewDate": "Reviewed in the United States on December 19, 2025",
+          "customer": "Kar",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJ5PPF2S7ZHHSV2CSQMLVD76FRA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark Medium"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Good Quality",
+          "reviewText": "This is a tried and true staple for your makeup kit.",
+          "reviewDate": "Reviewed in the United States on November 30, 2025",
+          "customer": "Curvygyal",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVVWTQKHLJXDZICTZP6TEA3AW6A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark Medium"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Nice contour cream",
+          "reviewText": "Love it blends nice",
+          "reviewDate": "Reviewed in the United States on December 23, 2025",
+          "customer": "Anika Lindo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVWXZ63IYWJQPFZNA56BIRFE65Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Dark Medium"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "multiple shades",
+          "reviewText": "if you\u2019re a hairstylist and looking for a pallet with multiple shades this is the one, lasted me a few months",
+          "reviewDate": "Reviewed in the United States on March 11, 2026",
+          "customer": "Kylie Ayania",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF6GHJ5TNRTFRKV35N6FTCH6CWRQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark Medium"
+          }
+        },
+        {
+          "reviewTitle": "Ruby Kisses 3D Contour Artist",
+          "reviewText": "NA",
+          "reviewDate": "Reviewed in Australia on February 26, 2023",
+          "customer": "Indiara",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark Medium"
+          }
+        },
+        {
+          "reviewTitle": "Works amazing!!!",
+          "reviewText": "I love this set...not sticky and cakey like others...goes on smooth. Beautiful finish!",
+          "reviewDate": "Reviewed in Canada on January 9, 2025",
+          "customer": "Nicole Roy",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark Medium"
+          }
+        },
+        {
+          "reviewTitle": "She is that gal",
+          "reviewText": "Makes your makeup more defined and long-lasting",
+          "reviewDate": "Reviewed in Canada on January 3, 2026",
+          "customer": "Ifeoma",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark Medium"
+          }
+        },
+        {
+          "reviewTitle": "cheap",
+          "reviewText": "package is cheap plastic cheap quality",
+          "reviewDate": "Reviewed in Canada on September 4, 2025",
+          "customer": "GirlCrush",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Dark Medium"
+          }
+        },
+        {
+          "reviewTitle": "easy to contour",
+          "reviewText": "What I liked about this 3D contour artist cream is that it comes in different shades giving you options to pick however I gave it a 4 stars because when I put step 1 the Corrector I had a hard time blending it in my face and it took a bit more time to blend it in. Step 2 is the Highlight gave me a natural glow and and shine. Step 3 is Contour its smooth and blends in well.",
+          "reviewDate": "Reviewed in Canada on July 20, 2024",
+          "customer": "Abby",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Dark Medium"
+          }
+        }
+      ]
+    }
+  }
+}

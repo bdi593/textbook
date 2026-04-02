@@ -1,0 +1,541 @@
+{
+  "requestMetadata": {
+    "id": "12290b59-079e-4455-a08d-ad47ef060719",
+    "status": "ok",
+    "html": "https://files.hasdata.com/12290b59-079e-4455-a08d-ad47ef060719.html",
+    "json": "https://files.hasdata.com/12290b59-079e-4455-a08d-ad47ef060719.json",
+    "url": "https://www.amazon.com/dp/B09HSPNX49"
+  },
+  "product": {
+    "asin": "B09HSPNX49",
+    "url": "https://www.amazon.com/dp/B09HSPNX49",
+    "title": "Almay Clear Complexion Acne Foundation Makeup with Salicylic Acid, Medium Coverage, Soft Matte Finish, Hypoallergenic, Cruelty- & Fragrance-Free, Dermatologist Tested, 200 Buff, 1 fl oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Hypoallergenic",
+      "Oil Free",
+      "Cruelty Free/Not Tested on Animals"
+    ],
+    "description": "The reformulated hypoallergenic Almay Clear Complexion Makeup for sensitive skin does not just cover and fight acne, it supports skin health too. Ideal for acne prone skin types, oily skin, and combination skin, the creamy multitasking foundation with medium, buildable coverage helps treat acne breakouts, hides imperfections, and leaves skin with a flawless, soft matte finish that lasts all day\u2014no caking up. The difference is that now, the non comedogenic (won\u2019t clog pores!) liquid acne foundation is powered by a skin balancing formula of 1% salicylic acid, prebiotics, and aloe vera for skin that looks clarified, healthier, and calm. The amount of salicylic acid\u2014the magic acne fighting ingredient\u2014was reduced to treat and help prevent future breakouts without drying out skin. Added prebiotics nourish a healthy skin barrier for a well balanced complexion. Aloe vera was also introduced into the mix for its hydrating properties, which help soothe and calm signs of irritation. Formulated without added parabens, phthalates, SLS, mineral oil, DMDM Hydantoin, formaldehydes, Triclosan, and palm oils. Suitable for sensitive skin. As always, hypoallergenic. Dermatologist tested. Clean. Cruelty free. Fragrance free.",
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0G1VC8MHH",
+        "title": "705 - Light Medium with Warm Undertone 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0G1VC8MHH",
+        "imageUrl": "https://m.media-amazon.com/images/I/7167Nd1gpTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSQZ42N",
+        "title": "100 - Fair-Light with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSQZ42N",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+JGL0PvQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FSSYJVT5",
+        "title": "500 New Look - Light-Medium with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FSSYJVT5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZTu82tCiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZ8ZLDC",
+        "title": "730 - Medium with Cool Undertone 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBZ8ZLDC",
+        "imageUrl": "https://m.media-amazon.com/images/I/417pT0ndSuL.jpg"
+      },
+      {
+        "asin": "B0FSSX3SDC",
+        "title": "710 New Look - Medium with Neutral Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FSSX3SDC",
+        "imageUrl": "https://m.media-amazon.com/images/I/614+7ETvGFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G1VLTVZF",
+        "title": "750 New Look - Medium with Warm Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0G1VLTVZF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71X+rqATI5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSNT9NH",
+        "title": "910 - Deep with Neutral Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSNT9NH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EYFPWc3XL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DJYCZG45",
+        "title": "400 - Light with Warm Undertone 1 Fl Oz (Pack of 4)",
+        "url": "https://www.amazon.com/dp/B0DJYCZG45",
+        "imageUrl": "https://m.media-amazon.com/images/I/81XpFHuHPgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSPRRTF",
+        "title": "099 - Fair-Light with Neutral Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSPRRTF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qkGnAfUWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSNG68H",
+        "title": "500 - Light-Medium with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSNG68H",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JrNw+Q-CL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FST1GCKS",
+        "title": "400 New Look - Light with Warm Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FST1GCKS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IFM6aX3RL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CW7M3KVR",
+        "title": "710 - Medium with Neutral Undertone 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CW7M3KVR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71aNGc02NZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSPLJYB",
+        "title": "900 - Medium Deep with Neutral Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSPLJYB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Pl2W4VmuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FSSWV7RC",
+        "title": "300 New Look - Light with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FSSWV7RC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AzVe1gupL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C1G9B3HP",
+        "title": "700 - Light-Medium with Cool Undertone 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0C1G9B3HP",
+        "imageUrl": "https://m.media-amazon.com/images/I/71km5jzGaRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FSSS44R1",
+        "title": "200 New Look - Light with Neutral Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FSSS44R1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qTn3eBQtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G1VJ79LR",
+        "title": "910 New Look - Deep with Neutral Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0G1VJ79LR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71eW7aJcuPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSQJFWM",
+        "title": "800 - Medium with Warm Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSQJFWM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vZ11Ks1rL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSPWHCW",
+        "title": "850 - Medium-Deep with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSPWHCW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dxAPLu0KL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSPXW7C",
+        "title": "705 - Light Medium with Warm Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSPXW7C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CpIFW8ugL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSPNX49",
+        "title": "200 - Light with Neutral Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSPNX49",
+        "imageUrl": "https://m.media-amazon.com/images/I/61u3l2F-hpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSQ6SVG",
+        "title": "730 - Medium with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSQ6SVG",
+        "imageUrl": "https://m.media-amazon.com/images/I/31mjW2Von9L.jpg"
+      },
+      {
+        "asin": "B0G1VJ5DF8",
+        "title": "850 New Look - Medium-Deep with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0G1VJ5DF8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ikmiEh-7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G1VHW7WT",
+        "title": "800 New Look - Medium with Warm Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0G1VHW7WT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TWJ9PrcGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSPHQ3K",
+        "title": "300 - Light with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSPHQ3K",
+        "imageUrl": "https://m.media-amazon.com/images/I/613WAkLGHML._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSQ21ZR",
+        "title": "400 - Light with Warm Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSQ21ZR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OCUOh1EiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HTBD3VV",
+        "title": "710 - Medium with Neutral Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HTBD3VV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uMl2yxSbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G1VC58TN",
+        "title": "099 - Fair-Light with Neutral Undertone 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0G1VC58TN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Kuwfq1SuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FSSZWFLM",
+        "title": "100 New Look - Fair-Light with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FSSZWFLM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hQXsO4svL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSQ2MK7",
+        "title": "700 - Light-Medium with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSQ2MK7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lIG8aqzuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FSSYRFJT",
+        "title": "700 New Look - Light-Medium with Cool Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FSSYRFJT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RP813qRXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G1VMDPPY",
+        "title": "99 New Look - Fair-Light with Neutral Undertone 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0G1VMDPPY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bflAJGxZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HSNH271",
+        "title": "600 - Medium 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HSNH271",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-7d+nlhRL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.99,
+      "beforePrice": 16.79,
+      "discount": "-41%",
+      "priceFrom": 9.92,
+      "otherOfferQuantity": 15
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 2 hrs 29 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Summit_Brands",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3OPMSDFRCO9SV",
+    "shipper": "Amazon",
+    "totalImages": 2,
+    "primaryImage": "https://m.media-amazon.com/images/I/61u3l2F-hpL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61u3l2F-hpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Qq2lDF10L._SL1500_.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "200 - Light with Neutral Undertone"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Almay"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Acne control with skin-balancing prebiotics and soothing aloe vera"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium Deep, Very Light, VeryFair"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Fragrance Free, Hypoallergenic, Para"
+      },
+      {
+        "key": "UPC",
+        "value": "309970165727"
+      },
+      {
+        "key": "Model Number",
+        "value": "7260492003"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "7260492003"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Almay, Inc."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#10,829 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #113 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B09HSPNX49"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Lightweight"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.22 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.14 x 1.14 x 4.9 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.00 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1890,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "15%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this foundation effective for acne-prone skin and appreciate its beautiful natural finish. The product receives positive feedback for its lightweight feel, good coverage, and value for money. The shade match receives mixed reviews, with some saying it matches beautifully while others find it darker than expected. Longevity is also mixed, with some saying it lasts all day while others report it dries out.",
+      "aspects": [
+        {
+          "aspect": "Skin compatibility",
+          "count": 94,
+          "status": "positive"
+        },
+        {
+          "aspect": "Product quality",
+          "count": 61,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 59,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 35,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 29,
+          "status": "positive"
+        },
+        {
+          "aspect": "Shade match",
+          "count": 73,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 33,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61IjWrjxwRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/618tyQaemeL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/713kYPoKhvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61RsZpmfEeL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71IgiklNmoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81zs7JiZo7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71aO9iYQ8mL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sLfIH5o+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71jPuFk591L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sSofvGC+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71NX1AS9A2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/717cNekfpML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great for acne prone skin",
+          "reviewText": "Such a good foundation and I\u2019m glad I tried it. I have oily acne prone skin so full coverage tends to break me out. Not this though! It looks medium/full coverage and controls oil without looking dry. I may have a slightly lighter shade than I need but it still works out. I\u2019ll go one shade darker next time. I hope they don\u2019t discontinue this.",
+          "reviewDate": "Reviewed in the United States on February 17, 2026",
+          "customer": "Shasta J. Thompson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE2FKOSQH7XESQ55BWQM6NXC6N4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "100 - Fair-Light with Cool Undertone",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "My holy grail!!!!",
+          "reviewText": "This is my absolute favorite foundation! This product is so underrated and I don\u2019t get why people aren\u2019t talking about this product?! It\u2019s the MOST smooth finish, doesn\u2019t bother my eyes (I was concerned since aloe and salicylic acid) it gives me such a skin like finish while covering my redness. I would say it\u2019s medium coverage but can absolutely be built up to full! I hope Almay will always continue to make this product because I will forever buy it!",
+          "reviewDate": "Reviewed in the United States on February 20, 2026",
+          "customer": "Emily",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGOUKQAFZKPGMNFPHHPU3WDQ4RHQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "099 - Fair-Light with Neutral Undertone",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Almaty acne clearing foundation",
+          "reviewText": "This a a great product if you have acne issues or just oily skin. It has treatment in it that helps clear breakouts and also helps prevent them.",
+          "reviewDate": "Reviewed in the United States on January 3, 2026",
+          "customer": "Jessica Gallagher",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEMYCEXY5TGD5E7UTEZCMUC6EOA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "099 - Fair-Light with Neutral Undertone",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Looks like a darker tone but once on its a perfect match",
+          "reviewText": "The color looks different from what I usually receive, but once you apply it does match.",
+          "reviewDate": "Reviewed in the United States on February 2, 2026",
+          "customer": "Lily",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFG6E6WBLIQTW3JJAABY2O6C4UDQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "300 - Light with Cool Undertone",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Love this foundation!",
+          "reviewText": "I have been using this foundation for years. Whenever I have gotten the urge to try something new, it never lasts. I go right back to Almay Clear Complexion. It's perfect for my sensitive skin and looks natural. The medium coverage is just right and never cakes.",
+          "reviewDate": "Reviewed in the United States on January 8, 2026",
+          "customer": "LEAH D WATSON",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFKQW5R7SHO6JORGQL2JZGK3CJAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "300 - Light with Cool Undertone",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Oily skin gold!",
+          "reviewText": "Amazing for acne prone oily skin. It keeps the oil at bay. Perfect blend for my African skin tone.",
+          "reviewDate": "Reviewed in the United States on February 22, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AECDFO4OTL7BXFMCDEVD46STDN3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "910 - Deep with Neutral Undertone",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great makeup",
+          "reviewText": "The Almaty cleat complexion makeup is the best and Amazon had it for the best price.",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "Joyce DiPasquale",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEC4B4BN5UBMR3HGI52IXL6GLAJA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "700 - Light-Medium with Cool Undertone",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Good coverage, smells",
+          "reviewText": "Good coverage but smells like paint.",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "Genevieve",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZOOMDLPJF2ZTTAMOGVKH2QXCTA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "800 - Medium with Warm Undertone",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Makes me breakout",
+          "reviewText": "It\u2019s not worth it and breaks me out so quickly .",
+          "reviewDate": "Reviewed in the United Arab Emirates on September 1, 2024",
+          "customer": "Jp",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "100 - Fair-Light with Cool Undertone",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

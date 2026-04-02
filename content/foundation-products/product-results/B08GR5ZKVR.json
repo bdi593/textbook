@@ -1,0 +1,519 @@
+{
+  "requestMetadata": {
+    "id": "0ffc4e5e-0dc7-4db9-acba-8374a448c7e5",
+    "status": "ok",
+    "html": "https://files.hasdata.com/0ffc4e5e-0dc7-4db9-acba-8374a448c7e5.html",
+    "json": "https://files.hasdata.com/0ffc4e5e-0dc7-4db9-acba-8374a448c7e5.json",
+    "url": "https://www.amazon.com/dp/B08GR5ZKVR"
+  },
+  "product": {
+    "asin": "B08GR5ZKVR",
+    "url": "https://www.amazon.com/dp/B08GR5ZKVR",
+    "title": "L'Oreal Paris Makeup Infallible Fresh Wear Foundation in a Powder, Up to 24H Wear, Waterproof, Ivory Buff, 0.31 oz. (Packaging May Vary)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.31 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "Powder Foundation: With a weightless texture that gives full coverage and a natural, matte finish that looks fresh hour after hour, this powder foundation feels breathable and weightless, wearing for up to 24 hours",
+      "All Day Coverage: With a blurring effect and all day matte finish, this powder evens skin tone with no transfer and covers like a liquid with no cakey look, Non-comedogenic, waterproof, heatproof and sweatproof",
+      "The Infallible Collection: Turn to the cosmetics the pros use and get long-lasting color, expert definition, and full coverage formulas that actually stay put with Infallible",
+      "Because You're Worth It: Create the look you want with our full line of makeup including foundations, concealers, highlighter makeup, brow pencils, eyeshadow palettes, lipsticks and much more",
+      "L'Oreal Paris Beauty: A leading total beauty care company based in Paris, we offer innovative products and unique expertise from beauty experts in makeup, skin care, hair care, styling and hair color"
+    ],
+    "description": "Demand more from longwear! Infallible up to 24hr fresh wear foundation-in-a-powder covers like a liquid a mattifies with no cakey look. The weightless powder texture gives full coverage and a natural, matte finish that looks fresh hour after hour. The formula feels breathable and weightless leaving skin feeling comfortable for up to 24hrs. With a blurring effect and all day matte finish, this powder evens skin tone with no transfer. It is waterproof, heatproof and sweatproof. Available in 16 shades and suitable for all skin types, even oily skin and acne prone skin. It is non-comedogic with no greasy feel and has been tested under dermatological control.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B08GR6923F",
+        "title": "Hazelnut 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR6923F",
+        "imageUrl": "https://m.media-amazon.com/images/I/81b16afpVhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR4QVGN",
+        "title": "Copper 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR4QVGN",
+        "imageUrl": "https://m.media-amazon.com/images/I/81a83rJY0WL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GRK7DPY",
+        "title": "Radiant Honey 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GRK7DPY",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ytScjzBvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR6G3V4",
+        "title": "Radiant Sand 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR6G3V4",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Yhss1LKrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR69H8P",
+        "title": "Porcelain 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR69H8P",
+        "imageUrl": "https://m.media-amazon.com/images/I/81dUAPtVn5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BS624F1N",
+        "title": "375 Deep Amber 0.31 Ounce (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0BS624F1N",
+        "imageUrl": "https://m.media-amazon.com/images/I/81n6rZspRmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HLD17MN",
+        "title": "Ebony 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HLD17MN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71dNF15rTML._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR69YJX",
+        "title": "Pearl 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR69YJX",
+        "imageUrl": "https://m.media-amazon.com/images/I/81LJPfEor2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR4R4DM",
+        "title": "Deep Amber 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR4R4DM",
+        "imageUrl": "https://m.media-amazon.com/images/I/81nXfa+bHIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR52XQ3",
+        "title": "Golden Beige 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR52XQ3",
+        "imageUrl": "https://m.media-amazon.com/images/I/81KnQq17beL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR521VL",
+        "title": "Linen 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR521VL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wvAcHWT-L._SL1000_.jpg"
+      },
+      {
+        "asin": "B09HLCV9WL",
+        "title": "Mocha 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HLCV9WL",
+        "imageUrl": "https://m.media-amazon.com/images/I/8158t7O-5OL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR514T1",
+        "title": "Sand 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR514T1",
+        "imageUrl": "https://m.media-amazon.com/images/I/81xxC7tax2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HLC2S47",
+        "title": "Amber 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HLC2S47",
+        "imageUrl": "https://m.media-amazon.com/images/I/81cp7Nk6ndL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR51PZG",
+        "title": "Ivory 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR51PZG",
+        "imageUrl": "https://m.media-amazon.com/images/I/81XnJNS54yL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR58ZBR",
+        "title": "Golden Sun 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR58ZBR",
+        "imageUrl": "https://m.media-amazon.com/images/I/81olpUej4kL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR5ZKVR",
+        "title": "Ivory Buff 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR5ZKVR",
+        "imageUrl": "https://m.media-amazon.com/images/I/81xhuSXT3jL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR521W1",
+        "title": "Sienna 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR521W1",
+        "imageUrl": "https://m.media-amazon.com/images/I/81FW7KYDsPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HLCHVQ9",
+        "title": "Beige Sand 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09HLCHVQ9",
+        "imageUrl": "https://m.media-amazon.com/images/I/81PJxh4aeNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR6B8HN",
+        "title": "Vanilla 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR6B8HN",
+        "imageUrl": "https://m.media-amazon.com/images/I/811J-Izj1GL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08GR64MJ2",
+        "title": "True Beige 0.31 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08GR64MJ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/810eHJsrLeL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 14.97,
+      "beforePrice": 14.97,
+      "discount": "-5%",
+      "priceFrom": 14.8,
+      "otherOfferQuantity": 6
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/81xhuSXT3jL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81xhuSXT3jL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91OtyQhHWqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91BTl2oKs1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vtjZFZGxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813aq61LDzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jQjHuradL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91ehR13VfDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LM1VQ-LaL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/d2f8c81e-2047-4774-98c0-cf2da8abbc6c.__CR0,0,3050,1250_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a1be3783-fa30-4eed-b10e-caaaf22c3465.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eea8314f-7288-4187-afd3-5c59dddede83.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/2dee604a-6be9-4a30-911e-af8dcaf4ccbd.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/16c75083-63ed-4df2-9699-9c3bd1ccd5a6.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/efe55246-6cc4-40db-8503-b28a83e90999.__CR0,0,2033,2916_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/d346f6e0-b2f7-4a61-ab4b-9c5aea79e7f6.__CR0,0,2033,2916_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/0bd1c94e-3b5f-4cff-b406-9ecdc760fbbf.__CR0,0,2033,2916_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/398b9430-2b5e-479c-a104-14a4001df45a.__CR0,0,2033,2916_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef853520-9ed7-4d2c-91b0-c660a35cf106.__CR0,0,2400,2700_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b19ae86-ec33-4242-8d2f-05c46a96b626.__CR167,0,2667,3000_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e7f7845-34c3-43fb-a225-242c57144d4f.__CR0,0,2400,2700_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/abeed89b-651b-42fa-87d6-b88cbe655eef.__CR167,0,2667,3000_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b455216-888d-4a2f-bcc9-8d27bde9f30e.__CR133,0,2133,2400_PT0_SX200_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/99a2bed7-a83f-46c1-b83a-17dd0673e30f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f77b36c5-9fb8-45dd-aa7e-29e4c1b4f61f.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Pressed"
+      },
+      {
+        "key": "Color",
+        "value": "Ivory Buff"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Long-lasting coverage, matte finish, all-day shine control, suitable for oily and acne-prone skin"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Natural"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "UPC",
+        "value": "071249676523"
+      },
+      {
+        "key": "Model Number",
+        "value": "ZMX01895"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "ZMX01895"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L\u2019Or\u00e9al Paris"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,679 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #104 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B08GR5ZKVR"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable,Matte,Non-comedogenic,Waterproof"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "56 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.79 x 2.65 x 2.65 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Non-comedogenic"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 35524,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "69%",
+        "fourStars": "13%",
+        "threeStars": "7%",
+        "twoStars": "3%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers praise the foundation's buildable coverage, smooth texture, and lightweight feel on the skin. The product receives positive feedback for its quality and ease of application, with one customer noting it can be layered for more coverage. The longevity and natural finish receive mixed reviews - while some say it lasts all day, others find it wears off too easily, and while some appreciate the matte finish, others describe it as cakey. The color match is also mixed, with some finding it perfect for their skin tone while others say it's too light.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 690,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 479,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 244,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 173,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 168,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 319,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Natural finish",
+          "count": 280,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color match",
+          "count": 252,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71HQWaIaOZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/713iGjnQwoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71EJ97tXuyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7196jJDOhVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61528XPDffL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71I9iDL+rwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61AX6aY7YzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71WsehwSlkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71hyPLtY8zL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Gbyk2RrdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71w7x6X2bPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/713HQY9MW0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Love! Have repurchased and will continue to repurchase!!",
+          "reviewText": "This L\u2019Oreal Paris pressed powder is great! I have repurchased this probably 5 times. I goes on easy! Has the perfect amount of coverage I would say it\u2019s more on the medium-heavy side. It\u2019s a great price point compared to other expensive powders that do the same thing this one does. The texture is powder but goes on very smooth. Like all powder doing your proper skin care prep before hand will make all the difference of how your makeup and powder will look. I will continue to purchased and recommend to anyone looking for a flawless coverage look that will last through the day!",
+          "reviewDate": "Reviewed in the United States on February 25, 2026",
+          "customer": "Emily Lindbo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGIUU6QALG6TX2OTOVRVJ52OH24Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "True Beige",
+            "size": "0.31 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good for the Money",
+          "reviewText": "I bought it because I ran out of the product I normally used and also because they raised the price a lot. I wanted to try this brand because it was recommended to me and it is much cheaper than the one, I am using. I tried both at the same time, one on one side of my face and the other on the other, and the truth is that I didn't see any difference. It has good coverage, the durability is good, I only touched it up once, the color match perfect. I recommended it is 10 of 10.",
+          "reviewDate": "Reviewed in the United States on March 1, 2026",
+          "customer": "Mara",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEKRKTJBKIPYQD7RNSNZG74KFWBQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "True Beige",
+            "size": "0.31 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Flawless, smooth finish that lasts all day!",
+          "reviewText": "\u201cI\u2019m honestly impressed with this powder foundation. It gives a smooth, natural finish and really helps control shine without looking dry or cakey. The coverage is buildable and it blurs pores so well, especially for everyday wear. I love how long it lasts \u2014 even after hours it still looks fresh and doesn\u2019t separate. Great quality for the price and I\u2019d definitely repurchase.",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Diana",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMXJHWNCS5UINPI2HCK2HKH3LNA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Radiant Honey",
+            "size": "0.31 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "GREAT PRODUCT, BUT HARD TO MATCH TO SKIN COLOR, POORLY PACKED FOR SHIPPING!",
+          "reviewText": "PROS: &gt, Quick, easy makeup all in one. &gt, Excellent as total makeup, or as a oil dimming powder over any foundation. &gt, FULL coverage. You can re-apply to achieve the level of coverage you like. &gt, Looks natural. &gt, Creamy, sweatproof, and waterproof. &gt, Hides imperfections without being heavy. &gt, Doesn't cake. &gt, Wonderful for oily skin. *MAKEUP ARTIST TIP: If you have oily skin pair with Palladio Rice Paper Facial Tissues for Oily Skin for touch ups. It absorbs oil and sweat, but leaves the powder foundation untouched. Refreshes your makeup by adding a tiny amount of rice powder. CONS: &gt, They arrived cracked, or crack shortly after a couple of uses because they are VERY POORLY wrapped for shipment. I've reported this more than once, but nothing changes. They are less expensive to buy here, but they are also more likely to crack or break. &gt, Difficult to get a proper color match. &gt, There is no translucent shade because this is a powder + foundation all in one. &gt, Some colors are nearly identical. &gt, I have 6 onhand right now. Most of them I'll never use because the colors are off. There's no rhyme or reason for their color choices. The names they give the colors don't match what you would think they would be. This is a huge turnoff for me. I would purchase many more if I knew what to actually buy.",
+          "reviewDate": "Reviewed in the United States on September 8, 2025",
+          "customer": "Darla",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTKLMYAXJSEFQLL24CPQ2XTDD7Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Ivory",
+            "size": "0.31 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great item",
+          "reviewText": "This is a great item good coverage \ud83d\udc4d",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Marlene",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFXXWPYJQUA5TMFDZYY76A2QVUMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Golden Beige",
+            "size": "0.31 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great coverage and lightweight!",
+          "reviewText": "I really love this powder foundation. It gives great coverage while still feeling very lightweight on the skin. It blends easily and helps control shine throughout the day. My skin looks smooth and natural, and it doesn\u2019t feel cakey at all. I\u2019m very happy with this purchase!",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Stefany sanchez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH63GYCJSZNDKYUKAHRPXJBPTTEA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Golden Beige",
+            "size": "0.31 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Powder fell completely out of the compact",
+          "reviewText": "The product itself is good\u2026 I do HATE that it has a fragrance\u2026that\u2019s just not needed in a foundation (or any facial products). But anyways, the powder was broken up just a bit in a small spot when delivered, which was somewhat expected\u2026.what wasn\u2019t expected was for the entire powder portion to then just completely fall out when slightly tipped to clear the small broken bits from delivery. So, now it\u2019s unusable (unless I want an huge mess every time) and I\u2019ll have to buy another, which I\u2019ll probably just do at the store in person. I would just expect it to be more durable in the container so it wouldn\u2019t fall out.",
+          "reviewDate": "Reviewed in the United States on December 10, 2025",
+          "customer": "Anon",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG4X2P3UDMHMWV6XADMOVURQPSWQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Ivory",
+            "size": "0.31 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best drugstore foundation",
+          "reviewText": "I\u2019ve tried expensive brands and I end up always going back to this one. It is the best all around. Lasts all day and coverage is perfect and feels like nothing on. Just needs better packaging because it creates a mess and it\u2019s hard travel with without it breaking up in the compact.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "MLynn",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHCVQAI6PAIDEXXU2GR3M24EYRJA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Sand",
+            "size": "0.31 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Original",
+          "reviewText": "Very good my wife love it",
+          "reviewDate": "Reviewed in the United Arab Emirates on November 26, 2024",
+          "customer": "Mostafa",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Porcelain",
+            "size": "0.31 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Just like MAC old formula!",
+          "reviewText": "This foundation is great! I switched from MAC Studio Fix (they completely butchered the new formula). I was looking for something comparable to the old beloved formula that they had done so well on for 20+ years! This one works just as well for half the price! Coverage is buildable, it smoothly fills in all of the imperfections like pores and fine lines. It is not dry feeling, but silkier. I have oily skin, and this seems to work all day. I apply before work very early in the morning, hit the gym after work, and it's still just as good as when I applied. If I get a bit oily (this happens with any foundation) I just take a tissue and blot and it looks fresh as new! Highly recommend this. I hope they don't screw it up and change the formula like so many other companies lately. It would be nice if they restocked my shade though. Last 2 purchases were not from here. I posted a question asking the seller why they are always out of stock and someone responded stupidly (also nothing to do with the question) why am I ordering this, that is drying, etc....um lady, yeah, I have very oily skin, and it WORKS for me. I was asking why the seller/Amazon never has it in stock. Read questions BEFORE you respond please. Ugh",
+          "reviewDate": "Reviewed in Canada on July 7, 2025",
+          "customer": "Kerry K.",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "True Beige",
+            "size": "0.31 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

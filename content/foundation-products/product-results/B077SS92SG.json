@@ -1,0 +1,415 @@
+{
+  "requestMetadata": {
+    "id": "daf8d230-44b7-47bd-969f-89d853e1118e",
+    "status": "ok",
+    "html": "https://files.hasdata.com/daf8d230-44b7-47bd-969f-89d853e1118e.html",
+    "json": "https://files.hasdata.com/daf8d230-44b7-47bd-969f-89d853e1118e.json",
+    "url": "https://www.amazon.com/dp/B077SS92SG"
+  },
+  "product": {
+    "asin": "B077SS92SG",
+    "url": "https://www.amazon.com/dp/B077SS92SG",
+    "title": "LAURA GELLER NEW YORK Baked Balance-N-Glow Illuminating Foundation - Medium - Buildable Sheer to Light Coverage - Satin Finish",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "04 Medium"
+    },
+    "featureBullets": [
+      "BALANCE-N-GLOW COLOR CORRECTING CC POWDER FOUNDATION: Get radiant skin and a flawless base without sparkles or cakiness. This satin-finish baked powder foundation has a creamy texture and self-adjusting pigments infused with a touch of pearl, for a natural-looking glow all day long.",
+      "MEDIUM: Get this award-winning powder foundation in the perfect shade for medium skin with neutral undertones.",
+      "SELF-ADJUSTS TO MATCH YOUR SKIN TONE: Treat yourself to a baked foundation that gives you that radiant glow on the outside and inside. This pearl-infused formula gives you creamy coverage that's infused with Vitamin C, an ingredient known for its ability to brighten skin, even out skin tone, diminish the appearance of fine lines and wrinkles, and protect skin from free radical damage.",
+      "PERFECT FOR : Perfect for even mature skin, uneven complexions, and those with fine lines and wrinkles, the light and airy baked foundation gives you a satin finish and subtle glow, no matter your skin type.",
+      "HOW TO APPLY: For light coverage, swirl the Retractable Kabuki Brush, with the sleeve pushed all the way down, in the foundation compact. Then, stroke on your face, blending outward and upward. Repeat to build coverage. For fuller coverage, apply with the protective sleeve pulled almost all the way up. Swirl in the foundation, then stroke on face. Blend outward and upward. Repeat to build coverage."
+    ],
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B077SY1TR1",
+        "title": "01 Porcelain",
+        "url": "https://www.amazon.com/dp/B077SY1TR1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BLVFJRW0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B077T33CPS",
+        "title": "09 Toffee",
+        "url": "https://www.amazon.com/dp/B077T33CPS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x2OqlgTpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01N6IJ1CW",
+        "title": "02 Fair",
+        "url": "https://www.amazon.com/dp/B01N6IJ1CW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71cUHqYMULL._SL1500_.jpg"
+      },
+      {
+        "asin": "B077SY5JCJ",
+        "title": "06 Sand",
+        "url": "https://www.amazon.com/dp/B077SY5JCJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/7167j9xzO6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B077T6F98Q",
+        "title": "05 Golden Medium",
+        "url": "https://www.amazon.com/dp/B077T6F98Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/6158esfXRNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B06XKXCXDB",
+        "title": "07 Tan",
+        "url": "https://www.amazon.com/dp/B06XKXCXDB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61U2fYgxSgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B077T6F98M",
+        "title": "03 Light",
+        "url": "https://www.amazon.com/dp/B077T6F98M",
+        "imageUrl": "https://m.media-amazon.com/images/I/614NxS69HxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B077SS8ZNY",
+        "title": "08 Deep",
+        "url": "https://www.amazon.com/dp/B077SS8ZNY",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Le8-R6nOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B077SS92SG",
+        "title": "04 Medium",
+        "url": "https://www.amazon.com/dp/B077SS92SG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61P7mlbq-OL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 32,
+      "beforePrice": 36,
+      "discount": "-11%",
+      "priceFrom": 32,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Laura Geller New York",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A107LV0WKN7KME",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61P7mlbq-OL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61P7mlbq-OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81SZRjPAEWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81otv0I2wbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NGDeFDMFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81077AhjF9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91YA8eCd7jL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/818AUN5RuPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/818ik5mVhIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Uz+rjP-FL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1012b4e1-cc76-4218-ab6a-79dd3798c59c.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f4182b66-b324-4086-9262-1db7f88baf64.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fb9acda7-b175-48f5-a76d-abd910e04db6.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c069e7fc-86d8-4ea5-8ade-70c8b315f4d5.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac056d2b-00ba-4b9e-9d03-1b8e6ef35219.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fb5375cc-43ae-41df-b3ea-5931c9e842c5.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cb62d326-6f5e-447b-9aa8-ab0028eda4f7.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46bc7a70-c41d-4ae9-a536-98a1b001c3f5.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b9a91363-19bb-41a4-bb98-666ff5cab052.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/98b92b3c-adf8-4aa7-b54b-82e93d798037.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c652c989-5fbf-4877-bd98-0212c08fc2f0.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8de8504-738d-45e8-924c-632a45e469a5.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b32e540-6de8-4237-ae26-b2b8feda20de.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/351a068f-b685-4d89-8a6a-d4ddcd8fe7fb.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/979365d5-2880-4a64-97fa-1b722489ca99.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2cbd06fc-4dd8-4ac3-98bf-9393441f25dd.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0aff5004-53a9-4777-a147-2fb982c775e1.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/17e525e4-297f-4793-83cb-89f9ebd337a3.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 3,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97f110fb-90ca-4204-b276-28a144d26b18.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "04 Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "LAURA GELLER NEW YORK"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "micro-fine balancing pearls give a lit-from-within glow, applies like a powder and adheres to skin like a cream"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "hypoallergenic"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Italy"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "849154048403 849154014354"
+      },
+      {
+        "key": "Model Number",
+        "value": "0104-0020012"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "6598434695"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "LAURA GELLER NEW YORK"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,168 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #27 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B077SS92SG"
+      },
+      {
+        "key": "Additional Features",
+        "value": "micro-fine balancing pearls give a lit-from-within glow, applies like a powder and adheres to skin like a cream"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light to Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.16 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3 x 1 x 3 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 24531,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "66%",
+        "fourStars": "13%",
+        "threeStars": "9%",
+        "twoStars": "5%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find the foundation to be of good quality and appreciate its lightweight, smooth application. The coverage and color receive mixed feedback - while some say it covers well and matches their skin perfectly, others report little to no coverage and colors that are too dark. The skin appearance and texture also get mixed reviews, with some saying it leaves skin flawless while others report it makes it look worse and feels too powdery. The finish receives mixed reactions, with some praising its luminous effect while others find it too shiny.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 844,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 487,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 478,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color",
+          "count": 941,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin appearance",
+          "count": 698,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 513,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Finish",
+          "count": 462,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71lvPqDvRZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Hn90J+zdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71vERJLpFyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61KRJSJTQyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61G2j3IqW8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61baS+V+u2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71tB7BOvf+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71t0l3NeA+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bixt0mA1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61658OtSJWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61LrUKEPcJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CHV7OZgJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "It's ALL in review! Id give 10 stars if pos! look @pic of me @wrk(in a hot factory)@break.",
+          "reviewText": "Ever since I got this in my ipsy bag about 6mos ago I've been in love!! I threw out all my liquid foundation, my pressed powder etc...this powder foundation is amazing! It literally is just like brushing on a 2nd layer of skin. It's not cakey like foundation n it's not powdery looking like powder, it's the perfect balance of buildable coverage, if u have certain things u want covered then trust me this will do it but if u just want a natural \"better\" version of ur own skin then this is THAT! I can't even explain how it does it but it goes on so easy with a makeup brush n is matte enough to look like actual skin but also has this kind of highlight in it to where it looks like real skin as well. Everybody knows that nobody has skin that is 100% matte naturally cuz we have pores n we naturally will glow in certain areas etc..AND everybody knows that nobody has naturally super luminous skin where your just shiny everywhere all the time so if u dnt have time for instance one morning, to do ur highlight...ur all good w this compact alone! U will still look NATURALLY glowing! Me, myself love a strong highlight so I always do a bit of contour n then a snatched highlight above my cheekbones, my cupids bow above my lip, n down the center line of my nose n then use left over on brush to swipe along my temples, arch of eyebrows n top of forehead but I have woken up late 4 wrk sum mornings n took my 2mins to brush on a light layer of this n been extremely happy walking out the door cuz I looked like I just woke up n left but BETTER! nobody could tell I had ANY makeup on, just super healthy, good, skin that had a natural glow. Or 4 the days u dnt want 2b \"done up\" n dnt feel like doing a full makeup face...just using this compact, shaping ur brows, a lil mascara n sum tinted lip balm n u will look amazing. I swear I will praise n preach about this product FOREVER n TO whoever will listen bcuz its THAT damn good! Just pick the shade that's as close to ur skin color as possible n ur good to go! Btw, that's another thing about it...it magically finds a way to match ur real skin color even if u dnt get the exact color u needed! Of course if ur like a fair/light and u buy a deep tan u already no thats NOT going to happen on any level(or any planet lol) but if ur just a shade or 2 off it will work itself out. It never looks fake, it's so natural that's y I love it as well cuz I tan alot n there's been times I stop tanning for a month or so n I was able to still use the same compact after I had faded ALOT n it never looked bad, it somehow blended itself n I used a big fluffy brush to brush some down my neck a bit(which I do everyday anyway) n it never looked like I had a dark face n light skin at all! It looked like at most, I had a lil bronzer on or had a tad bit of sun on my face but blended seamlessly in with the rest of my body. So anyways yeah!! This product is life!! I also use other laura Gellar products now like her lip scrub lipstick which is all natural n wrks beautifully in getting old dead skin cells n anything else off ur lips b4 u apply ur lip product of choice n ur lips look 100 times better! But yea Laura Gellar baked balance powder foundation ALL THE WAY! I promise u will get rid of all other face products u thought u needed b4!! (Aside from ur blush/bronzer and highlighter if u use those things)",
+          "reviewDate": "Reviewed in the United States on May 7, 2022",
+          "customer": "Nicole Maines",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEXXHJZBKZ6K6Z3IABUR37NSM3PA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05 Golden Medium"
+          },
+          "helpfulVotes": "1,414 people found this helpful"
+        },
+        {
+          "reviewTitle": "\u201cFlawless Finish and Long-Lasting \u2013 Perfect for a Natural Look!\u201d",
+          "reviewText": "I recently purchased the Foundation Powder from Amazon, and I have to say, I\u2019m extremely impressed with the quality and performance. As someone who has been using powder foundation for years, I\u2019m always on the lookout for one that provides full coverage without looking cakey, and this product has checked all the boxes! Here\u2019s my detailed review based on my experience: Packaging and Presentation The packaging is sleek, compact, and convenient. It arrived in a sturdy, travel-friendly case with a mirror inside, which makes it super easy to apply on the go. The powder itself is tightly secured in the container, and the lid closes securely to avoid spills. It\u2019s a practical size that fits comfortably in my makeup bag or vanity drawer, and I love the built-in mirror for quick touch-ups throughout the day. Shade and Color Selection The foundation powder is available in a variety of shades to match different skin tones, and I found my perfect match fairly easily. I chose the shade [specify shade, e.g., Medium Beige], and it blends beautifully with my complexion, creating a natural, even-toned look. The color doesn\u2019t appear too yellow or pink, which I\u2019ve experienced with other brands, and it\u2019s the right balance of warm and neutral undertones. I was able to find a shade that worked well without having to try multiple colors. Texture and Consistency The powder is finely milled, giving it a smooth, silky texture that applies evenly to the skin. It feels lightweight and airy, which I love because I don\u2019t feel like I\u2019m wearing a heavy layer of makeup. Despite being a powder, it provides a nice, soft finish that doesn\u2019t feel dry or chalky. It also has a matte finish, which is perfect for my oily skin, and it doesn\u2019t make my face look shiny by the end of the day. Coverage and Application I was blown away by the coverage! This foundation powder offers buildable coverage, which means I can apply a light layer for a more natural look or layer it for full coverage when I need it. The powder does an excellent job of evening out my complexion, covering blemishes, and hiding redness. It also provides a slight blurring effect, smoothing out imperfections and making my skin appear more flawless. I used a fluffy makeup brush to apply it, and the product distributed evenly, blending seamlessly into my skin without any streaks or patches. Longevity One of the things I love most about this foundation powder is how long it lasts. It stays put for hours without needing touch-ups, which is a big plus for me since I don\u2019t like to reapply foundation throughout the day. Even after a full workday, my makeup still looks fresh, with no fading or uneven patches. It also keeps my face matte for an extended period, which is a game-changer for my oily T-zone. I don\u2019t have to worry about my foundation slipping or melting away in hot weather, and it stays in place even during long hours. Skin Feel and Comfort Another huge plus is how comfortable this powder feels on the skin. It doesn\u2019t irritate or dry out my face like some powders do. It\u2019s breathable, lightweight",
+          "reviewDate": "Reviewed in the United States on November 22, 2024",
+          "customer": "Mom2",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWRPRZSXKEYN2ZC4QOZWXJH2PUA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "07 Tan"
+          },
+          "helpfulVotes": "57 people found this helpful"
+        },
+        {
+          "reviewTitle": "Laura geller balance and bright! \ud83d\udc4d",
+          "reviewText": "Best make up ever for oily skin. My skin absorbes liquid make up within two hours! Hated that! But this, stays on all day, doesn't look like your wearing makeup, great coverage and balances out the tones in your skin! Don't ask me how, but it does! It even stays put in the pool! Doesn't gather in areas of wrinkles, flows on with the brush very nicely. Wish I had discovered this years ago. You don't need to be \" older\" to wear this. The right shade Looks great on all skin , my friends use it now as well.",
+          "reviewDate": "Reviewed in the United States on February 21, 2026",
+          "customer": "Cindy W.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFIC2K3M7GPX2O3ILGE757JO5RFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "06 Sand"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "As good as bare minerals",
+          "reviewText": "Make sure you get the right color for your skin don\u2019t get lighter . It does a good job covering and making you look younger . I\u2019m 55 and this brightened my face back into my 40\u2019s. I use a big blush brush make circles in the pallet then apply circular strokes . You can wear foundation under or put her primer on underneath ( I do both ) looks amazing after ! Watch for sale prices it\u2019s pricey . Amazon has a 50$ starter set as well . Lady\u2019s a few hours . Watch out if you have sensitive skin though . Wash your face thoroughly before applying anything.",
+          "reviewDate": "Reviewed in the United States on December 3, 2025",
+          "customer": "Victoria",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSXJPYYGFBGM5YNQR3I6EYKTOZA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "02 Fair"
+          },
+          "helpfulVotes": "41 people found this helpful"
+        },
+        {
+          "reviewTitle": "Makeup",
+          "reviewText": "Works good but looks a little orangey.. Plus it's a bit pricey.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "Donna wade",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGOIJFGGIFPDC2Q2FQX7CCAL3L3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair"
+          }
+        },
+        {
+          "reviewTitle": "Brillant for Sensitive Skins",
+          "reviewText": "I wear a very light foundation then put the Laura Gellar Balance n Glow Illuminating foundation over the top to give a beautiful light from within. It is very a suttle glow , which looks beautiful. Doesn't settle into fine lines and wrinkles and is buildable. I get a deeper shade to put all over my large forhead.",
+          "reviewDate": "Reviewed in Australia on February 13, 2026",
+          "customer": "Cat Lady",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair"
+          }
+        },
+        {
+          "reviewTitle": "Not very good",
+          "reviewText": "It goes on patchy, and not light more orange in colour",
+          "reviewDate": "Reviewed in the United Arab Emirates on December 4, 2023",
+          "customer": "G",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "03 Light"
+          }
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "Love it fantastic",
+          "reviewDate": "Reviewed in Australia on December 6, 2025",
+          "customer": "Teresa Woollatt",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Light"
+          }
+        }
+      ]
+    }
+  }
+}

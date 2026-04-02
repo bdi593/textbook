@@ -1,0 +1,237 @@
+{
+  "requestMetadata": {
+    "id": "15d9c2b9-4fb2-47f6-aa49-271d96451ce2",
+    "status": "ok",
+    "html": "https://files.hasdata.com/15d9c2b9-4fb2-47f6-aa49-271d96451ce2.html",
+    "json": "https://files.hasdata.com/15d9c2b9-4fb2-47f6-aa49-271d96451ce2.json",
+    "url": "https://www.amazon.com/dp/B0GTPFZSQD"
+  },
+  "product": {
+    "asin": "B0GTPFZSQD",
+    "url": "https://www.amazon.com/dp/B0GTPFZSQD",
+    "title": "4-in-1 Color Changing Foundation, Long-Lasting, Waterproof, Sweat-Proof, Lightweight, Medium to Full Coverage, Natural Look for All Skin Types (1 Fl Oz (Pack of 2))",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 2)"
+    },
+    "featureBullets": [
+      "\u2728\u3010Perfect Skin Tone Matching\u3011This color changing foundation like a \u201csmart color-adjusting pen.\u201d Enriched with microcapsule pigment particles, each light touch of the foundation brush triggers the capsules to burst, activating a color-changing effect. It automatically adjusts to match your skin tone, eliminating the hassle of choosing the right shade.",
+      "\u2728\u3010Long-Lasting Natural Coverage\u3011Dullness, blemishes, and wrinkles vanish. Fine color-correcting particles deliver medium to full coverage with a lightweight, all-day finish. Lasting up to 24 hours, it creates a flawless, natural \u201cI woke up like this\u201d look.",
+      "\u2728\u3010Skin-Nourishing Longevity\u3011Infused with natural avocado oil, white beeswax, and licorice root extract, our white color changing foundation is alcohol-, oil-, and fragrance-free, with a vegan, additive-free formula. It hydrates and smooths skin texture. The longer it stays on, the better your skin looks\u2014nurturing your complexion.",
+      "\u2728\u3010Smudge-Proof & Water-Resistant\u3011Stay flawless through sweat, humidity, or extended sun exposure. This smudge-proof formula maintains your look from morning to night without touch-ups. Keep your makeup fresh and confident, rain or shine.",
+      "\u2728\u3010Daily Protection\u3011Sun protection effectively shields against daily UVA/UVB rays while evening out skin tone. This 2-in-1 foundation and sunscreen simplifies your daily routine, perfect for commuting, work, and short trips. Protect your skin and maintain a flawless finish without extra steps."
+    ],
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0GTPFZSQD",
+        "title": "1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0GTPFZSQD",
+        "imageUrl": "https://m.media-amazon.com/images/I/717+hL1ICXL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 17.99
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Daily Care Hub",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3OUY18HRR0PU5",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/717+hL1ICXL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/717+hL1ICXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ksMb8dgFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bWrNzgUyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BD1NWMsWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71043Pb1nfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718agTU-NGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811BL3nhm5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ijeny3lAL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/51f2e155-74a9-4151-aae3-fe628f1b4cb6.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/17fd6a22-4777-4515-8834-1cb030e71e2d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/96b2c0c6-eafa-4d66-b743-bcabb1d04a20.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1448a146-8aa2-4004-8baa-66cf2f1894c8.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c73fc303-2c78-47af-b431-5a73a80be56e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d23fd8a1-4a77-4752-b429-f752aef64ef2.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1b409c3-cb2a-4f04-8078-93336ae08ef6.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eee02ba3-9967-4555-8e47-aef96d7fe5b0.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38ac52d3-bc5d-461d-b7f6-dee9cf457e4b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06c8cf36-1472-42ba-814a-33845c213a0e.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Lotion"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "LARUOOUU"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "UPC",
+        "value": "719559457912"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "LARUOOUU"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#19,035 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #193 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0GTPFZSQD"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Number of Items",
+        "value": "2"
+      },
+      {
+        "key": "Unit Count",
+        "value": "2.0 Fluid Ounces"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 31,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "85%",
+        "fourStars": "6%",
+        "threeStars": "0%",
+        "twoStars": "0%",
+        "oneStars": "9%"
+      },
+      "reviews": [
+        {
+          "reviewTitle": "A Convenient Foundation That Adjusts Easily to Everyday Needs",
+          "reviewText": "This foundation offers a practical approach for anyone who prefers a simple routine without needing to match specific shades. The color-adjusting formula blends in gradually as it\u2019s applied, and the texture feels lightweight while still providing enough coverage to soften uneven areas and brighten the complexion. The finish leans toward natural, making it suitable for daily wear. The formula includes moisturizing ingredients and avoids added fragrance and oils, which helps it sit comfortably on the skin for extended periods. It holds up well through regular activities, with resistance to sweat and smudging that keeps the appearance consistent throughout the day. The added sun protection is useful for commuting or short outdoor errands, reducing the need for extra steps in the morning. Since the set comes as a two-pack, it offers a convenient supply for routine use or for keeping one at home and one in a travel bag. As a 2-in-1 product combining foundation and SPF, it provides a streamlined option for users who want a straightforward way to maintain a polished look.",
+          "reviewDate": "Reviewed in the United States on November 16, 2025",
+          "customer": "Rhonin",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG3UZWHWEXWLZUTPDLU3YGDPXHHQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "28 people found this helpful"
+        },
+        {
+          "reviewTitle": "Blends Faster Than Expected and Stays Steady",
+          "reviewText": "When my wife first tested this foundation, she started by squeezing a pea-sized amount onto the back of her hand and using a flat brush to pick it up. The pigment capsules broke almost immediately as she spread it across her cheeks, turning from a light cream into a tone that matched her skin surprisingly closely. She blended it with a damp sponge afterward, which helped the texture settle smoothly without streaks. She wore it for roughly seven hours that day\u2014morning errands, some time cooking in the kitchen, and a short step outside. I checked around the usual problem areas for her (sides of the nose and chin), and it still looked even. No obvious separation or shine. What stood out to her was how lightweight it feels despite offering medium coverage. She said it didn\u2019t cling to dry patches, and the finish stayed natural instead of overly matte. She also didn\u2019t notice any irritation, which is a big plus since her skin can be a bit sensitive. She\u2019s keeping an eye on the longer-term moisturizing claims, but for day-to-day wear, it\u2019s been reliable.",
+          "reviewDate": "Reviewed in the United States on November 16, 2025",
+          "customer": "Tommy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AERPIWAYAITFPRMCJQQIHSAJY5RA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "45 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lightweight and Natural Everyday Foundation",
+          "reviewText": "I use this 2-in-1 Color Changing Foundation every day, and it has become my go-to for a flawless, natural look. I apply it with the brush applicator, and the texture glides smoothly over my skin. It feels very lightweight on my face, never heavy or cakey, and blends easily for an even finish. The color-changing formula adjusts perfectly to my skin tone, giving a soft, natural look that enhances my complexion without looking overdone. I especially love that it is waterproof and sweat-proof, so it stays flawless even during the rainy season or long days out. The foundation provides medium to full coverage while feeling breathable, and it creates a smooth, radiant finish that looks like \u201cmy skin but better.\u201d Using it daily gives me confidence that my makeup will stay in place and look natural all day.",
+          "reviewDate": "Reviewed in the United States on November 19, 2025",
+          "customer": "PoRev",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE7CAWEETOYLMCPZG3HVQVQXGDPA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "20 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect Everyday Foundation That Matches My Skin Tone Easily",
+          "reviewText": "I\u2019ve used this color changing foundation daily for a little over three weeks and it has quickly become a favorite. The way it adjusts to my skin tone each time makes getting the right shade effortless and it blends in smoothly without leaving any lines. Applying it is simple. The texture feels light, creamy and easy to spread with either a brush or my fingers. It settles nicely, stays comfortable all day. I really like how the shade adapts to my skin, which makes it a dependable part of my daily routine. After a few weeks of steady use, I\u2019m very happy with the light feel, smooth application, accurate color match and the way it fits my skin.",
+          "reviewDate": "Reviewed in the United States on November 25, 2025",
+          "customer": "Amber",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSNITAPNJ5TV7MI4AMKFG3VV5VQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "17 people found this helpful"
+        },
+        {
+          "reviewTitle": "Versatile and Long-Lasting Foundation",
+          "reviewText": "I tried the 2-in-1 Color Changing Foundation, the color-changing formula is impressive\u2014it adjusts nicely to my skin tone, giving a natural, seamless look without looking cakey. The medium to full coverage is easily buildable. I can wear a light layer for everyday natural wear or add a second layer for more coverage without it looking heavy. I\u2019ve also been surprised by its waterproof and sweat-proof properties. It held up well during workouts and hot days, and I didn\u2019t notice it smudging or fading significantly. The foundation feels lightweight on the skin, which makes it perfect for all-day wear. It blends well with minimal effort, whether using a brush, sponge, or fingertips.",
+          "reviewDate": "Reviewed in the United States on November 26, 2025",
+          "customer": "Mistpetal",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEB57VJ6ZQICJKDGTG2W25LGHMKQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "20 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not worth $1",
+          "reviewText": "It\u2019s not a color changing\u2026.it is totally clear. When I use a makeup remover it\u2019s also clear. Do not buy, totally false foundation unless u want CLEAR",
+          "reviewDate": "Reviewed in the United States on March 29, 2026",
+          "customer": "Stella",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJAPYQGHOA7ISDYU35BPWZKWK5A",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 2)"
+          }
+        },
+        {
+          "reviewTitle": "Natural color, Easy to use.",
+          "reviewText": "My wife was almost out of foundation, so I ordered this color-changing foundation for her. This foundation is amazing! It automatically matches her skin tone and changes color, saving her the trouble of choosing a shade. Its texture is very lightweight and easy to apply evenly without feeling heavy on the skin. The foundation works very well, the color looks very natural and blends perfectly with her natural skin tone. It's also waterproof, so it won't be affected by rain or sweat, and the makeup can last all day. It has no pungent smell, contains no irritating chemicals, and is very gentle on the skin. This foundation also has SPF, effectively protecting the skin, making it perfect for everyday use.",
+          "reviewDate": "Reviewed in the United States on November 24, 2025",
+          "customer": "Cleveland",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVBP627BDRQ2Q3NBMUGG5IZXUFA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth on the Skin",
+          "reviewText": "After trying this foundation for several days, it goes on with a light, milky texture that blends quickly. Once it sets, my skin looks a bit smoother, especially around the pores, which is something I appreciate when I\u2019m getting ready in the morning. It also gives my face a soft brightness without looking shiny. The formula doesn\u2019t feel heavy, and it stays steady on my skin during the day without turning patchy.",
+          "reviewDate": "Reviewed in the United States on December 3, 2025",
+          "customer": "Customer Review",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG46LJIZBFIAR7FD6QTMKRIKHV5Q",
+          "customerStarsRating": 5,
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Colour match perfection",
+          "reviewText": "The adaptive pigments blend seamlessly to match my complexion flawlessly.",
+          "reviewDate": "Reviewed in the United Kingdom on August 6, 2025",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5
+        }
+      ]
+    }
+  }
+}

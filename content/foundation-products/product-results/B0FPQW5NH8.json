@@ -1,0 +1,482 @@
+{
+  "requestMetadata": {
+    "id": "71d1d87a-8a1d-4799-9b3c-cd355451522d",
+    "status": "ok",
+    "html": "https://files.hasdata.com/71d1d87a-8a1d-4799-9b3c-cd355451522d.html",
+    "json": "https://files.hasdata.com/71d1d87a-8a1d-4799-9b3c-cd355451522d.json",
+    "url": "https://www.amazon.com/dp/B0FPQW5NH8"
+  },
+  "product": {
+    "asin": "B0FPQW5NH8",
+    "url": "https://www.amazon.com/dp/B0FPQW5NH8",
+    "title": "Wonderskin Hyper Bond All-Day Stay Serum Foundation \u2013 Waterproof, Transfer-Proof, 24HR Longwear Face Makeup with Niacinamide & Hyaluronic Acid \u2013 Lightweight, Natural Finish (Moonstone)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Moonstone (Light Neutral)"
+    },
+    "featureBullets": [
+      "Life-proof Foundation \u2013 Enjoy flawless wear that lasts up to 24 hours. This waterproof, sweat-proof, and transfer-proof formula resists humidity, heat, and activity, keeping your skin fresh without touch-ups.",
+      "Natural, Skin-Like Finish \u2013 Lightweight serum texture melts into skin for seamless blending, instantly blurring pores, discoloration, and fine lines. Delivers a radiant, healthy-looking glow with a breathable feel.",
+      "Skin-Loving Formula \u2013 Infused with 2.5% niacinamide, peptides, hyaluronic acid, aloe, and antioxidants. Helps hydrate, smooth, brighten, and protect skin while improving texture and minimizing imperfections.",
+      "Clean, Vegan & Non-Comedogenic \u2013 This foundation is fragrance-free, alcohol-free, talc-free, and PFAs-free. Dermatologist tested, vegan, cruelty-free, and safe for sensitive skin, making it perfect for all skin types.",
+      "20 Inclusive Shades \u2013 Available in a wide range of shades with cool, warm, and neutral undertones to suit every complexion. Designed to match diverse skin tones and deliver a true-to-skin, second-skin finish."
+    ],
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FPR8NF3W",
+        "title": "Halo (Light Warm)",
+        "url": "https://www.amazon.com/dp/B0FPR8NF3W",
+        "imageUrl": "https://m.media-amazon.com/images/I/71h9Plc3E9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR4ZS2N",
+        "title": "Energy (Medium Tan Golden)",
+        "url": "https://www.amazon.com/dp/B0FPR4ZS2N",
+        "imageUrl": "https://m.media-amazon.com/images/I/71B8T6USJZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR4W419",
+        "title": "Mood (Medium Tan Neutral)",
+        "url": "https://www.amazon.com/dp/B0FPR4W419",
+        "imageUrl": "https://m.media-amazon.com/images/I/71FQV2pn64L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR85HRQ",
+        "title": "Muse (Fair Neutral)",
+        "url": "https://www.amazon.com/dp/B0FPR85HRQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71fCV4vkYbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPQZCB9Y",
+        "title": "Nova (Meidum Neutral)",
+        "url": "https://www.amazon.com/dp/B0FPQZCB9Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71aznJ5mHAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR77ZNV",
+        "title": "Soul (Deep Neutral)",
+        "url": "https://www.amazon.com/dp/B0FPR77ZNV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71iVN33nmVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR9ZM26",
+        "title": "Spark (Deep Peachy)",
+        "url": "https://www.amazon.com/dp/B0FPR9ZM26",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Q20GDC2vL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR9W7HG",
+        "title": "Aura (Deep Cool)",
+        "url": "https://www.amazon.com/dp/B0FPR9W7HG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71D1jRKROVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR745RF",
+        "title": "Spell (Medium Tan)",
+        "url": "https://www.amazon.com/dp/B0FPR745RF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71yiY73BQML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR6FMP4",
+        "title": "Echo (Fair Olive)",
+        "url": "https://www.amazon.com/dp/B0FPR6FMP4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71H+q196s8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR9J7M3",
+        "title": "Haze (Fair Cool)",
+        "url": "https://www.amazon.com/dp/B0FPR9J7M3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71RytLNhVoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPQW5NH8",
+        "title": "Moonstone (Light Neutral)",
+        "url": "https://www.amazon.com/dp/B0FPQW5NH8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71A-BkK1lpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FTMG6LP6",
+        "title": "Purple",
+        "url": "https://www.amazon.com/dp/B0FTMG6LP6",
+        "imageUrl": "https://m.media-amazon.com/images/I/811C-c2TebL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR55QFW",
+        "title": "Dream (Deep Warm)",
+        "url": "https://www.amazon.com/dp/B0FPR55QFW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Ea-9PqDYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR5141X",
+        "title": "Bliss (Medium Golden)",
+        "url": "https://www.amazon.com/dp/B0FPR5141X",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZdvCHlJsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR79W1K",
+        "title": "Mesa (Medium Tan Olive)",
+        "url": "https://www.amazon.com/dp/B0FPR79W1K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71y4g39sqeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR7KCWZ",
+        "title": "Moxy (Deep Golden)",
+        "url": "https://www.amazon.com/dp/B0FPR7KCWZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/714mYU6VqqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPQXF3BZ",
+        "title": "Lunar (Light Cool)",
+        "url": "https://www.amazon.com/dp/B0FPQXF3BZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71aBHHGBrDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR8Q1CH",
+        "title": "Spirit (Deep Cool)",
+        "url": "https://www.amazon.com/dp/B0FPR8Q1CH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Lk8quRvOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPQYMSV5",
+        "title": "Allure (Medium Cool)",
+        "url": "https://www.amazon.com/dp/B0FPQYMSV5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71B45Y+JiYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPR6HKKQ",
+        "title": "Afterglow (Medium Tan Warm)",
+        "url": "https://www.amazon.com/dp/B0FPR6HKKQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71v1ISn+2jL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 33.6,
+      "beforePrice": 42,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Wonderskin Beauty",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3J4XGDW95FA9P",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/71A-BkK1lpL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71A-BkK1lpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bLirqpl-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71VFfTL5sjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XL4F4fh9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61H1dZZ-k2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61CiisMP5gL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71r-hjPGKTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711r9JNpyyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/617vk+Cj1GL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5c7ca47d-ec1b-45a7-8a09-86933fcaa71e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d8850da-14c5-4217-a372-359797dfa0c9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a0d5425-eabc-4eba-9d91-76ce156b569e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1caae419-6373-4d19-9b9d-bf6478ab4078.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2084fdbb-8897-4550-ad42-975d440c706e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23c75859-624f-40c9-b6b0-671247514ede.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6ad7e87a-d215-47b6-8812-387c1073de80.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d1d9fb34-7359-4632-99bf-4bbc16ca5ac1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a4cc3706-65d2-4fcb-9de7-d46ebc32fc8c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0cba5220-1f27-4cd6-bd11-98814843ad38.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/828030d9-efe0-48c4-9834-604cce71cd9d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/47ab7edf-0159-480f-a3bf-c0322f834beb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/867dab00-e565-48d8-91a9-25e7b841e19b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5d2185f2-64c2-40fa-a279-5f8f6b670562.__AC_SR200,225___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/278a9dc4-1d8e-4771-b5f5-15c18281e2f2.__AC_SR200,225___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fd7ac777-7b83-4a06-9da6-626671d7ef45.__AC_SR200,225___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4f672d8e-deef-47f1-9e7a-20fce7fc42dd.__AC_SR200,225___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e19468b6-a93a-4c9e-95f0-3235127c94d7.__AC_SR200,225___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/afba8b85-8c6f-44d3-8de2-c6b49a802f34.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/afba8b85-8c6f-44d3-8de2-c6b49a802f34.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ecdc77da-0e57-4b3b-8384-c472ce74f479.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/25db872e-bebd-42e7-9a95-e743b2f28978.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ae6745cc-188c-4c18-b3b5-b63df2975f51.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/84411a9f-aed3-4218-8200-6a65381cecbc.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Moonstone (Light Neutral)"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Wonderskin"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Long-wearing, Natural Finish"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adults, Teens"
+      },
+      {
+        "key": "UPC",
+        "value": "850073597170"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "WS-HBF-MSTN"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Wonderskin"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#12,377 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #142 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FPQW5NH8"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.26 Pounds"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 333,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "66%",
+        "fourStars": "12%",
+        "threeStars": "10%",
+        "twoStars": "4%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find this foundation provides buildable coverage that matches their skin tone perfectly, with a comfortable texture that leaves skin looking smooth and pretty. The product is lightweight, with one customer noting it provides a healthy finish without feeling heavy, and stays in place all day without settling into fine lines. They appreciate its longevity, noting it lasts all day without creasing or transferring, and consider it a great quality foundation.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 64,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin match",
+          "count": 41,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 37,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 33,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural finish",
+          "count": 31,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 31,
+          "status": "positive"
+        },
+        {
+          "aspect": "Stays in place",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 27,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61ZzRSK6GdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71TtLduA2vL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mTAK7BWKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61YNK4uUOpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dL3rARPqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71aiC-8AaCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61maNg-g26L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/712ElQnkO8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71nV6RMCGxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71j8q5tQi2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qL0+8luRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/616PVyUor6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "10/10 for Aging Skin",
+          "reviewText": "I am a 40 yr old woman with light-medium olive dry/combo skin, fine lines, and uneven skin texture and tone. I'm an exact match for Maybelline Fit Me220 natural beige, MAC NC 30, Clinque Even Better 70 Vanilla, and the shade Bliss is PERFECT. It's thick and creamy, but not heavy or cakey. It absolutely melted into my skin and blended out easily and beautifully. It's hydrating without being heavy, sticky, or oily. It can be light, medium, or full coverage, pending on how much you use, as well as the tool you use to apply/blend it. Whats more is that it LOOKS like my skin, but better, which is an incredible feat, considering I bought this online without swatching. I am SO excited to have found this absolute gem of a product. It is truly goated, top tier, holy grail status. And the fact that it has all the quality ingredients that my aging skin needs? Ugh. PERFECTION. I snagged this at a substantial discount, which is why I was willing to give it a shot, but I would absolutely (and WILL) pay full price for this any day of the week. It is so worth it.",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "C Dent",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQOBU3QTUJZM5JALPXUHMAZX3CA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Bliss (Medium Golden)"
+          },
+          "helpfulVotes": "27 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth texture and beautiful finish",
+          "reviewText": "I honestly loved the texture of this foundation. It feels super smooth and lightweight on the skin, almost like it melts as you apply it. It spreads really easily and blends without any effort. The application is very even, and it gives my skin a clean, polished look without feeling heavy. What I liked the most is how it leaves my skin looking soft and dry to the touch, not greasy at all. It just makes my skin look more put together and natural at the same time. Definitely one of my favorite formulas I\u2019ve tried.",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "Rictheli Souza",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFRXDNT3ZSK67HDDM6AGRIFWZBKA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Mesa (Medium Tan Olive)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "60 year old and I love this!",
+          "reviewText": "No filter! This is so worth the price. I have wrinkles, age spots, freckles, and lupus. I have tried so many brands for coverage plus softness and have been disappointed to where I just gave up for years. I love this. Very small amount gave me the smoother and softer coverage with superior staying power. I earned my wrinkles and don't mind my freckles but I wanted to look a bit better for special occasions. This mostly made the wrinkles fade and definitely gave me a even tone without my lupus rash discoloration bleeding through. I have dry skin and kept touching my face all day to feel the softness. It was like a nice light moisturizer. I am part asian, hawaiian mixed and have medium skin with cream/yellow undertones. I am a winter for clothing. I purchased moonstone and it was a perfect shade for me during winter, summer might not work because I get darker from gardening. Very easy to apply with foundation brush and blender. Stayed strong and I had to use wipes to fully remove it.",
+          "reviewDate": "Reviewed in the United States on February 20, 2026",
+          "customer": "Alita",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEGTYYKPHBJQYRSTYKZT6KO3OAKA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Moonstone (Light Neutral)"
+          },
+          "helpfulVotes": "22 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good product! Worth looking into!",
+          "reviewText": "I like this foundation, but it\u2019s not going to be for everyone! Here are a few of my observations, perhaps they\u2019ll help you decide if it\u2019s worth your time and money. 1) This is a light coverage product. That\u2019s my preference, so it works great for my needs. It helps even out some minor discoloration and skin tone issues, but in no way is this a medium or full coverage product. It\u2019s more like a skin tint type of coverage. You can adjust the coverage by applying differently- I use a dampened sponge most days, but I\u2019ve upped the coverage by using a brush sometimes as well. I dint like it applied with fingers, but someone else might. 2) The finish on this is natural, so not matte, not dewy. Just a \u201cstraight down the middle of the road\u201d natural finish. It can be manipulated slightly by skin prep/primer - want a more glowy finish? Add a glow boosting primer. Want a dewy finish, add a hydrating primer. Etc. 3) The product is a semi thick cream texture but blends into your skin easily and lightly, and feels like nothing on your skin. This for me is wonderful, but I can see that the combination of sheer to light coverage and the feeling of nothing on your skin might be off putting to some people, kind of like it\u2019s not doing anything at all. 4) The way this dries down and settles on your skin is very pretty. It seems to blur over texture and pores in a way that still looks like skin, just lightly perfected. It\u2019s not at all sticky or tacky, so powdering is completely optional. I don\u2019t usually powder this one. 5) It\u2019s pretty long lasting but I can\u2019t vouch for the 24 hour claim. It\u2019s lasted me several loooooong workdays and holiday events afterwards, so the longest I\u2019ve worn it is about 15 hours. It looked pretty good that day, but was starting to show signs of wear (though minimal) by the 14 hour mark. 6) I have only had this product for about a month so can\u2019t weigh in on any long term skin care claims. I have semi sensitive skin and this hasn\u2019t caused any irritation or breakouts for me. So the only real issue I have is that I don\u2019t think it\u2019s a real star product for dry skin. Unfortunately it does seem to gather around dry patches and then wear away oddly. I\u2019ve found ways to combat that by different skin prep and exfoliating beforehand. It\u2019s not a dealbreaker but I did subtract one star for this. So, IMHO, this is for someone with normal or oily skin, looking for a sheer to light, breathable, lightweight foundation.",
+          "reviewDate": "Reviewed in the United States on December 29, 2025",
+          "customer": "S Pross",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4OTLYOKJ634VVQMJBUOBNHAIVA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Echo (Fair Olive)"
+          },
+          "helpfulVotes": "52 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not quit as advertised",
+          "reviewText": "It's very lightweight and spread very easily. It's buildable coverage but I need at least 2 layers to even get to light-medium coverage. Dries relatively quick, I have to work faster in order to avoid brush mark. It's not glowy, more like satin velvet finish. I wouldn't say it's totally transfer proof but it does last quit long.",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "Emily",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHGMKCV6J5HCAMAY4XS42QUIXFSA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Halo (Light Warm)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wonderful foundation",
+          "reviewText": "I love this foundation. It covers well and has a wonderful finish. I use a primer before I apply it. It doesn\u2019t cake and it stays all day. Works for all skin types. It\u2019s not watery and is a great value. It\u2019s not oily at all.",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Mrswags101",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGDSKK646S3IM5HNGXIHDP4V2DBA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Moonstone (Light Neutral)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "False advertising",
+          "reviewText": "Not waterproof or transfer proof. Very light coverage. Barely medium. I allowed 15 minutes to dry then tested. Wiped right off with gentle blotting. I returned it. Consistency is thick out of the bottle but spreads easily. I'm a warm/yellow tone. Got Bliss and Mesa. Bliss was a close match but slightly too light. The finish isn't skin-like. It's chalky and settles into lines and accentuates dry patches.",
+          "reviewDate": "Reviewed in the United States on December 30, 2025",
+          "customer": "Ryan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFT3PUL75F4V3TKXOSAGZQYSLUIA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Bliss (Medium Golden)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best foundation iv ever used!",
+          "reviewText": "Best foundation iv ever used and over the years iv used all the top brands you can possibly think of. This foundation is buildable but I haven't needed more than 1 application as it covers well, dewy finish and goes on like silk , this foundation doesn't lie in fine lines/ wrinkles , I purchased moonstone which is a natural light Shade but not too light, I look soo heslthy when just wear this, absolutely love it .",
+          "reviewDate": "Reviewed in the United Kingdom on March 17, 2026",
+          "customer": "Elaine",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Moonstone (Light Neutral)"
+          }
+        },
+        {
+          "reviewTitle": "Colour hard to distinguish",
+          "reviewText": "Colour hard to describe!",
+          "reviewDate": "Reviewed in Canada on March 13, 2026",
+          "customer": "Pinky",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Halo (Light Warm)"
+          }
+        }
+      ]
+    }
+  }
+}

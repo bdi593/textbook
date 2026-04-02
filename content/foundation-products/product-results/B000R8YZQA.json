@@ -1,0 +1,553 @@
+{
+  "requestMetadata": {
+    "id": "9feeaba3-7472-4c9d-a2a6-223f66359da0",
+    "status": "ok",
+    "html": "https://files.hasdata.com/9feeaba3-7472-4c9d-a2a6-223f66359da0.html",
+    "json": "https://files.hasdata.com/9feeaba3-7472-4c9d-a2a6-223f66359da0.json",
+    "url": "https://www.amazon.com/dp/B000R8YZQA"
+  },
+  "product": {
+    "asin": "B000R8YZQA",
+    "url": "https://www.amazon.com/dp/B000R8YZQA",
+    "title": "Glo Skin Beauty Pressed Base Powder Foundation, Honey Medium \u2013 Buildable Sheer to Full Coverage, Long Wear Face Powder Compact, Pressed Powder Makeup for Smooth, Semi-Matte Finish",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Honey Medium"
+    },
+    "featureBullets": [
+      "LONG-WEAR POWDER FOUNDATION \u2013 This pressed powder foundation delivers a weightless, semi-matte finish that helps blur the look of imperfections and creates a smooth, second-skin appearance that lasts throughout the day",
+      "BUILDABLE COVERAGE FROM SHEER TO FULL \u2013 A flexible powder foundation makeup that can be layered for customized coverage, from a light, natural look to fuller coverage, or used as a setting powder over liquid or cream foundation",
+      "SMOOTHING + BLURRING FACE POWDER \u2013 Finely milled mineral powder helps refine the look of pores and uneven texture, leaving skin looking soft, even, and polished without feeling heavy",
+      "GENTLE FORMULA FOR COMFORTABLE WEAR \u2013 Designed with skin comfort in mind, this weightless face powder is suitable for a variety of skin types and helps keep skin feeling balanced and comfortable throughout wear",
+      "WITH GREEN TEA + VITAMINS C & E \u2013 This talc-free formula enriched with antioxidant ingredients helps support skin\u2019s overall appearance while providing a soft, refined finish"
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Powder"
+    ],
+    "variants": [
+      {
+        "asin": "B000R92V60",
+        "title": "Honey Fair",
+        "url": "https://www.amazon.com/dp/B000R92V60",
+        "imageUrl": "https://m.media-amazon.com/images/I/71CzCkdb7JL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000R92KNE",
+        "title": "Beige Medium",
+        "url": "https://www.amazon.com/dp/B000R92KNE",
+        "imageUrl": "https://m.media-amazon.com/images/I/71uWMuwdt2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0048DOKN8",
+        "title": "Natural Medium",
+        "url": "https://www.amazon.com/dp/B0048DOKN8",
+        "imageUrl": "https://m.media-amazon.com/images/I/716DqMuTegL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00EXW6JWE",
+        "title": "Chestnut Medium",
+        "url": "https://www.amazon.com/dp/B00EXW6JWE",
+        "imageUrl": "https://m.media-amazon.com/images/I/715vDScY17L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001QHFXQM",
+        "title": "Honey Light",
+        "url": "https://www.amazon.com/dp/B001QHFXQM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xDGuYaeUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07QH1PLXM",
+        "title": "Beige Fair",
+        "url": "https://www.amazon.com/dp/B07QH1PLXM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IoMtdFdUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0001EL4DC",
+        "title": "Golden Dark",
+        "url": "https://www.amazon.com/dp/B0001EL4DC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Pq0U6vOxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000R92KFM",
+        "title": "Natural Dark",
+        "url": "https://www.amazon.com/dp/B000R92KFM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NCcpf8VzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000R8YZRY",
+        "title": "Natural Light",
+        "url": "https://www.amazon.com/dp/B000R8YZRY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71-O5sQpoyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07QCV27XH",
+        "title": "Cocoa",
+        "url": "https://www.amazon.com/dp/B07QCV27XH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71-dJs5RC8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07QH1NGYF",
+        "title": "Tawny Fair",
+        "url": "https://www.amazon.com/dp/B07QH1NGYF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TRHJmZL+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B000R8YZOM",
+        "title": "Beige Light",
+        "url": "https://www.amazon.com/dp/B000R8YZOM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zH1zs2SHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000R8YZQU",
+        "title": "Honey Dark",
+        "url": "https://www.amazon.com/dp/B000R8YZQU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZlFp9hCDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000R90FV8",
+        "title": "Natural Fair",
+        "url": "https://www.amazon.com/dp/B000R90FV8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zo7yB4jNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07QKP3LSJ",
+        "title": "Beige",
+        "url": "https://www.amazon.com/dp/B07QKP3LSJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rHlkgjZyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000CR0JA2",
+        "title": "Tawny Medium",
+        "url": "https://www.amazon.com/dp/B000CR0JA2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71RkCSobJQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0003MISAE",
+        "title": "Tawny Light",
+        "url": "https://www.amazon.com/dp/B0003MISAE",
+        "imageUrl": "https://m.media-amazon.com/images/I/71vxtfQ4Q3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00EXW5PQU",
+        "title": "Golden Medium",
+        "url": "https://www.amazon.com/dp/B00EXW5PQU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71XfI6B2YqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0001EL4EQ",
+        "title": "Beige Dark",
+        "url": "https://www.amazon.com/dp/B0001EL4EQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71qhcVQq6-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MA47OC",
+        "title": "Cocoa Light",
+        "url": "https://www.amazon.com/dp/B001MA47OC",
+        "imageUrl": "https://m.media-amazon.com/images/I/718aH9qK7fL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001MA9W74",
+        "title": "Cocoa Medium",
+        "url": "https://www.amazon.com/dp/B001MA9W74",
+        "imageUrl": "https://m.media-amazon.com/images/I/71LpoEnUnJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000GUNS9E",
+        "title": "Golden Light",
+        "url": "https://www.amazon.com/dp/B000GUNS9E",
+        "imageUrl": "https://m.media-amazon.com/images/I/716+kBhH8IL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000R94GTK",
+        "title": "Chestnut Light",
+        "url": "https://www.amazon.com/dp/B000R94GTK",
+        "imageUrl": "https://m.media-amazon.com/images/I/715NPWO-P4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B000R8YZQA",
+        "title": "Honey Medium",
+        "url": "https://www.amazon.com/dp/B000R8YZQA",
+        "imageUrl": "https://m.media-amazon.com/images/I/7119XeSQqYL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 52,
+      "beforePrice": 52,
+      "discount": "-10%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "GLO SKIN BEAUTY",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2680D9ONBIY2Q",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/7119XeSQqYL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/7119XeSQqYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61981plk9hL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61pQk8Ef+YL._SL1066_.jpg",
+      "https://m.media-amazon.com/images/I/71Ck0VV4WbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712chStSxoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61LIx-a9eFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61xO5aCfbuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61pHVaQ6XIL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/91mV-ZfkT6L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ae56512-ad67-43b9-ac63-601b880e6a73.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ff602f60-2cb5-489a-8e65-98def037a821.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0acad35e-10ff-40f6-a6d4-2b160bab8217.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5cc402be-de58-43db-a427-d128b7ef1248.__CR0,0,300,225_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e8b15686-5249-4cc2-a849-db1915079ee0.__CR0,0,300,225_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c3f36aa-99a1-4bc8-beaf-80f0f1e530d3.__CR0,0,300,225_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b99f78f-8bd9-4bd5-92d6-3d1900a4c9a3.__CR0,0,300,225_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6de4c23b-e501-4e7f-9e23-8961cf89469d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a1de04b-9da3-4ebb-b552-36c5e82e5762.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/98e36d40-5139-447e-9039-66276dcaf418.__CR0,0,300,225_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a92908ca-d1d5-4dc9-bf80-9310ebc2532a.__CR0,0,300,225_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72669449-38c5-4111-b04b-9e349f3905ac.__CR0,0,300,225_PT0_SX300_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/90dace81-b2f5-4dda-9c02-eb1c393fb6c1.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/90dace81-b2f5-4dda-9c02-eb1c393fb6c1.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/871011ef-ff3d-4b6b-a802-6b3c3e937785.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8e506131-6778-48f2-ae97-81402dd4f858.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e785968d-2287-4d37-9225-e84a3ef3be26.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "Glo Skin Beauty"
+      },
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "Honey Medium"
+      },
+      {
+        "key": "Model Name",
+        "value": "av2022-Glo Skin Beauty-glo skin beauty pressed base flexible weightless longwearing coverage for a radiant natural secondskin finish-aa85dd1a"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Model Number",
+        "value": "200-1-140"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Palette"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00842738100481"
+      },
+      {
+        "key": "UPC",
+        "value": "842738100481"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Glo Minerals"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#13,727 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #72 in Face Powder"
+      },
+      {
+        "key": "ASIN",
+        "value": "B000R8YZQA"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Semi-Matte"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Coverage",
+        "value": "Buildable"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Radiant Finish"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Talc-free & non-comedogenic for acne-prone skin. Provides antioxidants & nutrients vital to skin health & radiance."
+      },
+      {
+        "key": "Specialty",
+        "value": "non comedogenic"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.31 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3 x 0.63 x 3 inches"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Talc Free, Paraben Free, Sulfate Free"
+      },
+      {
+        "key": "Color Family",
+        "value": "warm"
+      },
+      {
+        "key": "Material Features",
+        "value": "Cruelty Free, Vegan"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2767,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "77%",
+        "fourStars": "10%",
+        "threeStars": "5%",
+        "twoStars": "2%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this powder foundation provides good coverage without looking cakey, and appreciate its quality, noting it doesn't irritate skin or clog pores. Moreover, the product lasts all day and has a silky, smooth texture that blends well with skin, while being lightweight and creating a natural look. However, the color receives mixed feedback, with some customers saying it matches their skin well while others find it artificially pale.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 267,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 240,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 117,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 96,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 90,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 81,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 76,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 92,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71YZYyl+n+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zIua8CTwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YFVQWil-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ZgiN3VzxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/519aEjJpI8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mfFoCdgwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71STzJXvBTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71hFm4HzZDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61tzRaBhZqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ML8KUcfQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Ayi9-i0PL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6126+cb11HL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Reliable soft all day coverage",
+          "reviewText": "My dermatologist's office stopped selling this brand, so I was very happy to be able to order it from Amazon. Use a kabuki brush, and the coverage is VERY good. As good as a concealer (I do not use this under my eyes). Even though I usually wear pink tones, it is the Golden Light that matches my fair, Winter skin the best. I've been using Glo compacts for many many years. Just don't drop it. The cake of powder does break up pretty easily if you drop it hard. On my skin, this powder does not look cakey, or settle into my wrinkles and creases. And it stays on all day.",
+          "reviewDate": "Reviewed in the United States on January 16, 2026",
+          "customer": "lapb",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHB6AL76MGARG47CDQ2LMJFWM3SA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Golden Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Reliable.",
+          "reviewText": "Great product. I have been using over 15 yrs.",
+          "reviewDate": "Reviewed in the United States on March 3, 2026",
+          "customer": "Michelle",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEJ6TGTHIH4LS7ZFGAFW6SLRWBKQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Honey Fair"
+          }
+        },
+        {
+          "reviewTitle": "Favorite foundation!",
+          "reviewText": "This has been my favorite makeup for the past 15 years! Tried others but always go back to this one, it goes on good, stays on good and lasts the longest!",
+          "reviewDate": "Reviewed in the United States on January 26, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVJI7KQ4OM7RAJFAJ5W5TR6EUXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Medium"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "A must have foundation!",
+          "reviewText": "This makeup never feels caked on and it has great coverage with SPF!",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Mara Castaneda",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEDSEPX2D5V3STNHSYLN6DADINSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Honey Light"
+          }
+        },
+        {
+          "reviewTitle": "Color is lighter, but coverage is good",
+          "reviewText": "The shade is lighter than my old one which matched perfectly. It still covers blemishes and imperfections well with a natural look.",
+          "reviewDate": "Reviewed in the United States on February 25, 2026",
+          "customer": "Pam",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQUDNQSLV3LD2OIKISYJJKT6B7Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Natural Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Best makeup",
+          "reviewText": "Love this product",
+          "reviewDate": "Reviewed in the United States on February 3, 2026",
+          "customer": "Angie Brown",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF2G5H7YWG4ZMFU3PPFNJZMDWGDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Golden Dark"
+          }
+        },
+        {
+          "reviewTitle": "Awesome coverage",
+          "reviewText": "Flawless coverage, this powder is beautifully light and has great coverage",
+          "reviewDate": "Reviewed in the United States on January 22, 2026",
+          "customer": "Ericka S",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGN3BPKRMMSKUOMCA2N72DUU6AWA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Honey Light"
+          }
+        },
+        {
+          "reviewTitle": "Bring back the applicator!!",
+          "reviewText": "Product is amazing but how do you suppose to apply on the go if there is no sponge included. I like to carry this in my small purse and reapply in the day if needed! Now I have to carry a separate applicator, makes no sense! Bring back the applicator!!",
+          "reviewDate": "Reviewed in the United States on November 27, 2025",
+          "customer": "elizabeth avalos",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEK3MCVSWMM2RPJNFE7OIONHU6WA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Honey Light"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "This is a great product",
+          "reviewText": "I use as a face powder after using only moisturiser.",
+          "reviewDate": "Reviewed in the United Kingdom on May 3, 2021",
+          "customer": "Janet Richardson",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Honey Light"
+          }
+        },
+        {
+          "reviewTitle": "Five Stars",
+          "reviewText": "Great make up . Good if you are prone to spots or blemishes . Highly recommend !",
+          "reviewDate": "Reviewed in the United Kingdom on December 18, 2014",
+          "customer": "Grainne O Hara",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Dark"
+          }
+        },
+        {
+          "reviewTitle": "quality product!",
+          "reviewText": "I love Glo, i wasn't a makeup girl before using this product. The mineral content is adequate so its worth the money. The rest i have purchased claim to be mineral makeup, but mostly because they have minerals in it and they still made me break out. Glo is water resistant so you have to use a cloth or scrub to clean your face (which you should anyways lol) but i can go swimming and come out with my makeup still on which is a great sell for me lol its a pressed base powder but its all that i use... golden dark in the summer and golden medium in the winter. i won't use anything but Glo!",
+          "reviewDate": "Reviewed in Canada on September 13, 2018",
+          "customer": "RaJa",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Golden Dark"
+          }
+        },
+        {
+          "reviewTitle": "perfect colour match",
+          "reviewText": "Love this product. great colour match, easy to put on and remove. Improves the look of the skin enough to get complimentary ccomments",
+          "reviewDate": "Reviewed in Australia on January 8, 2024",
+          "customer": "Diane Jenkins",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Honey Medium"
+          }
+        },
+        {
+          "reviewTitle": "The coverage is great.",
+          "reviewText": "Love it ... has great coverage Even on old wrinkles. Works on dry skin with oily patches.",
+          "reviewDate": "Reviewed in Canada on October 3, 2019",
+          "customer": "Shirley Cardinal",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Dark"
+          }
+        }
+      ]
+    }
+  }
+}

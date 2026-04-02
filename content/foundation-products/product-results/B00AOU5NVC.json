@@ -1,0 +1,408 @@
+{
+  "requestMetadata": {
+    "id": "9444041a-ca24-49f1-940f-f63a3a157e3b",
+    "status": "ok",
+    "html": "https://files.hasdata.com/9444041a-ca24-49f1-940f-f63a3a157e3b.html",
+    "json": "https://files.hasdata.com/9444041a-ca24-49f1-940f-f63a3a157e3b.json",
+    "url": "https://www.amazon.com/dp/B00AOU5NVC"
+  },
+  "product": {
+    "asin": "B00AOU5NVC",
+    "url": "https://www.amazon.com/dp/B00AOU5NVC",
+    "title": "Neutrogena Mineral Sheers Lightweight Loose Powder Makeup Foundation with Vitamins A, C, & E, Sheer to Medium Buildable Coverage, Skin Tone Enhancer, Face Redness Reducer, Nude 40,.19 oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "40 Nude",
+      "size": "0.19 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "Neutrogena Mineral Sheers Lightweight Loose Powder Makeup Foundation in Nude 40 helps even and enhance skin clarity, tone and texture",
+      "This face makeup foundation is made with naturally derived minerals plus Vitamins A, C, & E for a natural looking, flawless finish to celebrate your natural beauty",
+      "Powder face foundation covers imperfections, reduces the appearance of redness, provides sheer to medium buildable coverage and helps cover & minimize imperfections",
+      "The loose powder makeup in Nude 40 is gentle enough for sensitive skin and is both lightweight and breathable",
+      "Suitable for all skin types, this mineral foundation comes in a variety of natural-looking shades"
+    ],
+    "description": "Product Description Help create a natural-looking, flawless finish with Neutrogena Mineral Sheers Loose Powder Makeup Foundation made with naturally derived minerals plus Vitamins A, C, & E. This loose powder face makeup helps even and enhance skin clarity, tone, and texture while reducing the appearance of redness and covering imperfections. It provides sheer to medium buildable coverage. Lightweight and breathable, the mineral makeup powder is safe for sensitive skin. Available in a variety of natural-looking shades. Brand Story By Neutrogena Cosmetics",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Powder"
+    ],
+    "variants": [
+      {
+        "asin": "B0D14YBS5X",
+        "title": "20 Natural Ivory 0.19 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0D14YBS5X",
+        "imageUrl": "https://m.media-amazon.com/images/I/6150mp2xa5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00AOU5NVC",
+        "title": "40 Nude 0.19 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00AOU5NVC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Mr0L2paUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZ2W7YN",
+        "title": "40 Nude 0.19 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBZ2W7YN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZvPrQNbyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B009SDCY5Y",
+        "title": "20 Natural Ivory 0.19 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B009SDCY5Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+lOHmKphL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00AOUA3ZS",
+        "title": "10 Classic Ivory 0.19 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00AOUA3ZS",
+        "imageUrl": "https://m.media-amazon.com/images/I/6185-+d4qBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00AOU7H6G",
+        "title": "60 Natural Beige 0.19 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00AOU7H6G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61SfWNT5hvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D14XC3V1",
+        "title": "60 Natural Beige 0.19 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0D14XC3V1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qh0RYdSbL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.47,
+      "beforePrice": 18.69,
+      "discount": "-49%",
+      "priceFrom": 9.47,
+      "otherOfferQuantity": 6
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 10,
+    "primaryImage": "https://m.media-amazon.com/images/I/61Mr0L2paUL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61Mr0L2paUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81lfypunVBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61s6VzasOuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81dbAr+HtzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71EqIcfvkeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71q3sUzcCwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811cIegzyCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711jAsUnBdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711jAsUnBdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61nr7Tdo8RL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/530c6a38-4dc0-4e6b-ba7e-26247f04702b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9952bb82-44ab-4518-bfea-dc382d77d436.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a79fdef-b056-444e-b3d5-28b6187ba693.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b1ef15a-c92e-4e14-890e-0214530cd347.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d5e53a9-66c2-42b9-a8da-8465192552ed.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aaa758f3-b666-4642-872e-6b4788f64d0e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/79836b53-a123-4c8e-b388-fac80f4caacb.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/79836b53-a123-4c8e-b388-fac80f4caacb.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/370d5fbd-e25b-4ae3-af56-1096828c0f59.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0d1418ca-32cb-4c8e-af73-4be5ae634194.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "40 Nude"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup,Makeup Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Box"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Neutrogena"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Benefits: Naturally derived minerals for natural coverage. Not only is this mineral makeup formula safe for sensitive skin, it helps provide you with a flawless natural-looking finish. Plus, it\u2019s clinically proven to reduce the appearance of redness and improve your skin\u2019s clarity as well as tone and texture."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "UPC",
+        "value": "086800432814"
+      },
+      {
+        "key": "Model Number",
+        "value": "086800432814"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "JJ-2255"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Kenvue"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#5,349 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #28 in Face Powder"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00AOU5NVC"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Sheer"
+      },
+      {
+        "key": "Coverage",
+        "value": "Buildable Coverage,Sheer"
+      },
+      {
+        "key": "Item Weight",
+        "value": "3 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.5 x 2.5 x 1.06 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 7524,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "76%",
+        "fourStars": "14%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "2%"
+      },
+      "customersSay": "Customers find this foundation provides great coverage and is perfect for sensitive skin, with a matte finish that doesn't make the face look shiny. They appreciate its lightweight feel and consider it a good value, resembling BareMinerals without the high price tag. The color receives mixed feedback - while some say it matches their skin tone well, others find it too orange for their complexion. The longevity aspect is also mixed, with some saying it lasts all day with touch-ups while others find it doesn't last very long.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 240,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 192,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 157,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 138,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 116,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 116,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 146,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 105,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71g2BP2zkyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/618R8W5fLqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mXpmd07oL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qIHD+e0zL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pgZ7BVmxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71NTh5YFKCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Ecfno3S+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71h5sj7zQaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Zai+VqnJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/716OZvIGoxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71jgsKcRo4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61NAdxBp1+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "My go-to affordable face powder! Great product for dry/sensitive skin!",
+          "reviewText": "This is my go to affordable, drugstore face powder! I\u2019ve been using this product for over 10 years and it doesn\u2019t disappoint. Application is easy to apply and it provides medium to full coverage all day long. I pair this with the Neutrogena Hydro Boost Hydrating Tint Foundation and it gives my skin a glowy, hydrating look/texture and lasts all day without me having to reapply. Great quality product at an affordable price point. Try it out, you won\u2019t be disappointed!",
+          "reviewDate": "Reviewed in the United States on January 11, 2026",
+          "customer": "Krystin Guild",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3M6SA74KM3MJNRD4ISGYGO5VPQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "20 Natural Ivory",
+            "size": "0.19 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light and Great coverage",
+          "reviewText": "Product is fine, but it didn\u2019t come with the applicator brush. I ordered two and neither one had the applicator brush. Color match is perfect, great value and coverage. Been using this for years.",
+          "reviewDate": "Reviewed in the United States on January 16, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFNEHO2IHISS56XBIDTET6VOPXTA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "60 Natural Beige",
+            "size": "0.19 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Neutrogena Mineral Sheers Lightweight Loose Powder Foundation \u2013 Nude 40",
+          "reviewText": "Neutrogena Mineral Sheers Lightweight Loose Powder Foundation in the shade Nude 40 offers a refreshing approach to everyday makeup. The powder\u2019s formula is remarkably lightweight, which makes it ideal for those who prefer a natural look without the heavy feeling of traditional foundations. One of the standout features is its buildable coverage. I found it easy to achieve a sheer finish for a casual day, but it also layers beautifully to provide medium coverage when more is needed. This flexibility is a huge plus for varying needs throughout the day. The inclusion of vitamins A, C, and E is a notable benefit. These vitamins contribute to the foundation\u2019s skincare aspects, aiming to improve the skin\u2019s texture and appearance over time. The added skin tone enhancer and redness reducer work well to create a more even complexion, especially for those with mild redness issues. The shade Nude 40 is a versatile option for medium skin tones, though it might not suit everyone perfectly. It\u2019s worth testing to see if it blends seamlessly with your skin. The .19 oz size is quite compact, making it convenient for travel or on-the-go touch-ups, but it may not last as long if you use it daily. Overall, Neutrogena\u2019s Mineral Sheers Loose Powder Foundation is a solid choice for a lightweight, buildable foundation with additional skincare benefits. It offers good coverage while maintaining a natural look, making it a worthy addition to any beauty routine.",
+          "reviewDate": "Reviewed in the United States on August 31, 2024",
+          "customer": "Mario",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AENEY5GIL57HHEWJV2IXUQN7NCEQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "40 Nude",
+            "size": "0.19 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "40 people found this helpful"
+        },
+        {
+          "reviewTitle": "Doesn't have a sponge or sifter closure",
+          "reviewText": "I ordered one in 20 natural ivory. I was accidentally sent a two pack that was shrink wrapped. I am donating the extra one to someone. Mine were sealed and in good condition. The outer silver sticker is easy to remove with nail clippers. I peeled the sifter plastic disk and taped that to the inside lid. There is a round tray for a brush or sponge but no closure to rotate and stop the poder from dispensing in that tray. It has a twist open cap. The cap doesn't stay attached and flip open, so it can roll off and get lost. There are preset holes drilled. The printing is upside down, meaning, the product top is inverted. So when you have the main side facing up the powder is leaking down below. If you reverse it like a coun, the ingredients sticker is showing. I feel that is a design flaw. If you remove that half circle applique, you have a plain unbranded compact. The branding is on the bottom. It's weird. That being said, I swatched the powder on top of a NYX Bare with me serum concealer in bisque, that is fluid - on my hand. I have about 7 Neutrogena powders in my kit. I am not that picky and will use this to set the neutrogena spf under eye concealer silver sticks I bought. It's Unscented, and non sparkly, but has micro fine iridescence and no glitter, meaning it can be more radiant if not buffed out. It's got very subtle light reflecting properties. It appears too light on my hand which is more tanned than my face, but sheers out to an undetectable veil. I think it's forgiving. You can blend or use two shades to achieve subtle contour. I'm going to cancel the subscribe and save because now I need to add a replacement flocked round. Neutrogena doesn't sell their own brushes. It's a basic compact with no mirror and I am not repurchasing. It's a twist off powder pot. It's refillable by removing the sifting tray. It's not compact and space saving because it's in a wide double wall plastic with an acrylic clear end cap. That makes it more durable in drop tests. It's smaller in circumference than prior powders, about the size of a plum or nectarine, in the palm of your hand. I prefer pressed powder compact with an applicator and mirror for touch ups anywhere. Loose powers for me are messy and require a separate mirror. Neutrogena doesn't make an eyeshadow palette with a mirror. So this brand is more of a companion than an actual kit. I have over 30 powders. I have not tested this for flashback or wearability, or allergens. I intent to use it in the TZone. It's gender neutral. I rated 4 stars because it's fine. The photos don't show the product details well. It needs a proper video demonstration. I'm going to cancel the s&save. shade 20 is like a bisque or not fair ultra white, but not yellow. It's neutral beige. It's light. The powder is smooth. It's travel friendly in that it's not a magnetic closure that can pop open. But I will keep this at home. I will add images later.",
+          "reviewDate": "Reviewed in the United States on November 20, 2024",
+          "customer": "DamiaRassamBeauty",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGPWQIBKB7E27NMVCOXD5AUP63GA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "20 Natural Ivory",
+            "size": "0.19 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best value for the money (and I've tried them all)",
+          "reviewText": "I was a Bare Minerals lady for years before discovering the drug store brands were doing similar things. I've always been grossed out by skin-colored liquids, so most foundations have been out for me. Pressed powder isn't gross to me, but doesn't seem to work that well if that's the only foundation you're using, so I've tried a bunch of those and used a knife to scrape it into a loose powder. It's a lot of hassle and many of them don't work that well anyway. I've tried pretty much all the drug store loose powder foundations I could find (Physician's Formula, CoverGirl, Maybelline, L'Oreal, etc.). None of them are as good as this Neutrogena stuff. It doesn't smell bad, it's nice and sheer if you only apply a little but can be built for a bit more coverage, and you get a nice amount of it for the money. I alternate between two different colors depending upon the season, and I've found there's quite a bit of leeway before either of them looks too light or too dark. It's never too pink or too yellow and never look unnatural. It would be nice if it could provide a tiny bit more coverage, but I don't think that's the intention of this product. I think most people are cool with using a little liquid concealer or a base foundation instead (again, I'm in the minority for hating that stuff). All in all, I kind of wished I had just stuck with this rather than trying to find better elsewhere. Would have saved me a lot of time and money. I think if you have super warm or super cool undertones and need something really specific, this might not work as well for you, but otherwise, I'm not sure there's anything better.",
+          "reviewDate": "Reviewed in the United States on March 25, 2023",
+          "customer": "clifsportland",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5TPSSAV62U43NZZAQEX7VFWJ4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "10 Classic Ivory",
+            "size": "0.19 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "119 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good coverage",
+          "reviewText": "I was concerned that it might flake but it didn\u2019t. Covers well and evenly. Doesn\u2019t feel greasy after a few hours too. I\u2019ve always been a big fan of neutrogena. Interestingly, it came as a twin pack. Hence it was really very worth the amount I paid for it.",
+          "reviewDate": "Reviewed in Singapore on September 10, 2023",
+          "customer": "Sharon L",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "60 Natural Beige",
+            "size": "0.19 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Yet to use it",
+          "reviewText": "Broken outer case",
+          "reviewDate": "Reviewed in the United Arab Emirates on September 13, 2022",
+          "customer": "zoya",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "20 Natural Ivory",
+            "size": "0.19 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Ok",
+          "reviewText": "Ok",
+          "reviewDate": "Reviewed in the United Arab Emirates on May 21, 2019",
+          "customer": "Swati dubey",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "10 Classic Ivory",
+            "size": "0.19 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great quality",
+          "reviewText": "Great quality \ud83d\udc4d",
+          "reviewDate": "Reviewed in Singapore on August 6, 2024",
+          "customer": "Karyn ashley goh",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "10 Classic Ivory",
+            "size": "0.19 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

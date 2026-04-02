@@ -1,0 +1,411 @@
+{
+  "requestMetadata": {
+    "id": "fd88a83d-86b5-4835-baa8-41ae506d7123",
+    "status": "ok",
+    "html": "https://files.hasdata.com/fd88a83d-86b5-4835-baa8-41ae506d7123.html",
+    "json": "https://files.hasdata.com/fd88a83d-86b5-4835-baa8-41ae506d7123.json",
+    "url": "https://www.amazon.com/dp/B0DDTB8LJM"
+  },
+  "product": {
+    "asin": "B0DDTB8LJM",
+    "url": "https://www.amazon.com/dp/B0DDTB8LJM",
+    "title": "MISSHA M PERFECT COVER SERUM BB CREAM No.23 Natural Beige-Light/Medium with Cool/Neutral Undertone, Skin Tint, Tinted Moisturizer, Skin Care Foundation Makeup, 1.18 Fl oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "No.23 (Natural Beige)"
+    },
+    "featureBullets": [
+      "Celebrity-Loved Glow for Radiant Skin : Combines the lightweight feel of a skin tint with the hydrating benefits of a tinted moisturizer, delivering natural, radiant coverage that enhances your complexion without feeling heavy. Ideal for those who want glowing skin with minimal makeup.",
+      "Makeup Meets Skincare : Infused with bifida ferment lysate and antioxidant-rich ingredients, this Serum BB Cream helps improve hydration and skin elasticity while providing buildable coverage, making it a great choice for those concerned about fine lines and loss of firmness in their everyday base makeup.",
+      "Your Skin, But Better : Creates sheer-to-buildable coverage that evens skin tone while maintaining a breathable, skin-like finish. Perfect for daily wear when you want coverage that looks natural rather than full foundation.",
+      "Smooth & Seamless Application: The silky serum texture blends effortlessly into the skin, layering well over skincare and working beautifully alone or under additional makeup without caking or patchiness.",
+      "Clean Ingredients : Formulated without parabens, phthalates, synthetic fragrance, formaldehyde, BHA, or BHT, making it a comfortable option for those mindful of ingredient transparency in their makeup and skincare routine.",
+      "Delicate Natural Scent : Lightly infused with botanical oils for a subtle, fresh floral scent without artificial fragrance, enhancing the application experience while remaining gentle for everyday use."
+    ],
+    "boughtInPastMonth": "3K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "BB Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B0DDTD57GR",
+        "title": "No.21 (Light Beige)",
+        "url": "https://www.amazon.com/dp/B0DDTD57GR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZNMSbbiYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZ2544VS",
+        "title": "No.19 (Ivory)",
+        "url": "https://www.amazon.com/dp/B0DZ2544VS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qryoluyJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZ24JH29",
+        "title": "No.41 (Medium Tan)",
+        "url": "https://www.amazon.com/dp/B0DZ24JH29",
+        "imageUrl": "https://m.media-amazon.com/images/I/61cDZ1z6pHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DDTB8LJM",
+        "title": "No.23 (Natural Beige)",
+        "url": "https://www.amazon.com/dp/B0DDTB8LJM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xfz9pFuVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZ2347CW",
+        "title": "No.13 (Light Fair)",
+        "url": "https://www.amazon.com/dp/B0DZ2347CW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61nyJIIjMiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DDTDC1C4",
+        "title": "No.27 (Honey Beige)",
+        "url": "https://www.amazon.com/dp/B0DDTDC1C4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CbY6XeQQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZVZKWTS",
+        "title": "No.17 (Fair)",
+        "url": "https://www.amazon.com/dp/B0DZVZKWTS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Rm7WXw4RL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DDTCGWZL",
+        "title": "No.25 (Warm Beige)",
+        "url": "https://www.amazon.com/dp/B0DDTCGWZL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fRd2W1waL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZ22S9VG",
+        "title": "No.33 (Tan)",
+        "url": "https://www.amazon.com/dp/B0DZ22S9VG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZTHIUsugL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZ23TZV7",
+        "title": "No.45 (Deep Mocha)",
+        "url": "https://www.amazon.com/dp/B0DZ23TZV7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61A1s1qOGfL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 18.9,
+      "beforePrice": 27,
+      "discount": "-30%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "MISSHA US",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3LN26WPO9U6RR",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61xfz9pFuVL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61xfz9pFuVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81j7zaZzocL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/710Olp89zOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FahG9km5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71F5jxj8csL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712iufI5GnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61p-kMTJxML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Qbc3gDl4L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12002593-059f-4dcd-bbbd-5c9a2358d657.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ddba6ff-03ce-46fa-8c1c-074b1a55511f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0953e9ff-4630-405a-93dd-57d7785915b9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/036d139b-182f-4ac9-bf6d-7434843f172b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f1f4134f-0465-4ffc-882c-d85e65b001da.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1331ade1-a133-4184-a646-55f845cac33f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/56b9b651-0f66-4b36-bccb-3969b4bf9bf6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7c2ceb24-4085-4387-850b-82dd4c584fd8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0a1738e4-e376-45cb-a7ad-a6d4d6f50ba8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/efb2eed1-834c-4af2-893b-f7cb68fc5f61.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "No.23 (Natural Beige)"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Foundation Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MISSHA"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "MSMS1053AB"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Able C&C"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,409 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #4 in BB Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DDTB8LJM"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "42 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Travel Size"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "4.65 x 1.95 x 1.15 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.18 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3216,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "71%",
+        "fourStars": "11%",
+        "threeStars": "9%",
+        "twoStars": "3%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this BB cream provides good coverage, particularly for redness, and matches their skin tone perfectly while evens out skin tone beautifully. The product receives positive feedback for its quality, lightweight texture, and natural-looking finish, with one customer noting it keeps skin smooth and hydrated all day. While many customers appreciate its smooth application, some mention it can make skin feel dry.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 312,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 235,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 220,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 177,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 157,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 154,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 130,
+          "status": "positive"
+        },
+        {
+          "aspect": "Non-greasy",
+          "count": 178,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/713pj4j-iPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51qxDHmr-sL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81VfwV28pLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61SMCBmsx1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71whOM3LlAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71crdJU6tSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61fF18n1-vL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Oz+3Hv0VL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-XPSqb6KL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ZHri89y0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71HgiJYEH+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dSdI+52IL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Perfect Cover Serum BB Cream: Natural Radiance & Hydration",
+          "reviewText": "\u2e3b Perfect Cover Serum BB Cream is the perfect blend of makeup and skincare. Its lightweight formula provides natural coverage, concealing imperfections and delivering a radiant finish. Plus, its serum-like ingredients keep the skin hydrated and soft, making it ideal for daily use. Perfect for a radiant, natural complexion!",
+          "reviewDate": "Reviewed in the United States on January 27, 2026",
+          "customer": "tahina Rodriguez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZGINJRC5ZDCHMHTCI2HF7BDTGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "No.33 (Tan)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Gorgeous, flowy, lightweight coverage",
+          "reviewText": "Bought this on a whim after seeing it all over my fyp! I've been looking for a new \"foundation\" that doesn't settle into lines and works well with dry maturing skin and this is it! The texture isn't too thick but not watery either. Goes on seemlessly and blends like a dream. Gives great coverage with that heavy foundation feeling. And it's packed full of skin loving ingredients, what More could I ask for? Nothing! I ordered shade 27 Honey but really needed the 23 natural which seems to be most popular. Believe once it's back I'll be stocking up!",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "NicGi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYDICVYHIOMLNOVIJACLH7TYVIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "No.27 (Honey Beige)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lovely scent & glow for barely there coverage",
+          "reviewText": "Love! The delicate floral scent makes it feel like a luxury. Used very sparingly it evens my tone and adds a glow without making me look made up. It does not dry my skin or settle in wrinkles. I also apply it under the eye and top with concealer. It brightens the area and makes it look more youthful. I am very fair with pink undertones but not glow-in-the-dark translucent, the No 17 Fair is a perfect match. I cannot wait to see how it does with sun protection this summer.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "TXMomOfTwo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AELMVLEM4YCDC2UHB5YZKXHW35HQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "No.17 (Fair)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Needs more color options",
+          "reviewText": "Product is great. Only bought it once, since the color was too light and the next option will for sure be too dark. But it looked great on the skin. Medium coverage on me, not too dewy.",
+          "reviewDate": "Reviewed in the United States on February 2, 2026",
+          "customer": "Brittany Templeton",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEDHHPZ7SF4OMZ2W5WZOEZ43D7A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "No.17 (Fair)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect foundation! It's the only coverage you need!",
+          "reviewText": "I absolutely love this product! It is by far the best coverage I've ever had. As a person with oily acne prone skin, this keeps all day, and doesn't cake when my skin starts to get oily by the end of the day. It blends beautifully and is build able. It's so easy to apply and it matches my skin tone perfect! It's a great price and you don't need a lot of it to go a long way! 10/10 would buy again.",
+          "reviewDate": "Reviewed in the United States on February 12, 2026",
+          "customer": "Rachel M",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQSZYLPXU76F3XZHYF4DMIVNVBA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "No.13 (Light Fair)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good Performance, But Shade Matching Issues",
+          "reviewText": "I\u2019ve been using the MISSHA M Perfect Cover Serum BB Cream for a few weeks now and I have mixed feelings about it. On the positive side, this BB cream definitely delivers on coverage and longevity. It provides a nice medium coverage that evens out my skin tone and covers minor imperfections without feeling heavy or cakey. The formula blends well and has a pleasant, lightweight texture that doesn\u2019t clog my pores. The \u201cserum\u201d aspect really shows my skin feels moisturized throughout the day and I appreciate that it doesn\u2019t dry out my combination skin like some other BB creams have. However, my main issue is with the shade range and undertones. Despite trying what should theoretically be my match based on the shade descriptions, I found the color to be noticeably brighter and somehow \u201coff\u201d compared to my natural skin tone. It\u2019s not dramatically wrong but enough that I need to blend it down my neck or mix it with another product to make it work. This is disappointing because everything else about the formula works well for me. If you\u2019re someone who typically has luck with Korean BB cream shades or don\u2019t mind doing a bit of color-correcting, this could work well for you. The quality is definitely there it\u201ds just the shade matching that keeps this from being a repurchase for me.",
+          "reviewDate": "Reviewed in the United States on September 22, 2025",
+          "customer": "RoeB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG7QT3UKJJPHHFDBF2UMKKPQ5M7Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "No.27 (Honey Beige)"
+          },
+          "helpfulVotes": "67 people found this helpful"
+        },
+        {
+          "reviewTitle": "Beautiful finish and great for vintage baddies lol",
+          "reviewText": "This bb cream is stunning! It covers discoloration and redness with just a thin veil of product and it doesn\u2019t sink into fine lines or pores. It\u2019s easy to apply with fingers but I prefer a cushion foundation type sponge, which can be purchased separately in packs of 3-6 on Amazon. I roll and tap the DRY sponge and it creates a very smooth surface with the least amount of bb cream. I got the 2nd to lightest shade (in MAC I\u2019m NW 20 for reference). It\u2019s a great match. I\u2019m in my 60s so limit powder as much as possible but because I live in Florida and it\u2019s still very hot, I did a light dusting of T LeClerc powder all over (using a fluffy brush). That keeps the dewy finish but prevents any sliding around due to the heat/humidity. (That\u2019s what I love about this loose powder). Other products including creams go on beautifully on top. Like cream bronzer and/or blush. Then a nice layer of setting spray to seal it all together. Everything will last hours even in our incredible hot temps. If you have oily skin this isn\u2019t the best option because it\u2019s really hydrating. For drier skin, it\u2019s perfection. I even cut my skin care steps back by one step just because the Missha serum bb cream has so much moisture on its own. Nothing touches this 65 yr old face that isn\u2019t made in Korea or Japan. Every bit of my skin care and nearly all my complexion products are made in Korea or Japan. They know skin care! And of course they know bb cream too. And you\u2019ll get coverage with this Serum bb cream, a surprising amount actually. It covers redness and blurs pores too, although the blurring effect is enhanced with loose powder. This Missha product, imho, is far superior to their original CC cream in the red tube. That one is thick and greasy even tho my skin leans quite dry. I also like sheering out the coverage of this product by dipping a brush into an essence/toner and then licking up some of the bb cream on that same brush. Then apply to the face in patting/stippling motions. After it\u2019s applied all over I then use a damp beauty blender to make it all seamless. You\u2019d be surprised how beautifully this technique works. Then you can set with powder or not.",
+          "reviewDate": "Reviewed in the United States on September 24, 2025",
+          "customer": "DLS Jones",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFNIPSE3E42IFVBH4NSE4QUGMCOA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "No.13 (Light Fair)"
+          },
+          "helpfulVotes": "89 people found this helpful"
+        },
+        {
+          "reviewTitle": "Natural and dewy",
+          "reviewText": "This is a lovely BB cream, have seen influencers banging on about it covering everything, god knows how thick they're wearing it, but it doesn\u2019t, it's lightweight and dewy, and looks nice and natural, you'll still need to conceal spots.",
+          "reviewDate": "Reviewed in the United Kingdom on January 1, 2026",
+          "customer": "OnTheEdge",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "No.21 (Light Beige)"
+          }
+        },
+        {
+          "reviewTitle": "Soft",
+          "reviewText": "Shine on face",
+          "reviewDate": "Reviewed in the United Arab Emirates on July 18, 2025",
+          "customer": "Saif Abdullah",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "No.27 (Honey Beige)"
+          }
+        }
+      ]
+    }
+  }
+}

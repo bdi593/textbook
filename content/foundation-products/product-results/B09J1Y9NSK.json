@@ -1,0 +1,480 @@
+{
+  "requestMetadata": {
+    "id": "fab8efc0-72c8-4d91-94f6-f7e886751875",
+    "status": "ok",
+    "html": "https://files.hasdata.com/fab8efc0-72c8-4d91-94f6-f7e886751875.html",
+    "json": "https://files.hasdata.com/fab8efc0-72c8-4d91-94f6-f7e886751875.json",
+    "url": "https://www.amazon.com/dp/B09J1Y9NSK"
+  },
+  "product": {
+    "asin": "B09J1Y9NSK",
+    "url": "https://www.amazon.com/dp/B09J1Y9NSK",
+    "title": "Neutrogena Healthy Skin Sensitive Skin Serum Foundation with Pro-Vitamin B5, Color Correcting & Pore Minimizing Liquid Foundation & Face Serum, Buildable Coverage, Light/Medium 02, 1 oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "202 Light-Medium",
+      "size": "1 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "1-oz of Neutrogena Healthy Skin Sensitive Skin Serum Foundation with Pro-Vitamin B5 in shade Light/Medium 02, to help keep skin healthy looking, blur imperfections and designed to minimize the look of fine lines and cover pores",
+      "Sheer buildable coverage foundation is infused with multitasking serum to care for your skin. This color correcting liquid makeup sensitive skin foundation is designed to reduce the look of redness",
+      "With Pro Vitamin B5, a dermatologist-recognized ingredient known to help maintain skin's moisture barrier for healthy-looking skin, the face serum is also a pore blurring foundation that offers buildable coverage for a natural makeup look",
+      "Non-comedogenic, imperfection-blurring serum foundation is free of fragrances, dyes, parabens, phthalates, alcohol, and sulfates. This sheer-to-light, liquid foundation doubles as equal parts skincare and makeup, and is great for sensitive skin",
+      "To use the Neutrogena Healthy Skin Facial Serum Foundation, first, gently shake the bottle. Then, use clean fingers, sponge, or foundation brush to blend skin blurring makeup into skin as part of your daily skincare and beauty routine"
+    ],
+    "description": "Improve the look of skin with Neutrogena Healthy Skin Sensitive Skin Serum Foundation. Suitable for sensitive skin, this serum-infused foundation doubles as skincare and makeup that provides sheer, natural, and buildable coverage while blurring imperfections, the look of pores, and designed to minimize the look of fine lines. Formulated with Pro-Vitamin B5, a dermatologist-recognized ingredient known to help maintain skin's moisture barrier, the color-correcting, healthy glow liquid foundation goes on smoothly leaving skin soothed while visibly reducing redness. Available in a range of natural-looking shades, the light coverage foundation from a dermatologist-recommended brand is non-comedogenic and fragrance-free, dye-free, paraben-free, phthalate-free, alcohol-free, and sulfate-free. To use foundation to reduce the look of pores, gently shake the bottle, then use clean fingers, sponge, or foundation brush to apply makeup as part of your daily skincare and beauty routine.",
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B09J1X48XZ",
+        "title": "403 Medium-Deep 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1X48XZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CXVZFOSCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1WVMX8",
+        "title": "501 Deep 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1WVMX8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qmDRbDT8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1XGKF6",
+        "title": "101 Light 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1XGKF6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61A22aiyJfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1XK794",
+        "title": "103 Light 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1XK794",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IIju+MJrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1XNFSP",
+        "title": "303 Medium 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1XNFSP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NC+WhvL5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1XDXGD",
+        "title": "301 Medium 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1XDXGD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gIeQi8Z8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1Y9KXJ",
+        "title": "402 Medium-Deep 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1Y9KXJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XLwb3uyAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1YJK67",
+        "title": "201 Light- Medium 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1YJK67",
+        "imageUrl": "https://m.media-amazon.com/images/I/612tgO6uEjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1WT2ZF",
+        "title": "503 Deep 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1WT2ZF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61SQLxMGyWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1X9M1P",
+        "title": "302 Medium 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1X9M1P",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jYG8s-uoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1XBRVZ",
+        "title": "401 Medium-Deep 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1XBRVZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/617qR6BK+aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBY9DJ96",
+        "title": "401 Medium-Deep 1 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBY9DJ96",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bOdvKaVsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1X27Z6",
+        "title": "102 Light 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1X27Z6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61D9J8Bo4cL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1Y9NSK",
+        "title": "202 Light-Medium 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1Y9NSK",
+        "imageUrl": "https://m.media-amazon.com/images/I/617a5Lop0qL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1X5NGQ",
+        "title": "203 Light-Medium 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1X5NGQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Cg-AD6zsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09J1XLWTM",
+        "title": "502 Deep 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09J1XLWTM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IkCbq5ttL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 13.87,
+      "beforePrice": 16.97,
+      "discount": "-18%",
+      "priceFrom": 13.87,
+      "otherOfferQuantity": 3
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 12 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/617a5Lop0qL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/617a5Lop0qL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81RFLvrupdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81nmeaCyXFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xrCzLPZIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ayrsnX4LL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61E3IVk1k9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jKXLpRmOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Eji1P-9TL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Eji1P-9TL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/530c6a38-4dc0-4e6b-ba7e-26247f04702b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9952bb82-44ab-4518-bfea-dc382d77d436.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a79fdef-b056-444e-b3d5-28b6187ba693.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b1ef15a-c92e-4e14-890e-0214530cd347.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d5e53a9-66c2-42b9-a8da-8465192552ed.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aaa758f3-b666-4642-872e-6b4788f64d0e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ac9caabd-ac58-4803-b10f-59ea5e32503d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Serum"
+      },
+      {
+        "key": "Color",
+        "value": "202 Light-Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Neutrogena"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Improves skin appearance, blur imperfections, reduces redness, designed for sensitive skin, provides sheer and buildable coverage, non-comedogenic, free of fragrances, dyes, parabens, phthalates, alcohol, and sulfates"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Fragrance Free, Paraben Free Builder"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Republic of Korea"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00086800160496"
+      },
+      {
+        "key": "UPC",
+        "value": "086800160496"
+      },
+      {
+        "key": "Model Number",
+        "value": "00086800160496"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "00086800160496"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Kenvue"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#8,052 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #91 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B09J1Y9NSK"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Fragrance Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light to medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.06 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "4 x 1.2 x 1.2 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Count"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Free Of,Non-comedogenic"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1714,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage while being lightweight and moisturizing, particularly suitable for dry skin. The product receives positive feedback for its natural appearance, with one customer noting it looks like nothing is on the skin, and its smooth texture that feels great on the face. They appreciate its color match options and non-greasy formula that's gentle on sensitive skin.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 90,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 83,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 70,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 63,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 53,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 47,
+          "status": "positive"
+        },
+        {
+          "aspect": "Non-greasy",
+          "count": 46,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 45,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/716VGK3Ns3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Dib3ZjnBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/715yhoUh6LL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61jUaBx9qfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61FweBx7PmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pkUAJP3-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71B93P0sb7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71UpSnIeciL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61L+DRl4d8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71LuLxYOz4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71vPrNaQtSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61AsqqebXwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Gentle, reliable, and easy on sensitive skin",
+          "reviewText": "This is a solid everyday product for sensitive skin. It applies smoothly, feels lightweight, and doesn\u2019t sting or irritate my skin. I appreciate that it\u2019s gentle but still effective, and it wears well throughout the day. A dependable option if you want something simple and skin-friendly without fragrance or fuss. It also passes the Yuka test! Yay!",
+          "reviewDate": "Reviewed in the United States on February 1, 2026",
+          "customer": "Pam R",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRWLXVBUZKX5WUZE6NS6V6NDCBQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "102 Light",
+            "size": "1 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Feels like a second skin.",
+          "reviewText": "Neutrogena has literally become my top favorite when it comes to skin care and cosmetics! This tinted serum foundation works wonders, it goes on like a second skin. It is so lightweight. Yeah it provides just enough coverage to give you such a healthy, plump natural glow. The color matches spot on. I apply it in the morning and it last through the day. I have dry combination, mature skin, and I can\u2019t rave enough about this amazing product!",
+          "reviewDate": "Reviewed in the United States on March 18, 2025",
+          "customer": "Jacinda",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGURVM6T3FY5HWHR73W4DVUEI5PQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "302 Medium",
+            "size": "1 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "52 people found this helpful"
+        },
+        {
+          "reviewTitle": "I like it.",
+          "reviewText": "A good clean product with light coverage. You can't go wrong.",
+          "reviewDate": "Reviewed in the United States on September 27, 2025",
+          "customer": "KAT",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEID27DMYVCWDO22G5Y6QIIQWYVQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "302 Medium",
+            "size": "1 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Love it!",
+          "reviewText": "This is a great foundation for evening out skin tone and minimizing pores and fine lines. It\u2019s a very lightweight, creamy liquid that quickly absorbs into the skin and looks as close to flawless, bare skin as a foundation can get. It has no scent and does not irritate my highly sensitive skin. For dark circles or to cover breakouts, you\u2019d also need a concealer. It\u2019s very affordable, too.",
+          "reviewDate": "Reviewed in the United States on November 8, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AELWIDT3MMOJ5T7ITJ7OVEIK6RIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "201 Light- Medium",
+            "size": "1 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "good product",
+          "reviewText": "I used and reordered this bottle 5+ times. It doesn't clog my pores and my skin looks good with this color. There is no scent in this product. I really enjoy using it. The texture is very smooth.",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "D H",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3GU5FIOMST3ZSJBZCTZQ7ZCXQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "102 Light",
+            "size": "1 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "messy packaging",
+          "reviewText": "Neutrogena\u2019s Healthy Skin Sensitive Skin Serum Foundation with Pro-Vitamin B5 is a decent option for those with sensitive skin. The serum-like formula feels light and applies smoothly, which I appreciate for my daily wear. The added Pro-Vitamin B5 does seem to help with hydration, and my skin felt soft after using it. However, I found the coverage to be quite sheer, which might not work for someone looking for more coverage. It also has limited shades, making it challenging to find the perfect match. Overall, it\u2019s a good foundation if you're looking for a lightweight, hydrating base, but it might not meet all coverage or shade needs.",
+          "reviewDate": "Reviewed in the United States on November 12, 2024",
+          "customer": "bmendoza",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AECW23GWDN4SBYOVCRCN6LWXHGQA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "201 Light- Medium",
+            "size": "1 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "A good foundation",
+          "reviewText": "It's a good color for me, I have fair skin. It goes on well and looks more matte to me. I would buy it again",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Peppermint tea",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFP527RT5SPCHGPSMK7SZXUGQ7OQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "101 Light",
+            "size": "1 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Healthy foundation",
+          "reviewText": "I\u2019m a big fan of this foundation because it\u2019s actually healthy for your face. Yuka approved. Feels light and does not chunk on your face at all. It\u2019s smooth and just feels overall healthy on your face!",
+          "reviewDate": "Reviewed in the United States on December 24, 2025",
+          "customer": "Liza Cifaldi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF4DQSTKDVSLESQ6YUHQ74EG5LTA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "103 Light",
+            "size": "1 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "\ud83d\udc4d",
+          "reviewText": "\ud83d\udc4d",
+          "reviewDate": "Reviewed in the United Arab Emirates on March 16, 2024",
+          "customer": "Marina Bell",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "103 Light",
+            "size": "1 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

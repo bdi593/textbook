@@ -1,0 +1,345 @@
+{
+  "requestMetadata": {
+    "id": "40dbc91f-359d-411a-96f5-d6c5fac06614",
+    "status": "ok",
+    "html": "https://files.hasdata.com/40dbc91f-359d-411a-96f5-d6c5fac06614.html",
+    "json": "https://files.hasdata.com/40dbc91f-359d-411a-96f5-d6c5fac06614.json",
+    "url": "https://www.amazon.com/dp/B0DKXRJC3T"
+  },
+  "product": {
+    "asin": "B0DKXRJC3T",
+    "url": "https://www.amazon.com/dp/B0DKXRJC3T",
+    "title": "5PCS TLM Colour Changing Foundation Makeup Set Matte Liquid Full Coverage Oil Control Breathable Invisible Cover Concealer Foundation with Face Primer, Foundation Brush, Makeup Sponge",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Colour Changing Makeup Set"
+    },
+    "featureBullets": [
+      "Adaptive Shade Technology for Perfect Tone Match - This unique foundation adjusts to your skin tone, creating a natural and even finish. The breathable matte formula provides full coverage and controls shine for a polished look.",
+      "Hydrating Primer for Long-Lasting Makeup - The included face primer smooths and preps your skin, reducing the appearance of pores and fine lines. It ensures your makeup stays intact for hours without creasing.",
+      "Professional Tools for Seamless Application - Equipped with a foundation brush and 2 pcs sponge(random color), this kit ensures easy and precise blending. The tools help you achieve a streak-free, natural makeup finish every time.",
+      "Skin-Loving Formula for a Healthy Glow - Crafted with gentle, skin-friendly ingredients, this foundation hydrates while covering imperfections, enhancing your skin\u2019s natural beauty without clogging pores.",
+      "Perfect All-in-One Gift Set - Designed for beauty lovers, this 5-piece makeup set combines convenience and quality, making it ideal for daily routines, travel, or as a thoughtful gift for any occasion."
+    ],
+    "description": "Transform your makeup routine with the 5PCS TLM Colour Changing Foundation Makeup Set, a thoughtfully designed collection that offers full coverage, hydration, and convenience in one package. The centerpiece of this set is the Colour Changing Foundation, renowned for its ability to adapt to your unique skin tone. The lightweight formula provides comprehensive coverage, effectively concealing blemishes and evening out your complexion while delivering a breathable, matte finish. Paired with a hydrating face primer, your makeup experience is elevated to the next level. The primer works to minimize the appearance of pores and fine lines, creating a smooth, even surface for foundation application. Its long-lasting formula ensures your makeup looks fresh throughout the day, no matter the occasion. This set includes professional tools for effortless application: a high-quality foundation brush and a soft, ergonomic makeup sponge. These tools simplify blending, offering a natural, streak-free finish for a polished result that lasts. Formulated with skin-friendly ingredients, the foundation not only enhances your look but also nourishes your skin. It\u2019s suitable for all skin types, making it a versatile addition to your makeup collection. Whether for everyday wear or special occasions, this all-in-one set is a must-have for anyone who values convenience, quality, and results. Packaged in an elegant box, it also makes a thoughtful gift for beauty enthusiasts or a luxurious addition to your personal collection.",
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B096LYYLY4",
+        "title": "104 Buff Beige Makeup Set",
+        "url": "https://www.amazon.com/dp/B096LYYLY4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+SKvKqj9L._SL1000_.jpg"
+      },
+      {
+        "asin": "B0DKXRJC3T",
+        "title": "Colour Changing Makeup Set",
+        "url": "https://www.amazon.com/dp/B0DKXRJC3T",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Rq5DvElAL._SL1000_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 12.99,
+      "priceFrom": 12.99,
+      "otherOfferQuantity": 2
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "BEAUTY GLAZED",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1QTNGXSCYMMA3",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/51Rq5DvElAL._SL1000_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51Rq5DvElAL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61AExkBMiiL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61SksNn-WjL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61beOO8eBVL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/514e02C8vpL.jpg",
+      "https://m.media-amazon.com/images/I/51xe51HKQAL.jpg",
+      "https://m.media-amazon.com/images/I/611a9gCzhhL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51LyBgXGipL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51o6SXqwl8L._SL1000_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3a4d604-789c-4ff7-972f-fee710b53c7b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a6e16c0d-25d4-4d8e-ad56-2e07a72ccf50.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/397c66f5-2a65-4efb-bcb9-d1cccafc3f8c.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Colour Changing Makeup Set"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Concealing, Even Complexion, Hydrating"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "BestLand"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Adapts to skin tone, provides full coverage, and hydrates for long-lasting wear"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "BG1971SET"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#31,359 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #289 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DKXRJC3T"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.15 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "5"
+      },
+      {
+        "key": "Unit Count",
+        "value": "5.00 Fluid Ounces"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1796,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "58%",
+        "fourStars": "14%",
+        "threeStars": "9%",
+        "twoStars": "7%",
+        "oneStars": "12%"
+      },
+      "customersSay": "Customers find the foundation's applicator sponges to be of good quality and appreciate that it feels light on the skin. The color match and coverage receive mixed feedback - while some say it matches their skin perfectly and provides excellent coverage, others report it doesn't match skin tone and is incredibly sheer. Moreover, customers disagree on the product's effectiveness, with some finding it perfect for their complexion while others say it doesn't work well. Additionally, the consistency receives mixed reviews, with some saying it isn't cakey while others find it looks greasy, and the application experience varies, with some noting it stays in place while others mention it settles in pores. Value for money opinions are divided between those who find it good value and those who say it's not worth the money.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 65,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 31,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 87,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 67,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 59,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 31,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Consistency",
+          "count": 23,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 21,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61XACDULIFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71SARZvaanL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Sj2NaKAvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ProZ-6cEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BR87Kn6aL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61b2Ki4nVvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/615WXs1V-IL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61RcM+6cj2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dBUmlzUBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71oTzdi-ZkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71vttV9AaJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81Hpetqqj7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "I really recommend great product",
+          "reviewText": "This is honestly a great product and a good starter kit. It is full coverage and very easy to use. Recommend recommend from 1 out of 10 I give it 100",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Isabel killam",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBTI5JPI2L52VCTBCNJHTOSCPZQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Perfect",
+          "reviewText": "Meets my wife\u2019s expectations for a good product.",
+          "reviewDate": "Reviewed in the United States on March 19, 2026",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBRL6XHBEEFJ32SPLWQEAAWJBCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Colour Changing Makeup Set"
+          }
+        },
+        {
+          "reviewTitle": ".",
+          "reviewText": "I\u2019m giving it a 4. This foundation matched my skin very well! However it\u2019s more of a buildable one you have to use quite abit to get full coverage even those it says it\u2019s full coverage and I still end up having to add some powder to help because I have a lot of redness to coverup. but I really do like this foundation and like the fact it comes with a brush and 2 sponges and primer, the primer smells amazing and makes your skin so unbelievably soft and smooth. It is tiny however but not bad for $13 for everything.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Jessica fitch",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFMZ6W4ZQASTBNLKWYQPS2T32GQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Colour Changing Makeup Set"
+          }
+        },
+        {
+          "reviewTitle": "Don't work the day they say it does",
+          "reviewText": "Terrible if I could rate it a zero I would. It does not change color and it definitely doesn't conceal anything. Big waste of my money would love my money back!",
+          "reviewDate": "Reviewed in the United States on February 1, 2026",
+          "customer": "Terri Horen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF7XGTUXRJK45S3BTS4QTOW7UECQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Colour Changing Makeup Set"
+          }
+        },
+        {
+          "reviewTitle": "Tlm",
+          "reviewText": "The best color changing foundation smooth and mixes to skin tone very well don\u2019t leave you looking orange",
+          "reviewDate": "Reviewed in the United States on March 3, 2026",
+          "customer": "Quave",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHLOXR23WXQO6HI5CJIE35V4OTVQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Colour Changing Makeup Set"
+          }
+        },
+        {
+          "reviewTitle": "Ok product",
+          "reviewText": "Smells good and the first clear gel makes your face feel super soft! The color itself is somewhat light weight but still feels a little tacky and does have some greasiness feeling on my skin. Color goes on very nice and easy, and does change from white to another color- however that other color does not match my face tone. Not only did it make my face white- it also did not cover up any aging dark spots or pimple spots. I would give the product a three star as it is a nice product- but didn\u2019t work for me.",
+          "reviewDate": "Reviewed in the United States on September 18, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGKLLANRK3ULJCZTER7J3KZRQZUA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Colour Changing Makeup Set"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Color matching to honey/golden skin type",
+          "reviewText": "Pretty cool stuff, not a perfect match but definitely gives you something to build on! I\u2019ve gotten lazy in my make up game. So I definitely like having this if you want like a simple glow and coverage this could work. I would use a small amount and build up. The first time I used to much and the second time I used less. Definitely less is better! I\u2019m also normally a golden or honey shade, so it was pretty cool to watch it match.",
+          "reviewDate": "Reviewed in the United States on August 12, 2025",
+          "customer": "Hannah fields",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AENEQDZXTGZ72P3ZTS6IGBEVHPKQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Colour Changing Makeup Set"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Foundation, No, Brush and Sponges, Yes",
+          "reviewText": "The colour changing foundation did not change the color of my face or come close to matching my skin tone. I tried using it with the primer and without the primer. I tried using it with one of the sponges that came in the package, with the brush the came in the package, and with my bare fingers. Nothing seemed to work. I offered it to one of my friends who was willing to try it. She didn't find it effective either. Therefore, I threw it away. I did keep the nice brush and the two sponges which is why I have awarded 2 stars.",
+          "reviewDate": "Reviewed in the United States on December 30, 2025",
+          "customer": "Ellen J.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGLM2T6A7NKVEHJDPXYURLDCCZAA",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "Colour Changing Makeup Set"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "HOLY GRAIL!",
+          "reviewText": "I have hyperpigmentation, so I feel better having some coverage. After my usual product stopped being made, I had to find a new foundation. This one goes on so beautifully. It doesn't ever look caked on and it stays on! My skin looks flawless! Love this stuff!",
+          "reviewDate": "Reviewed in Canada on April 30, 2022",
+          "customer": "PCofWORK",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "The best",
+          "reviewText": "l love this foundation for me. It\u2019s light covering is very good and l use it since long time. The best product for quality and price!",
+          "reviewDate": "Reviewed in Canada on July 11, 2022",
+          "customer": "marta mikler",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "amazingly i liked it and i am picky with foundation",
+          "reviewText": "Bought a lot of foundation and have not had success until now, was a little apprehensive at first but overall i am happy with it, once its on it covers very well. will definitely purchase again.",
+          "reviewDate": "Reviewed in Canada on June 20, 2022",
+          "customer": "DeeDee",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "104 Buff Beige Makeup Set"
+          }
+        }
+      ]
+    }
+  }
+}

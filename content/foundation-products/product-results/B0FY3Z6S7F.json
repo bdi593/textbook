@@ -1,0 +1,369 @@
+{
+  "requestMetadata": {
+    "id": "50efb5d1-041a-4fd5-9d60-605d5a08bb1d",
+    "status": "ok",
+    "html": "https://files.hasdata.com/50efb5d1-041a-4fd5-9d60-605d5a08bb1d.html",
+    "json": "https://files.hasdata.com/50efb5d1-041a-4fd5-9d60-605d5a08bb1d.json",
+    "url": "https://www.amazon.com/dp/B0FY3Z6S7F"
+  },
+  "product": {
+    "asin": "B0FY3Z6S7F",
+    "url": "https://www.amazon.com/dp/B0FY3Z6S7F",
+    "title": "LUMINESS Liquid Mirage w/SPF 50 Color Adjusting Foundation Kit - Color Changing Foundation, SPF 50 Primer & Makeup Brush, Face Makeup for Mature Skin, 4in1 Liquid Foundation, Concealer & Moisturizer",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "03 Medium"
+    },
+    "featureBullets": [
+      "Liquid Foundation Trio Complexion Kit: Features LUMINESS Liquid Mirage color-changing foundation with encapsulated pigments that adapt to your skin tone, an SPF 50 primer for sun protection and a luminous base, and a professional angled buffing brush for smooth, airbrushed blending and a radiant, flawless finish.",
+      "One Shade, Perfect Match: Discover the magic of our ultra-smart, tone-adapting micro-beads. This revolutionary liquid foundation transforms as you blend, seamlessly adjusting to your unique skin tone in minutes. The result? A flawless, natural finish - effortless, stress-free, and truly yours.",
+      "Adaptive Color Changing Foundation: Our innovative self-adjusting liquid foundation seamlessly adapts to your unique skin tone for a radiant, skin-like finish. This lightweight formula provides light to medium buildable coverage while doubling as a concealer and moisturizer for hydrated, radiant skin - perfect for all skin tones.",
+      "Skincare-Enhanced Beauty: Hydrate, smooth, protect, and perfect in one effortless step. Infused with Hyaluronic Acid and Vitamin\u202fE, this clean, hypoallergenic, fragrance-free formula boosts your natural glow - build it up or sheer it out, your radiant skin, your way.",
+      "Makeup Primer & Broad Spectrum Sunscreen SPF 50 with Skin-Loving Ingredients: Enriched with Shea Butter and Vitamin E, this lightweight primer combines skin care and beauty, shielding and nourishing your skin - perfect under make up for a smooth, healthy-looking all-day finish.",
+      "How to Use: Apply our SPF 50 primer first, spreading evenly over clean skin 15 minutes before sun exposure. Shake and dispense 2\u20133 drops of the color-changing foundation, then blend with the makeup brush or your fingers as it transforms to your perfect shade in 10\u201315 minutes. Reapply SPF every 2 hours or after swimming/sweating, and touch up foundation as needed."
+    ],
+    "boughtInPastMonth": "4K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0G45B3BQH",
+        "title": "04 Tan",
+        "url": "https://www.amazon.com/dp/B0G45B3BQH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71GJa9OHI6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FY419WJV",
+        "title": "02 Light",
+        "url": "https://www.amazon.com/dp/B0FY419WJV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71z5ES2G5zL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FY41M8L6",
+        "title": "05 Deep",
+        "url": "https://www.amazon.com/dp/B0FY41M8L6",
+        "imageUrl": "https://m.media-amazon.com/images/I/81qjXsh4NUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FY3Z6S7F",
+        "title": "03 Medium",
+        "url": "https://www.amazon.com/dp/B0FY3Z6S7F",
+        "imageUrl": "https://m.media-amazon.com/images/I/715VBUaQl4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GGVC42ZB",
+        "title": "01 Fair",
+        "url": "https://www.amazon.com/dp/B0GGVC42ZB",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NEn9wYsdL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "GBP",
+      "currentPrice": 30.21,
+      "beforePrice": 37.78,
+      "discount": "-20%"
+    },
+    "deliveryRawDate": "Friday, April 10",
+    "deliveryIsoDate": "2026-04-10T00:00:00.000Z",
+    "deliveryPriceMessage": "GBP\u00a05.22",
+    "fastestDeliveryRawDate": "Thursday, April 9",
+    "fastestDeliveryIsoDate": "2026-04-09T00:00:00.000Z",
+    "fastestDeliveryPriceMessage": "fastest",
+    "returns": "30-day refund / replacement",
+    "seller": "LUMINESS",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1FR6UY3TB35XO",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/715VBUaQl4L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/715VBUaQl4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71fXyDHKkGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TqSmw5B8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/714qViUp8IL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71B1qdRx7JL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pNPBBCSDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xViNsDMdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iCM1SlsqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81exaQGVA6L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/251025a4-f6d2-4cef-8969-e7d7ceee1217.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dab5e3b7-875e-45cf-b289-479e319ceb01.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e3d22c98-a2a1-429a-bea4-823311ca6e85.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c275c89c-bcfb-49c4-993f-dcdcae32a8db.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c31357b4-af04-4c79-8d30-1a7187d0df22.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/faad4db2-8ddb-43b6-8086-cd9ae5298340.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e5577928-aa60-4dc2-ad1e-0129b018a553.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9a7327f6-aab1-46dd-a822-395b497ad221.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/79e86e73-13cd-4faa-a6dd-dcfc3a0b74a7.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/702d0b01-d7aa-464c-a12b-662bc47c77e9.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/I/31ynVNlE17L.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/899b7c72-e744-4646-ba40-c94c417df4c8.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e05cca22-99bf-453c-a780-e706b9cb83aa.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/I/412RxTN418L.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8715a4f8-8a2f-4ae6-a147-08874c503da4.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7f07426-751f-4501-bcd2-f579944ca664.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/917b2743-1015-42e2-ad33-0cfd488019a3.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/afba8b85-8c6f-44d3-8de2-c6b49a802f34.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/afba8b85-8c6f-44d3-8de2-c6b49a802f34.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/928986a7-2e5c-4fa5-a1f2-23b04ed79456.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3da9124a-023e-45fe-abf9-35522525ced9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1d92e99c-79ff-410b-8876-79e43f2aaddd.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e5e42e82-e557-4edc-acb3-9b78bc4550bc.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "LUMINESS"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00841249132776"
+      },
+      {
+        "key": "UPC",
+        "value": "841249132776"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "LUMINESS"
+      },
+      {
+        "key": "Warranty Description",
+        "value": "Dual Sided Angled Buffing Brush L400, Liquid Mirage Color Adjusting Foundation, SPF 50 Prime & Protect"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#3,202 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #39 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FY3Z6S7F"
+      },
+      {
+        "key": "Coverage",
+        "value": "medium"
+      },
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Adaptive Color, Buildable Coverage, Hydrating Formula, Skin-Like Finish, Skincare-Infused"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Unit Count",
+        "value": "3.0 Count"
+      },
+      {
+        "key": "Number of Items",
+        "value": "3"
+      },
+      {
+        "key": "Color",
+        "value": "03 Medium"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural, radiant, skin-like, airbrushed"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance-Free, Paraben Free, Phthalate-Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 274,
+      "rating": 4.1,
+      "starRates": {
+        "fiveStars": "64%",
+        "fourStars": "11%",
+        "threeStars": "10%",
+        "twoStars": "6%",
+        "oneStars": "9%"
+      },
+      "customersSay": "Customers find this foundation provides all-day coverage and matches their skin tone perfectly, with the shade-adjusting formula working effectively. The product is lightweight, silky, and easy to apply, creating a natural look. They appreciate its high quality and effectiveness, with one customer noting it's better than expensive brands.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 45,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin tone match",
+          "count": 40,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 26,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 20,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 19,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 16,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 12,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71sLBdGa0LL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71OPNKI-oML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/714OUD-tR3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Nt9bJhonL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/614KhmLk07L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/717WChmM9hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Ee-Ghc-7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ALiSeE+AL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61a9Tv-RYOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71g46+r6XAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71vps83rHtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rbzxK740L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "\u2b50\u2b50\u2b50\u2b50\u2b50 Beautiful natural finish and so easy to use",
+          "reviewText": "I\u2019ve been really happy with the Luminess Liquid Mirage Color Adjusting Foundation Kit. The formula blends easily and adjusts nicely to my skin tone, giving a smooth, natural finish without feeling heavy or cakey. It provides just the right amount of coverage to even out my complexion while still looking very natural. I also love that it includes SPF 50, which makes it perfect for everyday use. The brush in the kit is great quality and makes application quick and easy. Overall, a fantastic lightweight foundation that leaves my skin looking fresh and radiant.",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "LubaB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE66SQQNA43RBK5A6LOXHQTFPR2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Light"
+          },
+          "helpfulVotes": "21 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light, Buildable Coverage That Adjusts",
+          "reviewText": "Shipping was delayed, but once I received the product, I\u2019ve been using it for a week now. I purchased Light since I typically fall between Light and Medium and also use bronzer to add depth. I love that the kit comes with sunscreen, a brush, and the foundation. The foundation was a little deeper than expected when I swatched it on the back of my hand, but it was surprisingly a good match for my face. This has a mousse-like texture that can be built up for more coverage. It feels like a tinted moisturizer, and the best part is that it adjusts to your skin tone. With proper skin prep, it wore well when I set it with translucent powder (used my own). The product was not cakey and did not cling to dry patches. It does have a light smell that dissipates within a minute \u2014 it wasn\u2019t bothersome to me, even as someone sensitive to scents who can get headaches. I used 4 drops and had a decent amount of coverage for my entire face. I also applied liquid blush and contour stick on top, and it did not make my makeup slip. I have combo skin and only had to blot my T-zone midday. So far I have not had any reactions or any breakouts so I will continue to use this daily. Overall, I\u2019m very happy with the entire kit and think it\u2019s very innovative and super easy to choose your color.",
+          "reviewDate": "Reviewed in the United States on December 14, 2025",
+          "customer": "M Kristine",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH2HLQUIB4JL4SPCRTZWYXYMWQRQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Light"
+          },
+          "helpfulVotes": "62 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love This Foundation!",
+          "reviewText": "I\u2019ve tried a lot of foundations to help with uneven tone, and this one has worked better than most. It covers well but doesn\u2019t feel heavy, which I really like. The finish looks natural and smooth on my skin, and it blends in nicely with my shade. I also like the packaging and that it comes with tools that actually make it easier to apply. My skin looks more even and a bit more hydrated, and I\u2019ve gotten a couple compliments on how fresh it looks!",
+          "reviewDate": "Reviewed in the United States on February 5, 2026",
+          "customer": "Sirus V",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE5NZJ2CMP5QTA2JP65QMGATSSIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Medium"
+          },
+          "helpfulVotes": "30 people found this helpful"
+        },
+        {
+          "reviewTitle": "Sheer with coverage",
+          "reviewText": "Love the product. Very sheer with decent coverage. The application method is terrible.",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Lloyd R.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFDZ6ZNIKMC3YZDCIYPUTEZ6VE4Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "03 Medium"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Too small a bottle for the price",
+          "reviewText": "Love the product great coverage changes to match your face just like it says it does. It just comes in too small of a bottle once again it is a great product but needs to be in bigger size. The small size does not last very long for that price.",
+          "reviewDate": "Reviewed in the United States on January 25, 2026",
+          "customer": "Bridget kuropas",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AELJYKOCRAKHWK6EMTFNRIOWBFJA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "03 Medium"
+          },
+          "helpfulVotes": "58 people found this helpful"
+        },
+        {
+          "reviewTitle": "LOVE LUMINESS",
+          "reviewText": "I LOVE this foundation! I've been using Luminess lip and eye products for years - this was my first time using the foundation. Love that this kit comes with a SPF 50 primer (I use SPF daily) and an easy-to-use applicator brush. The brush helps spread the foundation evenly and lightly (I don't like a \"heavy\" makeup look). I like the mousse-y texture of the foundation, and that it feels more like a tinted moisturizer vs a heavier foundation. It comes out white as first but then adjusts to your skin tone. I purchased both the Light and Medium, as my skin is very fair in the winter and I tan easily in the summer. The Light is a great match for where my skin tone is right now (month of January). Overall I'm super happy with this product and will buy again!!",
+          "reviewDate": "Reviewed in the United States on January 22, 2026",
+          "customer": "Stephanie Sallee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEU5ZAPYARNLAVQFMJZ3YM34SQ3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Light"
+          },
+          "helpfulVotes": "28 people found this helpful"
+        },
+        {
+          "reviewTitle": "DON\u2019T WAIT\u2014JUST BUY IT!",
+          "reviewText": "Kept seeing ads for this and finally decided to try it. It is fabulous, coverage is great and it covers all my dark spots (I am 75 after all) in a flash and feels wonderful on my skin. It lasts on my face for a long time.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Cathi Rosengren",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHQQTCI3JZPVMYI7FRLPMYA6MLKQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Medium"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Complete Coverage without heavy feel.",
+          "reviewText": "This Luminess Liquid blends in perfectly with my skin color. It covers brown spots and blemishes well and feels light on the skin. When I put it on, there is no heaviness or \"clogged pore\" feeling. I live in a hot humid area of the country and the Luminess stays put all day with no change in color or coverage. The only reason that I gave the Luminess a 3 star rating was the fact that the bottle was only half full of liquid makeup when I received it. The bottle was sealed, so I know that it came from the manufacturer that way. I really like the makeup and would buy it again if I could get a full bottle of product. The price is reasonable for a full bottle of product.",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Shelby S.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEDA4VYGTBBKHU3T37TUMOCLS3ZQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "01 Fair"
+          },
+          "helpfulVotes": "16 people found this helpful"
+        }
+      ]
+    }
+  }
+}

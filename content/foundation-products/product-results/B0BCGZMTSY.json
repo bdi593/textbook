@@ -1,0 +1,730 @@
+{
+  "requestMetadata": {
+    "id": "60801246-9b7c-4c7e-afa3-83f56287f693",
+    "status": "ok",
+    "html": "https://files.hasdata.com/60801246-9b7c-4c7e-afa3-83f56287f693.html",
+    "json": "https://files.hasdata.com/60801246-9b7c-4c7e-afa3-83f56287f693.json",
+    "url": "https://www.amazon.com/dp/B0BCGZMTSY"
+  },
+  "product": {
+    "asin": "B0BCGZMTSY",
+    "url": "https://www.amazon.com/dp/B0BCGZMTSY",
+    "title": "L'Oreal Paris True Match Super-Blendable Foundation, Medium Coverage Liquid Foundation Makeup, N3, Light Medium, 1 Fl Oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Science That Sees Your True Match - Formulated with 6 pigments for the most precise match. 99 percent of women found their true match in a consumer test of 312 women. Available in 47 shades to match your undertone - cool, neutral or warm",
+      "Makeup Foundation: Our liquid foundation formula locks in moisture and provides medium coverage with a natural finish that adapts to any skin color and texture. It\u2019s so blendable you can\u2019t tell where your foundation ends and your skin begins",
+      "The Same True Match You Love, Now Better: Now formulated without alcohol, oils and fragrance, our foundation will not clog pores and is vegan. Perfect for all skin types, including sensitive skin. Now with an easy-to-use pump",
+      "Because You're Worth It: Create the look you want with our full line of makeup including foundations, concealers, highlighter makeup, brow pencils, eyeshadow palettes, lipsticks and much more",
+      "L'Oreal Paris Beauty: A leading total beauty care company based in Paris, we offer innovative products and unique expertise from beauty experts in makeup, skin care, hair care, styling and hair color"
+    ],
+    "description": "For the 1st time True Match Super Blendable is formulated with up 6 pigments for our most precise match, 99% of women found their True Match (In a consumer test of 312 women). The medium coverage foundation adapts to any skin color and texture for a natural look. So blendable it\u2019s like you can\u2019t tell where your foundation ends and your skin begins. Now available in 47 skin-like shades to match skin\u2019s undertone (cool, neutral, and warm) for a true-to-skin result. True Match is suitable for sensitive skin and is formulated without alcohol, fragrance, oils and won\u2019t clog pores. Now a vegan formula (no animal derived ingredients) with a new easy-to-use pump!",
+    "boughtInPastMonth": "6K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BCGZMTSY",
+        "title": "1 Fl Oz (Pack of 1) N3, Light Medium",
+        "url": "https://www.amazon.com/dp/B0BCGZMTSY",
+        "imageUrl": "https://m.media-amazon.com/images/I/615tifniQIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH3P2RF",
+        "title": "1 Fl Oz (Pack of 1) N11, Deep",
+        "url": "https://www.amazon.com/dp/B0BCH3P2RF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EiM9MvgaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH2254Q",
+        "title": "1 Fl Oz (Pack of 1) C6, Medium",
+        "url": "https://www.amazon.com/dp/B0BCH2254Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+fkpoIUOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH488X6",
+        "title": "1 Fl Oz (Pack of 1) C7, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0BCH488X6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iqdGMP2zL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH1Y9T5",
+        "title": "1 Fl Oz (Pack of 1) C10, Deep",
+        "url": "https://www.amazon.com/dp/B0BCH1Y9T5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61T1c5fyllL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH6Y3D7",
+        "title": "1 Fl Oz (Pack of 1) N2, Light",
+        "url": "https://www.amazon.com/dp/B0BCH6Y3D7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61cOefjV+WL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BFRVQGXH",
+        "title": "1 Fl Oz (Pack of 1) N1, Light",
+        "url": "https://www.amazon.com/dp/B0BFRVQGXH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tCOo29PlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKFRJT5",
+        "title": "1 Fl Oz (Pack of 2) C6, Medium",
+        "url": "https://www.amazon.com/dp/B0FYKFRJT5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Ys40lSukL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH43PSW",
+        "title": "1 Fl Oz (Pack of 1) N5.5, Medium",
+        "url": "https://www.amazon.com/dp/B0BCH43PSW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61W1hTYVw-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCGZ5KRL",
+        "title": "1 Fl Oz (Pack of 1) C1, Light",
+        "url": "https://www.amazon.com/dp/B0BCGZ5KRL",
+        "imageUrl": "https://m.media-amazon.com/images/I/610pHKLLVAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH357LC",
+        "title": "1 Fl Oz (Pack of 1) W4, Light Medium",
+        "url": "https://www.amazon.com/dp/B0BCH357LC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dP+BMqb7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CJ2SQY4C",
+        "title": "1 Fl Oz (Pack of 2) W10, Deep",
+        "url": "https://www.amazon.com/dp/B0CJ2SQY4C",
+        "imageUrl": "https://m.media-amazon.com/images/I/71MTYcVytmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH33BR6",
+        "title": "1 Fl Oz (Pack of 1) W6.5, Medium",
+        "url": "https://www.amazon.com/dp/B0BCH33BR6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61W+zZ1HyTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH6GVJ1",
+        "title": "1 Fl Oz (Pack of 1) C2, Light",
+        "url": "https://www.amazon.com/dp/B0BCH6GVJ1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AhfAQ0FgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH5WVW6",
+        "title": "1 Fl Oz (Pack of 1) N4, Light Medium",
+        "url": "https://www.amazon.com/dp/B0BCH5WVW6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HQORM1HlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH534CL",
+        "title": "1 Fl Oz (Pack of 1) N9, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0BCH534CL",
+        "imageUrl": "https://m.media-amazon.com/images/I/71oKPXeBGmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH4G43F",
+        "title": "1 Fl Oz (Pack of 1) W4.5, Light Medium",
+        "url": "https://www.amazon.com/dp/B0BCH4G43F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HAP7Iu0ML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH2F2W9",
+        "title": "1 Fl Oz (Pack of 1) N8, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0BCH2F2W9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pPzfv2zcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH2G9HD",
+        "title": "1 Fl Oz (Pack of 1) N5, Medium",
+        "url": "https://www.amazon.com/dp/B0BCH2G9HD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HkauHj47L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH4MS87",
+        "title": "1 Fl Oz (Pack of 1) N7, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0BCH4MS87",
+        "imageUrl": "https://m.media-amazon.com/images/I/61D-5SYIzxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCGX374T",
+        "title": "1 Fl Oz (Pack of 1) W7, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0BCGX374T",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QzDCeBM6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH4W84N",
+        "title": "1 Fl Oz (Pack of 1) C1.5, Light",
+        "url": "https://www.amazon.com/dp/B0BCH4W84N",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QMWGaex9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH33BRJ",
+        "title": "1 Fl Oz (Pack of 1) C2.5, Light Medium",
+        "url": "https://www.amazon.com/dp/B0BCH33BRJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TYh7cu7AL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCGZZ3WF",
+        "title": "1 Fl Oz (Pack of 1) W2, Light",
+        "url": "https://www.amazon.com/dp/B0BCGZZ3WF",
+        "imageUrl": "https://m.media-amazon.com/images/I/618Jd8Bt2dL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH5HNSJ",
+        "title": "1 Fl Oz (Pack of 1) W5.5, Medium",
+        "url": "https://www.amazon.com/dp/B0BCH5HNSJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Fuaomww9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH3R732",
+        "title": "1 Fl Oz (Pack of 1) W0.5, Light",
+        "url": "https://www.amazon.com/dp/B0BCH3R732",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qaFJ1EYoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCGZZ87B",
+        "title": "1 Fl Oz (Pack of 1) W8, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0BCGZZ87B",
+        "imageUrl": "https://m.media-amazon.com/images/I/613z-tEBwWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCGXNC3Z",
+        "title": "1 Fl Oz (Pack of 1) W9, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0BCGXNC3Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/61v1W8t3jUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCGZZ62V",
+        "title": "1 Fl Oz (Pack of 1) C4, Light Medium",
+        "url": "https://www.amazon.com/dp/B0BCGZZ62V",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RZCypbaYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH223NY",
+        "title": "1 Fl Oz (Pack of 1) N6.5, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0BCH223NY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Lju+n-rvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKL75F3",
+        "title": "1 Fl Oz (Pack of 2) C7, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0FYKL75F3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71E8bazjLjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH4MQ7Z",
+        "title": "1 Fl Oz (Pack of 1) C9, Deep",
+        "url": "https://www.amazon.com/dp/B0BCH4MQ7Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EqlVW4i7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH31JQW",
+        "title": "1 Fl Oz (Pack of 1) W6, Medium",
+        "url": "https://www.amazon.com/dp/B0BCH31JQW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HV1xUVd0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKMGLLF",
+        "title": "1 Fl Oz (Pack of 2) C8, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0FYKMGLLF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71cvqVsk6sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BFRV3GCS",
+        "title": "1 Fl Oz (Pack of 1) C5, Medium",
+        "url": "https://www.amazon.com/dp/B0BFRV3GCS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ShxXjdNzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH2NX18",
+        "title": "1 Fl Oz (Pack of 1) C12, Deep",
+        "url": "https://www.amazon.com/dp/B0BCH2NX18",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BoJqsn4bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH5X963",
+        "title": "1 Fl Oz (Pack of 1) C0.5, Light",
+        "url": "https://www.amazon.com/dp/B0BCH5X963",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Yl4kIwK3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BFXJKWVJ",
+        "title": "1 Fl Oz (Pack of 1) W1, Light",
+        "url": "https://www.amazon.com/dp/B0BFXJKWVJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61N+mv34ShL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCGZ5NZF",
+        "title": "1 Fl Oz (Pack of 1) W10, Deep",
+        "url": "https://www.amazon.com/dp/B0BCGZ5NZF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KBU0w+2gL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH2ZL1X",
+        "title": "1 Fl Oz (Pack of 1) N0.5, Light",
+        "url": "https://www.amazon.com/dp/B0BCH2ZL1X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61moGAyL7eL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH53P4V",
+        "title": "1 Fl Oz (Pack of 1) C8, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0BCH53P4V",
+        "imageUrl": "https://m.media-amazon.com/images/I/61B5XQTfm+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH2PD95",
+        "title": "1 Fl Oz (Pack of 1) C9.5, Deep",
+        "url": "https://www.amazon.com/dp/B0BCH2PD95",
+        "imageUrl": "https://m.media-amazon.com/images/I/6142T9PhEnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH2CZTJ",
+        "title": "1 Fl Oz (Pack of 1) C3, Light Medium",
+        "url": "https://www.amazon.com/dp/B0BCH2CZTJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OEb2wnRcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH43S4Y",
+        "title": "1 Fl Oz (Pack of 1) N10, Deep",
+        "url": "https://www.amazon.com/dp/B0BCH43S4Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yg3RWH7TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH16Z2T",
+        "title": "1 Fl Oz (Pack of 1) W9.5, Deep",
+        "url": "https://www.amazon.com/dp/B0BCH16Z2T",
+        "imageUrl": "https://m.media-amazon.com/images/I/613ZTUJzcjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C1GGHFJR",
+        "title": "1 Fl Oz (Pack of 2) C9.5",
+        "url": "https://www.amazon.com/dp/B0C1GGHFJR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+VWxzU+2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BFRVV836",
+        "title": "1 Fl Oz (Pack of 1) W5, Medium",
+        "url": "https://www.amazon.com/dp/B0BFRVV836",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Lu6Wbj3IL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCGZZQZ7",
+        "title": "1 Fl Oz (Pack of 1) C11, Deep",
+        "url": "https://www.amazon.com/dp/B0BCGZZQZ7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VzoKwAy2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH4XLDD",
+        "title": "1 Fl Oz (Pack of 1) N6, Medium",
+        "url": "https://www.amazon.com/dp/B0BCH4XLDD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+EaqclonL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH5PTQ3",
+        "title": "1 Fl Oz (Pack of 1) W3, Light Medium",
+        "url": "https://www.amazon.com/dp/B0BCH5PTQ3",
+        "imageUrl": "https://m.media-amazon.com/images/I/610-9cikGXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKSLH72",
+        "title": "1 Fl Oz (Pack of 2) N8, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0FYKSLH72",
+        "imageUrl": "https://m.media-amazon.com/images/I/71F83AOk7hL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKHD9VJ",
+        "title": "1 Fl Oz (Pack of 2) W8, Medium Deep",
+        "url": "https://www.amazon.com/dp/B0FYKHD9VJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71cGXX69mBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCH41Y8G",
+        "title": "1 Fl Oz (Pack of 1) W2.5, Light Medium",
+        "url": "https://www.amazon.com/dp/B0BCH41Y8G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qu6zcmjpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BCJ1FM5W",
+        "title": "1 Fl Oz (Pack of 1) W10.5, Deep",
+        "url": "https://www.amazon.com/dp/B0BCJ1FM5W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jOqM3zP9L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.97,
+      "beforePrice": 13.99,
+      "discount": "-29%",
+      "priceFrom": 9.95,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 1 hr",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/615tifniQIL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/615tifniQIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gjA5g+N2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81iP6kOnifL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81EHJQERqJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8105qQbYvmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81O37FT1wLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/918p+j7XLxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/910bhTkRe0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71O45oGiuLL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ba0af3a6-7d92-4d1e-9683-2c8b11e81c5f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b0987935-4c57-46b0-afcc-22d7de0a9b74.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7d3d85d-aee1-4343-9c35-67a4da5077b6.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f38e2b2b-3a13-4319-88fe-d5d4a5d119d3.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e1ed71b-c450-45ed-a7a4-57afe6785d8b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e19a29f6-6027-40a7-a0e1-8b18590fa501.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/159c2a89-1cf0-486b-be93-ca822d2b453b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8980cfc1-8197-486d-9df0-418bf74020a5.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e10c995-d82c-48c2-8a5b-c23e09af3f60.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7c03c4ef-1c75-4d02-93c5-4086f819ddee.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1adcfdb5-79e3-4d33-ac45-4644fb1cf3d8.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/847c6326-44bb-45f0-8d8b-0890b4b65d0f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/cb976911-fa0f-4fad-8075-e5d0fd56c15d.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "N3, Light Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00071249671795"
+      },
+      {
+        "key": "UPC",
+        "value": "071249671795"
+      },
+      {
+        "key": "Model Number",
+        "value": "0071249671795"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "0071249671795"
+      },
+      {
+        "key": "Warranty Description",
+        "value": "[Not Applicable]"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Or\u00e9al Paris"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Foundation"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#398 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #4 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BCGZMTSY"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "17 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Vegan"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3.87 x 1.22 x 3.87 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free,Alcohol Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 8584,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "73%",
+        "fourStars": "13%",
+        "threeStars": "7%",
+        "twoStars": "2%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this foundation to be among the best drugstore options, with buildable coverage that evens out skin tone and stays on for more than 8 hours. The product receives positive feedback for its silky smooth application, lightweight feel, and natural-looking finish that makes skin look like porcelain. Customers appreciate its blendability, with one noting it's easy to apply with a sponge. The color receives mixed reviews, with some customers saying it matches their skin tone well while others find it too orange-tinted.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 393,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 314,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 160,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 160,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 159,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 155,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 153,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 322,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71J-8V61rqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71nSK-FdqlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61M8AdFqfFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61vZ0RxPSLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71m7B91iSSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71xRA9gIvFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/21AtpH5SsvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71LC0t6REPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ou2LOTvrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71G2JIdgG2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/614Lf6nHGXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613VOx4zwtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great",
+          "reviewText": "absolutely love the L\u2019Or\u00e9al Paris True Match Foundation! This has quickly become my go-to foundation. The shade match is seriously impressive \u2014 it blends so seamlessly into my skin that it actually looks like my skin, just smoother and more even. The formula feels lightweight and breathable, not cakey or heavy at all. It gives such a natural, radiant finish while still providing great coverage for redness and blemishes. I also appreciate that it layers beautifully without looking patchy. For the price, the quality is amazing. It performs like a high-end foundation but is super affordable. I\u2019ve worn it for long days and it holds up really well without separating or settling into fine lines. Definitely a 5-star product \u2014 I will be repurchasing!",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Got this for my little brother for his birthday he absolutely loved it!",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGRGNMMO377IGCEBGY64J5FAR5FQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "N4, Light Medium"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Blendable Foundation",
+          "reviewText": "I have been using the L'Oreal Paris True Match Super-Blendable Foundation in the shade C2.5 for quite some time now, and I must say it has truly impressed me. The medium coverage formula effortlessly blends into my skin, evening out my complexion while still allowing my natural skin texture to show through. The lightweight feel of the foundation makes it comfortable to wear throughout the day, and the shade C2.5 matches my skin tone perfectly, giving me a seamless and natural look. I highly recommend this foundation for anyone looking for a reliable product that delivers flawless coverage.",
+          "reviewDate": "Reviewed in the United States on March 1, 2026",
+          "customer": "Herman yeh",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AELFIAQURKR3CQDH6QJBLHVGPBFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "C2.5, Light Medium"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Goes on smooth and doesn\u2019t make my wrinkles look more visible",
+          "reviewText": "Great quality and price. Goes on smooth. Great for my mature skin. The color is definitely true matching. The scent is good and it covers all my red blotches without causing me to look more wrinkling. I will keep buying. Only use a few pumps and that\u2019s all I need to cover my entire face.",
+          "reviewDate": "Reviewed in the United States on February 21, 2026",
+          "customer": "Amy Sol",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEPWESDMYDU7JNIOD5KF7RNI4DSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "C1, Light"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Decent product for the price",
+          "reviewText": "Not bad! Definitely is blendable but very runny and feels a bit greasy by the end of the day. I am not an oily person, so this isn't common for me. It isn't sticky, the color match was a bit lighter than I expected but it worked fine for winter. No scent to it. Overall, decent product for the price! It's easy to apply and blend, you just have to be fast because it is drippy and I would say that more comes out per pump than you'd expect.",
+          "reviewDate": "Reviewed in the United States on January 3, 2026",
+          "customer": "Kylee Smith",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSCGCZRFRNOGLJ2J3LELTIBALMQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "N2, Light"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "My Go-To Everyday Foundation",
+          "reviewText": "I keep coming back to this foundation for a reason! It blends so easily and gives such a natural, skin-like finish. The coverage is perfect for everyday, it evens everything out without feeling heavy or cakey. I love how lightweight it feels, and it lasts really well throughout the day with minimal touch-ups. The shade match is also spot on, which makes it even better. Definitely a staple in my makeup routine!",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "Allison",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHWHLEN3TC2OVDRYSM7T4P7QHE4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "W3, Light Medium"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth application and great coverage!",
+          "reviewText": "Color match is great and the coverage is really good medium coverage! I only use about a pump to cover my face and it feels really smooth during application. I am able to layer products on it as well! Overall great foundation!",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Tulsi Patel",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG2RZ5D664CXZT6K3VGOMX7KQTMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "N6.5, Medium Deep"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "color inaccurate.",
+          "reviewText": "while it is lovely, i bought a very light shade C 1.5 and when i opened the pkg i was certain that i was sent the wrong bottle. it isn\u2019t a cool shade and it isn\u2019t very light. i don\u2019t know if it translates in the photos, but the site color compared to the shade i received. mine is much darker. odd considering that the highlight of this foundation was about matching your shade. i\u2019m going to have to buy something else now which i hate.",
+          "reviewDate": "Reviewed in the United States on March 6, 2026",
+          "customer": "magda",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEIRTOSJRB7L25IZKTGF7YINBGPA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "C1.5, Light"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "The best lightweight and good coverage foundation for a fair price.!",
+          "reviewText": "The same great foundation we love, but with a new look. At first, I was a little taken aback when I noticed the change from the old bottle style to this one, but I can say it's still my favorite. It provides great coverage, is super lightweight, looks beautiful, and moisturizes my skin so well that I'll keep buying it again and again.",
+          "reviewDate": "Reviewed in the United States on March 11, 2026",
+          "customer": "LizCapizzano",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBWGZCIEBNHJYQKDEIIUZ7C3CSQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "W6, Medium"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
+          "reviewText": "My most liquid foundation yet , it feels super thin on the skin and it has such great medium coverage I like it \ud83e\udd0d",
+          "reviewDate": "Reviewed in Saudi Arabia on January 24, 2026",
+          "customer": "Shaima alamri",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "N4, Light Medium"
+          }
+        },
+        {
+          "reviewTitle": "Quality",
+          "reviewText": "One of the best foundations i have ever used interms of decent coverage,especially the way it glides on your face..",
+          "reviewDate": "Reviewed in the United Arab Emirates on September 21, 2025",
+          "customer": "Kainat Mansoor",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "N3, Light Medium"
+          }
+        }
+      ]
+    }
+  }
+}

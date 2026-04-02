@@ -1,0 +1,826 @@
+{
+  "requestMetadata": {
+    "id": "4ed3398a-0395-4818-9015-6487101c82c3",
+    "status": "ok",
+    "html": "https://files.hasdata.com/4ed3398a-0395-4818-9015-6487101c82c3.html",
+    "json": "https://files.hasdata.com/4ed3398a-0395-4818-9015-6487101c82c3.json",
+    "url": "https://www.amazon.com/dp/B0FBX37X5K"
+  },
+  "product": {
+    "asin": "B0FBX37X5K",
+    "url": "https://www.amazon.com/dp/B0FBX37X5K",
+    "title": "JUNG SAEM MOOL Essential Skin Nuder Cushion | Natural Finish, Buildable Coverage Cushion Foundation by Korean Makeup Artist (Refill Not Included, 0.49 Fl Oz), 21W Medium",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.49 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "CUSHION FOUNDATION WITH NATURAL RADIANT FINISH & SKIN-LIKE TEXTURE: Created by renowned Korean makeup artist Jung Saem Mool, a pioneer in \u201cglass skin\u201d and natural complexion makeup, this cushion foundation delivers a dewy glow that mimics healthy, real skin. Known for decades of backstage experience, Jung\u2019s artistry ensures flawless results for daily foundation routines and professional wear alike",
+      "BUILDABLE COVERAGE WITH PORE-BLURRING MAKEUP EFFECT: Achieve flawless skin with this buildable coverage formula that allows layering from sheer to medium without cakiness. It smooths texture, blurs pores, and enhances tone evenly\u2014perfect for a natural radiant finish that lasts",
+      "LIGHTWEIGHT TEXTURE THAT LOCKS IN HYDRATION ALL DAY: This lightweight cushion foundation is infused with hydrating ingredients, making it ideal for makeup for dry skin and sensitive skin. It provides long-lasting cushion comfort with a breathable feel and dewy glow that lasts from morning to night",
+      "MESH CUSHION PUFF SYSTEM FOR PRECISE APPLICATION: Designed with a mesh cushion puff, the system delivers just the right amount of product for pore-blurring makeup and a smooth, even finish. The skin-fit puff adapts to facial curves, making touch-ups effortless and hygienic",
+      "30 SHADES CUSTOMIZED FOR GLOBAL SKIN TONES: The wide shade range is carefully developed for international users\u2014from fair to deep\u2014with neutral, warm, and cool undertones. This daily foundation is perfect for diverse skin types and tones, ensuring a flawless, radiant finish on every complexion"
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FP48QDNL",
+        "title": "0.17 Fl Oz (Pack of 1) 26W Oat",
+        "url": "https://www.amazon.com/dp/B0FP48QDNL",
+        "imageUrl": "https://m.media-amazon.com/images/I/71kYbm1KKmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX4LBYQ",
+        "title": "0.49 Fl Oz (Pack of 1) 19C Pink Light",
+        "url": "https://www.amazon.com/dp/B0FBX4LBYQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Rr28aAUxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FZVG27FY",
+        "title": "0.49 Fl Oz (Pack of 1) 1 Seoul Cushion Case",
+        "url": "https://www.amazon.com/dp/B0FZVG27FY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ygiA1Hg8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F1DJT69W",
+        "title": "0.49 Fl Oz (Pack of 1) [SPF] 19 Pink Light",
+        "url": "https://www.amazon.com/dp/B0F1DJT69W",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Rr28aAUxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3ZCDSW",
+        "title": "0.17 Fl Oz (Pack of 1) 23N Honey",
+        "url": "https://www.amazon.com/dp/B0FP3ZCDSW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71H9dIqsn6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBWZNSDG",
+        "title": "0.49 Fl Oz (Pack of 1) 30N Amber",
+        "url": "https://www.amazon.com/dp/B0FBWZNSDG",
+        "imageUrl": "https://m.media-amazon.com/images/I/81IkiRWfg6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F1DLNRDP",
+        "title": "0.49 Fl Oz (Pack of 1) [SPF] 25 Bronze",
+        "url": "https://www.amazon.com/dp/B0F1DLNRDP",
+        "imageUrl": "https://m.media-amazon.com/images/I/816N9VqWbYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX3MWP9",
+        "title": "0.49 Fl Oz (Pack of 1) 26W Oat",
+        "url": "https://www.amazon.com/dp/B0FBX3MWP9",
+        "imageUrl": "https://m.media-amazon.com/images/I/81CKjQMwpHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B06ZY24PCH",
+        "title": "0.98 Fl Oz (Pack of 1) [SPF] 17 Fair Light",
+        "url": "https://www.amazon.com/dp/B06ZY24PCH",
+        "imageUrl": "https://m.media-amazon.com/images/I/81VSNxfyA1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0734GYMLN",
+        "title": "0.98 Fl Oz (Pack of 1) [SPF] 21 Medium",
+        "url": "https://www.amazon.com/dp/B0734GYMLN",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Ddl4mnn7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP49672N",
+        "title": "0.17 Fl Oz (Pack of 1) 25W Latte",
+        "url": "https://www.amazon.com/dp/B0FP49672N",
+        "imageUrl": "https://m.media-amazon.com/images/I/71YGMt8leKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3C8ZWV",
+        "title": "0.17 Fl Oz (Pack of 1) 17C Fair Pink",
+        "url": "https://www.amazon.com/dp/B0FP3C8ZWV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71fKhTHHYDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX18PZK",
+        "title": "0.49 Fl Oz (Pack of 1) 26N Taupe Beige",
+        "url": "https://www.amazon.com/dp/B0FBX18PZK",
+        "imageUrl": "https://m.media-amazon.com/images/I/81eSIsl+DwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F1DKFLM7",
+        "title": "0.49 Fl Oz (Pack of 1) [SPF] 13 Fair",
+        "url": "https://www.amazon.com/dp/B0F1DKFLM7",
+        "imageUrl": "https://m.media-amazon.com/images/I/81wlDzT30OL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX2W22Y",
+        "title": "0.49 Fl Oz (Pack of 1) 10W Shell",
+        "url": "https://www.amazon.com/dp/B0FBX2W22Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/81aXLPwh5ML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX33L3W",
+        "title": "0.49 Fl Oz (Pack of 1) 22C Petal Light",
+        "url": "https://www.amazon.com/dp/B0FBX33L3W",
+        "imageUrl": "https://m.media-amazon.com/images/I/81sbnUiq1kL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP4GJRWC",
+        "title": "0.17 Fl Oz (Pack of 1) 19W Light",
+        "url": "https://www.amazon.com/dp/B0FP4GJRWC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KWL6E3ibL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX2DFPL",
+        "title": "0.49 Fl Oz (Pack of 1) 19N N-Light",
+        "url": "https://www.amazon.com/dp/B0FBX2DFPL",
+        "imageUrl": "https://m.media-amazon.com/images/I/81TqwJpuYOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09B3LL9R4",
+        "title": "0.49 Fl Oz (Pack of 1) [SPF] 17 Fair Light",
+        "url": "https://www.amazon.com/dp/B09B3LL9R4",
+        "imageUrl": "https://m.media-amazon.com/images/I/818jBg3Wl3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GL8FFST6",
+        "title": "1.25 Fl Oz (Pack of 1) [SPF] 19 Light",
+        "url": "https://www.amazon.com/dp/B0GL8FFST6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61SysVC3vHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0822H7R1Q",
+        "title": "0.98 Fl Oz (Pack of 1) [SPF] 19 Pink Light",
+        "url": "https://www.amazon.com/dp/B0822H7R1Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/81KPPWBqPlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX22KG4",
+        "title": "0.49 Fl Oz (Pack of 1) 30C Cinnamon",
+        "url": "https://www.amazon.com/dp/B0FBX22KG4",
+        "imageUrl": "https://m.media-amazon.com/images/I/81iACBJjl-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0822HR335",
+        "title": "0.98 Fl Oz (Pack of 1) [SPF] 17 Fair Pink",
+        "url": "https://www.amazon.com/dp/B0822HR335",
+        "imageUrl": "https://m.media-amazon.com/images/I/81DFaIBFGQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX2FTGB",
+        "title": "0.49 Fl Oz (Pack of 1) 28N Camel",
+        "url": "https://www.amazon.com/dp/B0FBX2FTGB",
+        "imageUrl": "https://m.media-amazon.com/images/I/81eA19U7+BL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP44V7KX",
+        "title": "0.17 Fl Oz (Pack of 1) 13N Fair",
+        "url": "https://www.amazon.com/dp/B0FP44V7KX",
+        "imageUrl": "https://m.media-amazon.com/images/I/715PXa90DwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX37X5K",
+        "title": "0.49 Fl Oz (Pack of 1) 21W Medium",
+        "url": "https://www.amazon.com/dp/B0FBX37X5K",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ZL886f6jL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3LGKYS",
+        "title": "0.17 Fl Oz (Pack of 1) 25N Bronze",
+        "url": "https://www.amazon.com/dp/B0FP3LGKYS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71A4nnrJcoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3ND1ZC",
+        "title": "0.17 Fl Oz (Pack of 1) 13W Fair Ivory",
+        "url": "https://www.amazon.com/dp/B0FP3ND1ZC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71OzdJrKTbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3PRD72",
+        "title": "0.17 Fl Oz (Pack of 1) 22W Sand",
+        "url": "https://www.amazon.com/dp/B0FP3PRD72",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rWQrWIWmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3MWMZT",
+        "title": "0.17 Fl Oz (Pack of 1) 36N Almond",
+        "url": "https://www.amazon.com/dp/B0FP3MWMZT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+7qQX5EXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3XMD2Q",
+        "title": "0.17 Fl Oz (Pack of 1) 45N Espresso",
+        "url": "https://www.amazon.com/dp/B0FP3XMD2Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/711gX4eHJxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX3KZL1",
+        "title": "0.49 Fl Oz (Pack of 1) 42C Deep Cacao",
+        "url": "https://www.amazon.com/dp/B0FBX3KZL1",
+        "imageUrl": "https://m.media-amazon.com/images/I/81a9rORlUhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09B3M89ZJ",
+        "title": "0.49 Fl Oz (Pack of 1) [SPF] 19 Light",
+        "url": "https://www.amazon.com/dp/B09B3M89ZJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/81pvZ18d1TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3NVXKH",
+        "title": "0.17 Fl Oz (Pack of 1) 10W Shell",
+        "url": "https://www.amazon.com/dp/B0FP3NVXKH",
+        "imageUrl": "https://m.media-amazon.com/images/I/713+2GhJLpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX157TZ",
+        "title": "0.49 Fl Oz (Pack of 1) 25N Bronze",
+        "url": "https://www.amazon.com/dp/B0FBX157TZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/816N9VqWbYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3WN8PG",
+        "title": "0.17 Fl Oz (Pack of 1) 21W Medium",
+        "url": "https://www.amazon.com/dp/B0FP3WN8PG",
+        "imageUrl": "https://m.media-amazon.com/images/I/712BKOFVMtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F1DLKDBT",
+        "title": "0.49 Fl Oz (Pack of 1) [SPF] 23 Medium Deep",
+        "url": "https://www.amazon.com/dp/B0F1DLKDBT",
+        "imageUrl": "https://m.media-amazon.com/images/I/81TV9LB6x6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP4CV2S8",
+        "title": "0.17 Fl Oz (Pack of 1) 34W Hazelnut",
+        "url": "https://www.amazon.com/dp/B0FP4CV2S8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71GEd6dw73L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP4BMJ5G",
+        "title": "0.17 Fl Oz (Pack of 1) 38N Saddle Brown",
+        "url": "https://www.amazon.com/dp/B0FP4BMJ5G",
+        "imageUrl": "https://m.media-amazon.com/images/I/71eR5Aemt0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP45T3YD",
+        "title": "0.17 Fl Oz (Pack of 1) 40N Chestnut",
+        "url": "https://www.amazon.com/dp/B0FP45T3YD",
+        "imageUrl": "https://m.media-amazon.com/images/I/71sVJIgMZ6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX17DJJ",
+        "title": "0.49 Fl Oz (Pack of 1) 36N Almond",
+        "url": "https://www.amazon.com/dp/B0FBX17DJJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/81LyCkz+-1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3FK2H2",
+        "title": "0.17 Fl Oz (Pack of 1) 17N Fair Light",
+        "url": "https://www.amazon.com/dp/B0FP3FK2H2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71e1nn+enFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP46X23C",
+        "title": "0.17 Fl Oz (Pack of 1) 22N Peach Light",
+        "url": "https://www.amazon.com/dp/B0FP46X23C",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ONsLbSA0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP46W2VP",
+        "title": "0.17 Fl Oz (Pack of 1) 23W Medium Deep",
+        "url": "https://www.amazon.com/dp/B0FP46W2VP",
+        "imageUrl": "https://m.media-amazon.com/images/I/71puEgUiK7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GL8SKDBN",
+        "title": "1.25 Fl Oz (Pack of 1) [SPF] 21 Medium",
+        "url": "https://www.amazon.com/dp/B0GL8SKDBN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WMh0OedBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBWZH7NF",
+        "title": "0.49 Fl Oz (Pack of 1) 19W Light",
+        "url": "https://www.amazon.com/dp/B0FBWZH7NF",
+        "imageUrl": "https://m.media-amazon.com/images/I/81pvZ18d1TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3R71V9",
+        "title": "0.17 Fl Oz (Pack of 1) 19N N-Light",
+        "url": "https://www.amazon.com/dp/B0FP3R71V9",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KZLey8-bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3X7V36",
+        "title": "0.17 Fl Oz (Pack of 1) 38C Maroon",
+        "url": "https://www.amazon.com/dp/B0FP3X7V36",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IoGk7Z0xL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3N6S6D",
+        "title": "0.17 Fl Oz (Pack of 1) 28N Camel",
+        "url": "https://www.amazon.com/dp/B0FP3N6S6D",
+        "imageUrl": "https://m.media-amazon.com/images/I/713gKrbbXTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX4QYXL",
+        "title": "0.49 Fl Oz (Pack of 1) 25W Latte",
+        "url": "https://www.amazon.com/dp/B0FBX4QYXL",
+        "imageUrl": "https://m.media-amazon.com/images/I/81wX1Ie2NgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP492L78",
+        "title": "0.17 Fl Oz (Pack of 1) 22C Petal Light",
+        "url": "https://www.amazon.com/dp/B0FP492L78",
+        "imageUrl": "https://m.media-amazon.com/images/I/71lPF-T4dwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX3CJ4K",
+        "title": "0.49 Fl Oz (Pack of 1) 23N Honey",
+        "url": "https://www.amazon.com/dp/B0FBX3CJ4K",
+        "imageUrl": "https://m.media-amazon.com/images/I/81sZYi4yEJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CT2VFX33",
+        "title": "0.98 Fl Oz (Pack of 1) [SPF] 19 N-Light",
+        "url": "https://www.amazon.com/dp/B0CT2VFX33",
+        "imageUrl": "https://m.media-amazon.com/images/I/81B1t0YrouL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3W7HQP",
+        "title": "0.17 Fl Oz (Pack of 1) 30N Amber",
+        "url": "https://www.amazon.com/dp/B0FP3W7HQP",
+        "imageUrl": "https://m.media-amazon.com/images/I/714bv9zvO8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX2PWKT",
+        "title": "0.49 Fl Oz (Pack of 1) 17N Fair Light",
+        "url": "https://www.amazon.com/dp/B0FBX2PWKT",
+        "imageUrl": "https://m.media-amazon.com/images/I/818jBg3Wl3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F1384TNF",
+        "title": "0.98 Fl Oz (Pack of 1) [SPF] 25 Bronze",
+        "url": "https://www.amazon.com/dp/B0F1384TNF",
+        "imageUrl": "https://m.media-amazon.com/images/I/81B+4A0ywSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX3KMCD",
+        "title": "0.49 Fl Oz (Pack of 1) 45N Espresso",
+        "url": "https://www.amazon.com/dp/B0FBX3KMCD",
+        "imageUrl": "https://m.media-amazon.com/images/I/81QONHrajyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GL89249V",
+        "title": "1.25 Fl Oz (Pack of 1) [SPF] 17 Fair Light",
+        "url": "https://www.amazon.com/dp/B0GL89249V",
+        "imageUrl": "https://m.media-amazon.com/images/I/61p2b-p-lmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GL8G1MSG",
+        "title": "1.25 Fl Oz (Pack of 1) [SPF] 23 Medium Deep",
+        "url": "https://www.amazon.com/dp/B0GL8G1MSG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Er0n1hZuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBWYW5ZX",
+        "title": "0.49 Fl Oz (Pack of 1) 34W Hazelnut",
+        "url": "https://www.amazon.com/dp/B0FBWYW5ZX",
+        "imageUrl": "https://m.media-amazon.com/images/I/81z8WRVWaaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CT2VBD27",
+        "title": "0.49 Fl Oz (Pack of 1) [SPF] 19 N-Light",
+        "url": "https://www.amazon.com/dp/B0CT2VBD27",
+        "imageUrl": "https://m.media-amazon.com/images/I/81TqwJpuYOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP4BJZJS",
+        "title": "0.17 Fl Oz (Pack of 1) 26N Taupe Beige",
+        "url": "https://www.amazon.com/dp/B0FP4BJZJS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71x8BhFPI-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBWZWXXX",
+        "title": "0.49 Fl Oz (Pack of 1) 17C Fair Pink",
+        "url": "https://www.amazon.com/dp/B0FBWZWXXX",
+        "imageUrl": "https://m.media-amazon.com/images/I/81sEmveBVvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBWYP5NN",
+        "title": "0.49 Fl Oz (Pack of 1) 38C Maroon",
+        "url": "https://www.amazon.com/dp/B0FBWYP5NN",
+        "imageUrl": "https://m.media-amazon.com/images/I/81+weO6-9bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP3LDGFC",
+        "title": "0.17 Fl Oz (Pack of 1) 10N Shell Cream",
+        "url": "https://www.amazon.com/dp/B0FP3LDGFC",
+        "imageUrl": "https://m.media-amazon.com/images/I/719kixJwsSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBWZPF4R",
+        "title": "0.49 Fl Oz (Pack of 1) 32N Walnut",
+        "url": "https://www.amazon.com/dp/B0FBWZPF4R",
+        "imageUrl": "https://m.media-amazon.com/images/I/81BBb1A8uUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0822J79ND",
+        "title": "0.98 Fl Oz (Pack of 1) [SPF] 13 Fair",
+        "url": "https://www.amazon.com/dp/B0822J79ND",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ztQPGxZkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0734GC9BX",
+        "title": "0.98 Fl Oz (Pack of 1) [SPF] 19 Light",
+        "url": "https://www.amazon.com/dp/B0734GC9BX",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ZcScxJJdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX2MBL9",
+        "title": "0.49 Fl Oz (Pack of 1) 22N Peach Light",
+        "url": "https://www.amazon.com/dp/B0FBX2MBL9",
+        "imageUrl": "https://m.media-amazon.com/images/I/81tWMjWGVrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBWXJ4YP",
+        "title": "0.49 Fl Oz (Pack of 1) 23W Medium Deep",
+        "url": "https://www.amazon.com/dp/B0FBWXJ4YP",
+        "imageUrl": "https://m.media-amazon.com/images/I/81TV9LB6x6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX2TKGR",
+        "title": "0.49 Fl Oz (Pack of 1) 13N Fair",
+        "url": "https://www.amazon.com/dp/B0FBX2TKGR",
+        "imageUrl": "https://m.media-amazon.com/images/I/81wlDzT30OL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX3R1ZS",
+        "title": "0.49 Fl Oz (Pack of 1) 40N Chestnut",
+        "url": "https://www.amazon.com/dp/B0FBX3R1ZS",
+        "imageUrl": "https://m.media-amazon.com/images/I/819V476SjjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP42JQ7F",
+        "title": "0.17 Fl Oz (Pack of 1) 30C Cinnamon",
+        "url": "https://www.amazon.com/dp/B0FP42JQ7F",
+        "imageUrl": "https://m.media-amazon.com/images/I/71r3ttcWrkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP479ZLX",
+        "title": "0.17 Fl Oz (Pack of 1) 32N Walnut",
+        "url": "https://www.amazon.com/dp/B0FP479ZLX",
+        "imageUrl": "https://m.media-amazon.com/images/I/71MDyc0JXOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09B3L6YH9",
+        "title": "0.49 Fl Oz (Pack of 1) [SPF] 21 Medium",
+        "url": "https://www.amazon.com/dp/B09B3L6YH9",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ZL886f6jL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F1DLNPY8",
+        "title": "0.49 Fl Oz (Pack of 1) [SPF] 17 Fair Pink",
+        "url": "https://www.amazon.com/dp/B0F1DLNPY8",
+        "imageUrl": "https://m.media-amazon.com/images/I/81sEmveBVvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B085T54TB2",
+        "title": "0.98 Fl Oz (Pack of 1) [SPF] 23 Medium Deep",
+        "url": "https://www.amazon.com/dp/B085T54TB2",
+        "imageUrl": "https://m.media-amazon.com/images/I/81qGLUysKYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX2W4NS",
+        "title": "0.49 Fl Oz (Pack of 1) 10N Shell Cream",
+        "url": "https://www.amazon.com/dp/B0FBX2W4NS",
+        "imageUrl": "https://m.media-amazon.com/images/I/81lDiSkJWxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX1DPR2",
+        "title": "0.49 Fl Oz (Pack of 1) 38N Saddle Brown",
+        "url": "https://www.amazon.com/dp/B0FBX1DPR2",
+        "imageUrl": "https://m.media-amazon.com/images/I/81XFtOka8TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP45VQRT",
+        "title": "0.17 Fl Oz (Pack of 1) 19C Pink Light",
+        "url": "https://www.amazon.com/dp/B0FP45VQRT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71520pWlRHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX2MCPB",
+        "title": "0.49 Fl Oz (Pack of 1) 13W Fair Ivory",
+        "url": "https://www.amazon.com/dp/B0FBX2MCPB",
+        "imageUrl": "https://m.media-amazon.com/images/I/81YBXfpwq+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP47BXM3",
+        "title": "0.17 Fl Oz (Pack of 1) 42C Deep Cacao",
+        "url": "https://www.amazon.com/dp/B0FP47BXM3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Czb2isI+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBX2W5J2",
+        "title": "0.49 Fl Oz (Pack of 1) 22W Sand",
+        "url": "https://www.amazon.com/dp/B0FBX2W5J2",
+        "imageUrl": "https://m.media-amazon.com/images/I/81p2MIxbbsL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 22.4,
+      "beforePrice": 32,
+      "discount": "-30%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "April 22 - May 25",
+    "deliveryIsoDate": "2026-04-22T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "fastestDeliveryRawDate": "April 22 - May 22",
+    "fastestDeliveryIsoDate": "2026-04-22T00:00:00.000Z",
+    "fastestDeliveryPriceMessage": "fastest",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "JUNGSAEMMOOL Official",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A13X2WXNILGUS2",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/81ZL886f6jL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81ZL886f6jL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ZHF3RTTcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614M3D0XO-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CdVnTVmJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qVV6y4gUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+Hk44w4oL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71X7U6BRIzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GklNNa5jL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b2b73d1-39b0-4182-99f9-20ff4befc61c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2b8189d5-ccf4-486d-9460-12974458d323.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/940eda01-1977-4045-85c6-19057be54c57.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d63e91dd-b17d-433c-9e70-e4252d86ef5d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fec1f3cf-91ec-4eca-851d-c353e6b62af8.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b630360d-6f75-4ae2-942b-40e325eaa689.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/98e513ef-763a-4788-a3cb-47d734db79dc.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c8c2a048-bd4a-483b-92fe-e6c1e5a23314.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/26f8350f-3757-48c7-a87c-1f4235b7be13.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a6d7d16-5edd-42a3-b6c2-244073bb32db.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3a4d604-789c-4ff7-972f-fee710b53c7b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4d7f3ec2-cc84-44bd-81ab-d9b9c5f906fe.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/606e1c31-acf0-4a5c-95fd-67702c9a8b2f.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "21W Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Compact"
+      },
+      {
+        "key": "Brand Name",
+        "value": "JUNG SAEM MOOL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Color Correction, Flawless, Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Republic of Korea"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "88587237"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "COSMAX"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "foundation-makeup"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#911 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #13 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FBX37X5K"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Lightweight, Long Lasting, Travel Size"
+      },
+      {
+        "key": "Finish Types",
+        "value": "translucent"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.91 x 1.16 x 2.91 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Allergen Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3264,
+      "rating": 4.1,
+      "starRates": {
+        "fiveStars": "64%",
+        "fourStars": "14%",
+        "threeStars": "7%",
+        "twoStars": "3%",
+        "oneStars": "12%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage that builds easily from light to solid medium, with a natural glow finish that makes skin look bright and smooth. The product receives positive feedback for its quality, smooth application, and lightweight feel that doesn't feel heavy on the skin, while lasting most of the day. The color receives mixed reviews - while some appreciate the beautiful ivory shade, others find it too pale for their skin tone.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 208,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 150,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 123,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 110,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 81,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 71,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 70,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 99,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61GEEAD2a1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ZO1WYo2WL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71vvwu0l-2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Wt8jFgIwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71oC8ITyrqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71QzUkJranL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qI7qqgquL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CntDkD2KL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71X5mM1NNpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bqyS90uuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61eCc2wAEzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bSVbZxCnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great everyday foundation",
+          "reviewText": "This was my favorite foundation for a few years, though it\u2019s recently been dethroned by the new Victoria Beckham foundation drops. This is fragranced but they seem to have decreased it over time, so it stopped bothering me as a migraine-sensitive person. If anyone is comparing this to Clio kill cover mesh glow essential cushion (which has a strong peach fragrance that is borderline unbearable), Clio 23N Ginger is a hair lighter but it is comparable to the JSM 21W Medium\u2026 the puff applicator shape and the mesh delivery system in the Clio compact is much better, but the JSM foundation product itself is far superior in terms of how it melds with skin and makes it look. This is an excellent blurring foundation with light coverage that gives a nice, healthy glow to skin, but it will not necessarily cover darker imperfections like melasma or post-inflammatory hyperpigmentation. In the years that I\u2019ve used this, I found that the JSM Star-Cealer foundation in Light (the foundation and NOT the concealer that comes in the compact) did a better job of covering up spots with strong pigmentation I wanted to minimize. This product definitely needs a setting powder and it will cling to any dry patches\u2026 there are definitely times when I\u2019ve had to redo my skincare and makeup because I had some dry skin coming to the surface and hadn\u2019t exfoliated enough before applying it. You can still get some good coverage with this, but you need to be very careful about applying it in light layers and letting it sit for a time because too much and it can look cakey in certain lighting\u2026 I generally found it best to use the least amount of product in areas that the light hits (forehead, tops of cheekbones, etc) to ensure that it wouldn\u2019t look cakey once I applied setting powder and a little bronzer. I don\u2019t have large pores, but I found that if my base wasn\u2019t dry enough this could sometimes settle in my cheek pores in a way that made my skin looked textured\u2026 I am not sure if this foundation will work for someone who has significant textural variations, like pitted acne scarring. Because you only need a light layer of this product and it is thin in texture, it is more or less weightless and I\u2019ve never had it break me out. If you have skin that is generally in a good place without anything major to hide, this is an excellent light, perfecting foundation that WILL get you compliments on your skin. My other main criticisms of this is the shape of the applicator pad doesn\u2019t work well with crease areas like the sides of nostrils or corner of eues, in that it will usually deposit not enough or too much product in those spots. JSM does make some adorable fingertip cushion puffs that work well for these spots, but it would be much better if the applicator for this had some sort of point for better application to crevice areas. It\u2019s also sometimes difficult to use up all of the product, there will be a lot trapped in various parts of the sponge and you sort of need to press around for it and flip the sponge once in a while (which wastes a lot of product). I often wished I could just get this as some sort of drop product because otherwise I would need refills of this every month or two, I appreciate they sell pop-in refills, but sometimes they are really hard to get in/out of the compact (a few times I have needed to use actual tools to pop it out and all my body weight to get it in) and I hate the amount of plastic this is wasting over time. While the Clio compact design is ugly/bulky/tacky, I think JSM should take lessons from that product on how to modernize this compact\u2019s applicator and sponge delivery system\u2026 or just offer this in a drop foundation format. I did try the JSM liquid bottle foundation that was on the market a few years ago, but I found the heavy floral fragrance nauseating and it was a much thicker formula than whatever is in this compact. I think this is the best foundation you\u2019re going to find at this price point for someone who does not need full coverage and it\u2019s better than anything you\u2019re going to find at major beauty retails (U or S). I have repurchased it many times, but it could definitely use a little improvement.",
+          "reviewDate": "Reviewed in the United States on March 9, 2026",
+          "customer": "snowdrop",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBFXBTR2RKNCXK5ZBP42E2TN4JQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.98 Fl Oz (Pack of 1)",
+            "color": "[SPF] 21 Medium"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "PERFECTION IN A COMPACT!!",
+          "reviewText": "This is an absolutely AMAZING PRODUCT!! IT WAS SO VERY EASY & FUN TO APPLY WITH THE ENCLOSED POWDER PUFF(BLACK PLUSH APLICATOR) THE COLOR I CHOSE WAS A PERFECT MATCH FOR MY SKIN tone & UNDERTONE, SO COLOR MATCHING WAS EASY TO FIND THE PERFECT SHADE FOR ANY COLOR OR TONE OF SKIN I ALSO HAVE SENSITIVE SKIN AND THIS DID NOT AFFECT IT AT ALL NO BREAKOUTS! I WAS ABLE TO APPLY IT STRAIGHT OUT OF THE COMPACT AS SOON AS I OPENED IT AND REMOVED THE PROTECTIVE STICKER THAT COVERED IT, TOOK ONLY MINUTES TO DO MY ENTIRE FACE, INCLUDING AROUND THE EYS AND A BIT DOWN TO MY NECK TO EVENLY BLEND IT OUT! LOOKS JUST LIKE SKIN FEELS GREAT TOO! SO LIGHTWEGHT FEELS LIKE YOU ARE WEARING NOTHING ON YOUR SKIN YET THE COVERAGE WAS JUST AMAZING, I DID NOT HAVE TO USE ANY CONCEALER OR PRIMER, BUT I'M GOING TO TRY THOSE NEXT TIME TO SEE IF IT MAKES IT LOOK EVEN BETTER THAN IT ALREADY DID ON IT'S OWN! IT WILL ALSO BE PERFECT FOR QUICK TOUCH-UPS ON THE GO, COMPACT IS PERFECT SIZE TO THROW IN YOUR POCKET OR PURSE, IT DOES NOT SPILL OR LEAK ANY PRODUCT WITH ITS PERFECT DESIGN! AND THE ADDED ADDITION OF THE \" MIXING PALETTE\" IS WONDERFUL IF YOU HAVE GOTTEN TOO MUCH ON THE PLUSH APPLICATOR AND YOU CAN ALSO GO BACK TO THIS AREA TO PICK UP A BIT MORE IF YOU NEED IT WITHOUT HAVING TO DIP INTO THE PRODUCT AGAIN, SO IT IS ECONONICAL AS WELL! YOU CAN USE 100% OF THE PRODUCT, WITH ZERO WASTE! I HIGHLY RECCOMEND THIS PRODUCT AND WILL BE USING THIS BRAND AS MY GO TO FOUNDATION FROM NOW ON! BECAUSE OF THE EASE OF USE, PERFECT COLOR MATCH AND LONG LASTING, BEAUTIFUL NATURAL SKIN LOOK, I KNOW OTHER WOMEN WILL TOTALLY LOVE THIS COMPACT AS MUCH AS I DO! AM A USER OF HER PRODUCT FOR LIFE NOW!!",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Michele Connors",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZLBUDQESWKJV7MFTC6PH5INUKQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.17 Fl Oz (Pack of 1)",
+            "color": "13N Fair"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Cushion Foundation is a game changer!",
+          "reviewText": "I love cushion foundation and Jung Saem Mool is a winner. It leaves my skin soft and natural looking while also providing good coverage of imperfections. The only downside was finding the perfect color. I tried three different mini compacts and finally settled on the 22N Peach Light. It\u2018s perfect for my complexion. Application is easy, I use a damp applicator for best results. I\u2018ve used it straight from the cushion but it doesn\u2019t give me the natural look I like. I\u2018m over 80 years old but have great skin that doesn\u2019t need heavy coverage. The cushion foundation doesn\u2019t settle in wrinkles if I use a damp applicator. I also follow my makeup application with a setting spray and it lasts all day. The only reason I gave it 4 stars instead of 5 is the problem I had finding the perfect color for my complexion.",
+          "reviewDate": "Reviewed in the United States on November 16, 2025",
+          "customer": "Suisseinpg",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHZWG2O5MPFFA5MD7GRIM4MJWGLQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.17 Fl Oz (Pack of 1)",
+            "color": "22N Peach Light"
+          },
+          "helpfulVotes": "19 people found this helpful"
+        },
+        {
+          "reviewTitle": "A \u201cMy-Skin-But-Better\u201d Cushion That Rarely Messes Up",
+          "reviewText": "I\u2019ve tried more cushion foundations than I\u2019d like to admit, and this one earns its place in the daily rotation. The finish is what really stands out: natural, radiant, and skin-like. Not greasy, not flat, not \u201cI\u2019m clearly wearing makeup.\u201d It evens out tone beautifully, blurs pores in a very convincing way, and layers well if you need a bit more coverage without turning cakey. The texture is lightweight and comfortable, and my skin still feels normal hours later, not tight or suffocated. Application is almost foolproof. The mesh cushion and puff give you just the right amount of product, which makes it hard to overdo it. Great for rushed mornings and for people who don\u2019t want to think too hard about their base makeup. Now, to be fair, it\u2019s not perfect. If you\u2019re looking for full coverage or bulletproof all-day wear in heat and humidity, this isn\u2019t that cushion. T-zone can get a little shiny after several hours, and you may want to touch up. Also, I wouldn\u2019t call it \u201cskincare in a compact\u201d \u2014 it\u2019s more about great makeup than skin treatment. That said, if your goal is fresh, healthy-looking skin that doesn\u2019t scream foundation, this does the job extremely well. It\u2019s the kind of product that makes people ask, \u201cYour skin looks really good today,\u201d not \u201cWhat foundation are you wearing?\u201d Would definitely repurchase.",
+          "reviewDate": "Reviewed in the United States on December 13, 2025",
+          "customer": "Jason Lin",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEGJ7SOKMQTOFMTW22OCSOT7BVUA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love this product!",
+          "reviewText": "My third time use it now. It's perfectly fit to me.",
+          "reviewDate": "Reviewed in Canada on March 26, 2026",
+          "customer": "Jk",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.98 Fl Oz (Pack of 1)",
+            "color": "[SPF] 17 Fair Pink"
+          }
+        },
+        {
+          "reviewTitle": "Very nice , natural",
+          "reviewText": "Really nice product, Only it ends quickly, but it's very good to lie on the skin",
+          "reviewDate": "Reviewed in the United Arab Emirates on October 22, 2025",
+          "customer": "jane",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.98 Fl Oz (Pack of 1)",
+            "color": "[SPF] 13 Fair"
+          }
+        },
+        {
+          "reviewTitle": "100% original...",
+          "reviewText": "Flawless very dewy finish though expensive but ... just loved the original deal..",
+          "reviewDate": "Reviewed in India on September 26, 2022",
+          "customer": "Samairas Syed",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.98 Fl Oz (Pack of 1)",
+            "color": "[SPF] 17 Fair Light"
+          }
+        }
+      ]
+    }
+  }
+}

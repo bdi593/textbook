@@ -1,0 +1,385 @@
+{
+  "requestMetadata": {
+    "id": "676d3b11-57a5-44c7-ab4b-35de3e126016",
+    "status": "ok",
+    "html": "https://files.hasdata.com/676d3b11-57a5-44c7-ab4b-35de3e126016.html",
+    "json": "https://files.hasdata.com/676d3b11-57a5-44c7-ab4b-35de3e126016.json",
+    "url": "https://www.amazon.com/dp/B07BCC3NN9"
+  },
+  "product": {
+    "asin": "B07BCC3NN9",
+    "url": "https://www.amazon.com/dp/B07BCC3NN9",
+    "title": "e.l.f. Mineral Infused Face Primer, Primer For A Smooth Foundation Base, Fills In Fine Lines & Refines Complexion, Vegan & Cruelty-free, Large",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Matte White",
+      "size": "1.01 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "PRIMER FOR SMOOTH-LOOKING SKIN: Ideal for creating a smooth base for foundation, use this versatile mineral primer before applying makeup.",
+      "FILLS IN FINE LINES: This primer fills in fine lines and refines your complexion.",
+      "FOR ALL SKIN TYPES: The weightless silky formula is great for all skin types.",
+      "HOW TO USE: Apply and let dry to enjoy makeup that blends smoothly and lasts all day!",
+      "SKIN-LOVING INGREDIENTS: All e.l.f. products are made from skin-loving ingredients you want, minus the toxins you don\u2019t\u2014all at good-for-you prices. All e.l.f. products are 100% cruelty-free and Vegan."
+    ],
+    "description": "The Mineral Infused Face Primer is your secret weapon to a flawless face. When applied prior to your makeup, this base will give your face a baby-like, natural matte finish while it combats oil and dryness. It allows your foundation to do its job and not get stuck in the wrong places while prepping your palette (face) for light powder or a full makeup \u2013 you decide. e.l.f. makes the best of beauty accessible to every eye, lip, and face. Your originality is infinite, and we are inspired by what makes you unique. From the early explorer to the trend-obsessed beauty junkie\u2014glam or bare faced, minimalist, maximalist and every look in between\u2014we are for every eye, lip, and face. Proud to be 100% vegan and cruelty-free, worldwide.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation Primers"
+    ],
+    "variants": [
+      {
+        "asin": "B0GHDPH6GB",
+        "title": "Matte White 1.01 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0GHDPH6GB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JYeQ82AOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07BCC3NN9",
+        "title": "Matte White 1.01 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07BCC3NN9",
+        "imageUrl": "https://m.media-amazon.com/images/I/51bGUN-gEkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B004DIXYWG",
+        "title": "Sheer 0.47 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B004DIXYWG",
+        "imageUrl": "https://m.media-amazon.com/images/I/51SKPGFeNYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0727W6D2H",
+        "title": "Radient Beige 0.47 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0727W6D2H",
+        "imageUrl": "https://m.media-amazon.com/images/I/51poME9lF1L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 11,
+      "beforePrice": 11,
+      "discount": "-5%",
+      "priceFrom": 10.95,
+      "otherOfferQuantity": 4
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/51bGUN-gEkL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51bGUN-gEkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51W0kDXaMpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61A8qZFR79L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81QkbDUOJnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81D9VP2VV0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51a9KwNEmdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61uCKUpgPSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61QQIocIk5L._SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/08cb98d1-d4cd-4f8b-b662-da59d7fc28b6.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1d475e1c-c02b-4666-9e2c-2fd474b5f0b9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/233aa26b-6dd5-473b-84f6-848d4b1f5988.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/96883a15-993c-4c95-8d65-b8886358ad04.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Product Benefits",
+        "value": "Smoothening"
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Specialty",
+        "value": "Vegan"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Coverage",
+        "value": "Sheer"
+      },
+      {
+        "key": "Brand Name",
+        "value": "e.l.f."
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "e.l.f. Cosmetics"
+      },
+      {
+        "key": "UPC",
+        "value": "609332834132"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00609332834132"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "I00098226"
+      },
+      {
+        "key": "Model Number",
+        "value": "83413"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#9,256 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #40 in Foundation Primers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07BCC3NN9"
+      },
+      {
+        "key": "Item Volume",
+        "value": "30 Milliliters"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.01 Fluid Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.54 x 1.54 x 6.42 inches"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty-free"
+      },
+      {
+        "key": "Material Features",
+        "value": "lightweight and smoothing"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 10529,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "77%",
+        "fourStars": "14%",
+        "threeStars": "5%",
+        "twoStars": "2%",
+        "oneStars": "2%"
+      },
+      "customersSay": "Customers find this primer to be high quality, silky smooth, and effective as a base for foundation, with makeup staying all day. The product minimizes pores and holds back oily skin throughout the day, while customers appreciate that it doesn't irritate their skin. They consider it good value for money, and one customer mentions it works well with MAC concealer and powder.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 572,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 460,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 358,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 328,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pore coverage",
+          "count": 316,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin feel",
+          "count": 306,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 282,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 281,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81DJdElukTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mrEO2QKcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71yyv7m1DIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71NhzWNhKlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CkAPLUBlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71LcFwoH8LL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ASnipCEUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61UuY6tsj6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71jfJ8M0IFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pB5u3WquL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71o84HPcjyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YMXknD-kL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "It does exactly what you want it to do",
+          "reviewText": "I don\u2019t often wear makeup but when I do this primer works very well. My face looks like I just put my makeup on\u2014all day long. I\u2019m not kidding. I rarely need a touch up. It is a high quality primer and costs far less than other brands I\u2019ve looked at.",
+          "reviewDate": "Reviewed in the United States on January 21, 2026",
+          "customer": "DH and RH",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFEGOEHRORKU7YHXBNBDOK5CHPPQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Matte White",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "FANTASTIC, LONG LASTING PRIMER! Definitely will re-order soon!",
+          "reviewText": "I ordered this product in the color clear in mid-September of 2013 for the upcoming school year. It's the first of December and I just finished my first bottle of the Mineral Infused Face Primer after using it daily for the past months. I'm a high school student who wears makeup to school daily and this product is perfect for keeping your foundation and face makeup on for hours. My foundation routine originally did not include face primers, but over time, I noticed that my face makeup would start to rub off after about three hours. It really bugged me because I'm not the kind of girl who likes to carry around my foundation, powder, and blush to school just so I can re-apply them in the bathroom. I decided to order this primer, and boy am I glad I did. I noticed a HUGE improvement in the amount of time that my makeup would last. I did not have to carry around foundation, powder, concealer, etc. because my makeup would last all day! Make sure that when you apply the primer you have a completely washed face. After that, just take the primer and press the knob down once. It dispenses the perfect amount of primer for your whole face. This is definitely something you don't need to apply generously because it spreads itself out (A little goes a long way). I wanted to order the clear primer because this was intended to be applied before foundation, and I didn't do anything but prime my face perfectly. It looks like very liquidy goo, but once it touches your skin and you blend it out, it feels mineral-like. I know it sounds strange, but it almost made my face feel like a canvas, ready to soak up the makeup! If you're anything like me and you want your foundation and powder to stay on your face for over 5 hours, then this is the perfect product for you! I'm so glad I ordered this product, and I'm positive I will order it again!",
+          "reviewDate": "Reviewed in the United States on December 1, 2013",
+          "customer": "Kelly Mcs",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGTDQ4M7TGJB2APGNOX3VSMCTBFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sheer",
+            "size": "0.47 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Sooo smooth!",
+          "reviewText": "Goes on like velvet and disappears. Covers all the redness and large pores. I love it!",
+          "reviewDate": "Reviewed in the United States on December 18, 2025",
+          "customer": "Ruthanne M.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4QD3FE6CEFI4TDKICKE2REOFZQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sheer",
+            "size": "0.47 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Product - BUT....",
+          "reviewText": "I really like this product to wear under my foundation. It makes my face feel soft and smooth. HOWEVER I noticed as my previous primer ran out and I unscrewed the lid, I found that only the top half of the bottle holds the primer in a reservoir. It's a ruse that the entire bottle is full with primer.",
+          "reviewDate": "Reviewed in the United States on January 29, 2026",
+          "customer": "Gayle",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGE3MV5V6TVRTPEVQSERXELY3FZA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Matte White",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth, Long-Lasting Primer \u2014 Perfect for Travel",
+          "reviewText": "Love e.l.f. products! This Mineral Infused Face Primer works perfectly with my skin, keeps my makeup in place all day, and smooths out fine lines. The size is perfect for travel, and the price is unbeatable.",
+          "reviewDate": "Reviewed in the United States on November 13, 2025",
+          "customer": "melanie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHX5L6CDHHQTUO5VPNHDHVUWXCXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sheer",
+            "size": "0.47 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smoothes on easily!",
+          "reviewText": "Multiple purchases. Good primer, foundation slides over smoothly. Not sticky, washes off essily.",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Ms C",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE7E37QU6PHMNLWJOC63QZZDFFZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Matte White",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "FACE PRIMER",
+          "reviewText": "I LOVE IT! NOT TOO HEAVY ON. ALITTLE BIT GOES A LONG WAY. GOES ON LIKE SILK. SMOOTH UNDER MAKEUP! TRY IT!!",
+          "reviewDate": "Reviewed in the United States on December 21, 2025",
+          "customer": "Mel B",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEFCTEVZCVNE45SVN3E2QYTLX52Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Matte White",
+            "size": "1.01 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "You get what you pay for: Honest packaging, amazing quality and affordable pricing!!!",
+          "reviewText": "I LOVE E.L.F PRIMER, YOU WILL TOO - I have oily/dry combo skin and large pores, this primer literally makes my skin silky smooth. A little goes a long way with this product, you only really need a pea-sized amount to cover your entire face which is another reason to love because this product will last quite a bit of time. And for the price, that is a total still! It helps keep my foundation, and concealer looking fresh. I sometimes even wear it by itself! LETS TALK PACKAGING - The packaging could be deceiving to someone who doesn't buy makeup often or know makeup brands well. So I wanted to tell those interested in purchasing this product, do not be afraid to buy because of the packaging. This style of packaging is common among makeup brands! I have attached images and you can see the bottle on the outside is usually always bigger than the container that holds the actual product on the inside. This is true even for Urban Decay All Nighter Foundation and Fenty Beauty Primer. E.L.F isn't deceiving anyone with their packaging! Unfortunately, people base how much product they are getting on the size of the entire bottle instead of looking at the print of what is being advertised for what they are paying for. In this case, it is .47 ounce of product. In the image Born This Way and Fit Me are both 1 fl oz. you wouldn't be able to tell they hold the exact same amount of product based on the shape of the bottles and size, you have to read the product description. In this E.L.F product description, it tells you the product is .47 ounce and the packaging is 1.6 x 1.6 x 5.5 inches , 2.4 ounces. In my opinion, you get exactly what you pay for honest packaging, amazing quality, and affordable pricing! :) I would definitely recommend E.L.F Primer to others.",
+          "reviewDate": "Reviewed in the United States on September 11, 2019",
+          "customer": "Katrina",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHTTWYZGBRUYN3PVGED25OGEDOMA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sheer",
+            "size": "0.47 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "57 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great primer - wouldn't be without it",
+          "reviewText": "This is an essential in my make-up routine. The primer feels lovely to apply and leaves my skin feeling really soft and smooth. It also helps my foundation last all day.",
+          "reviewDate": "Reviewed in the United Kingdom on December 23, 2025",
+          "customer": "Zoe",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sheer",
+            "size": "0.47 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

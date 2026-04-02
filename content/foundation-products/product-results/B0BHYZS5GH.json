@@ -1,0 +1,365 @@
+{
+  "requestMetadata": {
+    "id": "f08456fe-834b-4581-b2e1-ee61876d69a1",
+    "status": "ok",
+    "html": "https://files.hasdata.com/f08456fe-834b-4581-b2e1-ee61876d69a1.html",
+    "json": "https://files.hasdata.com/f08456fe-834b-4581-b2e1-ee61876d69a1.json",
+    "url": "https://www.amazon.com/dp/B0BHYZS5GH"
+  },
+  "product": {
+    "asin": "B0BHYZS5GH",
+    "url": "https://www.amazon.com/dp/B0BHYZS5GH",
+    "title": "M. Asam Magic Care Perfect Teint (1.01 Fl Oz) - Transparent Make Up, Skin Care Face Cream And Makeup Primer. Beauty Product That Is Known To Minimize Wrinkles & Pores, With Peptide Complex & Retinol",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "patternName": "MAGIC CARE Perfect Teint"
+    },
+    "featureBullets": [
+      "\u2705 INSTANT SKIN OPTIMIZER: skin appears perfect in seconds. MAGIC CARE Perfect Teint makes the complexion look even and matte. Can be used as a primer in combination with make-up and day cream.",
+      "\u2705 WRINKLES & PORE MINIMIZER: instantly visually fills fine lines and wrinkles, visibly refines the appearance of pores leaving an even, refined complexion. The silky texture causes no mask effect.",
+      "\u2705 CAN BE WORN UNDER OR OVER MAKE-UP: Apply after day care to the entire face or partially to individual wrinkles or large-pored areas. The white texture becomes transparent upon application.",
+      "\u2705 FOR ALL SKIN TYPES, AGE & GENDERS: The anti-aging active ingredients intend to fight the visible signs of skin aging and prevent new wrinkles from forming. Suitable for all skin types and genders.",
+      "\u2705 VEGAN & WITH ANTI-AGING ACTIVE INGREDIENTS: with innovative peptide complex and retinol MAGIC CARE Perfect Teint cares against the visible signs of skin aging long-term."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BHYZS5GH",
+        "title": "MAGIC CARE Perfect Teint",
+        "url": "https://www.amazon.com/dp/B0BHYZS5GH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61R8tBQI5TL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 29.99,
+      "beforePrice": 29.99,
+      "discount": "-10%",
+      "priceFrom": 29.99,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "M. Asam - Asambeauty",
+    "sellerUrl": "https://www.amazon.com/sp?seller=ACWKW8MNUAWIA",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61R8tBQI5TL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61R8tBQI5TL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615FH075-SL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71UuoywLvWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/612pvZqYNDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61SqgbaZYyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+olG9hnaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61VWJ37zJEL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/262b1e97-e19b-45bf-9775-5b1c3149bddb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c0dc8144-b5fc-4416-a827-6f21f2807fd1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7469aff0-2ccb-4a58-aadb-b0036d7b3b0b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94aede84-94e4-4b25-968c-27a3c9f2b4f0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/73aa0de9-82f9-4402-ab5b-b3032d761f5b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38735366-7c86-4d63-86a5-dc267d64885b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77b57b12-3e24-47ea-9101-b8e9e2e427c4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3509d2c5-7e20-404c-8b92-94e5beb56917.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f30d1489-5af8-4e89-82ac-36b7677ebc9b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/05f33ade-76bd-4b95-8d17-cccdf64b09c8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7962cc68-e36c-4c8f-82a7-17364e8d78eb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b32d9b2b-22e1-44dd-8a8a-fde9b9918fb8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b69d117c-c3c0-42bd-b94e-4e6d8d42a7a7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/060388f1-adaa-49b9-9241-706ca54effa2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/I/31jr0Ajr4vL.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/I/41fN0A5nLqL.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/I/41E94CAXfuL.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/I/41KvqlO5JIL.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/I/415qFsiI8%2BL.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/I/41YMieD3o1L.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/eec557a2-5342-45a2-947b-ce0326fcf253.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/eec557a2-5342-45a2-947b-ce0326fcf253.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a1887a0b-91e3-4db1-8777-d778074099fd.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f6d4ec15-67ff-4ef0-b07a-60521e5f3e94.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Mousse"
+      },
+      {
+        "key": "Color",
+        "value": "Transparent"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Even Complexion, Moisturizing"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "M. Asam"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Minimizes wrinkles and pores, provides even matte finish, fills fine lines, refines pore appearance"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Moisturizing, Vegan"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Model Number",
+        "value": "43621"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "43621"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "M. Asam GmbH"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#9,707 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #107 in Foundation Makeup #449 in Facial Creams & Moisturizers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BHYZS5GH"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Vegan"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Sheer"
+      },
+      {
+        "key": "Item Weight",
+        "value": "90 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.36 x 2.36 x 1.97 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.01 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "No animal products"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 4203,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "67%",
+        "fourStars": "11%",
+        "threeStars": "10%",
+        "twoStars": "4%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers praise the foundation's moisturizing properties, with one noting it smooths out lines and wrinkles, and many appreciating its silky, porcelain finish. The product receives positive feedback for its effectiveness as a primer, and customers find it easy to apply. Regarding appearance, while some say it makes their face look flawless, others mention it creates a pasty white look, and opinions on value for money are divided between those who find it worth the price and those who consider it a waste of money.",
+      "aspects": [
+        {
+          "aspect": "Moisturizing",
+          "count": 34,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 31,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 23,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin appearance",
+          "count": 11,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 9,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 6,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71S6fQsWawL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61zg4PE9ZuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81-4q6M-6mL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61SIj8MZZ0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Excellent base for makeup",
+          "reviewText": "Excellent for hiding pores, discolorations, texture issues. I think it helps maintain foundation much longer for soft dewy look. Have it on subscribe and save now, it's white goes on clear so need to worry about picking color match",
+          "reviewDate": "Reviewed in the United States on February 3, 2026",
+          "customer": "Matthew Smith",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFJLLAIE5HWHB6C2FK3HYJEE6R2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "patternName": "MAGIC CARE Perfect Teint"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Works well",
+          "reviewText": "Live this stuff. Smooths out all my lines and wrinkles of over 70yrs. Also makes my skin soft.",
+          "reviewDate": "Reviewed in the United States on February 10, 2026",
+          "customer": "Mimi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGUE6OXZXU6TECRVX5NG5CH5KTAA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "patternName": "MAGIC CARE Perfect Teint"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "clean excellent does what it says product",
+          "reviewText": "It's an excellent product and does what it says",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFYSJRUFEYFWVVOJ6WNA4FSGPURQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "patternName": "MAGIC CARE Perfect Teint"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great product.",
+          "reviewText": "Super product. Will buy again.",
+          "reviewDate": "Reviewed in the United States on December 3, 2025",
+          "customer": "Carol Hillis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AELIEHRBBJHFM6XAVNSOIBUWXIRA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "patternName": "MAGIC CARE Perfect Teint"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "May not work well with sensitive skin types",
+          "reviewText": "Don\u2019t use if you are sensitive to retinols. Product does exactly what it says. I wanted to love it but it\u2019s just not meant for my skin type. Works great as a makeup primer. Smooths large pores and fine lines. However after 5 days of use my skin became irritated with stinging red blotchiness. I am often sensitive to retinols products. It also has a strong lemony scent that may irritate some sensitive skin types.",
+          "reviewDate": "Reviewed in the United States on March 19, 2026",
+          "customer": "Donna",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEAIH3UTLP7QOLSVJA6YHUURSFJA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "patternName": "MAGIC CARE Perfect Teint"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great for wrinkle smoothing!",
+          "reviewText": "I\u2019m thrilled with this skin care! It covers up my old smoker lines on my lips and it stays on! I do apply a generous amount. I have sun damage on my neck and chest so I\u2019m now using the makeup on that area. I\u2019ve even tried it on my triceps, which I need to focus more on as I get older! I\u2019m giving this 5 stars bc it really is a great product and something I\u2019ve been looking for, for a long while. It also makes your skin feel like a baby\u2019s buttocks! So smooth and moisturizing. At first I found it ever so slightly greasy- but not anymore. It absorbs well. My husband can\u2019t keep his hands off me bc he said the makeup makes me look 10 years younger! No surgery needed! I highly recommend\u2026 this product is a good one.",
+          "reviewDate": "Reviewed in the United States on November 5, 2023",
+          "customer": "kimberly fisher",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4ODD34BEPGRH2E2DI2OUUXJB4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "patternName": "MAGIC CARE Perfect Teint"
+          },
+          "helpfulVotes": "50 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not satisfied",
+          "reviewText": "Not a good product. Did nothing for what little wrinkles I do have. Pills and leaves residue on your face. Going to return if I can.",
+          "reviewDate": "Reviewed in the United States on October 15, 2025",
+          "customer": "Banana",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEO7DX5XRWSQWNLKOA755MFVEYCA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "patternName": "MAGIC CARE Perfect Teint"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Primer for under Makeup",
+          "reviewText": "Easy to apply. Non-greasy throughout the day.",
+          "reviewDate": "Reviewed in the United States on December 15, 2025",
+          "customer": "L Christie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHNWLRZTHABG4LEU5P57FK56E43A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "patternName": "MAGIC CARE Perfect Teint"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Superb",
+          "reviewText": "Super",
+          "reviewDate": "Reviewed in Belgium on November 9, 2025",
+          "customer": "Le d\u00e9lai de livraison est trop long mais vraiment trop long \u00e0 d\u00e9conseill\u00e9",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "patternName": "MAGIC CARE Perfect Teint"
+          }
+        }
+      ]
+    }
+  }
+}

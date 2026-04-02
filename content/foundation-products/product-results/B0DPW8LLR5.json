@@ -1,0 +1,357 @@
+{
+  "requestMetadata": {
+    "id": "2b3f5d1a-127b-465d-a1da-cab189a2ddb0",
+    "status": "ok",
+    "html": "https://files.hasdata.com/2b3f5d1a-127b-465d-a1da-cab189a2ddb0.html",
+    "json": "https://files.hasdata.com/2b3f5d1a-127b-465d-a1da-cab189a2ddb0.json",
+    "url": "https://www.amazon.com/dp/B0DPW8LLR5"
+  },
+  "product": {
+    "asin": "B0DPW8LLR5",
+    "url": "https://www.amazon.com/dp/B0DPW8LLR5",
+    "title": "Foundation 4 in 1 - Medium Spectrum with SPF 50+, Anti-Aging, Concealer, Sun Protection, Hydrating Color Changing Foundation Makeup Liquid - Longwearing & Waterproof for Sport, Dancing (Gym, 30ml)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Gym",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "\u3010SPF 50+ 4-in-1 Formula\u3011: Our liquid foundation offers the ultimate convenience by seamlessly matching your natural skin tone. This multi-functional product acts as both foundation and concealer, providing instant hydration in just 30 seconds. With long-lasting, waterproof coverage that lasts a full 24 hours, it also boasts SPF 50+ protection against harmful UV rays.",
+      "\u30104-in-1 Versatile Foundation\u3011This liquid foundation adapts to your skin tone, acting as a foundation, concealer, and moisturizer in one! Simplify your routine with long-lasting, waterproof coverage that keeps your complexion flawless for up to 24 hours.",
+      "\u3010High-Quality Formula\u3011 More than just makeup, this foundation nourishes your skin within 30 seconds, delivering a refreshing, non-sticky feel and a healthy glow.Free from parabens, phthalates, and artificial fragrances, it\u2019s safe for all skin types.",
+      "\u3010Light to Medium Coverage\u3011: Unveil the perfect fusion of skincare and makeup with our serum foundation. Infused with sunblock and enriched with broad spectrum SPF 50+, it delivers light-to-medium coverage to effectively conceal fine lines, wrinkles, and uneven texture, instantly elevating your complexion.",
+      "\u3010Everyday Lifestyle Companion\u3011: Tailored for your active lifestyle, our sweat-proof foundation is ideal for daily wear, workouts, and dance classes. Free from parabens, phthalates, and artificial fragrances, it suits all skin types, ensuring you exude confidence for any occasion.",
+      "\u3010Waterproof & Sweatproof\u3011 Ideal for daily wear and workouts, this sweatproof foundation suits all skin types, ensuring a flawless, natural appearance that lasts all day."
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0DQNHW439",
+        "title": "2PC 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DQNHW439",
+        "imageUrl": "https://m.media-amazon.com/images/I/71F+97UB7sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DPW916BR",
+        "title": "1PC 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DPW916BR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Mcp12pfGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DPW8LLR5",
+        "title": "Gym 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DPW8LLR5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71fSnCavY0L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.87,
+      "beforePrice": 12.99,
+      "discount": "-24%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "LEIYU JEWELRY",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A15AOR8GLQF2WQ",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/71fSnCavY0L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71fSnCavY0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cIVL-NcaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71RifjtHDCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71LU7kXDj4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TC3pEgn6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Er1NSsh8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MGL20c23L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718FNzjCvPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71HuSd7Um3L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5e4e9d3-b667-4bf4-a123-deac6777a724.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a414ae99-c567-48b8-aab0-63807ba80f0b.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a03433d-31a3-456c-b95c-877a4a40bfdd.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03a98f09-de8f-4d27-aba9-4bf577f4689f.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5edf1a7b-d861-45d8-a4df-db5b032359f0.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d75d2cb6-1930-4178-837f-5a1d5ff9a529.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5e4dddeb-b737-49be-827f-f14782399f57.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/437691b5-8742-4e61-a0e1-afd7423d6af8.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4acfafca-ec2b-4546-9935-2c0a56b336ea.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbf1a47a-db71-44e5-bcae-bd72b0bbe1dc.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9eb28f0d-d814-4882-bad7-c2a807bbe8a4.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77a2d9ec-3b2f-48f9-b567-39ddcbcda5f5.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1818e74-f424-43e5-b14c-21c316b5bbf6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/083dd584-579a-49aa-bd13-380a7ea4145e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e42d702f-545b-49a0-9afc-e7451a9d3384.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11b189f6-d708-4c46-ad2b-7edb9b715d6a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/79d321f0-161d-46ed-8e70-4674bd4274cd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5869a3a4-20f4-4c90-a358-b3e0ed1cef62.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/170a8a12-462e-48ce-8186-631cc45077ac.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b9e41abd-b0b0-4dfe-9310-f5930f78e214.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Gym"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Concealer Cover Cream, Foundation Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "O.SECERT"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Anti-Aging, Anti-Wrinkle, Color Correction"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Teen, Adults"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Colour Changing Foundation, 30ml"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#33,711 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #305 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DPW8LLR5"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Lightweight, Long Lasting, Sweatproof, Travel Size"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.06 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Phthalate Free, Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 615,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "63%",
+        "fourStars": "11%",
+        "threeStars": "8%",
+        "twoStars": "5%",
+        "oneStars": "13%"
+      },
+      "customersSay": "Customers find the foundation ideal for daily use and appreciate its natural look and uniform finish. However, the color match receives mixed feedback, with some saying it easily matches their skin tone while others find it too white. The coverage, texture, application, and blendability also get mixed reviews - while some praise the perfect coverage and lightweight feel, others report it doesn't cover anything and is too light for their skin.",
+      "aspects": [
+        {
+          "aspect": "Daily use",
+          "count": 18,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 29,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 16,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 15,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 12,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 11,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 8,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61ZGmSiDTML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71z47UCi+hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71g5b8z-qCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61eQYiZABWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Y7osjIMbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718VvDbx0aL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ZKgsrXCsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51XxeL9snpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61uCRMU1FbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61++uKPkRhL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61j1SI5+BrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51DuD2JoLxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Natural and very practical coverage",
+          "reviewText": "I was pleasantly surprised by this medium spectrum base. It is ideal for daily use if you are looking for a uniform finish without feeling the skin heavy. \u2022 Multifunctional: By being 4 in 1, it saves a lot of time in tomorrow's routine. \u2022 Texture: It blends easily and leaves a healthy glow on the face. \u2022 Packaging: The dispenser is very hygienic and allows you to take advantage of the product until the end.",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Yehiling magdalena Adri\u00e1n flores",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHKGP3WIMLZMO6WIAERCRBGXIPBA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2PC",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Love it!",
+          "reviewText": "Love it. Gives brightness to the skin under the eyes and the nose area",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "Violeta Roldan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJLFPW3HKZ7JQZPUPCXGGY5SHPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Gym",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Very Disappointing!",
+          "reviewText": "I purchased the medium spectrum color of this product because I am NOT light complexed. My skin tone is a medium color. This product makes me look like a corpse. Way too light!!!! I also do not like the texture of the product and it does not cover blemishes very well. I have requested a return order for this. Very disappointed with my first experience with color-changing makeup.",
+          "reviewDate": "Reviewed in the United States on February 21, 2026",
+          "customer": "Barbara Russell",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGY4SYWUZ7LQHIIE3EMQ42EE5N7A",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "1PC",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Maybe should have ordered darker",
+          "reviewText": "Too light to cover",
+          "reviewDate": "Reviewed in the United States on January 21, 2026",
+          "customer": "Pamela Griggs",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF56RI7USZOKVRDKEGLEFP7BDL3Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Gym",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Lo recomiendo",
+          "reviewText": "Excelente",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Ivelisse",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEMB76ZKSRYLOHIHQ2N2SRUPVLXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Gym",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Low quality",
+          "reviewText": "Not the original! Not as good!",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Viola Rodriguez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF4XCEJP7T3AXCUZ74LGYNBNMMLA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "2PC",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Natural look",
+          "reviewText": "Tivlon foundation works like a miracle to cover dark spots and blemishes. Skin looks healthy and natural and protects with 50 SPF.",
+          "reviewDate": "Reviewed in the United States on March 6, 2026",
+          "customer": "connie dattilo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEIMS6NHHC2WUXHACNDS5LCSNS3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1PC",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "requestMetadata": {
+    "id": "d38c9d6c-5cf0-4f4e-895a-5b65ad06d41f",
+    "status": "ok",
+    "html": "https://files.hasdata.com/d38c9d6c-5cf0-4f4e-895a-5b65ad06d41f.html",
+    "json": "https://files.hasdata.com/d38c9d6c-5cf0-4f4e-895a-5b65ad06d41f.json",
+    "url": "https://www.amazon.com/dp/B0BZQKGZQ3"
+  },
+  "product": {
+    "asin": "B0BZQKGZQ3",
+    "url": "https://www.amazon.com/dp/B0BZQKGZQ3",
+    "title": "Maybelline Super Stay Up to 24HR Skin Tint, Radiant Light-to-Medium Coverage Foundation, Makeup Infused With Vitamin C, 120, 1 Count",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "120",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Super Stay Skin Tint: Introducing our 1st longwear skin tint with Vitamin C. Delivers bright, skin-like light-to-medium foundation makeup coverage. Weightless feeling face makeup, up to 24HR foundation makeup wear. Resists sweat, humidity and fading",
+      "Vitamin C Infused Foundation: Our dewy foundation delivers a natural, radiant finish. Vegan foundation formula brightens skin instantly & overtime. 95% said skin looks healthy. 85.5% said skin looks more radiant. 83.6% said skin tone looks more even",
+      "Everyday Make Up For A Bright, Fresh Look: Available in 18 skin-like shades. Our non comedogenic foundation is dermatologically tested and suitable for sensitive skin. This makeup foundation delivers brighter, healthy-looking skin with every use",
+      "Create any look with Maybelline: foundation, BB creams, concealers, and setting powders for the perfect canvas, eye shadows, mascara, brow pencils, and eyeliners for any eye look and lip products, from matte lipstick to a plumping lip gloss",
+      "Remove Maybelline Makeup With Micellar Water: Use Garnier Micellar Water as a gentle makeup remover at night, and as a facial cleanser in the morning to prep skin for Maybelline makeup"
+    ],
+    "description": "Turn up your skin with Super Stay Up to 24HR Skin Tint! This non-stop power drop is infused with Vitamin C* and creates a bright, natural look that lasts all day. Our vegan formula brightens and delivers beautiful skin-like coverage for a natural, radiant finish. 95 % said skin looks healthy**. Weightless feel. Resists sweat, humidity and fading. Suitable for all skin types, including sensitive skin. Available in 18 shades. *Vitamin C = Vitamin C derivative **In a consumer test. After 4 weeks of daily use. *** Vegan formula: No animal derived ingredients or by-products. Colors can show slight difference when viewed through monitors , phones, other displays , customer perception on colors and what lighting they are in.",
+    "boughtInPastMonth": "3K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BZQL2Y18",
+        "title": "1 Fl Oz (Pack of 1) 118",
+        "url": "https://www.amazon.com/dp/B0BZQL2Y18",
+        "imageUrl": "https://m.media-amazon.com/images/I/71EYDrS1IRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQKQGJ2",
+        "title": "1 Fl Oz (Pack of 1) 129",
+        "url": "https://www.amazon.com/dp/B0BZQKQGJ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71DlpbdNnUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQLZYBR",
+        "title": "1 Fl Oz (Pack of 1) 338",
+        "url": "https://www.amazon.com/dp/B0BZQLZYBR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HxwuqIs0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQLHNR4",
+        "title": "1 Fl Oz (Pack of 1) 312",
+        "url": "https://www.amazon.com/dp/B0BZQLHNR4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71h8ypstg9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQM2Q29",
+        "title": "1 Fl Oz (Pack of 1) 368",
+        "url": "https://www.amazon.com/dp/B0BZQM2Q29",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pp9-hwcEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQMLLZ8",
+        "title": "1 Fl Oz (Pack of 1) 112",
+        "url": "https://www.amazon.com/dp/B0BZQMLLZ8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71MI2KUnWdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQKNSYZ",
+        "title": "1 Fl Oz (Pack of 1) 310",
+        "url": "https://www.amazon.com/dp/B0BZQKNSYZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/714Y8un+hML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQMQLDP",
+        "title": "1 Fl Oz (Pack of 1) 102",
+        "url": "https://www.amazon.com/dp/B0BZQMQLDP",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+UkVszjLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQM9K48",
+        "title": "1 Fl Oz (Pack of 1) 322",
+        "url": "https://www.amazon.com/dp/B0BZQM9K48",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zkWfixcVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQLQDNG",
+        "title": "1 Fl Oz (Pack of 1) 355",
+        "url": "https://www.amazon.com/dp/B0BZQLQDNG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WqrIC+GsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQKR6K2",
+        "title": "1 Fl Oz (Pack of 1) 110",
+        "url": "https://www.amazon.com/dp/B0BZQKR6K2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71XsxhznpQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQM44F7",
+        "title": "1 Fl Oz (Pack of 1) 220",
+        "url": "https://www.amazon.com/dp/B0BZQM44F7",
+        "imageUrl": "https://m.media-amazon.com/images/I/71r1BXcG2aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQLSTSS",
+        "title": "1 Fl Oz (Pack of 1) 330",
+        "url": "https://www.amazon.com/dp/B0BZQLSTSS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Ad--zv7IL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQKNJ5T",
+        "title": "1 Fl Oz (Pack of 1) 374",
+        "url": "https://www.amazon.com/dp/B0BZQKNJ5T",
+        "imageUrl": "https://m.media-amazon.com/images/I/71by5l5PZsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQKNYK1",
+        "title": "1 Fl Oz (Pack of 1) 375",
+        "url": "https://www.amazon.com/dp/B0BZQKNYK1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Ud-fofs+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQN9645",
+        "title": "1 Fl Oz (Pack of 1) 130",
+        "url": "https://www.amazon.com/dp/B0BZQN9645",
+        "imageUrl": "https://m.media-amazon.com/images/I/71r-Sqvx4sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQMBMFK",
+        "title": "1 Fl Oz (Pack of 1) 372",
+        "url": "https://www.amazon.com/dp/B0BZQMBMFK",
+        "imageUrl": "https://m.media-amazon.com/images/I/719mE957wCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BZQKGZQ3",
+        "title": "1 Fl Oz (Pack of 1) 120",
+        "url": "https://www.amazon.com/dp/B0BZQKGZQ3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71J1tR6fZ7L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 13.98,
+      "beforePrice": 17.99,
+      "discount": "-22%",
+      "priceFrom": 13.98,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Friday, April 3",
+    "primeMemberDeliveryIsoDate": "2026-04-03T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "Non-returnable. Transportation of this item is subject to hazardous materials regulation",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/71J1tR6fZ7L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71J1tR6fZ7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HIH-IBx7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sENQ+wsqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pzwHu49+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/917cKsZq4TL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8183K1mxETL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3293e007-dfab-4295-a51d-0895178be161.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5b2ece7-1072-4d8a-93b8-af97b97c5c83.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8850555d-be3f-402a-b423-c8b7588a88e9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5110fcc1-4137-41e2-8f19-ee15f1d2914b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ce772da-15b8-4e46-affe-28ee0569224f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b870452a-645b-4d05-add4-c3da93278bc3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/427d7aab-e0a7-4d49-8e42-d068a3d76868.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee737310-cb7c-4fd5-b52b-d01fed36140e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/51151c19-e214-4557-8e3f-2fc2e14a8075.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/73b0996a-1a30-42a6-ba6d-6d9b821abd9a.__CR0,71,375,422_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54b8c57b-d495-463c-b7d2-a6752bd92076.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3efaa34e-7718-4628-a5a4-f76afe5c72f5.__CR0,0,200,225_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9cb8656-0948-43b4-929e-9d9bce443a81.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4afc0633-e42a-4323-ba77-e2ed300b4a9d.__CR0,0,200,225_PT0_SX200_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f6d4ec15-67ff-4ef0-b07a-60521e5f3e94.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ac9caabd-ac58-4803-b10f-59ea5e32503d.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "120"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MAYBELLINE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Long-lasting wear, natural radiant finish, brightening effects, vegan formula, suitable for all skin types, including sensitive skin"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Vegan"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "UPC",
+        "value": "041554083781"
+      },
+      {
+        "key": "Model Number",
+        "value": "0041554083781"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "0041554083781"
+      },
+      {
+        "key": "Warranty Description",
+        "value": "[Not Applicable]"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Maybelline New York"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,654 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #21 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BZQKGZQ3"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Non Comedogenic,Radiant"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "4.05 x 1.34 x 4.05 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "No Animal Derived Ingredients"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 6086,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "73%",
+        "fourStars": "13%",
+        "threeStars": "7%",
+        "twoStars": "3%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this foundation provides medium to buildable coverage that evens out skin tone and gives a natural, flawless look. The product is long-lasting, with one customer noting it stays on even during a 2-hour massage, and they appreciate its lightweight formula that doesn't feel heavy on the skin. They like its moisturizing properties, with one mentioning it works well for dry skin, and its blendability, particularly when using brushes or sponges.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 343,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin tint",
+          "count": 285,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 247,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 237,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 214,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 182,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 178,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 135,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71ISTGetMAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61bTQ7MezjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71VBfnnaurL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71810fmoQsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/712NcIkfoiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wDF5pjGJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71OCu+y8imL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71s+fIH9K8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61mgA2+IhoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/714f3tRjXgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61RKsSwMRWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61CyrR9ssVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Flawless Coverage That Truly Lasts All Day!\u201d",
+          "reviewText": "Coverage: Maybelline Super Stay Up to 24HR Foundation delivers full coverage without feeling heavy or cakey. It effectively conceals blemishes, redness, and uneven skin tone, leaving you with a flawless, matte finish. A little goes a long way, so you only need a small amount to cover your entire face. This foundation does an excellent job of creating a smooth, even canvas, making it perfect for those who prefer a more polished look. Longevity: True to its name, this foundation stays put for up to 24 hours without breaking down or fading. I\u2019ve worn it through long workdays, sweaty workouts, and even in humid weather, and it still looked fresh at the end of the day. It\u2019s transfer-resistant, which means it won\u2019t rub off on your clothes or phone, and it doesn\u2019t require constant touch-ups. Finish: The finish is matte but not flat, giving your skin a natural, healthy look. It\u2019s great for those with oily or combination skin, as it helps to control shine throughout the day. However, it\u2019s also suitable for dry skin when paired with a good moisturizer or hydrating primer. The foundation sets beautifully on the skin, and it doesn\u2019t settle into fine lines or pores. Application: The formula is easy to work with, blending seamlessly whether you\u2019re using a brush, sponge, or your fingers. It dries relatively quickly, so it\u2019s best to work in sections to ensure an even application. Once it\u2019s on, it doesn\u2019t budge, so you can be confident that your makeup will stay in place all day. Shade Range: Maybelline offers a wide range of shades in the Super Stay line, making it easier for people of all skin tones to find a match. The shades are well-balanced with various undertones, so you\u2019re likely to find a color that suits your complexion perfectly. Packaging: The foundation comes in a sturdy glass bottle with a pump dispenser, making it easy to control how much product you use. The pump design is hygienic and minimizes waste, while the bottle itself is sleek and travel-friendly. Value for Money: For the quality and performance, Maybelline Super Stay Up to 24HR Foundation offers excellent value. It performs just as well as some high-end foundations, but at a fraction of the cost. It\u2019s a great option for anyone looking for a long-lasting, full-coverage foundation that won\u2019t break the bank. Conclusion: Maybelline Super Stay Up to 24HR Foundation is a fantastic choice for anyone who needs their makeup to last from morning to night. It provides full coverage, a beautiful matte finish, and long-lasting wear without feeling heavy or uncomfortable. Whether you have a busy day ahead or a special event, this foundation has you covered. Highly recommended for those seeking an affordable, high-performance foundation that delivers on its promises!",
+          "reviewDate": "Reviewed in the United States on August 24, 2024",
+          "customer": "Tisha",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJ2RSCEHGCVEWIWQQJPHQRZAJFA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110"
+          },
+          "helpfulVotes": "60 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice coverage and skin like finish",
+          "reviewText": "I found the perfect shade for me and the formula is so easy to blend while providing nice coverage. It\u2019s not too thick and not too sheer. Leaves a nice skin like finish also, not cakey or too Dewey. Perfect everyday makeup to wear to the office or on weekends. I feel like I\u2019m not wearing anything at all but I still have enough coverage from redness and acne scars and brown spots. Love it! In this video, I\u2019m wearing shade 120 with a little blush.",
+          "reviewDate": "Reviewed in the United States on March 9, 2026",
+          "customer": "Chan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGIROOK2A4QVHB7CSM6TJXIU5G7A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "120"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best foundation I have found in a while!",
+          "reviewText": "This is just what I was looking for. The foundation I was using for years was no longer working for my slightly aging skin, and I decided I wanted to try something lighter with just a tint to bring my face back to life without being cakey. A little of this goes a long way and stays all day for me unless I am doing something that really makes me sweat, but I have never found a foundation that could combat that before anyways. I was so suprised that I chose the right color as well. I feel like that can be impossible online sometimes. Another note, it does not have the orange undertones that a lot of foundations do these days. I don\u2019t notice a strong smell when using it, and I find that using my fingers works perfectly find and then I just lightly pat it in when I am done. A nice setting powder overtop, and I am good for the day. You also can not beat the price!",
+          "reviewDate": "Reviewed in the United States on March 13, 2026",
+          "customer": "Justin Maggio",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHVC5WZXW4GF7SMQIAK2TUUAHF7Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "102"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not cakey, goes on smooth",
+          "reviewText": "I found the tint to go on smooth and even. I like the way it looks and feels. It is not thick and it does not cake. It is easy to apply. The color is right. It does not dry out my face. It does not settle in fine line and wrinkles after powder is applied. I can layer it when needed over troubled spots. I found the quality good of the product. The value is affordable. It is long lasting. Yes, I would recommend this product.",
+          "reviewDate": "Reviewed in the United States on February 11, 2026",
+          "customer": "P.A.M.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFCF7JNGRSWNPJJPHWC4WZLU532Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "220"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Give it a try. Good foundation for your money",
+          "reviewText": "I am super picky about foundations because I have very sensitive skin. A lot of foundations break me out, or give me a rash. So when I find one I like I stick with it. I am a making loving girly. So I had tried TONS of foundations. I was using haus labs for a long time now, but it\u2019s pricey. So I was on the hunt to find something I could buy to wear in the daily that won\u2019t break the bank. I have been using this since I bought it and I love it. I have light neutral skin and sometimes stuff ends up looking orange on me. Even neutral colored ones. But this does not. It matches my skin. It doesn\u2019t feel heavy on your skin but gives good coverage. I always apply mine with a beauty blender. The smell isn\u2019t great, smells like a typical drug store foundation. But it\u2019s not over powering or anything. You can build it up if you want as well. It doesn\u2019t feel greasy, yet it\u2019s not matte either. It feels more hydrating. I have oily skin and don\u2019t have issues with it. It\u2019s super easy to apply and goes on smooth. I\u2019m glad I tried it. I will buy it again when I run out?",
+          "reviewDate": "Reviewed in the United States on December 21, 2025",
+          "customer": "Amanda Richter",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFRU7C24PX7EDQCOLVPIDPICR7HQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "120"
+          },
+          "helpfulVotes": "30 people found this helpful"
+        },
+        {
+          "reviewTitle": "MY GO TO. WONT USE ANYTHING ELSE. EVER.",
+          "reviewText": "THE BEST: my go to. This is the only foundation skin tint I will use. It\u2019s not foundation but it has coverage of one. It\u2019s not sticky when it drys but it\u2019s not matte either. It\u2019s glowy and perfect. I am 33 and my skin is aging so the key is, do NOT use powders over liquids unless you\u2019re a pro. My advice is to use all liquid products & then set. I never use powders and I have NO ISSUES with separating. It looks like my skin and never settles into lines. I LOVE IT. I got a lighter shade to use as a conceal because it\u2019s the only product that actually works for me. They better NEVER get rid of this. Despite my pictures I do struggle with nasal folds. I got some work on them recently so it does look a lot better but this is the ONLYY makeup face product that I use. I have tried every single one almost. Even the super expensive ones don\u2019t compare to this. I also think it works for ALL ages. Which is amazing. Just get it and DONT listen to any bad reviews. They prob used powder over it. I use avene cicalfate cream with it. I don\u2019t usually use primer and have no issues. When I do use primer I use the milk hydro but not the green one!! The glowy one they have. I HATE the green one. It makes my makeup fall apart. In my pics I have no powder on with my makeup. It always ruins it. I wanted to explain what I use with this product because I think that that\u2019s extremely important. It\u2019s hard to find products that work with certain things. Anyway, buy it !! you will not regret it.",
+          "reviewDate": "Reviewed in Canada on February 21, 2026",
+          "customer": "Emily",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "118"
+          }
+        },
+        {
+          "reviewTitle": "Glowy, great for dry skin, light-medium PERFECT everyday foundation",
+          "reviewText": "This foundation is truly a standout product in the world of cosmetics, especially for those with dry skin. As a makeup artist with over 18 years of experience, I've tried countless foundations, but this one has quickly become my everyday go-to. It offers a beautiful medium coverage that expertly balances between covering imperfections and maintaining a natural, skin-like finish. Infused with Vitamin C, it not only enhances your complexion but also provides a subtle, healthy glow that mimics real, radiant skin. The formula is remarkably easy to blend, making application a breeze even on the busiest of mornings. Its luminous finish ensures that your skin looks fresh and dewy all day long. For anyone seeking a foundation that delivers both performance and a natural, glowing look, Maybelline's Skin Tint Foundation is a must-try.",
+          "reviewDate": "Reviewed in Canada on February 17, 2026",
+          "customer": "LB threads - Lindz McBee",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110"
+          }
+        },
+        {
+          "reviewTitle": "Your Secret to Effortless, Flawless Skin!",
+          "reviewText": "Experience the magic of flawless skin with Maybelline New York Super Stay Up To 24H Skin Tint Foundation! This innovative foundation has become my go-to for achieving a natural, radiant complexion that lasts all day. The first thing that caught my attention about this foundation is its lightweight, skin-like coverage. Unlike heavy, cakey foundations, the Maybelline Skin Tint blends seamlessly into my skin, providing just the right amount of coverage to even out imperfections while still allowing my skin to breathe. It feels like a second skin, effortlessly enhancing my natural beauty without looking or feeling heavy or mask-like. One of the standout features of this foundation is its impressive longevity. True to its name, the Super Stay formula ensures that my makeup stays put for up to 24 hours, without the need for constant touch-ups. Whether I'm running errands, attending meetings, or enjoying a night out, I can trust that my skin will look fresh and flawless from morning until night. Another thing I love about this foundation is its versatility. The buildable coverage allows me to customize my look according to my preferences, whether I want a sheer, natural finish for everyday wear or a more polished look for special occasions. Plus, the wide range of shades ensures that there's a perfect match for every skin tone, making it inclusive and accessible for all. I also appreciate the convenient packaging of this foundation. The sleek tube design is travel-friendly and mess-free, making it easy to take on the go for quick touch-ups throughout the day. Plus, the pump dispenser ensures hygienic application and prevents product waste, allowing me to get the most out of every drop. In conclusion, Maybelline New York Super Stay Up To 24H Skin Tint Foundation is a game-changer for anyone seeking effortless, flawless skin. Its lightweight, long-lasting formula, customizable coverage, and inclusive shade range make it a standout choice for achieving a natural, radiant complexion that lasts. Say hello to your new beauty essential \u2013 with Maybelline Skin Tint, flawless skin is just a pump away!",
+          "reviewDate": "Reviewed in Canada on March 20, 2024",
+          "customer": "madhumati roy",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "220"
+          }
+        },
+        {
+          "reviewTitle": "Love it",
+          "reviewText": "One of the best tent foundation I really recommend it \ud83d\udc4d\ud83c\udffb\ud83d\ude0e\ud83e\udd70",
+          "reviewDate": "Reviewed in Saudi Arabia on November 9, 2024",
+          "customer": "Maram Almilhim",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "220"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "requestMetadata": {
+    "id": "aa978e01-1b72-4c13-ae37-4097f00a26b5",
+    "status": "ok",
+    "html": "https://files.hasdata.com/aa978e01-1b72-4c13-ae37-4097f00a26b5.html",
+    "json": "https://files.hasdata.com/aa978e01-1b72-4c13-ae37-4097f00a26b5.json",
+    "url": "https://www.amazon.com/dp/B0BNPZ6N2Y"
+  },
+  "product": {
+    "asin": "B0BNPZ6N2Y",
+    "url": "https://www.amazon.com/dp/B0BNPZ6N2Y",
+    "title": "IS'MINE White Liquid Foundation Makeup, Matte Flawless Finish Foundation, Vegan & Cruelty-Free (1.05 Fl Oz, 041)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1.05 Fl Oz (Pack of 1)",
+      "color": "041"
+    },
+    "featureBullets": [
+      "Color: White (Liquid foundation, face & body paint), net weight: 30g/1.05 fl.oz",
+      "Texture: liquid, which makes apply smooth and easy, feel light during the whole day, very easy to apply on face or on body, mostly easy to remove to protect your skin.",
+      "Suitable: suit for all skin, but more suitable for combination or oily skin to control oil absorption and shine.",
+      "Long Lasting: suggest to use a makeup powder or setting spray for makeup setting, so it will be long lasting and prevent makeup loss.",
+      "Occasion: Suitable for cosplay or halloween, stage makeup, clown makeup or any other occasion you will need white, special FX products.",
+      "Notice: This bottle is a vacumn pump bottle, so there is no straw as other ordinary bottle, need to press several times to push the air out first, then the liquid will come out. No need tube going down into the product to suck it up into the pumper like ordinary bottle. All bottle is without tube, not few poor assembly, Kindly notice."
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0D661WMFN",
+        "title": "0.5 Fl Oz (Pack of 1) 041",
+        "url": "https://www.amazon.com/dp/B0D661WMFN",
+        "imageUrl": "https://m.media-amazon.com/images/I/612u61vmGwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNPZ6N2Y",
+        "title": "1.05 Fl Oz (Pack of 1) 041",
+        "url": "https://www.amazon.com/dp/B0BNPZ6N2Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z2uThCcxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CG1516ML",
+        "title": "1.05 Fl Oz (Pack of 1) 042",
+        "url": "https://www.amazon.com/dp/B0CG1516ML",
+        "imageUrl": "https://m.media-amazon.com/images/I/61E+-9rhE9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D65ZD272",
+        "title": "0.5 Fl Oz (Pack of 1) 045",
+        "url": "https://www.amazon.com/dp/B0D65ZD272",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CUXBMPjnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D65LF8ZH",
+        "title": "0.5 Fl Oz (Pack of 1) 043",
+        "url": "https://www.amazon.com/dp/B0D65LF8ZH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ygx5JqTXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DCYGRB8H",
+        "title": "0.5 Fl Oz (Pack of 1) 042",
+        "url": "https://www.amazon.com/dp/B0DCYGRB8H",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EP8Z2FGSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D5YCG1QJ",
+        "title": "1.05 Fl Oz (Pack of 1) 045",
+        "url": "https://www.amazon.com/dp/B0D5YCG1QJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lNO2Eg0LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D5YCQFT4",
+        "title": "1.05 Fl Oz (Pack of 1) 043",
+        "url": "https://www.amazon.com/dp/B0D5YCQFT4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xUiXdKi0L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.99,
+      "beforePrice": 9.99,
+      "discount": "-10%"
+    },
+    "condition": "Regular Price",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "30-day refund / replacement",
+    "seller": "IS'MINE",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2SBBCOXPFYGQW",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51Z2uThCcxL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51Z2uThCcxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71zc0H8Q7AL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61wQTWtSeML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81V3R+c3LWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41zirxc1xmL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71F8U+ijBkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51Pri+w4HoL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0bf68629-dc18-401b-b750-85ce1207cc43.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/45802dfd-5074-4fe1-a7c0-36da84216fae.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e6bffa0-f73c-4dc9-a6e1-0c5645f2747b.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2c30313c-6a6a-42c3-9021-c7547b866a72.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2569a4eb-0c0e-4479-8e85-eb5e11f01169.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a5aa0a6-df67-4fc2-b75c-f2f3efc46901.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7f406fc3-d21c-4977-aa23-165635b30861.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9eb446af-5970-426f-a8a0-6e9188eeaa8d.__CR0,0,600,1200_PT0_SX150_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ee70775f-9ad0-45fe-b51a-44d25fec432e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02812952-4ac4-4f2a-adb3-45ec67d6d85d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4ec8d5db-8211-413b-b720-bf8e85a8c37b.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "041"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "IS'MINE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "White"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Cruelty Free, Vegan"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Model Number",
+        "value": "LF5"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "LF5"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "IS'MINE"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#43,806 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #383 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BNPZ6N2Y"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Control Oil,Cruelty Free,Cruelty-free,Lightweight,Matte"
+      },
+      {
+        "key": "Finish Types",
+        "value": "translucent"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.15 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.3 x 4.92 x 1.3 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.05 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 680,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "64%",
+        "fourStars": "16%",
+        "threeStars": "9%",
+        "twoStars": "4%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find this foundation amazing for cosplay, with good coverage that works well even on darker skin tones. Moreover, the product lasts all day and is shockingly good for its price. However, the application and texture receive mixed feedback - while many say it applies smoothly and has a smooth texture, one customer notes it becomes cakey.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 51,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 47,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 44,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pigmentation",
+          "count": 43,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 25,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 19,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 37,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 23,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61FlAaEJk2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+Y5+sW+uL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61nYoGIrZbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-39zXAbJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71isz1bGvsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61wu7u+EkEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51IMD06NbFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61oGqYiTdmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/710HwX+xvRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61+TRqEnjdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+vm76Rq7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71W+y4MBdOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "SENSORY ISSUE GOTHS. LISTEN TO ME.",
+          "reviewText": "so i never leave reviews HOWEVER this was so good i just had to let the world know.. i pair this with a white blurring setting powder and it's actually so life changing as an autistic person who loves doing creative makeup looks.. i've been looking for a white foundation that is sensory friendly, long lasting, decent quality at least, and affordable. this is ALL OF THAT. as i write this i'm wearing it and have been for the last 22 hours. it still look as it did when i put it on. it feels like i'm wearing nothing at all, unlike so many other white foundations and face paints.. so many feel heavy and you can just FEEL it on your face but not this one, this one is so lightweight i forget i'm wearing anything. it barely transfers, i could touch my face and it wouldn't get on my hands. and if you've used these kinds of things before you know pure white in general tends to look cakey no matter what.. but this is the first time i've used one where it didn't look cakey at all, it was so smooth looking especially with the setting powder.. it functioned as a normal lightweight foundation would. so pigmented.. it didn't melt out in the hot sun.. and with setting powder it dries completely. i can not recommend this enough i adore this foundation SO MUCH.",
+          "reviewDate": "Reviewed in the United States on June 13, 2025",
+          "customer": "rose",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFDHDUPHZA2EMSTSOWRFNRYV2PBQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Fl Oz (Pack of 1)",
+            "color": "041"
+          },
+          "helpfulVotes": "61 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great white foundation!",
+          "reviewText": "Fantastic white base! I bought this on a whim because I needed it for last minute dis de los muertos looks and it preformed amazing! I prepped our skin with very hydrating products and use the nyx glue primer and it was a perfect base for this foundation and lasted all night for us and didn\u2019t crack or separate. Blended really well and layered easily.",
+          "reviewDate": "Reviewed in the United States on October 19, 2025",
+          "customer": "Rebekah",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGG6ZZ3HZKMLS3UBJOXZ5ARTYXUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Fl Oz (Pack of 1)",
+            "color": "041"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "White white but lowkey crusty",
+          "reviewText": "It works pretty well, it layers well and I usually only do 1 or 2 layers for my face to be completely white. It's not thick and I don't feel it on my face, it's easy to wash off too and doesn't stain or anything. I'm not sure if this is a problem on my end with my primer or setting powder, but it does crust and pick up around the nose or on the nose during just the first hour of use.",
+          "reviewDate": "Reviewed in the United States on January 13, 2026",
+          "customer": "Hannah",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXIYM7GPIZ4Z7DWS4XMGGS62G4A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1.05 Fl Oz (Pack of 1)",
+            "color": "041"
+          }
+        },
+        {
+          "reviewTitle": "*~>> THE UNICORN OF WHITE FOUNDATION!! <<~*",
+          "reviewText": "Seeing is believing. I went in blindly. I trusted the positive reviews. #WINNING!!! This foundation is a miracle! As a stage actor, makeup artist and cosplayer, I am beyond astounded by this amazing Amazon find. Paired with a white setting powder, this base foundation looks and feels too good to be true. It goes on silky and smoooooooth!! Not like traditional stage makeup. It\u2019s like wearing a daily but far more dramatically!! Its staying power is incredible!! It set on my face without melting, flaking, drying out my skin\u2026 even under various lighting, in a hot room, sweating for 6+ hours!! (See posted pic) Note, outcome may have been due to use in combination a clean face, moisture, setting spray and primer. Also, don\u2019t judge the pic too harshly, I\u2019m over 50 and the fact it didn\u2019t flake or settle into the various laugh lines and crows feet makes me want to replace everyone\u2019s white base makeup with this one!! Even upon removal, my skin was no worse for wear! It was unbelievably easy to remove, didn\u2019t dry out my skin sensitive skin. It did not cause any break outs, rashes or other terrible possible outcomes. You know!! Things one might commonly associate with such a seemingly random bit of makeup. I\u2019m a new forever fan. If this stuff turns out to be made from tears of a thousand virgin white mythical unicorns, I would still wear it and no! I\u2019m not condoning any animal cruelty! If it\u2019s a knock off\u2026?? Honestly it wouldn\u2019t matter! This stuff is the answer to anyone seeking a liquid white foundation!! (NO I WAS NOT BRIBED TO TYPE THIS!!)",
+          "reviewDate": "Reviewed in the United States on November 6, 2025",
+          "customer": "Krys Zorbaugh",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFWO5XZOXVYNK5E6Z5ARVRUHPKCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Fl Oz (Pack of 1)",
+            "color": "041"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing!",
+          "reviewText": "Great coverage and a lot of product. I\u2019m wearing it right now. Light feeling on the face I can\u2019t only really feel it when it\u2019s super layered or on the middle of my fore head where I wrinkle most. Other makeup goes on top great. It does show a decent amount of my skin texture but it\u2019s not that bad and you can\u2019t tell from far so I don\u2019t mind. My favorite non expensive white foundation I\u2019ve tried so far. Better than any Halloween makeup foundations. Also not irritating which is amazing because regular foundation irritates me. Try it now!",
+          "reviewDate": "Reviewed in the United States on November 20, 2025",
+          "customer": "Bailie Conley",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AERPUMJDVOYEAGFHKAIQYIIVELRA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Fl Oz (Pack of 1)",
+            "color": "041"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Not for realistic wear",
+          "reviewText": "Not great if you're wanting it as actual foundation. I've tried it twice, using different methods to apply and both times it becomes cakey and overall doesnt last. Almost seems to come off as you're applying makep onto it. Luckily I was just getting it as a costume makeup so it didn't matter that much but even so, I wouldn't use it again. It also has a weird paint smell, which for something labled \"foundation\" i didnt expect.",
+          "reviewDate": "Reviewed in the United States on October 31, 2025",
+          "customer": "Atasha",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHRCW62RDLPADXAUKT4A3IE3WIQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "1.05 Fl Oz (Pack of 1)",
+            "color": "041"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "White Foundation Makeup",
+          "reviewText": "I bought the white liquid foundation to use for cosplay. The bottle wasn\u2019t real small like some other brands you buy. The make up went on her face smoothly and dried nicely. The foundation came off her face easily. The foundation covered well and did not flake. I definitely will buy this product again. The foundation came quickly and was packaged well.",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "Kathy Conner",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4EW7SUKWBYSNDHTKFZBGUQ4BCA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Fl Oz (Pack of 1)",
+            "color": "041"
+          }
+        },
+        {
+          "reviewTitle": "Feels and looks like paint",
+          "reviewText": "I tried to use this foundation and found it really terrible. It did not blend into my skin color. It just sat on my face as white and felt like paint. Additionally the stem part of the pump was lost in the bottle or not there so I had to open the bottle to use the product. I do not recommend this at all. I am returning this item.",
+          "reviewDate": "Reviewed in the United States on November 16, 2025",
+          "customer": "Laura Yvonne Bonard",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEUG66B7MZAOYQSWKHQ3STM444KQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "1.05 Fl Oz (Pack of 1)",
+            "color": "041"
+          }
+        }
+      ]
+    }
+  }
+}

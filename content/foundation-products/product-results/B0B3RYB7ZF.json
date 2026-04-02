@@ -1,0 +1,261 @@
+{
+  "requestMetadata": {
+    "id": "d505dd20-52c2-4568-8a15-7b9c327ba2c5",
+    "status": "ok",
+    "html": "https://files.hasdata.com/d505dd20-52c2-4568-8a15-7b9c327ba2c5.html",
+    "json": "https://files.hasdata.com/d505dd20-52c2-4568-8a15-7b9c327ba2c5.json",
+    "url": "https://www.amazon.com/dp/B0B3RYB7ZF"
+  },
+  "product": {
+    "asin": "B0B3RYB7ZF",
+    "url": "https://www.amazon.com/dp/B0B3RYB7ZF",
+    "title": "The Four Foundations of Golf: How to Build a Game That Lasts a Lifetime",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "format": "Paperback"
+    },
+    "features": {
+      "book1Of2": "The Foundations of Golf",
+      "printLength": "422 pages",
+      "language": "English",
+      "publicationDate": "June 17, 2022",
+      "dimensions": "6 x 0.96 x 9 inches",
+      "isbn13": "979-8986444208"
+    },
+    "description": "#1 Amazon Golf Book Best-SellerLower Your Scores, Increase EnjoymentAre you struggling to take your golf game to the next level? Learn the philosophy that has helped thousands of players worldwide lower their scores and improve their relationship with golf.Swing tips come and go, but foundational golf skills last forever. Whether you are a complete beginner or an advanced player, The Four Foundations of Golf will give you the blueprint to build a stronger, longer-lasting game. This is not your typical, fluffy golf guide that leaves all the important details out.Since 2015, Practical Golf has been one of the top online game-improvement resources for golfers. Jon Sherman has written hundreds of articles, sharing his perspective as a \u201cplayer-coach.\u201d You can finally get all of the methods he\u2019s used to become a scratch golfer and coach other golfers in one complete guide.Every golfer wants to know the secrets to golf. But they are always looking in the wrong places. There are four foundations to building a successful game - expectation management, strategy, practice, and a sharp mental game. In each of these sections, you will receive tangible and actionable advice.In this book, you will learn how to:\u2022 Become a happier, more fulfilled golfer through expectation management\u2022 Understand how scoring truly occurs and use modern data analytics to lower your handicap efficiently\u2022 Learn a strategic framework a golfer of any level can quickly adopt - pick smarter targets with every club in your bag and watch your scores drop overnight\u2022 How to practice efficiently. Get detailed, step-by-step instructions on methods that will increase your skills and finally transfer your practice range game to the course\u2022 Improve your swing without thinking about your technique\u2022 The secrets to increasing your distance used by touring pros and elite amateurs\u2022 Use statistics to customize your practice sessions and strategy\u2022 Learn mental techniques to calm yourself, build routines, and stand over the ball with more confidence\u2022 And much, much moreFinally, you will no longer have to feel like you are lost and alone in your golf game. The Four Foundations will teach you how to be your own coach, and not waste time on methods that don\u2019t work. Stop listening to your friend\u2019s questionable tips and learn what all the greats have figured out.If you like detailed, straightforward information with plenty of examples, you will love this book. It will reshape how you think about golf entirely and give you the tools and strategies to transform your entire game.",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Books",
+      "Sports & Outdoors",
+      "Coaching",
+      "Golf"
+    ],
+    "variants": [
+      {
+        "asin": "B0B4FDYTD3",
+        "title": "Kindle",
+        "price": "$9.99",
+        "url": "https://www.amazon.com/dp/B0B4FDYTD3"
+      },
+      {
+        "asin": "B0BKCBRSH5",
+        "title": "Audiobook",
+        "price": "$0.00",
+        "url": "https://www.amazon.com/dp/B0BKCBRSH5"
+      },
+      {
+        "asin": "B0B3RCFYCL",
+        "title": "Hardcover",
+        "price": "$39.99",
+        "url": "https://www.amazon.com/dp/B0B3RCFYCL"
+      },
+      {
+        "asin": "B0B3RYB7ZF",
+        "title": "Paperback",
+        "price": "$16.43",
+        "url": "https://www.amazon.com/dp/B0B3RYB7ZF"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 16.43,
+      "beforePrice": 27.99,
+      "discount": "-41%",
+      "priceFrom": 9.97,
+      "otherOfferQuantity": 30
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 12 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 2,
+    "primaryImage": "https://m.media-amazon.com/images/I/61AhSwX-UwL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61AhSwX-UwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61W8CDz7Q3L._SL1360_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/kdp/c82f23b7-5eb9-4d6b-be6c-d659d07b69f3.__CR0,0,5000,3093_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/kdp/6bc3bfc1-2903-4f39-b799-4219ef6f4552.__CR0,0,5000,3093_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/kdp/cb187241-db84-4adc-8e46-94fd031d29ad.__CR0,0,5000,3093_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/kdp/ae4e4630-71f7-4701-9d96-75896807c129.__CR1,0,4999,1546_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 4,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d0a64306-83f3-43fe-9559-80c188003cb2.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d0a64306-83f3-43fe-9559-80c188003cb2.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/de92f531-e8d3-4feb-80c6-7a5aea04f205.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/205c3594-5e85-4863-93c8-cfa97da8b604.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/352dfd35-0502-42d5-ae41-12a0fef6f46f.mp4/productVideoOptimized.mp4"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2727,
+      "rating": 4.7,
+      "starRates": {
+        "fiveStars": "80%",
+        "fourStars": "15%",
+        "threeStars": "3%",
+        "twoStars": "1%",
+        "oneStars": "1%"
+      },
+      "customersSay": "Customers find this golf book to be an amazing resource that provides effective advice for players of all levels, with easy-to-digest chapters and straightforward language. They appreciate how it helps improve enjoyment on the course, with one customer reporting a 100% improvement in their rounds. The book breaks down the game in a simple, step-by-step process, helping players manage their game and improve their mental approach to the sport.",
+      "aspects": [
+        {
+          "aspect": "Content",
+          "count": 276,
+          "status": "positive"
+        },
+        {
+          "aspect": "Practical",
+          "count": 199,
+          "status": "positive"
+        },
+        {
+          "aspect": "Enjoyment",
+          "count": 74,
+          "status": "positive"
+        },
+        {
+          "aspect": "Readability",
+          "count": 54,
+          "status": "positive"
+        },
+        {
+          "aspect": "Simplicity",
+          "count": 50,
+          "status": "positive"
+        },
+        {
+          "aspect": "Game improvement",
+          "count": 39,
+          "status": "positive"
+        },
+        {
+          "aspect": "Mental",
+          "count": 39,
+          "status": "positive"
+        },
+        {
+          "aspect": "Writing style",
+          "count": 28,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71TVRzCqASL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/710HlS2JhAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71usKo1-tcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71GZ4RqrLcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71On3Lo67zL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71u+90T0KnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61VyzpNauvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/617epknZpoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71om2TIFM5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Tfbd6PnhL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/513TkZ+1MLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/512Wz6Rmh2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Absolute Must Read for All Golfers",
+          "reviewText": "Jon Sherman\u2019s Four Foundations of Golf An absolute must-read for any golfer of any level. I\u2019m in my early 40s and wish a mentor, coach, or my dad had put a book like this in front of me when I was 9 years old (albeit the data Jon references was not available in the 1990s, but you get the point). I read the book from cover to cover over a few weeks. I made notes in line, tabbed the pages, and transferred many of Jon\u2019s strategy, practice, and mental game notes to my on-course reference book (Jon\u2019s book is slightly too large to carry on course). My three sons will read this book, specifically Part One: Managing Expectations. While you can reference specific areas of Jon\u2019s book directly without issue, I highly recommend you read Part 1 first. This section, along with the work of many of Jon\u2019s references, showed data and educated or corrected me on defining: what is a good golf shot, what is a good round, and setting realistic performance expectations. Part 1 is applicable beyond golf (as is the Mental Game, Part 4). Jon accomplishes exactly what he set out to do with his writing, which is to 1) spell things out clearly with little room for interpretation and 2) communicate in a simple and straightforward manner. Jon does not bog you down with technical aspects of the swing or other technical deep dives. He focuses on developing skill and transferring that skill to the course with Strategy (Part 2), including course management, proximity, shot patterns, course study, pre- and post-shot routines, and mental analysis. Finally, Jon is approachable and a credible teacher. He provides numerous other resources to build upon the material in his book. Jon also quickly responded with generosity to a personal request. I cannot recommend this book and Jon\u2019s online resources enough. 5 stars.",
+          "reviewDate": "Reviewed in the United States on February 12, 2023",
+          "customer": "Matt Carducci",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHAVDOV7B6V6QIKZAAJDUJ3VYNWQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Paperback"
+          },
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "The simplest way to think about how to play/practice and set expectations",
+          "reviewText": "I'll start off first - this was one of the easiest books to read. I read it in just under 9 hours total. Short chapters, succinct thoughts to take away, and the beauty is at the end of each chapter there are bulleted takeaways you can quickly revisit. I imagine this will be great for going back and reviewing later on. Second, it really was nice to hear Jon's thoughts about all aspects of golf, particularly I enjoyed the gambler mentality and the course management sections. All of his knowledge is backed by hard data, and examples, and I like that he gives examples of pros, scratch golfers, 5 handicap, 10 handicap, and golfers that shoot 90 or 100. Really simple mindsets to take to the course. Lastly, when it comes to expectations - he sets not only the appropriate data for all skill levels to take away, but lays it out in such a way that you can have a plan, and take it to the course and not beat yourself up. Obviously we all golf to have fun, and by setting expectations through Jon's lessons and mindset it definitely seems like I'll be able to easily do this. I highly recommend this book - its not a lesson book about your swing, but its a lesson and mindset book about how to practice, plan, and stay focused throughout your rounds, leading to more fun...and probably better scores.",
+          "reviewDate": "Reviewed in the United States on July 14, 2022",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEYZBKV5GS2BWBTDITD4PXNR4HGA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Paperback"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "One of the best golf books I've ever read",
+          "reviewText": "I wish I would have read this book years ago. This is an excellent book for players of any skill level - from the 25 handicapper to the scratch golfer. I've spoken to professionals who espouse some of the very concepts Jon illustrates in this book. Make no mistake, this book won't give you any swing tips or technical advice - but that's what makes it great. It is primarily a \"coaching\" book, which so many players (myself included) desperately need. Sherman does a great job of illustrating and supporting his concepts with statistics and objective data, while presenting in the information in an easily digestible manner. I have seen immediate improvement in my game, and many others too - not because of technical advice, but due to course management strategy and an improved perspective while playing. I feel like I now make smarter decisions on the course and have more fun playing. I\u2019d absolutely recommend this book to any golfer.",
+          "reviewDate": "Reviewed in the United States on August 14, 2022",
+          "customer": "Kurt",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEU2SGVV4NYVEKPICNFSLAU3EHKQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Paperback"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "one of the better golf books i've read",
+          "reviewText": "I read the book quickly, the author is a good writer and the prose flows smoothly. I liked the book a lot, both at the beginning and at the end, where he really provides insightful ideas on the mental side of golf, and provides useful information to help me think better when on the course. The tough part for me was his sections in the book breaking down how to practice. This part got too technical for me, and I would think \"well, I don't have time to do all of this!\" But I think most readers will be able to cherrypick the useful parts as it applies to them. I think the book has helped me think differently about golf, and to enjoy playing the game more, rather than obsess on all the reasons why I'm not any good at golf. He helped me realize that it's a privilege that I have to be healthy enough to get out and be able to play and revel in my great shots and to not get down in the dumps when I hit the inevitable bad shots.",
+          "reviewDate": "Reviewed in the United States on August 6, 2025",
+          "customer": "G. Garcia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTZW672UWFITGKECAB6CITNJHEA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "format": "Kindle"
+          }
+        },
+        {
+          "reviewTitle": "Why didn't he write it 20 years ago?!",
+          "reviewText": "This is one of the few golf books that I have actually read to the end. The author is one of us, not just some smarta** who has all the answers. My tip is to read and listen. There is a whole lot of got advice that is obvious and you kind of knew already, if you're honest. I would love to have this guy on the bag. And that's my highest praise, ever.",
+          "reviewDate": "Reviewed in Germany on July 27, 2022",
+          "customer": "Gerard Runchman",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Paperback"
+          }
+        },
+        {
+          "reviewTitle": "Improved my \"on course\" attitude",
+          "reviewText": "Great topics covered, good reading pace and information is organized very well. Started with the \"sweet spot\" podcast and then this book. Has completely changed the way I play and I reclaimed my love for the game. Thank you Jon!!",
+          "reviewDate": "Reviewed in Australia on November 10, 2024",
+          "customer": "Kindle Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          }
+        },
+        {
+          "reviewTitle": "A total guide to modern golf thinking. Highly recommended!",
+          "reviewText": "TLDR: If you want to improve your golf, just get this book. It's has all you need to know to get your golf brain in shape and shoot your best scores (if scoring is the point...). Longer version: Jon Sherman's website Practical Golf has been the very best of my finds since returning to golf after a couple of decades away. Although a keen/borderline obsessed golfer in my teenage years, life got in the way and I didn't play that much over couple of decades that followed. During COVID though, I've returned to regular golf, the bug has bitten and I've become interested in seeing how good I can get. Turns out a lot has changed in the time I've been away. Modern stats have peeled away some of the mystery of how best to play the game. Jon's website \u2013 and this book \u2013 pull off the hard task of presenting deep insight in an enjoyable and easy to read format, and there's something for every golfer in here. Although technical aspects are touched upon, it's not focused on *how* to swing the club, it's how to approach the game, and get the most from it. I've certainly been playing some of my best ever golf after reading this. Read, buy, enjoy, and please repair your pitchmarks.",
+          "reviewDate": "Reviewed in the United Kingdom on July 8, 2022",
+          "customer": "JonA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Paperback"
+          }
+        },
+        {
+          "reviewTitle": "Great insights to the game of golf",
+          "reviewText": "Really like Jon\u2019s ideas and mental approach",
+          "reviewDate": "Reviewed in Sweden on August 29, 2024",
+          "customer": "Robin",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Paperback"
+          }
+        }
+      ]
+    }
+  }
+}

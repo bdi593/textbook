@@ -1,0 +1,208 @@
+{
+  "requestMetadata": {
+    "id": "3b2c3cdb-24e9-4bb7-97c6-8511566cb54f",
+    "status": "ok",
+    "html": "https://files.hasdata.com/3b2c3cdb-24e9-4bb7-97c6-8511566cb54f.html",
+    "json": "https://files.hasdata.com/3b2c3cdb-24e9-4bb7-97c6-8511566cb54f.json",
+    "url": "https://www.amazon.com/dp/B0FM3KTFPR"
+  },
+  "product": {
+    "asin": "B0FM3KTFPR",
+    "url": "https://www.amazon.com/dp/B0FM3KTFPR",
+    "title": "Velvet Matte Cushion Foundation Blue #02 Ivory| Full Coverage,12H Oil Control,Ideal for Oily & Combination Skin,Waterproof,Long-Lasting, Lightweight, Hydrating,Transfer-Proof",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "02 Ivory"
+    },
+    "featureBullets": [
+      "Full Coverage, Velvet Matte Finish\uff1aHigh coverage to conceal dark spots, under-eye circles, and imperfections with a smooth, flawless matte finish\u2014without the heaviness or cakiness.",
+      "Ideal for Oily & Combination Skin\uff1aOil-free formula with smart oil-control technology absorbs excess sebum, controls shine, and keeps skin hydrated for a matte, fresh look all day.",
+      "Waterproof, Transfer-Proof & Long-Lasting Wear\uff1aPowered by a 3D film-forming agent, this foundation locks in color for long-lasting wear that resists sweat, water, and transfer\u2014no cracking, fading, or smudging.",
+      "Lightweight & Comfortable\uff1aLight formula offers full coverage without feeling heavy or drying, providing a breathable, natural finish perfect for all-day wear.",
+      "Nourishes & Protects with Triple Antioxidants\uff1a Infused with Niacinamide, Copper Tripeptide-1, Tocopherol, and Astaxanthin, it controls oil, prevents dullness, smooths skin, and protects against early aging signs."
+    ],
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0G8ZWBKDH",
+        "title": "03G Golden Almond",
+        "url": "https://www.amazon.com/dp/B0G8ZWBKDH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71wbdQ+sHpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZZ97SH",
+        "title": "08N Rich Toffee",
+        "url": "https://www.amazon.com/dp/B0G8ZZ97SH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71VSPxKSXaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM3HG21K",
+        "title": "04 Beige",
+        "url": "https://www.amazon.com/dp/B0FM3HG21K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71F6TznaPcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM3N2Q7P",
+        "title": "03 Petal",
+        "url": "https://www.amazon.com/dp/B0FM3N2Q7P",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ay80OcWtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8Z7P87M",
+        "title": "1CN Cool Vanilla",
+        "url": "https://www.amazon.com/dp/B0G8Z7P87M",
+        "imageUrl": "https://m.media-amazon.com/images/I/71U0qdHzbML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8YR5271",
+        "title": "2CN Cool Ivory",
+        "url": "https://www.amazon.com/dp/B0G8YR5271",
+        "imageUrl": "https://m.media-amazon.com/images/I/71U791zoUnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZDMJDB",
+        "title": "06W Warm Honey",
+        "url": "https://www.amazon.com/dp/B0G8ZDMJDB",
+        "imageUrl": "https://m.media-amazon.com/images/I/71laYcZ8zKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZLMG1B",
+        "title": "0CN Cool Porcelain",
+        "url": "https://www.amazon.com/dp/B0G8ZLMG1B",
+        "imageUrl": "https://m.media-amazon.com/images/I/71QPovAE18L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM3KTFPR",
+        "title": "02 Ivory",
+        "url": "https://www.amazon.com/dp/B0FM3KTFPR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Rv-JsRsfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM3M93B6",
+        "title": "00N Natural Porcelain",
+        "url": "https://www.amazon.com/dp/B0FM3M93B6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bVSE2oE9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8Y7VC71",
+        "title": "03C Cool Petal",
+        "url": "https://www.amazon.com/dp/B0G8Y7VC71",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NAR9WOEbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM3M2Y82",
+        "title": "01W Warm Vanilla",
+        "url": "https://www.amazon.com/dp/B0FM3M2Y82",
+        "imageUrl": "https://m.media-amazon.com/images/I/71b0eMp96pL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZB9DT2",
+        "title": "07N Soft Caramel",
+        "url": "https://www.amazon.com/dp/B0G8ZB9DT2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71dinPycX3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZCF3KW",
+        "title": "01C Rose Ivory",
+        "url": "https://www.amazon.com/dp/B0G8ZCF3KW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71p6LRCXbDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8Z8VGKV",
+        "title": "05W Warm Sand",
+        "url": "https://www.amazon.com/dp/B0G8Z8VGKV",
+        "imageUrl": "https://m.media-amazon.com/images/I/7150meo8I1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZSKNLF",
+        "title": "10N Natural Espresso",
+        "url": "https://www.amazon.com/dp/B0G8ZSKNLF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TmqJyX9JL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GQHLX98W",
+        "title": "00 Porcelain",
+        "url": "https://www.amazon.com/dp/B0GQHLX98W",
+        "imageUrl": "https://m.media-amazon.com/images/I/71QPovAE18L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8YY85BK",
+        "title": "02G Golden Ivory",
+        "url": "https://www.amazon.com/dp/B0G8YY85BK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71r3HDeFuhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZPMP9G",
+        "title": "09N Natural Cocoa",
+        "url": "https://www.amazon.com/dp/B0G8ZPMP9G",
+        "imageUrl": "https://m.media-amazon.com/images/I/71EBUlk7gnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZQWYLC",
+        "title": "5CN Cool Walnut",
+        "url": "https://www.amazon.com/dp/B0G8ZQWYLC",
+        "imageUrl": "https://m.media-amazon.com/images/I/714pnkandLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G914MT8P",
+        "title": "7NC Neutral Caramel",
+        "url": "https://www.amazon.com/dp/B0G914MT8P",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+mfiw1MBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FM3L1L9R",
+        "title": "01 Vanilla",
+        "url": "https://www.amazon.com/dp/B0FM3L1L9R",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Ah-uknKuL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 14.16,
+      "beforePrice": 22.9,
+      "discount": "-38%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "SKINTIFIC US STORE",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1OU6PDK6RC3HA",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/71Rv-JsRsfL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71Rv-JsRsfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715pkqFZ+SL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81NfM1gcz7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71coebhh2dL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KRzqFcg6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TjnvM3MyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71QgzLfglUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718opbMQwXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811-DGoVkZL._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 173,
+      "rating": 4.2
+    }
+  }
+}

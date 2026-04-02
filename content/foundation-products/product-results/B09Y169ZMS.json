@@ -1,0 +1,383 @@
+{
+  "requestMetadata": {
+    "id": "bfa0de0b-4f3e-4a43-87d6-a6f4dac34936",
+    "status": "ok",
+    "html": "https://files.hasdata.com/bfa0de0b-4f3e-4a43-87d6-a6f4dac34936.html",
+    "json": "https://files.hasdata.com/bfa0de0b-4f3e-4a43-87d6-a6f4dac34936.json",
+    "url": "https://www.amazon.com/dp/B09Y169ZMS"
+  },
+  "product": {
+    "asin": "B09Y169ZMS",
+    "url": "https://www.amazon.com/dp/B09Y169ZMS",
+    "title": "Vita Liberata Body Blur, Leg and Body Makeup. Skin Perfecting Body Foundation for Flawless Bronze, Easy Application, Radiant Glow, Evens Skin Tone, New Packaging",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Medium"
+    },
+    "featureBullets": [
+      "Description - Body Blur is a widely-loved product by makeup artists everywhere. It's the best-selling body makeup and skin finish that delivers a flawless, glowing look with its light-reflecting formula.",
+      "Benefits - Nourishing ingredients like Organic Glycerin for moisture and hydration, and Shea Butter to soften and smooth skin",
+      "Suggested Use - Ensure skin is clean and free of moisturizer. Apply to a tanning mitt and blend in circular motions. Use sparingly on d\u00e9collet\u00e9, hands, or feet."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Skin Care",
+      "Sunscreens & Tanning Products",
+      "Self-Tanners",
+      "Body Self-Tanners"
+    ],
+    "variants": [
+      {
+        "asin": "B09Y1B8KS2",
+        "title": "Dark",
+        "url": "https://www.amazon.com/dp/B09Y1B8KS2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xZDri6G0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09Y1HNKJN",
+        "title": "Light",
+        "url": "https://www.amazon.com/dp/B09Y1HNKJN",
+        "imageUrl": "https://m.media-amazon.com/images/I/612TMoX9VLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09Y169ZMS",
+        "title": "Medium",
+        "url": "https://www.amazon.com/dp/B09Y169ZMS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61rAY2iPSeL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 39,
+      "beforePrice": 39,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "VITA LIBERATA",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2R63PARRXJPQR",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61rAY2iPSeL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61rAY2iPSeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Dbmw0cN+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51mF2XxSNdL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51Vlz8hrNiL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71qysHjErbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cG0G15O-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XHKFpHEzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71BpsY3OyOL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85e6f33f-3dfe-4d74-8adb-88fdcf317e11.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/402dc8e3-d760-4b5c-8585-30f7c51a68eb.__CR0,0,2000,2000_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ea62689-22ba-4482-b2c7-38968121b683.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92454838-6d7a-48e3-967d-fb0a42135478.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ca7f71a-b659-46f0-9445-ce9aa2c842ae.__CR0,0,5000,5000_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ac800e4-a0fd-474d-91c1-fc5893cbeb74.__CR0,0,970,300_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/618449db-f74d-4bc2-bb13-ef42eba6606b.__CR0,0,970,300_PT0_SX970_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a184a3b6-3cfd-4f57-aff7-fc000c65886f.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a184a3b6-3cfd-4f57-aff7-fc000c65886f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/cbd8bfdb-789c-4645-8ec3-a2ec1d2ea16b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/eac0cb69-bfce-490e-9e93-03f9c2eb33e1.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0fb49fa-4f97-4ded-851e-243fd2718759.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d9ea9926-0326-44ee-9920-cc8e030e65a0.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Creams, Gels and Lotions"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Dry, Normal, Oily, Sensitive"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Nourishing ingredients like Organic Glycerin for moisture and hydration, and Shea Butter to soften and smooth skin"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Full Cure Time",
+        "value": "8 Hours"
+      },
+      {
+        "key": "Scent Name",
+        "value": "Low Odor Sunless Tan"
+      },
+      {
+        "key": "Item Weight",
+        "value": "3.38 Ounces"
+      },
+      {
+        "key": "Unit Count",
+        "value": "3.38 Fluid Ounces"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Size",
+        "value": "3.38 Fl Oz (Pack of 1)"
+      },
+      {
+        "key": "Brand Name",
+        "value": "VITA LIBERATA"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "05060850670568"
+      },
+      {
+        "key": "Model Number",
+        "value": "FBB3100"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "WR693"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "VITA LIBERATA"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Body Bronzer"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#7,583 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #60 in Body Self-Tanners"
+      },
+      {
+        "key": "ASIN",
+        "value": "B09Y169ZMS"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol Free, Paraben Free, Phthalate Free"
+      },
+      {
+        "key": "Material Features",
+        "value": "Cruelty Free, Vegan"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1307,
+      "rating": 4.1,
+      "starRates": {
+        "fiveStars": "62%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "5%",
+        "oneStars": "11%"
+      },
+      "customersSay": "Customers find the self-tanner effective, with legs looking tanned and flawless all day, and appreciate its natural-looking glow with a tiny bit of shimmer. Moreover, the product receives positive feedback for its color, with one customer noting it's not orange at all. However, there are mixed experiences with transferability - while some say it doesn't get on clothes, others report it transfers easily. Additionally, coverage and streak-free application receive mixed reviews, with some saying it hides imperfections well while others find it doesn't cover enough. The drying time is also mixed, with some noting it dries quickly while others say it washes away easily.",
+      "aspects": [
+        {
+          "aspect": "Effectiveness",
+          "count": 90,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 75,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 75,
+          "status": "positive"
+        },
+        {
+          "aspect": "Glow",
+          "count": 36,
+          "status": "positive"
+        },
+        {
+          "aspect": "Transfer",
+          "count": 79,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Streak-free",
+          "count": 71,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 57,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Drying time",
+          "count": 46,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/614Uu5e11kL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61dvGLAm2qL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41HbzQ-g9GL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61qSohxW6CL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71L2LY9ieTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Tlcs45W+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7164ltHcdsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71nE0IOs1zL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71SSlnF5pGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71PUXDvmxFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Wy+2vZ5yL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ZDR-wONZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great product very transfer resistant!",
+          "reviewText": "I was so impressed with body make up! I applied it from a few inches above my knees and down my lower legs and it really did lightly blur any veins imperfections- similar to a light suntan. It had only a very faint scent and dried quickly leaving a faint lotion-like finish. (Be sure to wash your hands thoroughly when finished applying.) I only saw some transfer on a few places at the hem of my dress and not everywhere so I am thinking maybe I had applied a little extra at those spots. I forgot about it at night and didn\u2019t wash it off and it did not get on the inside of my pjs. Not sure about arms and if that would transfer but if and when I decide to try it there I will edit this review.",
+          "reviewDate": "Reviewed in the United States on October 22, 2025",
+          "customer": "MickeyH",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3T3UN24V3UMAW2SNFCKTZHSJEQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium"
+          },
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wears well!",
+          "reviewText": "Goes on smoothly and evenly. It leaves just a hint of a \"glow\" which I like. Makes your skin look smooth but not overly shiny. It evens out your skin tone, wears very well. Didnt dry my skin out either. I wore a white knit sweater vest and golf shorts. When I bent over I realized my white sweater was rubbing against my thighs. I was like \"uh-oh\" But, it didn't rub off! I love this and would buy it again.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "SM",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE2BNLHP6UTPDTTKTC75XWNIEKUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Pretty skin",
+          "reviewText": "Pretty good , but it does transfer to clothing even if you set it with a setting spray . But in fairness , I haven\u2019t found any that haven\u2019t transferred at all . Pretty color",
+          "reviewDate": "Reviewed in the United States on September 9, 2025",
+          "customer": "Brandon",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEEFHPMS2CHP2UO5FNJINOEA3YVQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Medium"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Instant Glow",
+          "reviewText": "This Vita Liberata body makeup tanning lotion is amazing! It\u2019s so easy to apply, dries instantly, and gives my skin a beautiful, natural-looking glow. A little goes a long way, so you don\u2019t need much to get even, streak-free coverage. It blends effortlessly and feels lightweight, without any sticky residue. The long-lasting formula stays put but washes off easily when needed. If you\u2019re looking for a quick, flawless tan without the commitment, I highly recommend this body makeup! Used on my legs!",
+          "reviewDate": "Reviewed in the United States on March 3, 2025",
+          "customer": "AP_fitswithpalmy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH4BQUEUG5OPY3TAESOXQAK2MD3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "39 people found this helpful"
+        },
+        {
+          "reviewTitle": "Left Permanent Staining!",
+          "reviewText": "This has got to be the absolute WORST product I\u2019ve ever used in my life!! I\u2019d give it zero if I could. The statement this company makes about their product being \u2018zero transfer\u2019 is 100% false. I put this on early morning. Did not get dressed for almost an hour! My clothes were covered and my bedding\u2026.is probably ruined. Oh and to top it all off, it doesn\u2019t wash out! DO NOT BUY!! Photos are my sheets this morning, 16 hrs after application!!! The cami is after a wash on hot!! Disgusted. Hoping to return as a \u2018defective\u2019 product!!",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "ALISON BENNETT",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG7CUULED2F35QUDLT4VKZJTNZUQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Medium"
+          }
+        },
+        {
+          "reviewTitle": "Perfect Color",
+          "reviewText": "I have rather fair skin, and this gives me just a hint of color. It looks very natural, really easy to apply and blend. It doesn\u2019t seem to transfer on clothing. I will update the review after I wear white clothing. Really happy with it and impressed. I may get bold and try the next darker shade. Since it it light, it doesn\u2019t cover the spider veins a lot. Probably the darker shade would do a better job at it. It covers a little, and mixing some concealer with it helps.",
+          "reviewDate": "Reviewed in the United States on May 16, 2025",
+          "customer": "B. Mosich",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3CGFRMULESPAV7M4B45KTJAVFA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great color, easy to use, transfers onto sheets and furniture.",
+          "reviewText": "I\u2019m torn on this one, which is why I gave it three stars. It is my first time using body make up instead of a self tanner. I am very fair skin with reddish undertones. Irish, through and through. 57 years old, so older skin. I love the color! It goes on very easy and it is just enough to give some coverage that is even, hydrating and a little shimmer. The only drawback is that it comes off. I have light sheets and even though I leave it on until it\u2019s totally dry and maybe I\u2019ve been out for the day or the evening, the next day it is all over my sheets. Still looks good on my skin, but the color definitely transferred. Just keep this in mind and in case you are at somebody\u2019s house and sitting on light furniture, or your own. I will still use it for certain things, but will go back to self tanner instead.",
+          "reviewDate": "Reviewed in the United States on June 15, 2025",
+          "customer": "leaningcoyne",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFZ6EFZLRDSQZVCM77CPV3MRUG3A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Medium"
+          },
+          "helpfulVotes": "24 people found this helpful"
+        },
+        {
+          "reviewTitle": "Answer to my tanning prayers",
+          "reviewText": "This is hands down THE BEST product I've purchased in a long time. I'm fair skinned and I've tried many self tanners that claim \"won't make you orange\". And yet, I always turn orange. So I was searching for another alternative since I was attending an evening winter time wedding. I found this and it was everything I wanted. It goes on just like lotion, dries quickly, doesn't transfer and didn't make me orange at all. Just a great tan look but not too dark either. It washed off the next morning with just some body wash and puff. The bottle size is big so it'll last through many uses. I even used it on my face underneath my other makeup. The picture shows me next to my daughter. I'm normally paler than she is.",
+          "reviewDate": "Reviewed in the United States on January 18, 2026",
+          "customer": "Desiree",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH2RFUELE2CQVA26AJ3OGUYJMYMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent product",
+          "reviewText": "This stuff is excellent, instant even tan, no streaks, natural colours, I'm fair skinned, got both the light and the dark and went sparingly, it's amazing stuff. Stains hands, use washing up liquid and scrubby kitchen pad to remove.... Or a tan mitt. Great stuff.",
+          "reviewDate": "Reviewed in the United Kingdom on December 23, 2025",
+          "customer": "Irish",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dark"
+          }
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "Colour suits my skin. Not patchy. Easy application. Will buy again.",
+          "reviewDate": "Reviewed in Singapore on October 22, 2024",
+          "customer": "Rafida",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium"
+          }
+        },
+        {
+          "reviewTitle": "Careful",
+          "reviewText": "It makes the skin shine and gives a nicer tone, however, it runs off with the sweat and stains clothes. Should not use it in a hot environment, no skin contact \ud83d\ude48",
+          "reviewDate": "Reviewed in Germany on September 14, 2024",
+          "customer": "vvir",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Light"
+          }
+        }
+      ]
+    }
+  }
+}

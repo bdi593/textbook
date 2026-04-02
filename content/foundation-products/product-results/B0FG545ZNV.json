@@ -1,0 +1,252 @@
+{
+  "requestMetadata": {
+    "id": "f6e8abde-7c06-4f96-bed9-2b545ddb9711",
+    "status": "ok",
+    "html": "https://files.hasdata.com/f6e8abde-7c06-4f96-bed9-2b545ddb9711.html",
+    "json": "https://files.hasdata.com/f6e8abde-7c06-4f96-bed9-2b545ddb9711.json",
+    "url": "https://www.amazon.com/dp/B0FG545ZNV"
+  },
+  "product": {
+    "asin": "B0FG545ZNV",
+    "url": "https://www.amazon.com/dp/B0FG545ZNV",
+    "title": "Jones Road What The Foundation - Tinted Moisture Balm - Beige",
+    "isAvailable": true,
+    "description": "What The Foundation is our take on a foundation, offering light-medium, buildable coverage. Its ultra-nourishing formula blends seamlessly into the skin, leaving you with an even, fresh complexion that looks like your skin on its best day. WTF works flawlessly with The Face Pencil for added coverage in areas with extra redness, blemishes or discoloration. *Non-comedogenic. Due to the unique formula, some shifting may occur in transit.",
+    "boughtInPastMonth": "600+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 49.8,
+      "priceFrom": 49.8,
+      "otherOfferQuantity": 9
+    },
+    "deliveryRawDate": "Tuesday, April 7",
+    "deliveryIsoDate": "2026-04-07T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "returns": "30-day refund/replacement",
+    "seller": "BetterforLife",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3SR5DH9UBJYJO",
+    "shipper": "BetterforLife",
+    "totalImages": 3,
+    "primaryImage": "https://m.media-amazon.com/images/I/41KtgUBoMSL.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41KtgUBoMSL.jpg",
+      "https://m.media-amazon.com/images/I/41dWZ5cHFYL.jpg",
+      "https://m.media-amazon.com/images/I/31hfQsbKByL.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e6dc81d9-b5ff-4889-a3a4-b2e83f710119.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2d1ce06b-8261-44a3-a696-199376199f5e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4dc7641c-e59b-4f54-992b-7fa51b0cde7e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Jones Road"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Buildable coverage, Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "UPC",
+        "value": "810047625650"
+      },
+      {
+        "key": "Model Number",
+        "value": "NVBTGPLH398"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "JNSRD"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#27,787 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #259 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FG545ZNV"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.09 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2 x 2 x 1 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.14 Ounce"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 76,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "59%",
+        "fourStars": "16%",
+        "threeStars": "10%",
+        "twoStars": "4%",
+        "oneStars": "11%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage, with one mentioning it works well for mature skin and another noting it leaves skin looking dewy. The product receives positive feedback for its quality and smooth application that's not sticky or oily. The texture receives mixed reviews, with some customers liking it while others find it runny.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Smooth application",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 8,
+          "status": "mixed"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Excellent Foundation!",
+          "reviewText": "I love this foundation! Very light coverage, but covers the skin flaws and age spots. The seller got it to me way faster than expected! I was very impressed!",
+          "reviewDate": "Reviewed in the United States on January 7, 2026",
+          "customer": "wolf1010",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHMFZMFFAJWLAVJFHBH5RINGDXQQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice color and texture",
+          "reviewText": "Really enjoy this foundation and will buy it again. Love the texture on my skin and leaves it looking dewy",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Kim James",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGK5PM5ASSBSL2MBU53OGVHAM3ZQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "It\u2019s great",
+          "reviewText": "I love it wish I would\u2019ve gotten it sooner. It goes on so smooth and so nice. It\u2019s great.",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Maureen Lawson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGDT5X5KBOGCXWFRBLZS7XP5TVVQ",
+          "customerStarsRating": 4
+        },
+        {
+          "reviewTitle": "Foundation",
+          "reviewText": "I love this stuff, you can\u2019t tell you have it on, goes on smoothly",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Joanne Dwornik",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGL6W23R4U5LPMSGE4EEH3TERWMQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Glue-like disappointment",
+          "reviewText": "This product feels like glue mixed with foundation. You can\u2019t see it on your face but you sure can feel it. It\u2019s an awful sensation. Any time I\u2019d rub fingers over face, my fingers would meet traction and not slide or glide. Do not waste your money. You have to pay for the return label also. Never been so disappointed in a product.",
+          "reviewDate": "Reviewed in the United States on January 3, 2026",
+          "customer": "Rush",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGCQHBJEYPA25RANC2BDHSCFFWBA",
+          "customerStarsRating": 1,
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good color matching for me, texture is a bit too thick for older skin, but it's easy to dilute.",
+          "reviewText": "I saw an online ad for this. Sounded like the Second Coming for older women with fine lines. Liquid or cream foundations I've tried recently look like latex paint on me. I wanted to try this because of the hype. I simply wanted to even out my discoloration. Yes, it's mostly hype. It is a normal cream foundation, but watered down so it goes on thinner. My color, \"Beige\" is much closer to my skin color. Most liquid/cream foundations I've tried have been too yellow. So, using the site's color match is good. I still have to dilute it with a moisturizer so it doesn't look pasty and cakey. Not watered-down, it still doesn't cover the dark patches. It's a nice foundation, but not any sort of breakthrough. I found their website to be impossible to use. There are complex, tricky, frustrating discounts that involve buying more and more products that I didn't want. I came back to Amazon and saw they had dropped the price to be more in line with the Christmas \"special\" promotion. I probably will buy it again, mainly for the color match.",
+          "reviewDate": "Reviewed in the United States on December 9, 2025",
+          "customer": "Mia V",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH2ZKVI3V6X3JFRSETAYAKPLZSAQ",
+          "customerStarsRating": 3,
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Soft and creamy on your face",
+          "reviewText": "I am a spunky 80 year old and I love this foundation. It feels like cream when it goes on your face. You need only a tiny amount of the product. Much better than the regular foundation from a bottle (no matter how much you are spending.) It you want to look 10 years younger use this product, softly line your lips so lipstick doesn't travel (and don't use harsh colors, please!), put a small amount of \"glow product\" on your cheeks and have a young attitude. Grumpy people are not attractive. I bet you look better already.",
+          "reviewDate": "Reviewed in the United States on December 16, 2025",
+          "customer": "D Nelson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFWXYNNXUKH2SUY2K7WXD5SSHC4Q",
+          "customerStarsRating": 5,
+          "helpfulVotes": "36 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great treat for my Bull Terrier",
+          "reviewText": "This is magic for my complexion and I wish I found it sooner!",
+          "reviewDate": "Reviewed in the United States on January 18, 2026",
+          "customer": "Debra Turner",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG44Y4HUY5WAIGL7ZI52EUD37H3Q",
+          "customerStarsRating": 5,
+          "helpfulVotes": "4 people found this helpful"
+        }
+      ]
+    }
+  }
+}

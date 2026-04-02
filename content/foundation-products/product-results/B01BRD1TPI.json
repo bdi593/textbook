@@ -1,0 +1,137 @@
+{
+  "requestMetadata": {
+    "id": "619a2610-2ff2-448c-945a-f7d29fcde1a3",
+    "status": "ok",
+    "html": "https://files.hasdata.com/619a2610-2ff2-448c-945a-f7d29fcde1a3.html",
+    "json": "https://files.hasdata.com/619a2610-2ff2-448c-945a-f7d29fcde1a3.json",
+    "url": "https://www.amazon.com/dp/B01BRD1TPI"
+  },
+  "product": {
+    "asin": "B01BRD1TPI",
+    "url": "https://www.amazon.com/dp/B01BRD1TPI",
+    "title": "LAURA GELLER NEW YORK Baked Double Take Powder Foundation - Fair - Buildable Medium to Full Coverage - Matte Finish",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "02 Fair",
+      "size": "2 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "DOUBLE TAKE BAKED BUILDABLE FULL COVERAGE POWDER FOUNDATION: Get skin that gets a double take. This foundation gives you instant elegance with full coverage, a classic matte finish that's never cakey, and a long-wear formula that doesn't fade. Handmade in Italy, the creamy formula feels like a treat for skin.",
+      "FAIR: Fair beige with warm yellow undertones",
+      "ANTI-AGING INGREDIENTS: With antioxidant-rich Jojoba Seed Oil that softens and soothes skin, Centella Asiatica Extract that hydrates and mitigates sun damage, and anti-aging Camellia Sinensis Leaf Extract, there's plenty to love about how this foundation looks and feels. Not only will it stay on all day, your skin will be better for it.",
+      "PERFECT FOR: This full-coverage foundation is an all-around favorite, but those with mature skin and fine lines and wrinkles will especially love it. Not only does it never get cakey, but it's made for movement \u2014 no cracking or fading with every facial expression.",
+      "HOW TO APPLY: You can use this matte foundation makeup wet or dry with the included dual-sided pink and white applicator sponge. For dry application, apply foundation with the pink side of the sponge. Gently dab the powder, pat it on the areas that need the most attention first, then blend outward and upward. For more serious coverage, apply it wet with the white side of the sponge. Dampen the sponge, dab the powder and pat onto face then blend outward and upward until fully blended."
+    ],
+    "boughtInPastMonth": "3K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B01BRD1TOO",
+        "title": "08 Tan 2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01BRD1TOO",
+        "imageUrl": "https://m.media-amazon.com/images/I/71UDCP2FYDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0978P2B2T",
+        "title": "Light 3 Inch x 3 Inch x 1.4 Inch",
+        "url": "https://www.amazon.com/dp/B0978P2B2T",
+        "imageUrl": "https://m.media-amazon.com/images/I/71XNGGOF5TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01BRD1RZU",
+        "title": "01 Porcelain 2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01BRD1RZU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TR1tnrCZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01BRD1UJI",
+        "title": "09 Deep 2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01BRD1UJI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71VsDw-Iq-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01BRD1TH6",
+        "title": "05 Golden Medium 2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01BRD1TH6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71RGyo9y5tL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BVN357LD",
+        "title": "04 Medium 2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BVN357LD",
+        "imageUrl": "https://m.media-amazon.com/images/I/41MNPQGQ9XL.jpg"
+      },
+      {
+        "asin": "B01BRD1TPI",
+        "title": "02 Fair 2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01BRD1TPI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Fwe2ead0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C4BXZRTX",
+        "title": "03 Light 0.35 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0C4BXZRTX",
+        "imageUrl": "https://m.media-amazon.com/images/I/71XNGGOF5TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01BRD1TK8",
+        "title": "06 Sand 2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01BRD1TK8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xIYkkZSlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CG4Y48BM",
+        "title": "Toffee 2 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CG4Y48BM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zPaZuBNdL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 22.8,
+      "beforePrice": 36,
+      "discount": "-37%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 15 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Laura Geller New York",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A107LV0WKN7KME",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/71Fwe2ead0L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71Fwe2ead0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ruZH3rvsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81X4K6nz+gL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81TooEeyGCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81d3swGdwSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81O9u3NPr+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81aqmd+DhgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Djw36dDEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718pYgpIZxL._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 6273,
+      "rating": 4.2
+    }
+  }
+}

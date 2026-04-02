@@ -1,0 +1,624 @@
+{
+  "requestMetadata": {
+    "id": "a42c421f-a62a-44f2-805c-f4343323cd7a",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a42c421f-a62a-44f2-805c-f4343323cd7a.html",
+    "json": "https://files.hasdata.com/a42c421f-a62a-44f2-805c-f4343323cd7a.json",
+    "url": "https://www.amazon.com/dp/B002BWRQD4"
+  },
+  "product": {
+    "asin": "B002BWRQD4",
+    "url": "https://www.amazon.com/dp/B002BWRQD4",
+    "title": "jane iredale PurePressed Base Mineral Foundation Refill or Refillable Compact Set| Semi Matte Pressed Powder with SPF | Talc Free, Vegan, Cruelty-Free",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Latte",
+      "style": "Refill"
+    },
+    "featureBullets": [
+      "A pressed mineral foundation that is slightly more sheer and matte than the loose powders.",
+      "Made from micronized minerals, oil free and weightless.",
+      "An SPF foundation, powder and concealer with broad spectrum (UVA/UVB) sun protection. Either SPF 20 or SPF 15 depending on shade.",
+      "Water resistant to 40 minutes.",
+      "Contains antioxidants such as Pine Bark Extract and Pomegranate Extract (a potent antioxidant that helps fight free radical production caused by sun exposure).",
+      "Recommended by The Skin Cancer Foundation as an effective broad spectrum sunscreen."
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Powder"
+    ],
+    "variants": [
+      {
+        "asin": "B00EXW6RZS",
+        "title": "Refill Amber",
+        "url": "https://www.amazon.com/dp/B00EXW6RZS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lL1bgiZkL._SL1180_.jpg"
+      },
+      {
+        "asin": "B003204OKM",
+        "title": "Refill Radiant",
+        "url": "https://www.amazon.com/dp/B003204OKM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ukTVh7etL._SL1180_.jpg"
+      },
+      {
+        "asin": "B00354QIW2",
+        "title": "Refill Warm Silk",
+        "url": "https://www.amazon.com/dp/B00354QIW2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DxdMRKO1L._SL1180_.jpg"
+      },
+      {
+        "asin": "B002LDZVXU",
+        "title": "Refill Autumn",
+        "url": "https://www.amazon.com/dp/B002LDZVXU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Fg531jXXL._SL1180_.jpg"
+      },
+      {
+        "asin": "B09QYJ28VV",
+        "title": "Refillable Compact Set Warm Sienna",
+        "url": "https://www.amazon.com/dp/B09QYJ28VV",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Jn+ueBapL._SL1001_.jpg"
+      },
+      {
+        "asin": "B00354UCF6",
+        "title": "Refill Suntan",
+        "url": "https://www.amazon.com/dp/B00354UCF6",
+        "imageUrl": "https://m.media-amazon.com/images/I/610MJJl3zUL._SL1180_.jpg"
+      },
+      {
+        "asin": "B09QYHNS1D",
+        "title": "Refillable Compact Set Mahogany",
+        "url": "https://www.amazon.com/dp/B09QYHNS1D",
+        "imageUrl": "https://m.media-amazon.com/images/I/41OU+ekQvkL._SL1001_.jpg"
+      },
+      {
+        "asin": "B01766NSAE",
+        "title": "Refill Cocoa",
+        "url": "https://www.amazon.com/dp/B01766NSAE",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Onw5C8HXL._SL1180_.jpg"
+      },
+      {
+        "asin": "B00XCKKGOK",
+        "title": "Refill Teakwood",
+        "url": "https://www.amazon.com/dp/B00XCKKGOK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61A7qsN1r+L._SL1180_.jpg"
+      },
+      {
+        "asin": "B00PC0ZWHO",
+        "title": "Refill Golden Glow",
+        "url": "https://www.amazon.com/dp/B00PC0ZWHO",
+        "imageUrl": "https://m.media-amazon.com/images/I/613gfrKi9TL._SL1180_.jpg"
+      },
+      {
+        "asin": "B01766NT8K",
+        "title": "Refill Cognac",
+        "url": "https://www.amazon.com/dp/B01766NT8K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71oHes6QeVL._SL1180_.jpg"
+      },
+      {
+        "asin": "B07994LTTC",
+        "title": "Refill Golden Tan",
+        "url": "https://www.amazon.com/dp/B07994LTTC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ipBo5SQIL._SL1180_.jpg"
+      },
+      {
+        "asin": "B000YBNL2Y",
+        "title": "Refill Honey Bronze",
+        "url": "https://www.amazon.com/dp/B000YBNL2Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zdff6Ue-L._SL1180_.jpg"
+      },
+      {
+        "asin": "B001G93YRU",
+        "title": "Refill Warm Sienna",
+        "url": "https://www.amazon.com/dp/B001G93YRU",
+        "imageUrl": "https://m.media-amazon.com/images/I/61umUgroLjL._SL1180_.jpg"
+      },
+      {
+        "asin": "B0037AKUIW",
+        "title": "Refill Bisque",
+        "url": "https://www.amazon.com/dp/B0037AKUIW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xgtis2goL._SL1180_.jpg"
+      },
+      {
+        "asin": "B09QYJSQ4S",
+        "title": "Refillable Compact Set Golden Glow",
+        "url": "https://www.amazon.com/dp/B09QYJSQ4S",
+        "imageUrl": "https://m.media-amazon.com/images/I/41e1X+S6paL._SL1001_.jpg"
+      },
+      {
+        "asin": "B00AIJTKIG",
+        "title": "Refill Satin",
+        "url": "https://www.amazon.com/dp/B00AIJTKIG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61De2uUKUcL._SL1180_.jpg"
+      },
+      {
+        "asin": "B0037AON8K",
+        "title": "Refill Ivory",
+        "url": "https://www.amazon.com/dp/B0037AON8K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DmhYnF+3L._SL1180_.jpg"
+      },
+      {
+        "asin": "B00EXW3KJE",
+        "title": "Refill Fawn",
+        "url": "https://www.amazon.com/dp/B00EXW3KJE",
+        "imageUrl": "https://m.media-amazon.com/images/I/71-6Vq1TxFL._SL1180_.jpg"
+      },
+      {
+        "asin": "B09QYHQTYN",
+        "title": "Refillable Compact Set Natural",
+        "url": "https://www.amazon.com/dp/B09QYHQTYN",
+        "imageUrl": "https://m.media-amazon.com/images/I/41w0AEYoK1L._SL1001_.jpg"
+      },
+      {
+        "asin": "B09QYHT2ZG",
+        "title": "Refillable Compact Set Velvet",
+        "url": "https://www.amazon.com/dp/B09QYHT2ZG",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PVzb81nqL._SL1001_.jpg"
+      },
+      {
+        "asin": "B01766NOA8",
+        "title": "Refill Bittersweet",
+        "url": "https://www.amazon.com/dp/B01766NOA8",
+        "imageUrl": "https://m.media-amazon.com/images/I/616RmWKvPuL._SL1180_.jpg"
+      },
+      {
+        "asin": "B079BMJQ6L",
+        "title": "Refill Sweet Honey",
+        "url": "https://www.amazon.com/dp/B079BMJQ6L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gzzW2PZIL._SL1180_.jpg"
+      },
+      {
+        "asin": "B01766NMQO",
+        "title": "Refill Velvet",
+        "url": "https://www.amazon.com/dp/B01766NMQO",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Vdr1er1VL._SL1180_.jpg"
+      },
+      {
+        "asin": "B001G9022K",
+        "title": "Refill Natural",
+        "url": "https://www.amazon.com/dp/B001G9022K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61imWlhsHoL._SL1180_.jpg"
+      },
+      {
+        "asin": "B09QYHPNND",
+        "title": "Refillable Compact Set Light Beige",
+        "url": "https://www.amazon.com/dp/B09QYHPNND",
+        "imageUrl": "https://m.media-amazon.com/images/I/41GLuWs8REL._SL1001_.jpg"
+      },
+      {
+        "asin": "B002BWRQD4",
+        "title": "Refill Latte",
+        "url": "https://www.amazon.com/dp/B002BWRQD4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tlL+bEu+L._SL1180_.jpg"
+      },
+      {
+        "asin": "B002BWVQHQ",
+        "title": "Refill Riviera",
+        "url": "https://www.amazon.com/dp/B002BWVQHQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x5MIRImML._SL1180_.jpg"
+      },
+      {
+        "asin": "B01766NN0O",
+        "title": "Refill Warm Brown",
+        "url": "https://www.amazon.com/dp/B01766NN0O",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Q6+3Zf45L._SL1180_.jpg"
+      },
+      {
+        "asin": "B001P3QHU8",
+        "title": "Refill Caramel",
+        "url": "https://www.amazon.com/dp/B001P3QHU8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VokEu0WvL._SL1180_.jpg"
+      },
+      {
+        "asin": "B01766NMYG",
+        "title": "Refill Mahogany",
+        "url": "https://www.amazon.com/dp/B01766NMYG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61N6rS6aRbL._SL1180_.jpg"
+      },
+      {
+        "asin": "B09QYHK88M",
+        "title": "Refillable Compact Set Amber",
+        "url": "https://www.amazon.com/dp/B09QYHK88M",
+        "imageUrl": "https://m.media-amazon.com/images/I/417QP6tcGIL._SL1001_.jpg"
+      },
+      {
+        "asin": "B09QYJ3DYG",
+        "title": "Refillable Compact Set Honey Bronze",
+        "url": "https://www.amazon.com/dp/B09QYJ3DYG",
+        "imageUrl": "https://m.media-amazon.com/images/I/41iK1KIVXTL._SL1001_.jpg"
+      },
+      {
+        "asin": "B002LE30DM",
+        "title": "Refill Light Beige",
+        "url": "https://www.amazon.com/dp/B002LE30DM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61j-ohlcDhL._SL1180_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 36.8,
+      "beforePrice": 46,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 6 hrs 44 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61tlL+bEu+L._SL1180_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61tlL+bEu+L._SL1180_.jpg",
+      "https://m.media-amazon.com/images/I/31f4ltFJ9bL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81DzHmnHPrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71E5BxQFAOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71eXXkumllL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71C-R24bKgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81kv0zvFJSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DXRU9wVzL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de632514-d25c-4f51-95bd-fb39a3ed663c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5bd80911-1057-40d3-8415-8b952cb40efc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c52cb7b3-934e-4821-b29f-ce2e6ff269e0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/66c80b96-9a9c-4fc5-aace-80178bf4a2b6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a24597ca-5f10-473b-bca8-f13bc904198c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7c187a65-202e-4619-a176-ed47552a82c7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/44cdb381-6a0d-4d96-95b4-64011bae0d41.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/acc70d3f-b3d7-4dd2-97bb-694f214bfd66.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/08ebcae2-b97e-463b-ab96-52113381e751.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea936c14-135b-4f72-bd53-cdc2753fab03.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/261146a9-83f1-4339-a80a-4994ba824a39.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ededd2d-0ef2-4103-90b2-5f46ec61a07c.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6fe02d83-9c22-43aa-8515-cc6e861fe9d9.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8012088e-c1a4-4cb2-98ed-1da00d220df2.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c903a97-1faa-4a7e-af18-56279c2ad431.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/I/31oKfURoHZL.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c9d078a1-cbad-4c48-a1bd-6c662d3350e1.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4deaa803-3b8f-4305-b05f-b3c98c1db4e1.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2bcd0b60-bf0e-4643-b6a5-847573532d26.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae76c00f-3514-40e9-bb18-2c31c9961822.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f70f2c94-6884-4708-8abd-27b49462f9f9.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f70f2c94-6884-4708-8abd-27b49462f9f9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8e506131-6778-48f2-ae97-81402dd4f858.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0d1418ca-32cb-4c8e-af73-4be5ae634194.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4b36e588-8fc8-41b9-a062-2a6ad7c98c6c.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Pressed"
+      },
+      {
+        "key": "Color",
+        "value": "Latte"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Pressed Powder"
+      },
+      {
+        "key": "Brand Name",
+        "value": "jane iredale"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Plankton and Algae Extracts soothe, nourish and hydrate skin."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adults, Teen"
+      },
+      {
+        "key": "Specialty",
+        "value": "Light-to-full coverage, semi-matte finish, hydrating, sun protection"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00670959116611"
+      },
+      {
+        "key": "UPC",
+        "value": "670959116611 670959120113"
+      },
+      {
+        "key": "Model Number",
+        "value": "12811E"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "12811-Latte-0.35 oz"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "jane iredale"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,605 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #14 in Face Powder"
+      },
+      {
+        "key": "ASIN",
+        "value": "B002BWRQD4"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "20 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Contains powerful antioxidants such as pine bark extract and pomegranate extract that help minimize UV damage."
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte, Sheer"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.17 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3.2 x 0.48 x 3.35 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "9.9 Grams"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Talcum Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 6007,
+      "rating": 4.7,
+      "starRates": {
+        "fiveStars": "85%",
+        "fourStars": "7%",
+        "threeStars": "4%",
+        "twoStars": "1%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this mineral powder foundation to be the best on the market, with good coverage that's buildable and stays on throughout the day. They appreciate its natural appearance, silky feel, and lightweight formula that feels like nothing on the face. The skin compatibility is positive, with customers noting it doesn't cause breakouts and works well for oily skin. The color receives mixed feedback - while some say it's a perfect match for their skin tone, others find it too pale.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 407,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 364,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 362,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 186,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 161,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 151,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 132,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 129,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71nltziVR4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61u4sbX9ZeL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71d8QK124BL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71RSIvd1pQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/517CAJ+2mVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61qVoWU57KL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61u4YCjDJOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Tt9P1P5TL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Gk1Zwn8rL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718NZMuGzlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61bmE9kGF+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51SSzX5lT1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "The best foundation!!!",
+          "reviewText": "10/10 powder foundation. If you\u2019re on the fence, just do it. I have used this product since 2014 and haven\u2019t ever bothered to try and find anything better. There\u2019s simply no need. I\u2019ve used the color Golden Glow almost every time, and it has always managed to match my skin throughout all the seasons. It is lightweight but full coverage. It\u2019s magic. I mostly wear this on its own, with just moisturizer as a base. It\u2019s so easy to apply with a large brush, and run out the door feeling like you have a full face of makeup on. It does pair beautifully with my liquid foundation for when I\u2019m looking for maximum coverage. The price point is fair in my opinion. Each refill last me about 6 months. You do have to purchase the compact case which is an addition $25 but that\u2019s a one time fee. I have never been happier or purchased a skincare product more frequently than this one. You seriously won\u2019t regret it.",
+          "reviewDate": "Reviewed in the United States on January 13, 2026",
+          "customer": "Jordan K",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHCJJVDJT4HROXT53UONJYRBQN2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Golden Glow"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Flawless Full Coverage",
+          "reviewText": "My absolute FAVORITE foundation for anyone with extremely oily skin. Honestly, this foundation is great for all skin types. The clean ingredients are a huge plus. I have tried every oil control makeup combination possible over the past two plus decades that I\u2019ve worn makeup. I can\u2019t get over how amazingly flawless and silky smooth this product makes my skin look. It\u2019s lightweight yet 100% full coverage foundation. I live in the most humid climate possible and appreciate the fact that I\u2019m not having to reapply more powder anytime I step outside for more than five minutes. After using this powder for the last few years I realized that I needed to make a change in my products and have slowly started purchasing more and more Jane Iredale products. I cannot recommend this powder foundation enough for anyone who has oily skin and wants a full coverage foundation that looks and feels natural!!!",
+          "reviewDate": "Reviewed in the United States on October 11, 2025",
+          "customer": "A and T",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH6CUKJ6KUK3WN5LFQXWWACFD7TA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Warm Silk"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "The best foundation!",
+          "reviewText": "I recently tried the Jane Iredale makeup powder foundation and I have to say, it's absolutely amazing! This foundation has quickly become my go-to for achieving a flawless and natural-looking complexion. One of the things I love about this powder foundation is its lightweight. It feels very light on the skin and allows it to breathe, which is perfect for those who prefer a more natural and comfortable makeup look. It doesn't feel heavy or cakey at all, even after hours of wear. The coverage of this foundation is also impressive. It provides just the right amount of coverage to even out my skin tone and conceal any imperfections, while still allowing my skin to look like skin. It doesn't settle into fine lines or emphasize dry patches, giving me a smooth and radiant finish. Another great feature of this foundation is its long-lasting power. It stays put throughout the day, even in humid weather or during physical activities. I don't have to worry about it melting off or fading, which is a huge plus for me. I use the Jane D2O spray prior to putting on the powder and a final spritz after applying to set. I also appreciate the fact that Jane Iredale powder foundation is made with high-quality and skin-friendly ingredients. It is free from harsh chemicals and irritants, making it suitable for sensitive skin types. It gives me peace of mind knowing that I'm not compromising the health of my skin while wearing it. Overall, I feel Jane Iredale foundation is a game-changer. I highly recommend it to anyone!",
+          "reviewDate": "Reviewed in the United States on March 7, 2024",
+          "customer": "Emily Earnest",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFQ73GUXXZZ2PEMNGBUPMWRO23PQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Golden Glow"
+          },
+          "helpfulVotes": "60 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best foundation ever!!!",
+          "reviewText": "I was upset with my old powder foundation that is from another name brand that is advertised a lot for women over 40. I asked my dermatologist to see what she recommended. She said they use Jane iredale. I tried it and I\u2019m so very happy. It actually covers my face and I\u2019m not as self conscious anymore. The color match is great, and the foundation feels so light on your skin.",
+          "reviewDate": "Reviewed in the United States on February 4, 2026",
+          "customer": "Kelly0",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHIW3EFHJ2VBEPLT4QKWICQVUNFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Suntan"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wonderful mineral powder foundation",
+          "reviewText": "Wow this powder foundation blew all the other powder foundations I\u2019ve tried out of the water. I have this strong yellow undertone to my skin and always struggle, I purchased warm sienna and by all means it\u2019s not dark at all. This foundation leaves a soft natural glow that makes my skin look natural yet covers imperfections very well. It also feels light weight on my skin and lasts 8 hours before it starts to break down with my oily skin but the Danessa Myricks yummy skin blurring balm powder that I use as a primer in universal helps with all that. Highly recommend on mature skin since I\u2019m in my 40\u2019s those pesky fine lines look smooth.",
+          "reviewDate": "Reviewed in the United States on November 23, 2025",
+          "customer": "Anna grob",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFU4VYFS362RZCE6FDETXO7DIDVQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Warm Sienna"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "O",
+          "reviewText": "I have used this powder for years. I used to have very oily but also sensitive skin and it has worked well to even skin tone, set makeup and absorb oil. You can build up more product for greater coverage on blemishes, but I it's overall pretty sheer to light coverage. I have very pale, fair skin and they have a shade that works well for me, without any issues with oxidizing or turning orange. I like the ability to refill the compact, too.",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Susan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH6MGWQH43NE4TWW2KI6A33676BA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Ivory"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Would recommend for youthful completions.",
+          "reviewText": "Good coverage, but not meant for women of age with wrinkles. It cakes in the wrinkles. I wish I could figure out how to prevent the caking. You can layer for coverage. The color was a little darker than I needed. If on sale, it is a good value for your money.",
+          "reviewDate": "Reviewed in the United States on December 2, 2025",
+          "customer": "Jill Miller",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHKRDWNFUPGH7BPMH7IZV7BTRQHA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Radiant"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup",
+          "reviewText": "This is the best! Lightweight, but layered coverage without looking cakey. Its like my own skin!",
+          "reviewDate": "Reviewed in the United States on January 16, 2026",
+          "customer": "Lena Webb",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHS5XBAHHF4VQJCZJ6XA57ESEKHQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Satin"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Five Stars",
+          "reviewText": "Quick delivery of an excellent product.",
+          "reviewDate": "Reviewed in the United Kingdom on November 4, 2015",
+          "customer": "Dobermann1",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Satin"
+          }
+        },
+        {
+          "reviewTitle": "Simply the best",
+          "reviewText": "Great and quick delivery thank you",
+          "reviewDate": "Reviewed in the United Kingdom on February 15, 2016",
+          "customer": "Mrs. L. W. Parker",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Riviera"
+          }
+        },
+        {
+          "reviewTitle": "TERRIFIC PRODUCT",
+          "reviewText": "THE PERFECT SOLID POWDER. GIVES A BEAUTIFUL LOOK EVEN WHEN USED LIGHTLY. LASTS A LONG TIME.",
+          "reviewDate": "Reviewed in the United Kingdom on February 22, 2025",
+          "customer": "celia",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "style": "Refill",
+            "color": "Latte"
+          }
+        }
+      ]
+    }
+  }
+}

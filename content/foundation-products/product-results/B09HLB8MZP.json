@@ -1,0 +1,347 @@
+{
+  "requestMetadata": {
+    "id": "21326243-4f0f-4463-a42c-2c609c94726d",
+    "status": "ok",
+    "html": "https://files.hasdata.com/21326243-4f0f-4463-a42c-2c609c94726d.html",
+    "json": "https://files.hasdata.com/21326243-4f0f-4463-a42c-2c609c94726d.json",
+    "url": "https://www.amazon.com/dp/B09HLB8MZP"
+  },
+  "product": {
+    "asin": "B09HLB8MZP",
+    "url": "https://www.amazon.com/dp/B09HLB8MZP",
+    "title": "L'Oreal Paris Age Perfect 4-in-1 Tinted Face Balm Foundation with Firming Serum, Medium 10, 0.61 Ounce",
+    "isAvailable": true,
+    "featureBullets": [
+      "4-in-1 Tinted Balm: Providing the Benefits of a skincare balm plus the coverage of a foundation, this tinted balm offers 4-in-1 benefits: It firms, smooths lines, conceals imperfections, and evens tone",
+      "Anti-Aging Formula: This balm with Firming Serum melts into skin to instantly smooth your complexion and minimize imperfections like wrinkles and fine lines while providing comfortable wear throughout the day",
+      "Flawless Finish: From matte for oily skin to cream for dry skin and everything in between, find the formula that works with your skin, from long-lasting foundation to tinted moisturizers",
+      "Because You're Worth It: Create the look you want with our full line of makeup including foundations, concealers, highlighters, brow pencils, eyeshadow palettes, lipsticks and much more",
+      "L'Oreal Paris Beauty: A leading total beauty care company based in Paris, we offer innovative products and unique expertise from beauty experts in makeup, skin care, hair care, styling and hair color"
+    ],
+    "description": "Skincare-Inspired Formula. Makeup Results plus Anti-Aging Care in 1 Swipe. A Tinted balm with 4-in-1 Benefits - Firms Overtime - Smooths Lines - Conceals Imperfections - Evens Tone. Infused with Firming Serum and 91% of women agree product minimizes imperfections like wrinkles and fine lines. Formula Melts into Skin Instantly & Smooths Complexion. Our Firming Serum Restores Skin Firmness. 100 percent agree skin feels comfortable throughout the day. Available in 8 Light to Medium coverage Blendable Shades ranging from deep to fair.",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.94,
+      "beforePrice": 9.99,
+      "discount": "-11%",
+      "priceFrom": 8.94,
+      "otherOfferQuantity": 6
+    },
+    "deliveryRawDate": "April 6 - 8",
+    "deliveryIsoDate": "2026-04-06T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "returns": "30-day refund/replacement",
+    "seller": "Explosive Bargains",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A15KTJDLAUM4UA",
+    "shipper": "Explosive Bargains",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/71KiiQKzrtL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71KiiQKzrtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Cxg3tSYdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81IENGiNxOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81nl50bI22L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91lp-jSvV8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81DT1Pyf5OL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/02ee559e-27dc-4523-a9b8-7c46b117a45d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/87d35807-39b1-4668-bd73-e035ee6e0c79.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d0d6091b-83ec-4cf3-bd0a-cc62728c9914.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8c129aee-7dcb-4741-8e50-3674e45166a1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b5a5d21-2a68-4b94-9842-9f56a8e8af43.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/25ccc284-32a0-4386-8e92-9afa6ebebc5c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/69c6a4bc-1d6f-4ed8-bd7e-b01cbcf55760.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ee398cf-bf24-46ad-acbb-93d9105940bc.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b50b8a5-f028-43f0-98dc-645b78fad2fa.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74a00bd1-04e0-401f-b50a-043714dd6083.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d53a05f9-d6e4-4ca1-bb6a-060c7a362c13.__CR0,0,488,700_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d75faa2e-5917-4c82-8fb8-d447c3c2c28a.__CR0,0,488,700_PT0_SX488_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e4424022-0ffb-43ef-8585-0b69193964f4.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/32ac2bef-7e64-4d59-b878-c9290df2e1f1.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Balm"
+      },
+      {
+        "key": "Color",
+        "value": "Medium 10"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Anti-Aging, Firming, Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "UPC",
+        "value": "071249649923"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "K5079200"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Foundation"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#37,026 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #330 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B09HLB8MZP"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Anti-aging,Matte"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.64 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.22 x 2.22 x 1.23 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 976,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "57%",
+        "fourStars": "14%",
+        "threeStars": "13%",
+        "twoStars": "6%",
+        "oneStars": "10%"
+      },
+      "customersSay": "Customers find this foundation balm provides good coverage while being lightweight and smooth on the skin, with a creamy texture that makes skin look beautiful. The product stays on all day and blends well, with one customer noting it doesn't sink into fine lines or wrinkles. The color match receives mixed feedback, with some customers saying it matches their skin tone perfectly while others find the medium shade too orange.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 36,
+          "status": "positive"
+        },
+        {
+          "aspect": "Consistency",
+          "count": 22,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 20,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 16,
+          "status": "positive"
+        },
+        {
+          "aspect": "Appearance",
+          "count": 15,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 13,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 13,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 39,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61ubzONNL5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Nf9RnYWDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/21tbrdLLqDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/717Ti2s3txL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71yHvDFqejL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/31EQYATFoDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61iJd3tQPiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61TEB21-byL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61E5QmUxAyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61d9Ntvv9sL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-kzp7svyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7185g5ssG0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "The best foundation ever!",
+          "reviewText": "I am 50 years old with moderately dry skin. I always struggled with foundations because no matter what I\u2019ve tried- they all look cakey & make my face look dry. Not this one! It is absolutely amazing! I have received so many compliments in my skin since switching to this. It makes me look smooth, dewey & glowing. It never soaks into my wrinkles & stays on all day. It also minimizes my redness, covers broken capillaries around my cheeks and nose and gives me a natural looking, even skin tone. I use Light 20 in winter then switch to Medium 10 in summer when I get a tan. It blends great too, even if you don\u2019t match the color perfectly because you use your fingers to apply it, like a moisturizer. I just pray they never discontinue this face balm!",
+          "reviewDate": "Reviewed in the United States on May 6, 2024",
+          "customer": "Lisa M.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGWHKMX5IZLTBWUGLK75G3PG2CAA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "19 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth and great coverage",
+          "reviewText": "Great coverage. Smooth and it feels great!",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Ana Lira",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEIBQM3NUN5SS3OLFGJMBHDNHOXQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "My ccolor",
+          "reviewText": "I love this stuff that makes me look young I have a scar in the middle of my forehead that's why I took the video so you guys could see and it covers it up and this stuff helps and you can literally cannot tell I'm wearing it at all I love it and my color is this color and I love it you can't even tell I'm wearing it",
+          "reviewDate": "Reviewed in the United States on June 4, 2024",
+          "customer": "Toshia Tabish",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMCSAWAWZIE3QCOE6BIBZ2DQVLA",
+          "customerStarsRating": 4,
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "Colors not accurate. Need to purchase in person",
+          "reviewText": "Colors not accurate",
+          "reviewDate": "Reviewed in the United States on January 7, 2026",
+          "customer": "RW",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF76JFS6WW42Z5QTRLMHMMKJIGNQ",
+          "customerStarsRating": 3
+        },
+        {
+          "reviewTitle": "stock up while you can on this holy grail",
+          "reviewText": "this is a holy grail product for me!! it goes on so smoothly and it gives me a natural glowy look without putting on heavy foundation. i throw this on with primer and blush, and that's all i really need. p.s - it is discontinued officially by the l'oreal company so stock up while you can ladies.",
+          "reviewDate": "Reviewed in the United States on February 7, 2026",
+          "customer": "cyan thorington",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH6LPCUK665SVPQ2RNDXINICBICA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Too orange",
+          "reviewText": "Tone is too orange. I ordered the medium and the tone is just orange",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "ZINDY MURILLO",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQNNTB5SBMTLV7AIOQWR3V43SIQ",
+          "customerStarsRating": 1
+        },
+        {
+          "reviewTitle": "Great",
+          "reviewText": "Love this makeup",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Kathy Wisener",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEMNIXKX6IA35HOZHD5XVZUQJMMA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Nice",
+          "reviewText": "Nice",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "SANDRAMATA",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEYFATGO674RRR5VPIBNHED2QU6A",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Light, natural feeling",
+          "reviewText": "I confess that I bought this after seeing a YouTube influencer recommended it. It really is a great product for aging skin. I\u2019m not sure of the \u201cfirming, etc\u201d claims, but is so light and it doesn\u2019t settle into fine lines and wrinkles. Although it\u2019s very light coverage, it\u2019s slightly buildable. It sort of melts into your skin, evening tone, moisturizing and improving texture. Colours run dark, so you need to go lighter than usual. This is my new \u201cdaily wear\u201d makeup. It is so natural looking.",
+          "reviewDate": "Reviewed in Canada on April 18, 2022",
+          "customer": "Shazzeryyc",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "light dewy magic",
+          "reviewText": "love this, gives my 50 something skin a fresh dewy glow.",
+          "reviewDate": "Reviewed in Canada on November 3, 2025",
+          "customer": "LISA VISSER",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Return more expensive than item",
+          "reviewText": "Do not buy unless you are SURE it is the right colour for you \u2014 it\u2019s too orange for me and in order to return it (unopened) I\u2019d have to pay shipping which is more expensive than the item is worth.",
+          "reviewDate": "Reviewed in Canada on March 22, 2026",
+          "customer": "M",
+          "customerStarsRating": 2
+        },
+        {
+          "reviewTitle": "Good price",
+          "reviewText": "This is a nice product, if you color match properly. Super hydration.",
+          "reviewDate": "Reviewed in Canada on December 6, 2024",
+          "customer": "Penney",
+          "customerStarsRating": 4
+        }
+      ]
+    }
+  }
+}

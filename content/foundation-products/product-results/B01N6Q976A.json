@@ -1,0 +1,539 @@
+{
+  "requestMetadata": {
+    "id": "91f7ef0c-b65f-4796-bbeb-1874145d4cde",
+    "status": "ok",
+    "html": "https://files.hasdata.com/91f7ef0c-b65f-4796-bbeb-1874145d4cde.html",
+    "json": "https://files.hasdata.com/91f7ef0c-b65f-4796-bbeb-1874145d4cde.json",
+    "url": "https://www.amazon.com/dp/B01N6Q976A"
+  },
+  "product": {
+    "asin": "B01N6Q976A",
+    "url": "https://www.amazon.com/dp/B01N6Q976A",
+    "title": "wet n wild Photo Focus Matte Liquid Foundation Desert Beige, Vegan & Cruelty-Free",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Desert Beige",
+      "size": "0.29 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Our new high-performing, skin-perfecting foundation underwent major road testing under seven different photo lighting conditions to deliver flawless camera-ready makeup every time.",
+      "Say no to white cast with this breakthrough formula, featuring a light-adjusting complex that stays selfie-perfect anytime, anyplace. Tested under 7 light conditions, both with and without the flash.",
+      "Specially made with a matte, light-diffusing complex to give your skin #nofilter perfection.",
+      "Color matched for all undertones with a matte, second-skin finish-soft focus properties help perfect appearance of skin",
+      "Your skin, only better. Our new high-performing, skin-perfecting foundation underwent major road testing under seven different photo lighting conditions to deliver flawless camera-ready makeup every time. Specially made with a matte, light-diffusing complex to give your skin #nofilter perfection."
+    ],
+    "description": "Your skin, only better. Our new high-performing, skin-perfecting foundation underwent major road testing under seven different photo lighting conditions to deliver flawless camera-ready makeup every time. Specially made with a matte, light-diffusing complex to give your skin #no filter perfection.",
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B01NCVHCJR",
+        "title": "Shell Ivory 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01NCVHCJR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JYhfp1+KL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01N9R1CA8",
+        "title": "Buff Bisque 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01N9R1CA8",
+        "imageUrl": "https://m.media-amazon.com/images/I/41vQpz8OEYL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0BK1XD5TZ",
+        "title": "Shell Ivory 1 Fl Oz (Pack of 4)",
+        "url": "https://www.amazon.com/dp/B0BK1XD5TZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/3152Ny9WDgL.jpg"
+      },
+      {
+        "asin": "B0BPWGCJ55",
+        "title": "Caramel 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BPWGCJ55",
+        "imageUrl": "https://m.media-amazon.com/images/I/71hkRAsC2xL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YPNTZF",
+        "title": "Walnut 1.06 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YPNTZF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71YnUfBELSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BPWK1DLT",
+        "title": "Amber Beige 0.29 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BPWK1DLT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SbNebR9oL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01NASKTM9",
+        "title": "Golden Beige 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01NASKTM9",
+        "imageUrl": "https://m.media-amazon.com/images/I/41SH3k0JN7L._SL1000_.jpg"
+      },
+      {
+        "asin": "B0FYKFB3KK",
+        "title": "Desert Beige 0.29 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKFB3KK",
+        "imageUrl": "https://m.media-amazon.com/images/I/715uscQxZcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01NASKQMS",
+        "title": "Rose Ivory 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01NASKQMS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Xj+17L0GL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BPW6NW3S",
+        "title": "Porcelain 0.29 Fl Oz (Pack of 4)",
+        "url": "https://www.amazon.com/dp/B0BPW6NW3S",
+        "imageUrl": "https://m.media-amazon.com/images/I/41w0cPgy4nL.jpg"
+      },
+      {
+        "asin": "B0FYKBXGKZ",
+        "title": "Bronze Beige 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKBXGKZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SAd7RmS5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01NCVFXEP",
+        "title": "Classic Beige 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01NCVFXEP",
+        "imageUrl": "https://m.media-amazon.com/images/I/41rVd1fvMPL._SL1000_.jpg"
+      },
+      {
+        "asin": "B01MZ6YP7J",
+        "title": "Nude Ivory 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MZ6YP7J",
+        "imageUrl": "https://m.media-amazon.com/images/I/41y+GlRH3BL._SL1000_.jpg"
+      },
+      {
+        "asin": "B01N7RJHPV",
+        "title": "Peach Natural 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01N7RJHPV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iHcqQ8ReL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01NCVIP1U",
+        "title": "Caramel 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01NCVIP1U",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JXPc+lSSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01NBU2OS8",
+        "title": "Cream Beige 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01NBU2OS8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RB9kKZU+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01N338LO1",
+        "title": "Amber Beige 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01N338LO1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71sn1+VTp6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01N6Q976A",
+        "title": "Desert Beige 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01N6Q976A",
+        "imageUrl": "https://m.media-amazon.com/images/I/71devdlJktL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01MUA1F3J",
+        "title": "Bronze Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MUA1F3J",
+        "imageUrl": "https://m.media-amazon.com/images/I/71d+JLyK7bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01NCVFXEO",
+        "title": "Porcelain 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01NCVFXEO",
+        "imageUrl": "https://m.media-amazon.com/images/I/41OmGVX8+hL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0BPWQ7J8X",
+        "title": "Rose Ivory 0.29 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BPWQ7J8X",
+        "imageUrl": "https://m.media-amazon.com/images/I/71a9zYiN5pL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKMHJ3W",
+        "title": "Nude Ivory 0.29 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKMHJ3W",
+        "imageUrl": "https://m.media-amazon.com/images/I/519AnXxrBtL._SL1402_.jpg"
+      },
+      {
+        "asin": "B0BVQ2ZS5J",
+        "title": "Soft Ivory 1 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BVQ2ZS5J",
+        "imageUrl": "https://m.media-amazon.com/images/I/71tU0eYR4RL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01MY7M3R8",
+        "title": "Soft Beige 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MY7M3R8",
+        "imageUrl": "https://m.media-amazon.com/images/I/713PLASil4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01MY7M2BG",
+        "title": "Soft Ivory 0.29 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01MY7M2BG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Zilg2dE7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKR6FQD",
+        "title": "Peach Natural 0.29 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKR6FQD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Tn-a0usWL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 5.47,
+      "beforePrice": 6.49,
+      "discount": "-16%",
+      "priceFrom": 5.47,
+      "otherOfferQuantity": 5
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/71devdlJktL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71devdlJktL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71g-hETj4PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eYUAlKFtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61OM5oMB7RL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-M2vUBpmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71lgvsBkQyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51BOU0GxjSL._SL1080_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3eef6f4d-216d-4371-bd7d-c65d2806a311.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39f2beed-fc2f-4ed1-bca1-cf073a94de00.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/05c20c29-8403-490a-9d2a-84a9707d3920.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab764d3e-d052-4482-b618-93e5f35bfab3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d89a0f87-42f1-4b07-9d46-646ff924af0d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cef11ec2-68e0-4746-bb9a-3203e4bae0a6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/67ac9d93-390d-4f2c-bc48-6fcc26234962.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfedb611-2ceb-44e3-bf37-88a1c347d0a7.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/141aec82-0ff1-44ac-8af0-0dfa6d931dd1.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Desert Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Combination, Dry, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "wet n wild"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium Deep"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Oiliness & Visible Pores"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "China"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00077802537232"
+      },
+      {
+        "key": "UPC",
+        "value": "077802537232"
+      },
+      {
+        "key": "Model Number",
+        "value": "372C"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "372C"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Markwins Beauty Products"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Matte Liquid Foundation"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#8,237 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #93 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01N6Q976A"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Hypoallergenic, Not-Tested-On-Animals"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Buildable Coverage"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.29 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3.97 x 1.53 x 3.97 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "cruelty free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 24719,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "69%",
+        "fourStars": "14%",
+        "threeStars": "9%",
+        "twoStars": "3%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this foundation to be a great drugstore option with buildable coverage that stays in place throughout the day. They appreciate its natural-looking finish, with one customer noting it provides full coverage without looking cakey. The foundation receives positive feedback for its value as an affordable full coverage option, and customers like how it goes on smoothly. The color receives mixed reviews - while some say it matches their skin perfectly, others find it too dark. The scent receives negative feedback, with customers describing it as having a strong paint thinner smell.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 519,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 502,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 454,
+          "status": "positive"
+        },
+        {
+          "aspect": "Appearance",
+          "count": 301,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 289,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 289,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 325,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Scent",
+          "count": 324,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71ESCAXOXlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/715gIzvBl7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7129CJqI1hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61qwDCtUpvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71FOTV5QTKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71XYNciXVfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YDzxT695L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61hLR0cGO1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61TaOwdi3YL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Rsrb2c-7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/414VQhkUkVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/617VrWkx+yL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great foundation",
+          "reviewText": "One of my go to foundations. It is tru to colour, easy to apply and stays on for a long time. It's not full coverage but it is very buildable and light weight on the skin. All in all a great foundation and I would definitely repurchase",
+          "reviewDate": "Reviewed in the United States on February 22, 2026",
+          "customer": "Crystal",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF65TMY3PXXEI26F6ZB4PBBMHIOA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Soft Beige",
+            "size": "0.29 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "A filter for your face in real life! A $5 dupe for the high end $40 EL Double Wear!",
+          "reviewText": "Let me start off by saying that I absolutely love makeup and I have a huge collection of everything from dollar store to high end, but foundation isn\u2019t something that I typically shop around for. I have tried various different foundations, but I always go back to my one tried and true holy grail foundation: Est\u00e9e Lauder Double Wear. I\u2019ve been using it for the last 10 years and my mother has used it faithfully for the last 15-20. Not only does it give a flawless finish, but it could last through a hurricane with its 24hr wear. At $42 a bottle, I\u2019ve always found that it really is worth the price for all of the positives it packs. I have \u201ccombination\u201d skin that typically leans on the more dry side. I do, however, get pretty oily on the sides of my nose and the middle of my forehead (the \u201ct-zone\u201d). I recently started watching a beauty blogger who uses the Wet n Wild Photofocus pretty frequently in her videos. I looked at the foundation in a store here that carries it but they only had about 6 shades and none of them were close to my shade. I stumbled across the foundation on Amazon for $5 and figured \u201cwhat the heck?! It\u2019s only $5!\u201d First I went onto Wet n Wilds website and looked at all the different shades they carry so I would get a good idea of where I thought I might fall. In Est\u00e9e Lauder I wear 2n1 Desert Beige so I decided to order the Photofocus in Nude Ivory which is also a neutral shade that\u2019s pretty fair but not as fair as porcelain. When I got the foundation I was excited to try it but I was also VERY skeptical. Too many times I\u2019ve been fooled by the hype around a drug store foundation that turned out to be awful for me and came nowhere close to comparing to my Double Wear. I first tried it on all over my face at night just to see how the color match looked and to see if it oxidized any after it dried down. It was literally a PERFECT match. I was concerned when I first opened the bottle because it seemed to look and feel very thin. The smell didn\u2019t bother me as much as I thought it would after reading other reviews. I put it on using a stippling foundation brush and it was a more medium coverage until I applied a little more and it was a more medium-high coverage. It is very buildable which I like! The finish was beautiful and after it dried down it gave my skin a very airbrushed look without settling into any fine lines. I was surprisingly pleased but I knew the true test would be how it survived an entire work day. I work in a very busy restaurant. I\u2019m constantly running around and going back and forth into a 100 degree kitchen. It isn\u2019t uncommon for my steps to track anywhere from 6-12 miles per shift depending on how busy we are. I\u2019m also pretty hot-natured anyway so the sweating is inevitable! Most foundations will slide right off your face by the end of the night! I wore it to work yesterday for the first time. I applied it around 2:00 and worked an entire busy hot shift. I took this photo at midnight before I left to go home and my foundation STILL LOOKED JUST AS FLAWLESS!! I do use a silicone based primer, baking powder, and matte setting spray to extend the life of my foundations. It passed my test and exceeded every expectation I had which is unbelievable for a $5 foundation! I\u2019m honestly shook at the fact that a $5 Wet n Wild foundation is the first foundation that\u2019s been able to come close to comparing to the much more expensive Est\u00e9e Lauder high-end counterpart!!!! TL,DR: If you\u2019re on the fence, buy it! This pic is after wearing it for an entire sweaty shift at the end of a 10 hour day. After faithfully wearing $42 Est\u00e9e Lauder Double Wear makeup for the last 10 years, this is the first foundation out of any high-end or drugstore that is truly comparable and worthy of being called a \u201cdupe\u201d. I have extremely sensitive \u201ccombination\u201d skin that is very dry with an oily t-zone. I\u2019m 2n1 in Est\u00e9e and the WnW neutral shade Nude Ivory is a PERFECT MATCH and it\u2019s only $5!!!!!! This is definitely a new staple in my makeup collection!",
+          "reviewDate": "Reviewed in the United States on February 27, 2018",
+          "customer": "The Foodie Beauty Blog",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH2WBXAUOCZICHXUPXPWMATAL2PA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Nude Ivory",
+            "size": "0.29 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "919 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Coverage, Just a Little Heavier Than I Prefer \ud83d\udc84\u2728",
+          "reviewText": "I really like this foundation and was impressed with the coverage. It goes on smoothly and does a great job evening out my skin tone. The color matched well, and it gives a nice matte finish that lasts throughout the day. The only downside for me is that it feels a little heavier than I prefer, especially if you like lightweight or barely-there makeup. It would be perfect for someone who wants fuller coverage, but I personally prefer something lighter for everyday wear. Pro tip: Apply with a damp sponge and light layers for a more natural feel. Overall, a good foundation with strong coverage and staying power. \ud83d\udc96\u2728",
+          "reviewDate": "Reviewed in the United States on February 4, 2026",
+          "customer": "Simply Sara Sue",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEDWW2UI3NTIT5SNIPDYWM6GTVWQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Rose Ivory",
+            "size": "0.29 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love",
+          "reviewText": "This stuff beats many expensive brands and I've tried them ALL!! Great color match and it blends beautifully! This price can't be beat!! Love it!! I prefer this one to the \"dewy\" foundation but, this brand rocks!!",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Chrissy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEUEE6MKCRBSN4JGWSI4JMN5R4IA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Shell Ivory",
+            "size": "0.29 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great !!!!",
+          "reviewText": "I've been using this for years...it is great...covers very well and dries quickly....I recommend..",
+          "reviewDate": "Reviewed in the United States on February 21, 2026",
+          "customer": "Jean Fig",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6SUEKG3VG6ORZIQSYHWZ4BHBMA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Desert Beige",
+            "size": "0.29 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Easy to apply, super colour matches!",
+          "reviewText": "I knew what to expect as far as bottle size. Figured it was a clearance product as it was only $2.99 and did not have niaminicide added. Surprised at the thickness of product AND the chemical smell. Oh well, I just thin it out and wait for it to dry once I\u2019ve applied my base serums and sunscreen. The colour matches my fair skin very well, so all-in-all I feel as though I stumbled upon a super deal! Thanks Amazon AND wet \u2018n wild (nude/ivory matte photofocus foundation. Happy Holidays!",
+          "reviewDate": "Reviewed in the United States on December 10, 2025",
+          "customer": "2026violet",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGPZ5YHHDOEO4VSP5N3NXZE7LF4A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Nude Ivory",
+            "size": "0.29 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Foundation",
+          "reviewText": "I love this foundation it\u2019s so smooth! I use to wear E.L.F foundations before but after trying this one out I prefer it over the other ones. The price is decent and the bottle last long depending on how much you use. This foundation is the only one I use now that I had to come back and buy more. Totally recommend it!",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "R3drav3n",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFLIYPUGBBG2O7TPXRYBRWUH4BGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Amber Beige",
+            "size": "0.29 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup!",
+          "reviewText": "Great makeup. Perfect match and I no longer have to spend $75 + for make up.",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Linda M",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF2ITQKSI5TZ64RMTU4XNGZRDQQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Desert Beige",
+            "size": "0.29 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Not bad",
+          "reviewText": "Not bad though quite gritty in texture. Coverage ok.",
+          "reviewDate": "Reviewed in the United Kingdom on October 11, 2018",
+          "customer": "Mrs Thomson",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "Caramel",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

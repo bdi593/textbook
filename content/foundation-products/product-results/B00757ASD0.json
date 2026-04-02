@@ -1,0 +1,397 @@
+{
+  "requestMetadata": {
+    "id": "2e81d94e-0403-454d-a7a6-c3e05bf24537",
+    "status": "ok",
+    "html": "https://files.hasdata.com/2e81d94e-0403-454d-a7a6-c3e05bf24537.html",
+    "json": "https://files.hasdata.com/2e81d94e-0403-454d-a7a6-c3e05bf24537.json",
+    "url": "https://www.amazon.com/dp/B00757ASD0"
+  },
+  "product": {
+    "asin": "B00757ASD0",
+    "url": "https://www.amazon.com/dp/B00757ASD0",
+    "title": "CoverGirl Aquasmooth SPF 20 Compact Foundation, 725 Buff Beige, 0.4 Ounce",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.4 Ounce (Pack of 1)",
+      "color": "# 725 Buff Beige"
+    },
+    "featureBullets": [
+      "For a flawless look that provides ultimate coverage and comfort",
+      "Protects skin from uv damage and prevents uneven skintone and the appearance of wrinkles",
+      "Product Packing May Vary",
+      "Protects skin from uv damage and prevents uneven skintone and the appearance of wrinkles"
+    ],
+    "description": "Designed with Aqua current science, this vitamin-enriched formula directs moisture to your skin's surface to improve its condition over time, while giving smooth, even coverage that makes imperfections virtually vanish before your eyes. This solid compact foundation makeup transforms into a liquid during application, then dries to an even, powder-light finish.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0D14ZPMZM",
+        "title": "0.4 Ounce (Pack of 2) # 725 Buff Beige",
+        "url": "https://www.amazon.com/dp/B0D14ZPMZM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SjWm2TFBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00J4YIS5M",
+        "title": "0.4 Ounce (Pack of 1) # 730 Classic Beige",
+        "url": "https://www.amazon.com/dp/B00J4YIS5M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61m4RjKVPzL._SL1280_.jpg"
+      },
+      {
+        "asin": "B00KDJBS8Q",
+        "title": "0.4 Ounce (Pack of 1) CREAMY NATURAL",
+        "url": "https://www.amazon.com/dp/B00KDJBS8Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/81NZKJAeO-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00NBIZR9C",
+        "title": "0.42 Ounce (Pack of 1) # 710 Classic Ivory",
+        "url": "https://www.amazon.com/dp/B00NBIZR9C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TJ5pLt6YL._SL1280_.jpg"
+      },
+      {
+        "asin": "B00757ASD0",
+        "title": "0.4 Ounce (Pack of 1) # 725 Buff Beige",
+        "url": "https://www.amazon.com/dp/B00757ASD0",
+        "imageUrl": "https://m.media-amazon.com/images/I/71hm2R-GFTL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.88,
+      "beforePrice": 9.88,
+      "discount": "-5%",
+      "priceFrom": 9.87,
+      "otherOfferQuantity": 8
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 3,
+    "primaryImage": "https://m.media-amazon.com/images/I/71hm2R-GFTL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71hm2R-GFTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51I5unUxUfL._SL1248_.jpg",
+      "https://m.media-amazon.com/images/I/51NFmgRH8qL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/sota/101d4454-b5d2-4fc7-9a52-67fa255fe7cb.__CR0,0,2368,2368_PT0_SX300_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/370d5fbd-e25b-4ae3-af56-1096828c0f59.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/871011ef-ff3d-4b6b-a802-6b3c3e937785.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "# 725 Buff Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "COVERGIRL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless,Moisture"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00022700576654"
+      },
+      {
+        "key": "UPC",
+        "value": "022700576654"
+      },
+      {
+        "key": "Model Number",
+        "value": "80261930"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "57556 725BUFBEI"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "HFC Prestige International U.S. LLC"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#6,427 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #71 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00757ASD0"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "20 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Powder Light"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.18 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "36.3 x 8 x 66.3 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3113,
+      "rating": 4.8,
+      "starRates": {
+        "fiveStars": "87%",
+        "fourStars": "9%",
+        "threeStars": "3%",
+        "twoStars": "0%",
+        "oneStars": "1%"
+      },
+      "customersSay": "Customers find this foundation flawless, with good coverage that's easy to apply and goes on smoothly like a liquid foundation. The product matches skin tone perfectly and leaves skin looking flawless all day, with one customer noting it works well for mature skin. Customers appreciate its lightweight feel and natural appearance, with one mentioning its soft powdery glow.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 88,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 86,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 76,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pore coverage",
+          "count": 58,
+          "status": "positive"
+        },
+        {
+          "aspect": "Smooth application",
+          "count": 44,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 43,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 36,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 34,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71JehUcvjfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/B1pG7PKE6LS._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61nBefl47+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/A1O1z3ph4gL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61zPtunG1-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/A13Y3qaHgJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61TCv4uP47L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "I love this product",
+          "reviewText": "This foundation is great. It doesn't take much to cover. I get a lot of compliments on my skin, and I'm 73, because it cover a multitude of sins. I have a few dark spots and this makeup covers well and very smooth. The sponge applicator is what, i believe, make this apply so smoothly. I have used this for years. It feels very light and you don't feel like it's there. I order this on subscription to receive regularly. The price very is reasonable. Definitely will reorder.",
+          "reviewDate": "Reviewed in the United States on December 12, 2024",
+          "customer": "Robin Guthrie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFYXNG7P3JRCEVQQ3EPBYSVC6Q4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.4 Ounce (Pack of 1)",
+            "color": "# 725 Buff Beige"
+          },
+          "helpfulVotes": "27 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light and soft not heavy.",
+          "reviewText": "I was getting another compact foundation and switched to this one after a trial. It is amazing and blurs pores and looks light not heavy. It also has a light moisture feel but is not shiny or heavy. My new fav!",
+          "reviewDate": "Reviewed in the United States on January 23, 2026",
+          "customer": "Animals only",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHTVFMEPLZYGWJJ3VGKFNKPFBESQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.42 Ounce (Pack of 1)",
+            "color": "# 710 Classic Ivory"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth silky and protects skin",
+          "reviewText": "Covergirl aqua smooth SPF 20 really is easy to apply and it\u2019s nice it has the SPF in it. It is lightweight, and as I have mentioned, it has the protection qualities from the sun. In the future, I plan to purchase again as needed.",
+          "reviewDate": "Reviewed in the United States on January 29, 2026",
+          "customer": "Gwen Wright",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHN5TVUNTHFQOGJPSEQBNM44J4QA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.4 Ounce (Pack of 1)",
+            "color": "# 725 Buff Beige"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love this one!",
+          "reviewText": "I buy this everytime it\u2019s a great choice! Blends pretty well. Covers blemished really well!",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Chloey",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGRMQTOIWJNYHHZMGA4WJCGJWX4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.42 Ounce (Pack of 1)",
+            "color": "# 710 Classic Ivory"
+          }
+        },
+        {
+          "reviewTitle": "Nice Even Coverage & Great Value for The Price",
+          "reviewText": "I have had a hard time finding this particular makeup in stores near me. I was happy to find it on Amazon. I have used Cover Girl products since the 70's. I have used more expensive brands over the years and have not been as pleased with them for one reason or another. The CG Aqua Smooth has just the right amount of moisturizer for my skin without being too oily. It is easy to apply and looks natural. The scent is light and pleasant. My skin has changed over the years. I am so glad that I can still use Cover Girl products. Brings back memories of it being my first makeup.",
+          "reviewDate": "Reviewed in the United States on August 28, 2025",
+          "customer": "Grace Tyree",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGTKZTDBZMWW73KBYMMBA3AVQJJA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.42 Ounce (Pack of 1)",
+            "color": "# 710 Classic Ivory"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice medium coverage. Light and airy.",
+          "reviewText": "I like this but I may have gotten the wrong color as these is too much grey in it. I look a bit dead similar to the Korean colors which have either a grey base or yellow base. It does go on very smoothly and the texture is nice. You can easily adjust the coverage by applying more or less. I use primarily on my red cheeks to ton that color down. It seems to last all day without moving or smudging. Not sure if I would put this on my neck and then say wear a white shirt however.",
+          "reviewDate": "Reviewed in the United States on April 6, 2025",
+          "customer": "MalinoisLover",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AECOSJHZZMFQTYHGEPFP3ZZJ7QPA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.4 Ounce (Pack of 1)",
+            "color": "# 730 Classic Beige"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "It is great makeup. I won't use anything else",
+          "reviewText": "This is the makeup that I always use. It is good makeup. It goes on smooth and I love it. It's the only makeup I will use. Walmart used to sell it but they quit so I order it from Amazon whenever I need it. It is the best place to order it from. Love it!!!!!",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Cathy Wall",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHMDYUCKB2QQ3IJHC25DPU4GUE2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.4 Ounce (Pack of 1)",
+            "color": "# 725 Buff Beige"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Love this product!",
+          "reviewText": "This is my favorite Covergirl product. I can't find it in the store anymore. I have been using it for years and I guess they have discontinued it. It gave some nice even coverage and was easy to apply",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Barbara",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AES2DFI3FQHN4PUFU544HBOJFLQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.4 Ounce (Pack of 1)",
+            "color": "CREAMY NATURAL"
+          }
+        },
+        {
+          "reviewTitle": "Good quality",
+          "reviewText": "Excellent",
+          "reviewDate": "Reviewed in India on October 3, 2025",
+          "customer": "SHAIK ABDUS SUBHAN",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.4 Ounce (Pack of 1)",
+            "color": "CREAMY NATURAL"
+          }
+        },
+        {
+          "reviewTitle": "Easy to apply",
+          "reviewText": "I have used the product for 5 years. So easy to apply, gives a perfect coverage. Stays in place all day. Perfect colours to blend with skin colour. Great product.",
+          "reviewDate": "Reviewed in Australia on October 15, 2024",
+          "customer": "J",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.4 Ounce (Pack of 1)",
+            "color": "# 725 Buff Beige"
+          }
+        }
+      ]
+    }
+  }
+}

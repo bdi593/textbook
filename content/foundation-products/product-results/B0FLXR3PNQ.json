@@ -1,0 +1,378 @@
+{
+  "requestMetadata": {
+    "id": "e823f109-eef0-479f-a799-ef9ec67f5af3",
+    "status": "ok",
+    "html": "https://files.hasdata.com/e823f109-eef0-479f-a799-ef9ec67f5af3.html",
+    "json": "https://files.hasdata.com/e823f109-eef0-479f-a799-ef9ec67f5af3.json",
+    "url": "https://www.amazon.com/dp/B0FLXR3PNQ"
+  },
+  "product": {
+    "asin": "B0FLXR3PNQ",
+    "url": "https://www.amazon.com/dp/B0FLXR3PNQ",
+    "title": "Foundation Stick, Dual-Ended with Brush, 2-in-1 Longwear & Waterproof, Natural Full Makeup Concealer Coverage for Dark Circles & Blemishes with Hydrating Olive & Camellia, 2.09 oz (04#)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "04#"
+    },
+    "featureBullets": [
+      "Coverage & Hydration: Provides smudge-proof concealing for dark circles, acne scars, and redness while infused with olive oil and camellia seed oil to nourish dry skin without creasing. Ideal for sensitive skin types",
+      "Buildable Creamy Formula & Multi-Use: Glides smoothly for even layering as concealer or foundation, lightweight texture blends seamlessly for natural finish. Twist-up packaging perfect for travel and quick touch-ups.",
+      "Non-Comedogenic: Free of parabens, sulfates, and fragrances. for all skin. Enriched with shea butter to soothe irritation",
+      "Shea Butter & Long-Wear Tech: Enriched with shea butter and hydrogenated polyisobutene for moisture lock, ozokerite base ensures flexible, breathable wear that resists sweat and humidity.",
+      "Travel-Friendly: Twist-up packaging for precise application on blemishes and fine lines"
+    ],
+    "boughtInPastMonth": "800+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FLXQX7CN",
+        "title": "03#",
+        "url": "https://www.amazon.com/dp/B0FLXQX7CN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vJB+Iv3kL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FLXTH9CD",
+        "title": "02#",
+        "url": "https://www.amazon.com/dp/B0FLXTH9CD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61c4kqyteaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP1HP7KQ",
+        "title": "07#",
+        "url": "https://www.amazon.com/dp/B0FP1HP7KQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xnW5LVhbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FP1BTFBQ",
+        "title": "06#",
+        "url": "https://www.amazon.com/dp/B0FP1BTFBQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sr6uu+SyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FLXSF2ZV",
+        "title": "05#",
+        "url": "https://www.amazon.com/dp/B0FLXSF2ZV",
+        "imageUrl": "https://m.media-amazon.com/images/I/613gQYoe0ZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FLXR3PNQ",
+        "title": "04#",
+        "url": "https://www.amazon.com/dp/B0FLXR3PNQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61J4fdRtupL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.99
+    },
+    "deliveryRawDate": "April 7 - 13",
+    "deliveryIsoDate": "2026-04-07T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "fastestDeliveryRawDate": "April 3 - 7",
+    "fastestDeliveryIsoDate": "2026-04-03T00:00:00.000Z",
+    "fastestDeliveryPriceMessage": "fastest",
+    "returns": "30-day refund/replacement",
+    "seller": "VectorBeauty",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AINBQ98C80MK2",
+    "shipper": "VectorBeauty",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61J4fdRtupL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61J4fdRtupL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Dz98AF9vL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qFbLkjv9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811qkNQ4oDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qBVQtagsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/714lw4gWSaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xZy6D1s8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71l4XnVzINL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71X-GbVV00L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fcc0d727-ebc9-4e1f-8052-e7eca83325cc.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a3c2db50-3a8b-49e5-b405-f4a1949dc393.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cefb6112-8412-4a01-a5b0-044b361db8d2.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6e11dca7-4a19-43b7-acd4-bfd00e77c9ba.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8190278a-5760-4feb-a7dd-9445cdef7fbf.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94f0d56a-e37f-4a2d-97e9-e2a054487a34.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/260b266b-fc8c-43cc-8b05-562351e5bedc.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa995152-c1c3-4dbb-830b-c03bdec1869b.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6e6c3be3-a59b-4aed-a566-927897ed24b6.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/84522270-cdcd-421a-b228-6df6aa5b67a7.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e5f504d-d023-4695-be24-82ab462888a6.__AC_SR150,300___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6cac55e7-b966-478b-a4d1-8ec89fad0772.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6cac55e7-b966-478b-a4d1-8ec89fad0772.mp4/productVideoOptimized.mp4",
+      "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A3FSJSS2NCSC3Q/1674670591425/89eafdaa-d6f8-4db6-afb7-b6e44228f760/1674670604014sbv.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15db58e8-611a-4120-b829-96a73ae1b861.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3cd4c1f5-56f7-4ba0-a928-d38e368e1c87.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dccd8b8d-d17a-4a49-9586-a6caca9ee1ba.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "04#"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Normal, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Makeup Base"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "ZAIDOC"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Brightening, Hydrating, Moisturizing, Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "ZAIDOC"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#11,839 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #132 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FLXR3PNQ"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "30 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Long Lasting, Travel Size"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium To Full Coverage"
+      },
+      {
+        "key": "Item Weight",
+        "value": "2.05 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "5.51 x 1.38 x 4.72 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "2.05 Ounce"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 887,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "9%",
+        "threeStars": "9%",
+        "twoStars": "3%",
+        "oneStars": "9%"
+      },
+      "customersSay": "Customers find the foundation stick provides medium to full coverage, with one mentioning it works well for redness and dark circles. The product receives positive feedback for its creamy texture that's not greasy, perfect color matching, and easy application. They appreciate its lightweight feel and natural appearance, while also noting its good blendability.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 57,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 56,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 49,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin match",
+          "count": 35,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 32,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 16,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 15,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 13,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71uWtqfzvBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ZVf9Jo6yL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71a162lg4YL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71J357gzdgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61G+1T4XKfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61jdpGf+qpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61G-jQFlyxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61KpS9XhyKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61iIZErardL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Ha5XvtoKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Dw+cxyCXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61soyIPlnJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "I love \u2764\ufe0f it",
+          "reviewText": "stick! The formula is creamy, smooth, and blends effortlessly into the skin. It gives amazing full coverage without feeling heavy or cakey. I love the built-in applicator \u2014 it makes application quick and mess-free, perfect for everyday use or when I\u2019m in a hurry. It covers dark spots, blemishes, and uneven skin tone beautifully while still looking natural. It lasts all day without creasing and gives my skin a flawless, radiant finish. Definitely a must-have in my makeup routine. I will be purchasing again!",
+          "reviewDate": "Reviewed in the United States on February 26, 2026",
+          "customer": "Lovemie Paul",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG5SOSTEZIJVPUOGV7OPSUTZ2ABQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05#"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love this concealer/foundation!",
+          "reviewText": "I had to buy three before I found the right color but it was only 7.00. It was worth it! I love the applicator it is nicely made but more importantly the coverage was great. Easy to apply and the brush at the bottom blended the concealer on evenly. I thought because it was so inexpensive it might break me out but it didn\u2019t. I will definitely recommend and buy this product again. I applied the concealer foundation on and then I applied my Mac foundation on top. I am African American so the concealer was still a little too light for me but I think if you find the perfect match for your complexion you definitely will not need to use anything else.",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Nancy cooper",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHGC7T646HEMIWCMJPQRXHKP2M7Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05#"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best counselor/foundation",
+          "reviewText": "Perfect 2 in 1 stick easy application and last long time. Natural look i will continue to purchase soon. No oily skin perfect",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Dora Reyes",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHEDI435PRURNPFZN5P374IRCBYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02#"
+          }
+        },
+        {
+          "reviewTitle": "Small, Convenient, and Amanzing Coverage.",
+          "reviewText": "I love this 2-in-1 concealer foundation stick! It gives me great coverage without feeling heavy on my skin. It blends easily and leaves a smooth, natural finish. Perfect for quick makeup days. I highly recommend it! I love it so much that I bought another one.",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Shyrlen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGE6AJUOOVBPNG4GIDMYIEOD23PQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05#"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great product!",
+          "reviewText": "This product is so great! I will definitely be using it from now on! Not sticky and great coverage!",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Summer Smith",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHV7QCP5HM453UQ65YYSVZ3EX2PA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03#"
+          }
+        },
+        {
+          "reviewTitle": "Quick foundation",
+          "reviewText": "Nice but a little dry",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Nancy Monyhan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGXXWI6GBCTATJGRS4LWNGJBUL7Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "03#"
+          }
+        },
+        {
+          "reviewTitle": "Improve the scent.",
+          "reviewText": "Great coverage but not moisturing at all, plus the scent is way to strong and not appealing at all.",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Vac",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF36JSVZGZCZZKVZKEYF4CCEFNCQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "03#"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice Texture and Color",
+          "reviewText": "Colors are accurate. Nice smell and texture as well. Application works better with a brush rather than the enclosed applicator",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "TACC",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGFIK4MVMVUQIF6MG5RRBOZ4VYMA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "04#"
+          }
+        }
+      ]
+    }
+  }
+}

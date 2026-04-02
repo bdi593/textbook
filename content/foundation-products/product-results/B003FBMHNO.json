@@ -1,0 +1,475 @@
+{
+  "requestMetadata": {
+    "id": "52cae014-2269-4f61-8b3b-883c1ffd5c94",
+    "status": "ok",
+    "html": "https://files.hasdata.com/52cae014-2269-4f61-8b3b-883c1ffd5c94.html",
+    "json": "https://files.hasdata.com/52cae014-2269-4f61-8b3b-883c1ffd5c94.json",
+    "url": "https://www.amazon.com/dp/B003FBMHNO"
+  },
+  "product": {
+    "asin": "B003FBMHNO",
+    "url": "https://www.amazon.com/dp/B003FBMHNO",
+    "title": "COVERGIRL Clean Makeup Foundation Normal Skin Ivory 105, 1 oz (packaging may vary)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "105 IVORY",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Fresh formula that lets skin breathe",
+      "Looks beautifully natural",
+      "Available in various shades ranging from light to deep",
+      "Flawless, lightweight coverage",
+      "Complete your look with COVERGIRL Clean Normal Powder"
+    ],
+    "description": "Get a lightweight, fresh, natural look with COVERGIRL Clean Makeup. Liquid foundation has a fresh water-based formula designed to allow your skin to breathe so you can have smooth, flawless coverage.",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B07GW7ZD62",
+        "title": "150 CREAMY BEIGE 2 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GW7ZD62",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Sx7lVfTyL._SL1280_.jpg"
+      },
+      {
+        "asin": "B00CHHJIGQ",
+        "title": "135 MEDIUM LIGHT 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00CHHJIGQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71RmMJAb9JL._SL1500_.jpg"
+      },
+      {
+        "asin": "B003FBMHNO",
+        "title": "105 IVORY 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B003FBMHNO",
+        "imageUrl": "https://m.media-amazon.com/images/I/71i3rZCarYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08X6PK7X4",
+        "title": "Perfect Beige 148 Pack of 1",
+        "url": "https://www.amazon.com/dp/B08X6PK7X4",
+        "imageUrl": "https://m.media-amazon.com/images/I/614Y1+RLL6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B004X8KRKS",
+        "title": "165 TAWNY 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B004X8KRKS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NsbvrqhkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B002VECK9M",
+        "title": "160 - Classic Tan 1 fl oz",
+        "url": "https://www.amazon.com/dp/B002VECK9M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61blV1GTUcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08X628QS3",
+        "title": "Sand Beige 153 1 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08X628QS3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QuntkP-UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08X626MXF",
+        "title": "Perfect Beige 148 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B08X626MXF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dtVpZO0NS._SL1500_.jpg"
+      },
+      {
+        "asin": "B01IAEFGHE",
+        "title": "Creamy Beige 150 1 fl oz",
+        "url": "https://www.amazon.com/dp/B01IAEFGHE",
+        "imageUrl": "https://m.media-amazon.com/images/I/51SJYXJLLfL._SL1280_.jpg"
+      },
+      {
+        "asin": "B08X6FGVQT",
+        "title": "Deep Golden 170 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08X6FGVQT",
+        "imageUrl": "https://m.media-amazon.com/images/I/615pSZRKPlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08X6CNZJL",
+        "title": "Deep Golden 170 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B08X6CNZJL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AtD+RdchS._SL1500_.jpg"
+      },
+      {
+        "asin": "B08X6LBYHK",
+        "title": "Sand Beige 153 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B08X6LBYHK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sIcA0MqeS._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GSRSX79",
+        "title": "130 CLASSIC BEIGE 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GSRSX79",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AS-jaD7eL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00C674K0G",
+        "title": "160 CLASSIC TAN 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00C674K0G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-jXW4BD5L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.43,
+      "beforePrice": 9.99,
+      "discount": "-16%",
+      "priceFrom": 8.43,
+      "otherOfferQuantity": 19
+    },
+    "condition": "Get it faster",
+    "deliveryRawDate": "Wednesday, April 8",
+    "deliveryIsoDate": "2026-04-08T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "30-day refund/replacement",
+    "seller": "Luxury Shop 4 Less",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2CLCVN1TAUJQH",
+    "shipper": "Amazon",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/71i3rZCarYL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71i3rZCarYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Fmg+OEN7S._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61SbH0+O2xL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81E-Hkd55zL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/618fmx2vrPS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71tBQeLCJ1S._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9e68baea-1f38-4fdc-829e-3cb41f3deab7.__CR0,7,2000,820_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/81d32694-fc99-4369-a0b0-811fc52c8d52.__CR310,513,1429,1071_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b7afc3f-f182-43b4-992f-446c06073133.__CR234,483,1538,1154_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a48e85b7-7ec9-4012-aada-9fa5b130866c.__CR247,470,1538,1154_PT0_SX300_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/792c3daf-6da8-46ce-86bf-90c6eaaa56f0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/792c3daf-6da8-46ce-86bf-90c6eaaa56f0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Gel"
+      },
+      {
+        "key": "Color",
+        "value": "105 IVORY"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup,Makeup Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "COVERGIRL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00008100004102"
+      },
+      {
+        "key": "UPC",
+        "value": "008100004102"
+      },
+      {
+        "key": "Model Number",
+        "value": "417629"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "417629"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Coty Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#12,959 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #141 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B003FBMHNO"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3.5 x 1.81 x 1.05 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 8019,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "82%",
+        "fourStars": "10%",
+        "threeStars": "4%",
+        "twoStars": "1%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers love this foundation for its flawless coverage and ability to match various skin tones, particularly spring-summer shades. Moreover, the product receives positive feedback for its moisturizing properties, making skin feel smooth and healthy, while being easy to apply and providing a clean, natural look. Additionally, customers appreciate its value for money, with one noting it works well for mature skin. However, opinions about the fragrance are mixed, with some finding it pleasant while others describe it as strong.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 198,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 148,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 120,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 110,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 100,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 81,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 57,
+          "status": "positive"
+        },
+        {
+          "aspect": "Fragrance",
+          "count": 100,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61q6JbxzwAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61EqY1UK9sL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-gskMK7aL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ZJi2af2ML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/31YJIh+d4PL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/5194GSgwN7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71OHb+ccq9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61cvgt8FHxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61XLfSxLaZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+zo-1-qlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/719V3sp0oTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/712sG9RZMKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Does not stain clothes",
+          "reviewText": "Great makeup. I have been using it for years! Covers well.",
+          "reviewDate": "Reviewed in the United States on January 27, 2026",
+          "customer": "Marta T. Stevens",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AED7CD5ZQMFTCRBAUJQCF72SB7SA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "150 CREAMY BEIGE",
+            "size": "2 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great foundation!",
+          "reviewText": "Nice natural tone",
+          "reviewDate": "Reviewed in the United States on February 20, 2026",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEVNHYMERMRRLUD7R2NC5MBLDRXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "150 CREAMY BEIGE",
+            "size": "2 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Nice, smooth foundation",
+          "reviewText": "Been wearing this for years. It never changes, it always covers everything, not sticky and smells decent. Price is still somewhat reasonable too.",
+          "reviewDate": "Reviewed in the United States on August 11, 2025",
+          "customer": "Paso Pat",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGUDWYOGFLIMUECHF6JD527YYHNA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "150 CREAMY BEIGE",
+            "size": "2 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great product.",
+          "reviewText": "I really like this foundation and will buy again and again. Goes on smoothly, doesn't block up my pores, and I like the fragrance. The color us perfect for me.",
+          "reviewDate": "Reviewed in the United States on December 14, 2025",
+          "customer": "Jennifer Alexander",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6PSTGJIHXG35UPDHYEBSVA72IA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sand Beige 153",
+            "size": "1 Count (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "may mix order but the makeup is good",
+          "reviewText": "Like the makeup but was given 3 of one type and 1 of the other. The one marked in red or the one with the circle on logo is not that great feels very gritty when applying. It dries smooth and the grittiness of it goes away but not what I originally ordered. The other 3 are just what I wanted and am glad I got it.",
+          "reviewDate": "Reviewed in the United States on September 13, 2025",
+          "customer": "richard",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE36XTPESDYDU6SFMIU2QBHHX2HA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Creamy Beige 150",
+            "size": "1 fl oz"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent product",
+          "reviewText": "Love this product. Keep selling it",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Angela Groff",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF2KOI5RXSQQOG2QUE3I4ETJCMXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Creamy Beige 150",
+            "size": "1 fl oz"
+          }
+        },
+        {
+          "reviewTitle": "Good product",
+          "reviewText": "As expected.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Anna Erwin-Magill",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG5AJ4457RQKDNXLZ2JDBNZ4LUAA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "150 CREAMY BEIGE",
+            "size": "2 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Its better than the tube",
+          "reviewText": "It is great. I like it better then the tube make up",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "tonnie lueker",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AECMSCRHAOMW2TV4RIK4HK4EUBYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "150 CREAMY BEIGE",
+            "size": "2 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Excellent project!!",
+          "reviewText": "Use this all the time. Really good!!! Works great!excellent product!",
+          "reviewDate": "Reviewed in Canada on February 8, 2025",
+          "customer": "Barb Blanchard",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "covers well",
+          "reviewText": "Had a hard time finding this color at the stores. Glad amazon carries it. Covers red splotches and looks evenly covered",
+          "reviewDate": "Reviewed in Canada on November 18, 2024",
+          "customer": "Nicole",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Perfect Beige 148",
+            "size": "Pack of 1"
+          }
+        },
+        {
+          "reviewTitle": "Very happy wife",
+          "reviewText": "Product delivered on time and in 100% good condition. My wife is very pleased with this product.",
+          "reviewDate": "Reviewed in the United Kingdom on October 6, 2019",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "\ud83e\ude75Perfect!!!",
+          "reviewText": "A favourite foundation of mine. I would highly recommend it! I\u2019ve worked in the cosmetic business for years & this foundation is my personal favourite. It\u2019s not a heavy one, but light weight & easy to wear. Just love it!!! The seller was easy to deal with\u2026.very quick shipping to Australia from the states. Nicely wrapped for it long journey, so no damages or breaks.",
+          "reviewDate": "Reviewed in Australia on August 31, 2023",
+          "customer": "Adele",
+          "customerStarsRating": 5
+        }
+      ]
+    }
+  }
+}

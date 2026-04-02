@@ -1,0 +1,559 @@
+{
+  "requestMetadata": {
+    "id": "64591710-ca8d-4c19-b87e-c665ec97ee30",
+    "status": "ok",
+    "html": "https://files.hasdata.com/64591710-ca8d-4c19-b87e-c665ec97ee30.html",
+    "json": "https://files.hasdata.com/64591710-ca8d-4c19-b87e-c665ec97ee30.json",
+    "url": "https://www.amazon.com/dp/B000IJLQOW"
+  },
+  "product": {
+    "asin": "B000IJLQOW",
+    "url": "https://www.amazon.com/dp/B000IJLQOW",
+    "title": "Revlon Liquid Foundation, ColorStay Face Makeup for Normal & Dry Skin, SPF 20, Longwear Medium-Full Coverage with Natural Finish, 150 Buff, 1 Fl Oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "LONG-WEARING: Oil-free, fragrance-free foundation with broad-spectrum SPF 20 creates a flawless look for up to 24 hours, comfortable and lightweight feel",
+      "SKIN-CARING: Hyaluronic Acid boosts skin\u2019s moisture by over 120%",
+      "SOFT, NATURAL FINISH: 24HR hydration for a healthy-looking glow",
+      "BUDGE-PROOF: Transfer-resistant, waterproof & mask-friendly, resists heat, sweat & humidity",
+      "FOR ALL SKIN: 24 diverse shades"
+    ],
+    "description": "Product Description Provides medium to buildable coverage with a natural finish. 24 hr all-day wear. Broad spectrum SPF 20 protection. Oil-free formula contains hyaluronic acid to hydrate skin over time. Brand Story By Revlon",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B000H3I2UK",
+        "title": "370 Toast 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000H3I2UK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71VeChKsUVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01GHH54WS",
+        "title": "220 Natural Beige 1.02 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01GHH54WS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WmE2wx1WL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000H3I2Y6",
+        "title": "320 True Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000H3I2Y6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HMvKgPiML._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDYCFJ5",
+        "title": "600 Cinnamon 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDYCFJ5",
+        "imageUrl": "https://m.media-amazon.com/images/I/718rhO3yXeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VX6UKWI",
+        "title": "True Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00VX6UKWI",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lHsRVZcBL._SL1280_.jpg"
+      },
+      {
+        "asin": "B07GDYCP1K",
+        "title": "460 Macadamia 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDYCP1K",
+        "imageUrl": "https://m.media-amazon.com/images/I/715Ro3W8lNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001P2NRPC",
+        "title": "400 Caramel 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001P2NRPC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71obbtVIG6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BV5ZCGMT",
+        "title": "Beige 1 Fl Oz (Pack of 4)",
+        "url": "https://www.amazon.com/dp/B0BV5ZCGMT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71LL9FubsNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDLD4XV",
+        "title": "315 Butterscotch 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDLD4XV",
+        "imageUrl": "https://m.media-amazon.com/images/I/717-xitW9lL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VX6URQW",
+        "title": "Natural Tan 1 ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00VX6URQW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-wOhkGWiL._SL1280_.jpg"
+      },
+      {
+        "asin": "B000IJLQOW",
+        "title": "150 Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000IJLQOW",
+        "imageUrl": "https://m.media-amazon.com/images/I/718cSt-VABL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0019L2NZY",
+        "title": "330 Natural Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0019L2NZY",
+        "imageUrl": "https://m.media-amazon.com/images/I/716nmxYNt0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01DBZKNUM",
+        "title": "Toast 1 ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DBZKNUM",
+        "imageUrl": "https://m.media-amazon.com/images/I/51aiX8tS17L._SL1280_.jpg"
+      },
+      {
+        "asin": "B000T5WQFI",
+        "title": "250 Fresh Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000T5WQFI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71j8tOBknHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01CD8Z0XI",
+        "title": "Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01CD8Z0XI",
+        "imageUrl": "https://m.media-amazon.com/images/I/51s6TYZqNYL._SL1280_.jpg"
+      },
+      {
+        "asin": "B002TXBQLI",
+        "title": "200 Nude 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B002TXBQLI",
+        "imageUrl": "https://m.media-amazon.com/images/I/710u5afgpEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000RZPQNO",
+        "title": "410 Cappuccino 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000RZPQNO",
+        "imageUrl": "https://m.media-amazon.com/images/I/71OPJVh9SlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDYCT9H",
+        "title": "295 Dune 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDYCT9H",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZJVT+y2JL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GF3DWJ5",
+        "title": "395 Deep Honey 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GF3DWJ5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TiDZMOm+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01FIL3CIW",
+        "title": "130 Porcelain 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01FIL3CIW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71sUlZ7BV4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDK1JWB",
+        "title": "455 Honey Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDK1JWB",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZinZz5nTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000T5QN5M",
+        "title": "Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000T5QN5M",
+        "imageUrl": "https://m.media-amazon.com/images/I/71oZxPujhML._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GF3WRJP",
+        "title": "500 Walnut 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GF3WRJP",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HFV8c1grL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDYCX4Y",
+        "title": "135 Vanilla 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDYCX4Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71H2mlZ962L._SL1500_.jpg"
+      },
+      {
+        "asin": "B000LJ39TY",
+        "title": "110 Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000LJ39TY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71u+iQN4HOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GF7CSB6",
+        "title": "510 Pecan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GF7CSB6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71iEQNRqurL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000H3I2VY",
+        "title": "180 Sand Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000H3I2VY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71vmcemBcGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDY6WBT",
+        "title": "390 Rich Maple 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDY6WBT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71i4hdBQkvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GDLBCF4",
+        "title": "392 Sun Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GDLBCF4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rUUfMscQL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 12.48,
+      "beforePrice": 12.48,
+      "discount": "-5%",
+      "priceFrom": 9.99,
+      "otherOfferQuantity": 9
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/718cSt-VABL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/718cSt-VABL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rAqfaIB1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81XwTliqbqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Ik9UpbCbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813ZH+HVTXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81-y9lbHzgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810Z8JNK9nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81d-3S9wCUL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65923949-5616-4324-a2da-e9583e31a3de.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8c0c34cd-dc96-443b-9768-dcbbc4889557.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab5b003e-44cf-4b32-8e5e-7c1d2ee9c92d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5c6bde52-73b5-420d-b676-02952b152cf8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/548c6a1e-cf8d-4cf5-b030-864c12ff6a17.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4334c3fe-4ef0-405b-a359-562b47afcdb2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/18387c36-a344-44be-9508-42b4f0bebb8f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/948de9bd-27c0-499e-abb1-2ca61635788b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f77b36c5-9fb8-45dd-aa7e-29e4c1b4f61f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/141aec82-0ff1-44ac-8af0-0dfa6d931dd1.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "150 Buff"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "REVLON"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Buildable coverage, Long-wearing, Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00309975415025"
+      },
+      {
+        "key": "UPC",
+        "value": "309975415025"
+      },
+      {
+        "key": "Model Number",
+        "value": "309975415025"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "35417"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "ReVivex"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#3,303 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #40 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B000IJLQOW"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "2E+1 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Lightweight,Matte,Oil Free,Oil-free,Waterproof"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte, Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Face"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.03 Kilograms"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.31 x 1.31 x 3.81 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 17834,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "76%",
+        "fourStars": "13%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage that's buildable and stays on all day, with a matte finish that makes skin look flawless and tan. They appreciate its lightweight feel and consider it good value for money. The color receives mixed feedback - while some say it matches their skin tone perfectly, others report an orange tint. The texture also gets mixed reviews, with some liking it while others find it not creamy enough.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 424,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 364,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 348,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 180,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 151,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 121,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 252,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 107,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/710pDcMa2HL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71SHqDZ3cuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+ZQsGnheL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/719x7ohbwuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/712iOo246VL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CDD5g8EOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/712gq++QpsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61xKY1Yq-1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81SgyvenwbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71WUYlZJNuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/714YsSt6v1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bFOnzPPUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Fantastic foundation!",
+          "reviewText": "Amazing foundation! I have dealt with acne since I was a teenager, and I\u2019m now 30, still getting pimples. My whole life I have wanted a \u2018drugstore priced\u2019 foundation that provided full coverage that didn\u2019t sink into my fine lines or separate on my nose after a couple hours. I have used Maybelline Fit Me Matte + Poreless (which feels like wearing a mask with how much I have to apply for full coverage, and it sinks into my creases everywhere) and Fenty Pro Filter Foundation (love it, but hate the price). I think I\u2019ve found what I\u2019ve been looking for in this foundation! Full coverage almost immediately, my acne nearly disappeared, blends out into my neck well, melded right with my pores to give me a blurred look without applying ANY skin primer for extra \u2018grip\u2019. I just put on my moisturizer, covered my acne up with concealer and went in with this foundation. The pictures are covering up 10+ pimples, new and healing, flawlessly without a picture filter or anything! I couldn\u2019t believe it. And 10 hours later (thumbs up photo), it is still holding up perfectly! I don\u2019t feel greasy like I\u2019m wearing a liquid mask, my skin still looks great and my pores and lines are still practically invisible. I love that it\u2019s a pump bottle so I don\u2019t have to dump the foundation out onto the back of my hand and compromise the rest of what\u2019s in the bottle with bacteria. A little foundation went SO far, I think I used a quarter of what I usually would with Maybelline Fit Me foundation. So long as this foundation exists, I will not be going back!",
+          "reviewDate": "Reviewed in the United States on January 31, 2026",
+          "customer": "Randi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEYFPVCCZ4T66GIIUZSWB2KYFGMA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "150 Buff",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "19 people found this helpful"
+        },
+        {
+          "reviewTitle": "Drugstore foundation that actually performs like high-end",
+          "reviewText": "I\u2019ve tried a LOT of drugstore foundations and this one honestly competes with higher-end brands. The coverage is medium to full but still looks natural on the skin and not cakey. I have normal to slightly dry skin and this goes on really smooth, especially if I moisturize first. It blends easily with a sponge or brush and doesn\u2019t cling to dry patches like some foundations do. What impressed me the most is how long it lasts. I can wear this all day (work and errands) and it still looks good without breaking apart or getting patchy. It claims up to 24-hour wear, and while I haven\u2019t worn it that long, it definitely holds up through a full day. The finish is natural \u2014 not too matte and not too dewy \u2014 which I like because it doesn\u2019t look heavy in person. The SPF 20 is a nice bonus too. Shade 150 Buff is a good match for light to light-medium skin tones, but I would double-check undertones if you\u2019re unsure. Only small downside is it can transfer a little if you don\u2019t set it, but with a light powder it stays put. Overall, for the price, this is one of the best foundations I\u2019ve used and I\u2019ll definitely keep repurchasing.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Lauren",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFMXVXF3RO2KRNAE6DMSIF7HGKJA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "150 Buff",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Awesome Foundation",
+          "reviewText": "This foundation is really awesome for mature, dry skin. The color is beautiful \ud83d\ude0d \ud83e\udd29. It works better than the expensive brand. It looks like a second skin foundation.",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "Mariella Alfonso",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEOX433ENKDB5P4GESKH2YJWIPPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "392 Sun Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Okay foundation, a little on the dry side for me",
+          "reviewText": "I typically use foundation mainly as a spot concealer rather than full facial use, because with my lines, many foundations just accentuate them rather than hide or smooth out, and this foundation is no exception. Sure, it works well enough and has no scent, nor is it oily or tacky, but it's not something I'd wear as my main go-to full-coverage foundation. For just a little help though, it's not bad.",
+          "reviewDate": "Reviewed in the United States on October 21, 2025",
+          "customer": "BeccaM",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEZVIPC7YMIL6NO6GAY3YKROU7NQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "135 Vanilla",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best foundation at any price I\u2019ve found. Long wearing",
+          "reviewText": "Best foundation I\u2019ve ever used. Better than all the expensive brands I\u2019ve used. Excellent blendability, natural looking and good color match. The longevity of how long it stays on from morning until night is above average, and better than any others brands I have tried. Works well.",
+          "reviewDate": "Reviewed in the United States on December 8, 2025",
+          "customer": "Placeholder",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHGKG2ZE3HADKZ4TXTCZMUOJVCVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "392 Sun Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Replaces Expensive Foundations",
+          "reviewText": "I replaced my Estee Lauder Double Wear with Revlon ColorStay several years ago and it is an excellent dupe. It provides great coverage and does last for hours. Most of the time I don't need any concealer underneath. It comes in different formulations for dry or oily skin too. I've never needed to touch it up during the day when I use a powder bronzer over it. I've tried other brands, NYX, Elf, Shape Tape etc. and always go back to Revlon.",
+          "reviewDate": "Reviewed in the United States on December 22, 2025",
+          "customer": "ScSpec",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGIIPF3ENMJJ5HFYQNF4TBJQ2JEA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "180 Sand Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup",
+          "reviewText": "Great makeup. Colors are great and goes on smooth and looks great.",
+          "reviewDate": "Reviewed in the United States on January 3, 2026",
+          "customer": "HW",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGLPPHMQSVKFR6NKU3ARHCYGAXIA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Goes on smooth",
+          "reviewText": "It was okay",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "The item I received from you is fine but the box was soaking wet inside and out even the inside of the plastic bag that my items came in was wet I order from you all the time that's the first time that's ever happened but the Amazon box was not wet",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AED6VKG6NTQXXHIGALCVL5K3WFXA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "392 Sun Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Good product",
+          "reviewText": "Exactly as described. Looks skin like.",
+          "reviewDate": "Reviewed in the United Kingdom on September 4, 2023",
+          "customer": "kimora",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Toast",
+            "size": "1 ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

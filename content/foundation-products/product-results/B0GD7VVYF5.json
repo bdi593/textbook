@@ -1,0 +1,289 @@
+{
+  "requestMetadata": {
+    "id": "c2f04e0b-2db6-46ba-8298-704d4a67a527",
+    "status": "ok",
+    "html": "https://files.hasdata.com/c2f04e0b-2db6-46ba-8298-704d4a67a527.html",
+    "json": "https://files.hasdata.com/c2f04e0b-2db6-46ba-8298-704d4a67a527.json",
+    "url": "https://www.amazon.com/dp/B0GD7VVYF5"
+  },
+  "product": {
+    "asin": "B0GD7VVYF5",
+    "url": "https://www.amazon.com/dp/B0GD7VVYF5",
+    "title": "Natural Glow - Ideal for Light/Medium Complexions,Luvie Glow Foundation, Mushroom Head Air Cushion CC Cream - BB Cream Foundation for Older Women(Natural)",
+    "isAvailable": true,
+    "featureBullets": [
+      "\u3010Gentle & Nourishing for Mature/Sensitive Skin\u3011 Enriched with Hyaluronic Acid and Dimethicone, this cushion foundation caters to sensitive, dry, or mature skin types, effectively preventing caking and creasing while delivering long-lasting comfort.",
+      "\u3010Warm Golden Shade for Light-Medium Complexions\u3011A perfect warm-neutral tone that complements light to medium skin with golden or olive undertones, evening out uneven skin tone for a refreshed, natural-looking finish.",
+      "\u3010All-Day Hydrating Skincare Formula\u3011Infused with moisture-locking Hyaluronic Acid, it keeps skin supple and hydrated throughout the day, maintaining a healthy, radiant complexion without drying out the skin.",
+      "\u3010Lightweight Buildable Coverage (No Heavy Feeling)\u3011The lightweight cushion formula blends seamlessly for buildable coverage, blurring fine lines and texture imperfections without feeling greasy or settling into fine lines.",
+      "\u3010Effortless Application with Mushroom Puff\u3011Comes with a soft mushroom-shaped puff for quick, streak-free application\u2014ideal for daily makeup routines and on-the-go touch-ups, creating a flawless base in seconds."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 19.98,
+      "beforePrice": 23.98,
+      "discount": "-17%"
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Hush Makeup Store",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2Q8GYWOVD6VE8",
+    "shipper": "Amazon",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/61swm1zyvZL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61swm1zyvZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715pktw4YzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SQ2kxLQML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71BQfV2C8PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/713-qW2bqqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bzjWrVQrL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8adbc901-2806-4788-b678-a395d9c17cf4.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/807cda1c-7dd0-4c24-a70e-19d308a3b351.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72f87196-7c04-47e2-b1a3-26d80ebfbc07.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f6b9570d-509a-4531-9141-2ff43f3dfc3e.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb787a38-11e7-469c-ae35-8d035ddd63c7.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb787a38-11e7-469c-ae35-8d035ddd63c7.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b1015485-02bb-4220-ab70-f07456bdd888.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a32192bf-3451-452d-8df0-1c2762da0908.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/25db872e-bebd-42e7-9a95-e743b2f28978.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e5e42e82-e557-4edc-acb3-9b78bc4550bc.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Natural color"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Can"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Hush Makeup Foundation"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Color Correction, Corrects Imperfections, Firming, Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light to Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "UPC",
+        "value": "607608886731"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Hush Makeup Foundation"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#18,499 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #188 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0GD7VVYF5"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Dye Free, Fragrance Free, Paraben Free, Alcohol Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 146,
+      "rating": 3.9,
+      "starRates": {
+        "fiveStars": "56%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "8%",
+        "oneStars": "14%"
+      },
+      "customersSay": "Customers find this foundation provides great natural coverage that doesn't accentuate fine lines and wrinkles, while being lightweight and easy to apply. They appreciate its luminous finish, soft texture, and how it leaves skin soft throughout the day. The foundation matches colors well and exceeds expectations in terms of quality.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 29,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 17,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 16,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 16,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 12,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 8,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71K3bHSCkkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/716ELliFTpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71FgkbJ-dvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ZCVNrr8ZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rDuC7FtlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61TLg3p4SjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61PziuR1lOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6177VOF55gL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Ibcj36sAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/716ZTyy1EtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71LpUHt8moL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/510QJXyX9FL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Very very good",
+          "reviewText": "I absolutely loved this foundation! The Hush Makeup Foundation exceeded my expectations. It has a lightweight, cushion-like texture that applies very easily with the sponge, leaving the skin with a natural, luminous finish. It covers imperfections without feeling heavy or cakey.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Lazary Rodriguez Gonzalez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYQ3BI54RBFM5HJI5HYEW77QSUA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great coverage ease of application with brush. Smooth finish. Does not smudge.",
+          "reviewText": "This lives up to all it claims. Good quality. Cover and color fantastic. Stays on and doesn\u2019t smudge. It alone does not cover dark spots completely. But finish is smooth. Brush application makes is better than sponge or finger I will buy again and again.",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Diana P.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQKG2T3FACE4ZWKBTUOEXNJRORA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "BEWARE: Not for sensitive skin",
+          "reviewText": "This is from product details- Material Type Free: Dye Free, Fragrance Free, Paraben Free, Alcohol Free It is not, however, fragrance free. Instantly gave me a rash. I would disagree with the claims that this product is good for sensitive skin.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Emily Hammond",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH4H5YLFTZXH2IGXNC2EZSDSAKVA",
+          "customerStarsRating": 1
+        },
+        {
+          "reviewTitle": "Better than expected.",
+          "reviewText": "Nice coverage, wish it was a little easier to apply.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Sharon Bowlen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGKEMQB36LMPC6ELXZMYI5BITKAQ",
+          "customerStarsRating": 4,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Acabado natural y luminoso perfecto para el cutis",
+          "reviewText": "Natural and luminous finish, it feels light and blurs very well, achieving a uniform tone without looking heavy. It's perfect for my complexion because it moisturizes and leaves the skin soft during the day.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Anni Rojas",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE2RVMJKRGSRRJAQKR2MBH4EKTMA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not worth it.",
+          "reviewText": "This product does not provide much coverage, not even as much as my tinted moisturizer. Also, the applicator broke the first time I used it. Too much hype and too little quality.",
+          "reviewDate": "Reviewed in the United States on February 9, 2026",
+          "customer": "Maggie Chadsworth",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFELMZWKOWSAS75MF5MOHZDZ353A",
+          "customerStarsRating": 2,
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Hush Glow",
+          "reviewText": "It's awfully light and it didn't change my face like it does (in pictures) for so many. It's not heavy and I'll see how it wears for the day. Follow-up Best part of the product was, it did not settle and cake up in lines or wrinkles! Didn't cover them up but didn't settle in them!",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Kathleen R Dyck",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEOOBVII6PJI45AN7TKQE2Q3H4MA",
+          "customerStarsRating": 3,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great product for a low price",
+          "reviewText": "I love the easy process to use it. Blends perfect with my skin color. Duration, impressive. Last for me more than 24 hour. I know I need to wash my face before going to sleep but I was too tired. In the morning was looking marvelous. No tranaferr to my pillow.",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "ADRIAN LABOY",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGXCSXPK6LBBFKJML7CAAD3Q7IGQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        }
+      ]
+    }
+  }
+}

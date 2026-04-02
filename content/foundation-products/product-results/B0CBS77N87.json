@@ -1,0 +1,619 @@
+{
+  "requestMetadata": {
+    "id": "b49cdf0c-59c0-4537-994f-cbc883c5bdfa",
+    "status": "ok",
+    "html": "https://files.hasdata.com/b49cdf0c-59c0-4537-994f-cbc883c5bdfa.html",
+    "json": "https://files.hasdata.com/b49cdf0c-59c0-4537-994f-cbc883c5bdfa.json",
+    "url": "https://www.amazon.com/dp/B0CBS77N87"
+  },
+  "product": {
+    "asin": "B0CBS77N87",
+    "url": "https://www.amazon.com/dp/B0CBS77N87",
+    "title": "EMODA 5 Inch Box Spring Queen Size Bed Base, Heavy Duty Metal Queen Mattress Foundation with Fabric Cover, Easy Assembly, Black",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "Queen",
+      "style": "5 Inch"
+    },
+    "features": {
+      "size": "Queen",
+      "material": "Metal",
+      "productDimensions": "79.6\"L x 59.6\"W x 5\"H",
+      "style": "5 Inch",
+      "specialFeature": "Fade Resistant, Squeak Resistant"
+    },
+    "featureBullets": [
+      "Queen size box spring with metal slats compatible with any memory foam or hybrid mattress.",
+      "Noise free construction design queen metal box spring provide you a comfortable sleep time.",
+      "Easy to assemble metal queen box springs, include hardware, tool and clear instructions.",
+      "Come with fabric box spring cover that can be removed for spot cleaning.",
+      "Addition 4 support slats in each side make the metal queen box spring more stable.",
+      "Box spring queen size dimensions: 79.6\" L x 59.6\"W x 5\" H for mattress size: 80\"L x 60\" W.",
+      "Please following instruction steps to install the box spring and tighten all screws in last steps."
+    ],
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Home & Kitchen",
+      "Furniture",
+      "Bedroom Furniture",
+      "Mattresses & Box Springs",
+      "Box Springs"
+    ],
+    "variants": [
+      {
+        "asin": "B0CBS635CM",
+        "title": "King 5 Inch",
+        "url": "https://www.amazon.com/dp/B0CBS635CM",
+        "imageUrl": "https://m.media-amazon.com/images/I/81k5C3FiuTL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0D9LQXVD6",
+        "title": "Twin 4 Inch",
+        "url": "https://www.amazon.com/dp/B0D9LQXVD6",
+        "imageUrl": "https://m.media-amazon.com/images/I/813F9ooaiyL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLRP3MMP",
+        "title": "King 8 Inch",
+        "url": "https://www.amazon.com/dp/B0CLRP3MMP",
+        "imageUrl": "https://m.media-amazon.com/images/I/81NNQeNpZXL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CBS6LZ57",
+        "title": "California King 5 Inch",
+        "url": "https://www.amazon.com/dp/B0CBS6LZ57",
+        "imageUrl": "https://m.media-amazon.com/images/I/81k5C3FiuTL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPPV113K",
+        "title": "Full 4 Inch",
+        "url": "https://www.amazon.com/dp/B0CPPV113K",
+        "imageUrl": "https://m.media-amazon.com/images/I/81k5C3FiuTL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0FNWVMK2N",
+        "title": "Queen Split-10 Inch",
+        "url": "https://www.amazon.com/dp/B0FNWVMK2N",
+        "imageUrl": "https://m.media-amazon.com/images/I/81kUPbkELCL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLRP4FS4",
+        "title": "Full 8 Inch",
+        "url": "https://www.amazon.com/dp/B0CLRP4FS4",
+        "imageUrl": "https://m.media-amazon.com/images/I/81NNQeNpZXL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CBS4PBCQ",
+        "title": "Twin 5 Inch",
+        "url": "https://www.amazon.com/dp/B0CBS4PBCQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/812Z3p-R5xL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CBS7ZBVW",
+        "title": "Full 5 Inch",
+        "url": "https://www.amazon.com/dp/B0CBS7ZBVW",
+        "imageUrl": "https://m.media-amazon.com/images/I/81k5C3FiuTL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0FNWXB8X4",
+        "title": "King Split-10 Inch",
+        "url": "https://www.amazon.com/dp/B0FNWXB8X4",
+        "imageUrl": "https://m.media-amazon.com/images/I/81kUPbkELCL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPPW4NBJ",
+        "title": "King 4 Inch",
+        "url": "https://www.amazon.com/dp/B0CPPW4NBJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/81k5C3FiuTL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLRP7TJS",
+        "title": "Twin 8 Inch",
+        "url": "https://www.amazon.com/dp/B0CLRP7TJS",
+        "imageUrl": "https://m.media-amazon.com/images/I/81HKj+yxBxL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0FNWWTR41",
+        "title": "Full Split-10 Inch",
+        "url": "https://www.amazon.com/dp/B0FNWWTR41",
+        "imageUrl": "https://m.media-amazon.com/images/I/81kUPbkELCL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CBS77N87",
+        "title": "Queen 5 Inch",
+        "url": "https://www.amazon.com/dp/B0CBS77N87",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Bq0wz689L._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CLRNG9SD",
+        "title": "Queen 8 Inch",
+        "url": "https://www.amazon.com/dp/B0CLRNG9SD",
+        "imageUrl": "https://m.media-amazon.com/images/I/81NNQeNpZXL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0FL25JVRR",
+        "title": "King Split-7 Inch",
+        "url": "https://www.amazon.com/dp/B0FL25JVRR",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Dc79ZhHZL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CW62RMDP",
+        "title": "Queen 9 Inch",
+        "url": "https://www.amazon.com/dp/B0CW62RMDP",
+        "imageUrl": "https://m.media-amazon.com/images/I/81NNQeNpZXL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0FL29LPFB",
+        "title": "Full Split-7 Inch",
+        "url": "https://www.amazon.com/dp/B0FL29LPFB",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Dc79ZhHZL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CW63RRLH",
+        "title": "Full 9 Inch",
+        "url": "https://www.amazon.com/dp/B0CW63RRLH",
+        "imageUrl": "https://m.media-amazon.com/images/I/81NNQeNpZXL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPPWPYHH",
+        "title": "California King 4 Inch",
+        "url": "https://www.amazon.com/dp/B0CPPWPYHH",
+        "imageUrl": "https://m.media-amazon.com/images/I/81k5C3FiuTL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CW62WMSH",
+        "title": "King 9 Inch",
+        "url": "https://www.amazon.com/dp/B0CW62WMSH",
+        "imageUrl": "https://m.media-amazon.com/images/I/81NNQeNpZXL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPPW76XZ",
+        "title": "Twin XL 4 Inch",
+        "url": "https://www.amazon.com/dp/B0CPPW76XZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/812Z3p-R5xL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPFFKCPC",
+        "title": "Full XL 5 Inch",
+        "url": "https://www.amazon.com/dp/B0FPFFKCPC",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Bq0wz689L._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPPWK69J",
+        "title": "Queen 4 Inch",
+        "url": "https://www.amazon.com/dp/B0CPPWK69J",
+        "imageUrl": "https://m.media-amazon.com/images/I/81k5C3FiuTL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CBS5NCYJ",
+        "title": "Twin XL 5 Inch",
+        "url": "https://www.amazon.com/dp/B0CBS5NCYJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/812Z3p-R5xL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0FL29P1NM",
+        "title": "Queen Split-7 Inch",
+        "url": "https://www.amazon.com/dp/B0FL29P1NM",
+        "imageUrl": "https://m.media-amazon.com/images/I/81Dc79ZhHZL._AC_SL1500_.jpg"
+      },
+      {
+        "asin": "B0CW63N328",
+        "title": "Twin 9 Inch",
+        "url": "https://www.amazon.com/dp/B0CW63N328",
+        "imageUrl": "https://m.media-amazon.com/images/I/81HKj+yxBxL._AC_SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 69.99,
+      "beforePrice": 82.99,
+      "discount": "-16%",
+      "priceFrom": 46.99,
+      "otherOfferQuantity": 20
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 1 hr 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "WHATSEASO",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2AA1QS5ZFIOMC",
+    "shipper": "Amazon",
+    "totalImages": 12,
+    "primaryImage": "https://m.media-amazon.com/images/I/81Bq0wz689L._AC_SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81Bq0wz689L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Z5schURvL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811kP8W7iVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HdXi8nJXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Z5schURvL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811kP8W7iVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LcDxlG9dL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Z96mqYPyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81GM7ChhILL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Z96mqYPyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HdXi8nJXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61adpGxlyGL._AC_SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2fb2629f-372c-4e6d-a772-d9087cf3333c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/044a0f72-41f2-430d-8c87-31ff082fd299.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b21f25b-47ab-48b5-8ff1-3b5f007f16ca.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/33640878-b506-4de8-9a90-0592f84b2890.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0aa2ed32-981e-4214-be35-c81a2c59cf78.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2d34dc1d-719f-4643-879e-c800dcefb274.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d18abca8-13b3-4fba-b9d1-a9938bacdc8c.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74be3f7d-696b-47f5-85be-6385f32cbc21.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5583d4a8-fafa-4357-9600-f1ba0705837c.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aab3ea01-9eab-4242-9aef-a6531ba0390a.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9c8e7ed-e863-457c-acbc-93951b25d106.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/439dd4b7-c984-41ba-84e6-3d876d2a450b.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5d940ab8-322b-478c-b607-c1ca5bc47963.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9bca6e8a-2b6b-4d8a-82d2-b0de65c4ae57.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9bca6e8a-2b6b-4d8a-82d2-b0de65c4ae57.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5bf01499-944a-4da6-b6cb-a961d22703ee.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/20b0d29c-d161-4f5c-b5fa-e6d788948c96.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9580e1e2-9788-4943-b886-0f026eb8f532.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/96c43864-6431-48bf-819b-d0d9281eabcf.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Other Special Features of the Product",
+        "value": "Fade Resistant, Squeak Resistant"
+      },
+      {
+        "key": "Included Components",
+        "value": "Slat"
+      },
+      {
+        "key": "Brand Name",
+        "value": "EMODA"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "EMODA"
+      },
+      {
+        "key": "Manufacturer Warranty Description",
+        "value": "For any product issue, please contact us first."
+      },
+      {
+        "key": "Target Audience",
+        "value": "unisex-adult"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "EMODA"
+      },
+      {
+        "key": "Model Number",
+        "value": "EMBS5-Q"
+      },
+      {
+        "key": "Set Name",
+        "value": "Queen"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Platform"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#3,652 in Home & Kitchen (See Top 100 in Home & Kitchen) #2 in Box Springs"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CBS77N87"
+      },
+      {
+        "key": "Material Type",
+        "value": "Metal"
+      },
+      {
+        "key": "Product Care Instructions",
+        "value": "Wipe with Damp Cloth"
+      },
+      {
+        "key": "Style Name",
+        "value": "5 Inch"
+      },
+      {
+        "key": "Color",
+        "value": "5 Inch"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Polished"
+      },
+      {
+        "key": "Furniture Finish",
+        "value": "Metallic"
+      },
+      {
+        "key": "Form Factor",
+        "value": "Metal"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      },
+      {
+        "key": "Other Special Features of the Product",
+        "value": "Fade Resistant, Squeak Resistant"
+      },
+      {
+        "key": "Compatible With Mattress Size",
+        "value": "Queen, 80x60 inch"
+      },
+      {
+        "key": "Maximum Weight Recommendation",
+        "value": "907.18 Kilograms"
+      },
+      {
+        "key": "Size",
+        "value": "Queen"
+      },
+      {
+        "key": "Item Dimensions L x W x H",
+        "value": "79.6\"L x 59.6\"W x 5\"H"
+      },
+      {
+        "key": "Item Weight",
+        "value": "33 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "79.6 x 59.6 x 5 inches"
+      },
+      {
+        "key": "Item Depth",
+        "value": "5 inches"
+      },
+      {
+        "key": "Required Assembly",
+        "value": "Yes"
+      },
+      {
+        "key": "Assembly Instructions Description",
+        "value": "Included"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2279,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "71%",
+        "fourStars": "11%",
+        "threeStars": "6%",
+        "twoStars": "4%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find the bed frame easy to assemble with adequate instructions and appreciate its quality and sturdiness, noting it holds weight well. Moreover, the frame works well with mattresses and offers good value for money. However, the fit receives mixed feedback, with some saying it fits perfectly while others report issues with the box spring not aligning properly. Additionally, durability and stability are concerns, with customers reporting that the stabilization bars don't stay in place and the frame can slide out of position.",
+      "aspects": [
+        {
+          "aspect": "Assembly",
+          "count": 377,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 223,
+          "status": "positive"
+        },
+        {
+          "aspect": "Sturdiness",
+          "count": 209,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 99,
+          "status": "positive"
+        },
+        {
+          "aspect": "Functionality",
+          "count": 70,
+          "status": "positive"
+        },
+        {
+          "aspect": "Fit",
+          "count": 105,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Durability",
+          "count": 65,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Stability",
+          "count": 67,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71s0NXKjnLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61nO5TJMaGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71VtODfNb5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BbyZ1NSHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71lcx3vggFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rimdJzO9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61CAc4J6lSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61pZNbgt5SL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/711CXpbjoUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71o0wAJYRmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61NPNAtstqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+kVulX3-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great Box Spring \u2014 Sturdy, Easy to Assemble",
+          "reviewText": "I ordered this twin box spring to go with my new Firm-Gold mattress, and so far, I\u2019m very happy with it! I wanted everything brand new since I was finally replacing my old bed setup, and this box spring was a great choice. It came well-packaged, with all the parts neatly organized. Assembly was straightforward \u2014 I took my time while my mattress was decompressing and had it fully put together in under an hour. Once assembled, it felt sturdy and stable right away. I didn\u2019t notice any bending, creaking, or weak spots. The metal pieces fit together tightly, and I added a few zip ties where the metal meets metal, just to make sure there was zero movement or noise \u2014 and it\u2019s been completely silent ever since. The height is just right for now. I paired it with a 14\u201d mattress, and while the setup sits a little lower than I prefer, that\u2019s more about my frame being short. A set of bed risers will easily fix that later. I also used some leftover plywood cut to size on top of the box spring before placing the mattress, to make sure the surface was perfectly flat (memory foam can sag if not fully supported). That setup has worked perfectly so far. Overall, I\u2019m impressed \u2014 this box spring feels strong, supportive, and well-built. It was affordable, easy to assemble, and made a huge difference in how solid my new bed feels. If you\u2019re looking for a sturdy foundation without spending a fortune, this one\u2019s a great pick. Ps I love that the box spring cover is a fitted sheet deal so if I want (which I probably will a few times a year) I can wash it to make the room feel complete fresh.",
+          "reviewDate": "Reviewed in the United States on October 24, 2025",
+          "customer": "Jessica",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHU5HIV22VGANCVEG4XGLD3SISA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Twin",
+            "style": "5 Inch"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great for any twin bed. Easy to set up!!!",
+          "reviewText": "Easy to put together, the instructions were so easy to follow. It comes with all the tools you need to assemble it. We put it together in less than 20 minutes and that was more trying to open the packing then the actual assembly. Easy to screw into place. Very sturdy, held together carrying up the stairs and supports a twin or twin xl mattress easily. Comfort level I would say minimal as this is the box spring that'll hold the mattress, so that ultimately will depend on the mattress but I will say you cannot feel it at all underneath the mattress.",
+          "reviewDate": "Reviewed in the United States on February 18, 2026",
+          "customer": "Kaely Shepard",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEXCGMHZN4W6A7LBK7SIQYEXHWJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Twin",
+            "style": "9 Inch"
+          }
+        },
+        {
+          "reviewTitle": "Easy and efficient",
+          "reviewText": "Easy to assemble & fit with my new frame and headboard perfectly. Me and bf put it together in 25 min or so",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Danielle",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXJUDTS3M5XTIQNWHFGSITXITEA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Queen",
+            "style": "5 Inch"
+          }
+        },
+        {
+          "reviewTitle": "Decent and inexpensive.",
+          "reviewText": "The unit showed up with some damage to the box but the box spring itself was undamaged. Fairly easy to assemble, took less than 45 minutes. As an engineer I found the design to be good but wished it was a better quality build, saying that once assembled and laying flat it does what its suppose to do, and it was only $100.",
+          "reviewDate": "Reviewed in the United States on January 21, 2026",
+          "customer": "Donald Aldridge",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG6DVNRQNGZ5UWGVTNEUAYSDNGFQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "Queen",
+            "style": "4 Inch"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Sturdy and comfortable!!!",
+          "reviewText": "This metal box spring is sturdy, easy to assemble and is quite comfortable. I put a mattress topper between the box spring and my mattress and I am quite comfortable. I weight a bit over 300 lbs so if it can handle me without putting me in pain most people should be fine. Also I should say I slept on this after dealing with a bulging disc in my lower back and I healed up quite nicely.",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "SigmaXIII",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGV626WYHABBNDU4EERROV2IYGUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Twin",
+            "style": "5 Inch"
+          }
+        },
+        {
+          "reviewTitle": "Very sturdy, easy to build!",
+          "reviewText": "Easy to assemble, very sturdy, light weight and easy to lift!",
+          "reviewDate": "Reviewed in the United States on March 6, 2026",
+          "customer": "Arianna D",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEOJ6VJLFA5CMPDOQI5AG72VZNLA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Full",
+            "style": "5 Inch"
+          }
+        },
+        {
+          "reviewTitle": "EMODA 5 IN BOX SPRING EZ SETUP, ECONOMICAL, WHAT A DEAL",
+          "reviewText": "Arrived in a day. Easy to read directions. All nuts and bolts, and tools included. Less than an hour set-up. Was doubtful when first ordered but works great.",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFT2AW3NIBMYRBRLBNPZOO7ZVCOA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Queen",
+            "style": "5 Inch"
+          }
+        },
+        {
+          "reviewTitle": "A screw gun with the right allen head, it will make it a lot faster than the allen wrench included.",
+          "reviewText": "Easy assembly. Some of the welds were a little wonky on the cross members but will not affect function. A few spots had the powder coat rubbed off but it was not obvious. These led to 4 stars. I would recommend this.",
+          "reviewDate": "Reviewed in the United States on February 26, 2026",
+          "customer": "Smity70",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGPJMSHL6UUWZNQ2OVASNGJZ6QWQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "Queen",
+            "style": "5 Inch"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Easy to install",
+          "reviewText": "Easy to install, fits the bed well. Very sturdy and the exact height, love it!",
+          "reviewDate": "Reviewed in Canada on December 16, 2025",
+          "customer": "Ruth smith",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Queen",
+            "style": "5 Inch"
+          }
+        },
+        {
+          "reviewTitle": "Queen 5 inch. Fit for me.",
+          "reviewText": "Easy to put together with the right tools. Fit my queen size framed bed perfectly. I am 77 and female. No noise yet with rolling around, but I have only slept in it once (one person). The 5 inch height was fine with an 8 inch Mlily ortho memory foam mattress on top. It depends on your headboard.",
+          "reviewDate": "Reviewed in Canada on February 23, 2026",
+          "customer": "Louise",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Queen",
+            "style": "5 Inch"
+          }
+        },
+        {
+          "reviewTitle": "Durable and easy to install box spring",
+          "reviewText": "Very easy to install. Came with clear instructions for installing the box spring together.",
+          "reviewDate": "Reviewed in Canada on March 13, 2026",
+          "customer": "Tyler",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Queen",
+            "style": "5 Inch"
+          }
+        },
+        {
+          "reviewTitle": "Easy to assemble",
+          "reviewText": "Interesting to assemble but easy. The cover for a full size is just like a fitted sheet. It has worked well since assembly.",
+          "reviewDate": "Reviewed in Canada on March 23, 2026",
+          "customer": "Chikna-gal",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "Full",
+            "style": "5 Inch"
+          }
+        },
+        {
+          "reviewTitle": "Excellent",
+          "reviewText": "Excellent product. Easy to assemble. Convenient to be able to assemble in the room if the box springs do not fit up or down the stairs.",
+          "reviewDate": "Reviewed in Canada on November 2, 2025",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "Queen",
+            "style": "5 Inch"
+          }
+        }
+      ]
+    }
+  }
+}

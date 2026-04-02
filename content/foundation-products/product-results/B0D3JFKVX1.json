@@ -1,0 +1,596 @@
+{
+  "requestMetadata": {
+    "id": "b8b219db-0bcc-4797-9859-68549f80478a",
+    "status": "ok",
+    "html": "https://files.hasdata.com/b8b219db-0bcc-4797-9859-68549f80478a.html",
+    "json": "https://files.hasdata.com/b8b219db-0bcc-4797-9859-68549f80478a.json",
+    "url": "https://www.amazon.com/dp/B0D3JFKVX1"
+  },
+  "product": {
+    "asin": "B0D3JFKVX1",
+    "url": "https://www.amazon.com/dp/B0D3JFKVX1",
+    "title": "e.l.f. Soft Glam Foundation, Medium Coverage, Long-Lasting & Buildable Foundation For A Smooth, Satin Finish, Vegan & Cruelty-Free, 25 Light Neutral",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "25 Light Neutral"
+    },
+    "featureBullets": [
+      "LONG-LASTING LIQUID FOUNDATION: Hit that dreamy sweet spot between full beat and barely there with e.l.f. Cosmetics\u2019 long- wearing Soft Glam Satin Foundation.",
+      "MEDIUM, BUILDABLE COVERAGE: The e.l.f. Satin Finish Foundation delivers medium buildable coverage and a satin finish.",
+      "BREATHABLE FORMULA: Infused with 1% Hydrating Hibiscus Complex, plus fruit extracts, this breathable liquid foundation won\u2019t clog pores and feels as good as it looks\u2014no caking or heaviness here, just smooth, satiny skin.",
+      "FOR MULTIPLE SKIN TYPES: This foundation is great for dry, oily and combination skin.",
+      "SKIN-LOVING INGREDIENTS: All e.l.f. products are made from skin-loving ingredients you want, minus the toxins you don\u2019t\u2014all at good-for-you prices. All e.l.f. products are 100% Cruelty-Free and Vegan."
+    ],
+    "description": "Hit that dreamy sweet spot between full beat and barely there with e.l.f. Cosmetics\u2019 long-wearing Soft Glam Satin Foundation. Infused with 1% Hydrating Hibiscus Complex, plus fruit extracts, this breathable liquid foundation won\u2019t clog pores and feels as good as it looks\u2014no caking or heaviness here, just smooth, satiny skin.What it is:Long-lasting satin finish foundation that delivers medium buildable coverageBreathable formula doesn\u2019t look or feel cakeyInfused with 1% Hydrating Hibiscus Complex, plus pomegranate, blueberry and goji berry extractsWhy you'll love it:Available in 36 shades for a wide range of skin tonesNon-comedogenic (won\u2019t clog pores)Just-right coverage at an OMG priceIngredients may change or vary from time to time. Please refer to the packaging of the product received for the list of ingredients in your particular productProud to be 100% Vegan, Cruelty-Free and Leaping Bunny Certified. Because kindness is chic.",
+    "boughtInPastMonth": "3K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0D3JD852D",
+        "title": "52 Deep Cool",
+        "url": "https://www.amazon.com/dp/B0D3JD852D",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WeiydELsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDPJ38",
+        "title": "12 Fair Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDPJ38",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hWmsvks6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDMV4S",
+        "title": "53 Deep Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDMV4S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IdqXhoP7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JBP3LG",
+        "title": "55 Deep Warm",
+        "url": "https://www.amazon.com/dp/B0D3JBP3LG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61V4E9xHWDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDZ4W7",
+        "title": "24 Light Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDZ4W7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61s15j0duNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCNJWB",
+        "title": "63 Rich Warm",
+        "url": "https://www.amazon.com/dp/B0D3JCNJWB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61000TuQX7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JFDP2S",
+        "title": "65 Rich Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JFDP2S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XSGOXOrmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDB5TX",
+        "title": "14 Fair Cool",
+        "url": "https://www.amazon.com/dp/B0D3JDB5TX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61s5AcgtrHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDNGXG",
+        "title": "41 Tan Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDNGXG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BxszMDQ3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDH7W6",
+        "title": "42 Tan Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDH7W6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61k2aFVLo3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDWGH7",
+        "title": "40 Tan Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDWGH7",
+        "imageUrl": "https://m.media-amazon.com/images/I/6166q8L06RL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDKD8D",
+        "title": "50 Deep Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDKD8D",
+        "imageUrl": "https://m.media-amazon.com/images/I/71jhcn-ofKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDT93W",
+        "title": "54 Deep Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDT93W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61w7-C52UcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDGJJL",
+        "title": "64 Rich Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDGJJL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TqGO8kBqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JD4BW9",
+        "title": "22 Light Warm",
+        "url": "https://www.amazon.com/dp/B0D3JD4BW9",
+        "imageUrl": "https://m.media-amazon.com/images/I/6119pd8iQsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF22V6",
+        "title": "60 Rich Cool",
+        "url": "https://www.amazon.com/dp/B0D3JF22V6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61MjTusDVEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDT4DM",
+        "title": "45 Tan Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDT4DM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NikicSbRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDYWZ6",
+        "title": "31 Medium Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDYWZ6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-X+Y0ePvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JC3YS3",
+        "title": "62 Rich Warm",
+        "url": "https://www.amazon.com/dp/B0D3JC3YS3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BOF+cUVvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCSKNP",
+        "title": "34 Medium Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCSKNP",
+        "imageUrl": "https://m.media-amazon.com/images/I/610owcHjVbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDDN4K",
+        "title": "13 Fair Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDDN4K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QV4bmoW0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF62W4",
+        "title": "32 Medium Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JF62W4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vgcWP63eL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDRFS3",
+        "title": "20 Light Cool",
+        "url": "https://www.amazon.com/dp/B0D3JDRFS3",
+        "imageUrl": "https://m.media-amazon.com/images/I/617Y71E6zWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCZ84F",
+        "title": "35 Medium Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCZ84F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ulpqTu+BL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCKZHN",
+        "title": "44 Tan Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCKZHN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61isY+TasgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF22TY",
+        "title": "33 Medium Warm",
+        "url": "https://www.amazon.com/dp/B0D3JF22TY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eVeYPQQDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JFKVX1",
+        "title": "25 Light Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JFKVX1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mmAa7rIdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCV66T",
+        "title": "51 Deep Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCV66T",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rsYdJR3XL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JCDB83",
+        "title": "61 Rich Cool",
+        "url": "https://www.amazon.com/dp/B0D3JCDB83",
+        "imageUrl": "https://m.media-amazon.com/images/I/619sKX116uL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDGMCS",
+        "title": "43 Tan Cool",
+        "url": "https://www.amazon.com/dp/B0D3JDGMCS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61m+nyxJ9iL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JFKVWZ",
+        "title": "23 Light Cool",
+        "url": "https://www.amazon.com/dp/B0D3JFKVWZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61oxOwYGdQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDQDYB",
+        "title": "10 Fair Cool",
+        "url": "https://www.amazon.com/dp/B0D3JDQDYB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gZgMkKFiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDNFR8",
+        "title": "15 Fair Warm",
+        "url": "https://www.amazon.com/dp/B0D3JDNFR8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uK4R2EP4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF5ZSH",
+        "title": "11 Fair Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JF5ZSH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HOWT+yuAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JF5SX1",
+        "title": "30 Medium Warm",
+        "url": "https://www.amazon.com/dp/B0D3JF5SX1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ooKDvEA6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D3JDCQN2",
+        "title": "21 Light Neutral",
+        "url": "https://www.amazon.com/dp/B0D3JDCQN2",
+        "imageUrl": "https://m.media-amazon.com/images/I/612oT4Sw7aL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9,
+      "beforePrice": 9,
+      "discount": "-5%",
+      "priceFrom": 7.99,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 1 hr 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/61mmAa7rIdL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61mmAa7rIdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51YoDcll1+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81qtLsUN9eL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816TtnniaqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71N6IeIsUBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tUAKxYAdL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/310db147-eea2-4b33-871d-f5e31d5801d0.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b290929a-a981-4f9b-8685-97ea70eef219.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46cc8ce6-c9b7-46b1-918b-c87b52bfd938.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b137b5c3-c07a-46ed-bd33-6c28cc26d840.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6d2197da-7e12-4474-b216-1eca089ffb92.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1799fd4a-b02e-4bab-8eb0-03956b1c483a.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/29c922da-5467-41af-8af8-2102c72dea68.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c18b4b5c-b319-4b98-90ac-0843bcb756fb.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/50ea4cb6-6873-4a0e-869e-4fdd9e9b34b7.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6017052-a7f6-453a-888e-77ee5a75d790.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1274eb9d-571a-4dd7-af15-d0621811a6e9.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/I/41ZzuJhtnbL.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/I/31EzDcc7ucL.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/I/31-CEpdRNUL.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e757ba57-05b8-43e2-8e24-854324d2569c.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d1f00203-4cb1-4171-b417-34150a5aae36.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/24d089ad-859b-4199-872f-612b559bc25f.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/71306268-916e-42e1-986a-3cf36527fb17.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 3,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/370d5fbd-e25b-4ae3-af56-1096828c0f59.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "25 Light Neutral"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "e.l.f."
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Long-lasting, buildable coverage with hydrating benefits"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Cruelty Free, Vegan"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00609332849464"
+      },
+      {
+        "key": "UPC",
+        "value": "609332849464"
+      },
+      {
+        "key": "Model Number",
+        "value": "84946"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "84946"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "e.l.f. Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#917 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #14 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0D3JFKVX1"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Long Lasting"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Satin"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.09 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "5.94 x 2.24 x 0.51 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Phthalate Free, Sulphate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 10160,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "67%",
+        "fourStars": "15%",
+        "threeStars": "10%",
+        "twoStars": "4%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers praise this foundation's buildable coverage and compare it favorably to high-end products, noting its silky smooth texture that feels like silk on the skin. They appreciate its natural-looking finish that's not too shiny, and consider it good value for money. Regarding longevity and color, opinions are mixed - while some say it lasts throughout the day, others report it doesn't stay on long, and while some find the shade perfect for their complexion, others find it too dark. Customers disagree on how it affects their skin, with some saying it evens it out while others report breakouts.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 569,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 400,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural finish",
+          "count": 352,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 274,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 257,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 268,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color",
+          "count": 260,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin type",
+          "count": 230,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71H1jjlNbbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71NOw-gNzEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/616eEsUEqxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/5173yidGTeL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61PQTNBLfML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-PeVt3Z3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/614H8FOvYbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71P+rWp9sEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61c7O0KVFmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610Bc0kiUQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/619CbztAKiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71HdA-qZyFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Good Coverage, Nice Finish",
+          "reviewText": "I recently tried this foundation, and it has quickly become one of my favorites. I have oily skin, and finding a foundation that stays put without breaking down throughout the day can be a challenge, but this one performs beautifully. The texture is lightweight yet provides buildable coverage, allowing me to achieve both a natural everyday look or a fuller coverage finish. One of the things I appreciate most is how it controls shine without feeling heavy or cakey. Even after several hours of wear, my skin still looks fresh and smooth. Another major plus is that it doesn\u2019t oxidize. The shade I apply in the morning stays true all day long, which is rare in many foundations I\u2019ve used before. It also blurs pores nicely and gives a soft, semi-matte finish that feels comfortable and breathable. Overall, this foundation is a great pick for anyone with oily or combination skin who wants long-lasting coverage without worrying about color changes or excessive shine. I\u2019d highly recommend it if you\u2019re looking for a dependable, everyday foundation that performs well under different conditions. Pros: Controls oil and shine effectively Lightweight, buildable coverage Does not oxidize Long-lasting and comfortable wear Smooths and blurs pores Cons: Might require a primer for very long days if you have extremely oily skin Perfect for anyone looking for a reliable foundation that stays true and fresh all day!",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Caitlin Gibson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEA2WHSNTNV5DXQBI6BH4EFQMK7Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "13 Fair Neutral"
+          },
+          "helpfulVotes": "29 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great, affordable foundation",
+          "reviewText": "I must say I am impressed with this foundation. It\u2019s light and satiny and works well on my mature (40) skin. It provides a light coverage without feeling heavy and lasts all day long. The color matches my skin great. At this price point, it\u2019s a must.",
+          "reviewDate": "Reviewed in the United States on February 17, 2026",
+          "customer": "Jessica",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5HIQ3GFB7NPANQSOH7SGRW3FXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "20 Light Cool"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Really really good foundation at a great price",
+          "reviewText": "I really like this foundation. I wish I could give it 4 1/2 stars because it\u2019s almost perfect for me. I started using the red cushion foundation and tried to love it as much as everyone else seemed to. It was almost three times the price of this, and never looked as good on me as this does. It has a beautiful skin like finish, which dries down smooth and without oiliness or stickiness. The coverage is good even though the foundation is light weight. I have sensitive skin and have had no problems with irritation or breakouts. I have an oily t-zone and if there is any area I wish this worked a little better it would be my nose, but it\u2019s easily managed with some blotting sheets or a little powder. This has become my new go-too foundation for daily wear, and it is buildable if I want to go for a more glam look. Almost perfect.",
+          "reviewDate": "Reviewed in the United States on October 5, 2025",
+          "customer": "Mrs M",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFSGVGYV3W5PZJNI3MAECI2KSE7Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "14 Fair Cool"
+          },
+          "helpfulVotes": "23 people found this helpful"
+        },
+        {
+          "reviewTitle": "Don\u2019t be fooled by the price! Great product!",
+          "reviewText": "I love this foundation!I\u2019m in my 70s & I watched a video and they recommended this product so I thought I would give it a try. I usually don\u2019t like to wear foundation because they make me look like I have makeup on. This product disappears on my face and covers up my freckles without leaving a greasy feeling or a shiny look. I ordered color 25 and it was perfectly matched to my skin tone. It didn\u2019t appear too yellow or orange for me. I have to say I now wear foundation more often than not. I just love this product and the price point is great. I also love that this comes in a squeeze tube. It\u2019s easy to apply without getting too much product on my skin. I will absolutely buy this again!",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "1Creeksidegal",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRVBSX4GYOLYIW7HFGYLHQVPGPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "25 Light Neutral"
+          },
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not good for mature or dry skin",
+          "reviewText": "I picked the wrong shade (much too light) but that's on me. What I don't like is the super matte finish. It makes my skin look drier than it is. I moisturized ahead of using this but it still has a very dry and artificial look on me. Not flattering. It did last the whole day, but I wouldn't buy it again. I didn't notice any particular smell",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Reading Fool",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFMO2EHBGE5XNRYSVJL22XUBXLGQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "11 Fair Neutral"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Very affordable",
+          "reviewText": "e.l.f. soft Glam Foundation is an absolute gem, deserving every one of its 5 stars for delivering high-end performance at a steal. Extremely affordable yet punches way above its weight in quality, making it my top pick for a budget-friendly foundation that rivals pricier brands. I reach for it daily for casual wear- lightweight formula blends seamlessly with excellent color match and buildable great coverage that lasts all day without fading or caking.",
+          "reviewDate": "Reviewed in the United States on February 10, 2026",
+          "customer": "Michelle B. Shanley",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFLISO6UZD3C36Z2OKE24XF5AAUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "25 Light Neutral"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great foundation for an even greater price!",
+          "reviewText": "I\u2019ll be honest, I was nervous to try this foundation because I usually spend over three times as much on high end brands. But, as usual, e.l.f. absolutely delivered. The medium coverage is spot on, enough to even everything out while still letting my skin look like, well, skin. It gives such a natural finish that honestly, surprised me. The blendability is dreamy too, no streaks, no patchiness, just smooth and seamless with a brush, sponge, or fingers. I\u2019ve got combo skin that can\u2019t decide who she is, and this foundation just rolls with it. It has a lovely moisture level, hydrating without getting greasy, and it wears comfortably all day without clinging to dry spots or melting off the oily ones. The size of the bottle is generous for the price (seriously, my wallet is still in shock), and a little goes a long way. If you\u2019re on the fence because you\u2019re used to splurging on foundation, consider this your sign: save your coins, keep your glow, and let e.l.f. do what e.l.f. does best, come through every single time.",
+          "reviewDate": "Reviewed in the United States on October 13, 2025",
+          "customer": "Maria",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYKMYKTTWGYHPZBJHERWJ5MTYAA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "21 Light Neutral"
+          },
+          "helpfulVotes": "97 people found this helpful"
+        },
+        {
+          "reviewTitle": "Very pretty",
+          "reviewText": "Good coverage and comfortable, I can\u2019t tell I have it on. I\u2019m 72 and wear light n . Glad I found it , good coverage, not cakey, not drying, smooth. Price is great , I will definitely purchase again. Not thick. Buildable .",
+          "reviewDate": "Reviewed in the United States on February 1, 2026",
+          "customer": "Kathy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3RX4AJWEL34RMVSTG4IG7DONIA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "25 Light Neutral"
+          },
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "Worth buying",
+          "reviewText": "Very light foundation its was powder finish and it's comfortable to wear .",
+          "reviewDate": "Reviewed in the United Arab Emirates on May 22, 2025",
+          "customer": "Tiffany Garcia",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "25 Light Neutral"
+          }
+        }
+      ]
+    }
+  }
+}

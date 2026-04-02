@@ -1,0 +1,359 @@
+{
+  "requestMetadata": {
+    "id": "9265462f-73d7-40a0-af0d-081958a5faa2",
+    "status": "ok",
+    "html": "https://files.hasdata.com/9265462f-73d7-40a0-af0d-081958a5faa2.html",
+    "json": "https://files.hasdata.com/9265462f-73d7-40a0-af0d-081958a5faa2.json",
+    "url": "https://www.amazon.com/dp/B007HYQET8"
+  },
+  "product": {
+    "asin": "B007HYQET8",
+    "url": "https://www.amazon.com/dp/B007HYQET8",
+    "title": "MAC Studio Fix Powder Plus Foundation, NW25, 0.52 Ounce (Pack of 1) (RW-US-MAC-4)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "NW25",
+      "size": "0.52 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "Product Type:Cosmetic Powder",
+      "Item Package Dimension:2.794 cm L X8.382 cm W X9.144 cm H",
+      "Item Package Weight: 0.52 Ounce",
+      "Country Of Origin: United States"
+    ],
+    "description": "Combines the goodness of foundation and powder in one Provides full coverage and matte finish Hides imperfections and fine lines on face Long wearing up to 8 hours Renders you a smooth flawless complexionProduct Line: MAC - Powder - Studio Fix Powder Plus FoundationProduct Size: 15g/0.52oz",
+    "boughtInPastMonth": "200+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Powder"
+    ],
+    "variants": [
+      {
+        "asin": "B000GWM53W",
+        "title": "N4 0.53 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000GWM53W",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eYYE+9RXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0041PKZD2",
+        "title": "NC42 0.52 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0041PKZD2",
+        "imageUrl": "https://m.media-amazon.com/images/I/51pDclA0qHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007HYQET8",
+        "title": "NW25 0.52 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B007HYQET8",
+        "imageUrl": "https://m.media-amazon.com/images/I/51AfNT1YifL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 29.98,
+      "beforePrice": 44.55,
+      "discount": "-33%",
+      "priceFrom": 29.9,
+      "otherOfferQuantity": 30
+    },
+    "deliveryRawDate": "April 5 - 7",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "fastestDeliveryRawDate": "Sunday, April 5",
+    "fastestDeliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "fastestDeliveryPriceMessage": "fastest",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "HNN Warehouse Deals",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1FZICV8GA5KDY",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51AfNT1YifL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51AfNT1YifL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31BkroDmUQL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/31uaXmGWyOL.jpg",
+      "https://m.media-amazon.com/images/I/71RhlgLTapL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/418Jpu+biwL.jpg",
+      "https://m.media-amazon.com/images/I/31XOp9biiTL.jpg",
+      "https://m.media-amazon.com/images/I/31aUhkYSizL.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6b4cef5-356f-45b4-8ff1-96247444deaa.__CR0,0,970,300_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/05e9817c-de67-4819-b17a-ef824f4b0bce.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0403ad7e-11fe-4dba-a667-fa571d04dd8a.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8401e7f1-7e0c-4764-a306-dfe7da825ea1.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/66379e69-b51b-4ebc-a52c-945988459daa.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/050a3318-94c3-4c14-9f4a-9ca8601fbd3e.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54493d49-9ecc-4184-b957-153203e38c20.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/80bcf7fb-bf72-4293-9e68-63bc69f6fb41.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a25b7fa6-2356-4aee-97b3-00056710070c.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6e88979e-0059-4681-9eab-b6a2a9c57f12.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a4452789-150d-43c4-abf5-9d99594b1c1b.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c51602c-8e44-47dc-a1ca-074f8f54df23.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e46e8e24-4b52-4da2-b7f7-b991cb9ec1d3.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a1887a0b-91e3-4db1-8777-d778074099fd.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/43b8d39b-09ff-4412-b9fd-cad25a5bf92b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0d1418ca-32cb-4c8e-af73-4be5ae634194.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "NW25"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MAC"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Fine Lines Treatment"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Palette"
+      },
+      {
+        "key": "UPC",
+        "value": "773602010677"
+      },
+      {
+        "key": "Model Number",
+        "value": "RW-US-MAC-4"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "JL69060213"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "MAC"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#38,444 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #214 in Face Powder"
+      },
+      {
+        "key": "ASIN",
+        "value": "B007HYQET8"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Ultra Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.52 Ounces"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1191,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "83%",
+        "fourStars": "7%",
+        "threeStars": "4%",
+        "twoStars": "1%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this powder foundation to be of excellent quality, with buildable coverage that leaves skin looking perfect. The product has a smooth texture and applies well, with one customer noting it doesn't settle into fine lines or feel cakey. The color match receives mixed feedback - while some say it matches their skin tone perfectly, others report the color is way off. Similarly, longevity is mixed, with some saying it lasts forever while others received broken products. The value for money also gets mixed reviews, with some considering it a great value while others find it expensive.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 40,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 15,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 15,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 29,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 20,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 10,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61+ZYsnQPAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61rqq4ieJoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71sajg4rafL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sTrD0xXJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51uz0TSktJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71xDYim2zkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71hkVklkxWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81kBZagqulL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71HhKrTzZSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/C1GN8de+lNS._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Perfect for Hot, Humid Days - Reliable for Over 25 Years",
+          "reviewText": "I've been using this foundation for 25 years now, and it's become a staple in my makeup routine. Living in South Florida's humidity, finding a foundation that holds up without feeling heavy is a challenge, but this one delivers. It offers buildable coverage that effectively controls shine throughout the day, which is essential for my oily skin. What I appreciate most is that it doesn't settle into fine lines or feel cakey, a common concern as my skin matures. The finish is smooth and natural-looking, providing a polished appearance without the need for constant touch-ups. Overall, it's a reliable choice for those seeking a foundation that withstands heat and humidity while catering to the needs of aging, oily skin.",
+          "reviewDate": "Reviewed in the United States on March 31, 2025",
+          "customer": "Rachel",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRXIBPKWEO4FSLTMGOIBS4AQW7Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "NW25",
+            "size": "0.52 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing!",
+          "reviewText": "I will never use anything else, this stuff is magical. Amazing coverage, I toss this on in the morning with nothing else and it\u2019s good all day.",
+          "reviewDate": "Reviewed in the United States on November 29, 2025",
+          "customer": "Cayce",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFPEGWYOQGBVDG65BWS3IRD2PVSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "N4",
+            "size": "0.53 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Perfect coverage as always!",
+          "reviewText": "This has for years been my go to and only powder compact that I use it is a quality more. I can\u2019t find comparable covers it lasts. The color is correct all around it says until the line isn\u2019t available anymore. Going to be my go to product and Amazon just made it that much quicker and some power to Get it to me without having to go to the store the shipment and ordering of it was very easy and quick and to the point he won\u2019t be disappointed with this product. My skin has time to drink over any dry to very oily as well as my pigment can be very red or not as red colored, but this powder is always the perfect studio fix to cover up all those little blemishes or just touching up the face in the middle of the day. Great product.",
+          "reviewDate": "Reviewed in the United States on September 23, 2023",
+          "customer": "kelsey Ruiz",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGN2RHNXDXKTGVK6CIG4XMQ3S2EQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "N4",
+            "size": "0.53 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "My New Go To Foundation!",
+          "reviewText": "I love this powder foundation! It's my new go to! A Google search said this brand is PFAS free which is what I was looking for. I like keeping my makeup very simple at age 70. I like one step foundations in a compact. Since I haven't used this brand before I wasn't sure what color to order. There are many options on the MAC website but I only saw 3 options on Amazon. I ordered NW25. It's perfect! (I'm Scots-Irish fair with a bit of ruddiness in my cheeks.) It has good coverage but you can't tell I have makeup on. It comes in a nice compact with a sponge type applicator. It arrived in perfect condition.",
+          "reviewDate": "Reviewed in the United States on August 4, 2025",
+          "customer": "R Oberdorf",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHEVCLM6E7T62G2WHIS2U3WADB6Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "NW25",
+            "size": "0.52 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "great value and trusted name",
+          "reviewText": "love it, been using Mac for many years. great price",
+          "reviewDate": "Reviewed in the United States on November 10, 2025",
+          "customer": "Susan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEG6KROIMU5YQKIG76GQOBPTE3ZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "NW25",
+            "size": "0.52 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Doesn't look cakey",
+          "reviewText": "I love this foundation because it looks really smooth and beautiful on the skin. It's soft and lightweight so I don't feel gross wearing it. It doesn't tend to make my skin look cakey either. Only thing I don't like about these is that after just a few uses, the hing weakens and then the mirror won't stay up by itself, it'll just fall open completely. Annoying when I'm trying to do my makeup in the car or a place where I don't have a mirror.",
+          "reviewDate": "Reviewed in the United States on August 14, 2023",
+          "customer": "Nikki Taylor",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHWDONQECS7FWNKIGHTL5AID5NFA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "N4",
+            "size": "0.53 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Arrived undamaged",
+          "reviewText": "Arrive without any damage",
+          "reviewDate": "Reviewed in the United States on December 2, 2025",
+          "customer": "Caribbean_Kim",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH446QHWJ6H656GKJ7ILQKLMCXAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "NW25",
+            "size": "0.52 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

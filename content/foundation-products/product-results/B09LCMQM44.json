@@ -1,0 +1,825 @@
+{
+  "requestMetadata": {
+    "id": "46bb6709-2048-42c6-87f6-404869656f2b",
+    "status": "ok",
+    "html": "https://files.hasdata.com/46bb6709-2048-42c6-87f6-404869656f2b.html",
+    "json": "https://files.hasdata.com/46bb6709-2048-42c6-87f6-404869656f2b.json",
+    "url": "https://www.amazon.com/dp/B09LCMQM44"
+  },
+  "product": {
+    "asin": "B09LCMQM44",
+    "url": "https://www.amazon.com/dp/B09LCMQM44",
+    "title": "TIRTIR Mask Fit Red Cushion Foundation | Full coverage, Weightless, Skin fit, Satin Glow Finish, Korean Makeup BB Foundation, beauty, Tattoo cover up, Buildable (#21N Ivory, 0.63 Fl Oz)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.63 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "[1st KOREAN CUSHION FOUNDATION with 40 SHADE RANGE] TIRTIR Mask Fit Red Cushion is the first Korean cushion foundation with a wide range of shades. From light to deep tones, this TIRTIR cushion foundation provides strong, comfortable coverage packed with nutrients for a flawless, all-day wear. Achieve the perfect \"glass skin\" look with this innovative Korean makeup solution.",
+      "[SKIN-FIT COVERAGE with SATIN GLOW] This Korean foundation makeup offers medium to full coverage that feels weightless on the skin. With high, breathable coverage and a satin glow finish, it ensures a naturally beautiful and radiant look. Experience the ultimate in Korean cushion foundation performance with a flawless finish that lasts all day.",
+      "[72-HOUR LONG-LASTING & WEIGHTLESS] Experience a foundation that feels as thin as water with a lightweight, non-greasy formula. The TIRTIR cushion\u2019s 72-hour lasting power ensures enduring wear, proving that a little goes a long way. Perfect for K-beauty enthusiasts looking for a reliable base.",
+      "[NOURISHING ELASTICITY] Infused with hibiscus and red propolis extracts, our formula enhances skin elasticity, providing a lasting finish that radiates a satin glow. Enjoy makeup that not only lasts but also highlights your glass skin beauty all day long.",
+      "[EASY, QUICK APPLICATION] Goes on easily and sets quickly for a smooth, flawless finish\u2014buildable yet light as a bb cream, embodying Korean cushion innovation."
+    ],
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0D798MSZZ",
+        "title": "0.15 Fl Oz (Pack of 1) 35N Walnut",
+        "url": "https://www.amazon.com/dp/B0D798MSZZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71psQ0rPJRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B87B35MM",
+        "title": "0.15 Fl Oz (Pack of 1) 21N Ivory",
+        "url": "https://www.amazon.com/dp/B0B87B35MM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71gksJNBJ5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D79679CZ",
+        "title": "0.15 Fl Oz (Pack of 1) 33N Macchiato",
+        "url": "https://www.amazon.com/dp/B0D79679CZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xjNRy+bbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZH97ST",
+        "title": "0.15 Fl Oz (Pack of 1) 45W Chestnut",
+        "url": "https://www.amazon.com/dp/B0DBZH97ST",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AM+kp-teL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2KZ52V3",
+        "title": "0.63 Fl Oz (Pack of 1) 17W French Vanilla",
+        "url": "https://www.amazon.com/dp/B0D2KZ52V3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KivHUaPeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7993613",
+        "title": "0.15 Fl Oz (Pack of 1) 24N Latte",
+        "url": "https://www.amazon.com/dp/B0D7993613",
+        "imageUrl": "https://m.media-amazon.com/images/I/71DW3KkW6IL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZKKG5H",
+        "title": "0.63 Fl Oz (Pack of 1) 22N Shell Beige",
+        "url": "https://www.amazon.com/dp/B0DBZKKG5H",
+        "imageUrl": "https://m.media-amazon.com/images/I/71qYxmRW4aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZKBKQM",
+        "title": "0.63 Fl Oz (Pack of 1) 45W Chestnut",
+        "url": "https://www.amazon.com/dp/B0DBZKBKQM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AM+kp-teL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2L1W4MZ",
+        "title": "0.63 Fl Oz (Pack of 1) 17N Vanilla",
+        "url": "https://www.amazon.com/dp/B0D2L1W4MZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71fWHrBs7GL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7999BCK",
+        "title": "0.15 Fl Oz (Pack of 1) 33W Ginger",
+        "url": "https://www.amazon.com/dp/B0D7999BCK",
+        "imageUrl": "https://m.media-amazon.com/images/I/716csBa0lKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58J2ZB1",
+        "title": "0.63 Fl Oz (Pack of 1) 37C Almond",
+        "url": "https://www.amazon.com/dp/B0D58J2ZB1",
+        "imageUrl": "https://m.media-amazon.com/images/I/715vPe5pwML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D797PRVS",
+        "title": "0.15 Fl Oz (Pack of 1) 37C Almond",
+        "url": "https://www.amazon.com/dp/B0D797PRVS",
+        "imageUrl": "https://m.media-amazon.com/images/I/715vPe5pwML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZHS9LN",
+        "title": "0.63 Fl Oz (Pack of 1) 22W Sheer Beige",
+        "url": "https://www.amazon.com/dp/B0DBZHS9LN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SCh9EMAzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2L1YLNR",
+        "title": "0.63 Fl Oz (Pack of 1) 15C Fair Porcelain",
+        "url": "https://www.amazon.com/dp/B0D2L1YLNR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Xr+C6iW9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZL345X",
+        "title": "0.15 Fl Oz (Pack of 1) 45N Saddle Brown",
+        "url": "https://www.amazon.com/dp/B0DBZL345X",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+knfe+CyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2L4WM8K",
+        "title": "0.63 Fl Oz (Pack of 1) 43N Deep Cocoa",
+        "url": "https://www.amazon.com/dp/B0D2L4WM8K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71QD1p1tGHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D799MRYQ",
+        "title": "0.15 Fl Oz (Pack of 1) 34C Amber",
+        "url": "https://www.amazon.com/dp/B0D799MRYQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71eWjCbRiKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D797J64X",
+        "title": "0.15 Fl Oz (Pack of 1) 40N Cinnamon",
+        "url": "https://www.amazon.com/dp/B0D797J64X",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SEwHpsRbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58JCRB7",
+        "title": "0.63 Fl Oz (Pack of 1) 30N Rich Honey",
+        "url": "https://www.amazon.com/dp/B0D58JCRB7",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SUMGfLGFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZKX25J",
+        "title": "0.15 Fl Oz (Pack of 1) 22C Peach Beige",
+        "url": "https://www.amazon.com/dp/B0DBZKX25J",
+        "imageUrl": "https://m.media-amazon.com/images/I/71r+PEX8JSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7999M1M",
+        "title": "0.15 Fl Oz (Pack of 1) 15C Fair Porcelain",
+        "url": "https://www.amazon.com/dp/B0D7999M1M",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Xr+C6iW9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58H8PVY",
+        "title": "0.63 Fl Oz (Pack of 1) 51N Fudge",
+        "url": "https://www.amazon.com/dp/B0D58H8PVY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71d2EUY89sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZHLJFH",
+        "title": "0.63 Fl Oz (Pack of 1) 29C Taupe Beige",
+        "url": "https://www.amazon.com/dp/B0DBZHLJFH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AfzuQxriL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58JJM8M",
+        "title": "0.63 Fl Oz (Pack of 1) 55N Espresso",
+        "url": "https://www.amazon.com/dp/B0D58JJM8M",
+        "imageUrl": "https://m.media-amazon.com/images/I/71t8RnM8y-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZKVGNH",
+        "title": "0.63 Fl Oz (Pack of 1) 45N Saddle Brown",
+        "url": "https://www.amazon.com/dp/B0DBZKVGNH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+knfe+CyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7989L8H",
+        "title": "0.15 Fl Oz (Pack of 1) 21W Natural Ivory",
+        "url": "https://www.amazon.com/dp/B0D7989L8H",
+        "imageUrl": "https://m.media-amazon.com/images/I/71QP-gBAY7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CS6BFDM7",
+        "title": "0.63 Fl Oz (Pack of 1) 21W Natural Ivory",
+        "url": "https://www.amazon.com/dp/B0CS6BFDM7",
+        "imageUrl": "https://m.media-amazon.com/images/I/71QP-gBAY7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B87D412M",
+        "title": "0.15 Fl Oz (Pack of 1) 17C Porcelain",
+        "url": "https://www.amazon.com/dp/B0B87D412M",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pIRUonQlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZL8L51",
+        "title": "0.63 Fl Oz (Pack of 1) 28N Oat",
+        "url": "https://www.amazon.com/dp/B0DBZL8L51",
+        "imageUrl": "https://m.media-amazon.com/images/I/71sscvLYtHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZKR4S1",
+        "title": "0.63 Fl Oz (Pack of 1) 22C Peach Beige",
+        "url": "https://www.amazon.com/dp/B0DBZKR4S1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71r+PEX8JSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D796FQT9",
+        "title": "0.15 Fl Oz (Pack of 1) 24W Soft Beige",
+        "url": "https://www.amazon.com/dp/B0D796FQT9",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HmxkTaO5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58GMY38",
+        "title": "0.63 Fl Oz (Pack of 1) 34C Amber",
+        "url": "https://www.amazon.com/dp/B0D58GMY38",
+        "imageUrl": "https://m.media-amazon.com/images/I/71eWjCbRiKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09LCH86FM",
+        "title": "0.63 Fl Oz (Pack of 1) 23N Sand",
+        "url": "https://www.amazon.com/dp/B09LCH86FM",
+        "imageUrl": "https://m.media-amazon.com/images/I/716UHH5O6wL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D79B5VMT",
+        "title": "0.15 Fl Oz (Pack of 1) 34N Pecan",
+        "url": "https://www.amazon.com/dp/B0D79B5VMT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NdankzzUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CS6DG353",
+        "title": "0.63 Fl Oz (Pack of 1) 24W Soft Beige",
+        "url": "https://www.amazon.com/dp/B0CS6DG353",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HmxkTaO5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D798PW5B",
+        "title": "0.15 Fl Oz (Pack of 1) 13C Fair",
+        "url": "https://www.amazon.com/dp/B0D798PW5B",
+        "imageUrl": "https://m.media-amazon.com/images/I/71UXZS5vZsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7979GZM",
+        "title": "0.15 Fl Oz (Pack of 1) 34W Toffee",
+        "url": "https://www.amazon.com/dp/B0D7979GZM",
+        "imageUrl": "https://m.media-amazon.com/images/I/710Tu-8RBjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZFP17Q",
+        "title": "0.63 Fl Oz (Pack of 1) 13W Cream",
+        "url": "https://www.amazon.com/dp/B0DBZFP17Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xDy4yRPCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58H9J6B",
+        "title": "0.63 Fl Oz (Pack of 1) 33W Ginger",
+        "url": "https://www.amazon.com/dp/B0D58H9J6B",
+        "imageUrl": "https://m.media-amazon.com/images/I/716csBa0lKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZKQP6L",
+        "title": "0.15 Fl Oz (Pack of 1) 47N Ebony",
+        "url": "https://www.amazon.com/dp/B0DBZKQP6L",
+        "imageUrl": "https://m.media-amazon.com/images/I/71n4WxVu5FL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7979GZR",
+        "title": "0.15 Fl Oz (Pack of 1) 21C Cool Ivory",
+        "url": "https://www.amazon.com/dp/B0D7979GZR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71YSUF6ttoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09LCGN136",
+        "title": "0.63 Fl Oz (Pack of 1) 17C Porcelain",
+        "url": "https://www.amazon.com/dp/B09LCGN136",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pIRUonQlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7989YK5",
+        "title": "0.15 Fl Oz (Pack of 1) 51N Fudge",
+        "url": "https://www.amazon.com/dp/B0D7989YK5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71d2EUY89sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CR9KM7RJ",
+        "title": "0.63 Fl Oz (Pack of 1) 27N Camel",
+        "url": "https://www.amazon.com/dp/B0CR9KM7RJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71znmuVksaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58K2HZY",
+        "title": "0.63 Fl Oz (Pack of 1) 34N Pecan",
+        "url": "https://www.amazon.com/dp/B0D58K2HZY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NdankzzUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2L21YMS",
+        "title": "0.63 Fl Oz (Pack of 1) 21C Cool Ivory",
+        "url": "https://www.amazon.com/dp/B0D2L21YMS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71YSUF6ttoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7962QKK",
+        "title": "0.15 Fl Oz (Pack of 1) 17W French Vanilla",
+        "url": "https://www.amazon.com/dp/B0D7962QKK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KivHUaPeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZLL7LN",
+        "title": "0.15 Fl Oz (Pack of 1) 22N Shell Beige",
+        "url": "https://www.amazon.com/dp/B0DBZLL7LN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71qYxmRW4aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2L5QH9G",
+        "title": "0.63 Fl Oz (Pack of 1) 35N Walnut",
+        "url": "https://www.amazon.com/dp/B0D2L5QH9G",
+        "imageUrl": "https://m.media-amazon.com/images/I/71psQ0rPJRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D796W7ZL",
+        "title": "0.15 Fl Oz (Pack of 1) 13N Fair Ivory",
+        "url": "https://www.amazon.com/dp/B0D796W7ZL",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ODD10uvML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2KZS28Q",
+        "title": "0.63 Fl Oz (Pack of 1) 13N Fair Ivory",
+        "url": "https://www.amazon.com/dp/B0D2KZS28Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ODD10uvML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CR9LFM72",
+        "title": "0.63 Fl Oz (Pack of 1) 24N Latte",
+        "url": "https://www.amazon.com/dp/B0CR9LFM72",
+        "imageUrl": "https://m.media-amazon.com/images/I/71DW3KkW6IL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CR9L4TFV",
+        "title": "0.63 Fl Oz (Pack of 1) 25N Mocha",
+        "url": "https://www.amazon.com/dp/B0CR9L4TFV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pOvy5s0-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7984L3N",
+        "title": "0.15 Fl Oz (Pack of 1) 17N Vanilla",
+        "url": "https://www.amazon.com/dp/B0D7984L3N",
+        "imageUrl": "https://m.media-amazon.com/images/I/71fWHrBs7GL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D798X38Z",
+        "title": "0.15 Fl Oz (Pack of 1) 29N Natural Beige",
+        "url": "https://www.amazon.com/dp/B0D798X38Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/71PAoQ20DpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7986XM1",
+        "title": "0.15 Fl Oz (Pack of 1) 55N Espresso",
+        "url": "https://www.amazon.com/dp/B0D7986XM1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71t8RnM8y-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D799WDHK",
+        "title": "0.15 Fl Oz (Pack of 1) 33C Hazel",
+        "url": "https://www.amazon.com/dp/B0D799WDHK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71f6xZZBImL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZM7XKQ",
+        "title": "0.15 Fl Oz (Pack of 1) 10C Shell",
+        "url": "https://www.amazon.com/dp/B0DBZM7XKQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SlqvdbBmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09LCMQM44",
+        "title": "0.63 Fl Oz (Pack of 1) 21N Ivory",
+        "url": "https://www.amazon.com/dp/B09LCMQM44",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iLemSu+FL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0D798MFG9",
+        "title": "0.15 Fl Oz (Pack of 1) 30N Rich Honey",
+        "url": "https://www.amazon.com/dp/B0D798MFG9",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SUMGfLGFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D798J1VT",
+        "title": "0.15 Fl Oz (Pack of 1) 43N Deep Cocoa",
+        "url": "https://www.amazon.com/dp/B0D798J1VT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71QD1p1tGHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CS6CG5D2",
+        "title": "0.63 Fl Oz (Pack of 1) 29N Natural Beige",
+        "url": "https://www.amazon.com/dp/B0CS6CG5D2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71PAoQ20DpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2L5DWG5",
+        "title": "0.63 Fl Oz (Pack of 1) 33C Hazel",
+        "url": "https://www.amazon.com/dp/B0D2L5DWG5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71f6xZZBImL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZJQ8WH",
+        "title": "0.15 Fl Oz (Pack of 1) 13W Cream",
+        "url": "https://www.amazon.com/dp/B0DBZJQ8WH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xDy4yRPCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D797YNFY",
+        "title": "0.15 Fl Oz (Pack of 1) 31N French Beige",
+        "url": "https://www.amazon.com/dp/B0D797YNFY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AIEyvpgWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58JG57F",
+        "title": "0.63 Fl Oz (Pack of 1) 31N French Beige",
+        "url": "https://www.amazon.com/dp/B0D58JG57F",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AIEyvpgWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D797CJ3H",
+        "title": "0.15 Fl Oz (Pack of 1) 27N Camel",
+        "url": "https://www.amazon.com/dp/B0D797CJ3H",
+        "imageUrl": "https://m.media-amazon.com/images/I/71znmuVksaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58K45NC",
+        "title": "0.63 Fl Oz (Pack of 1) 27C Cool Beige",
+        "url": "https://www.amazon.com/dp/B0D58K45NC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Kqu5uGuoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D798WY3V",
+        "title": "0.15 Fl Oz (Pack of 1) 27C Cool Beige",
+        "url": "https://www.amazon.com/dp/B0D798WY3V",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Kqu5uGuoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D798X38R",
+        "title": "0.15 Fl Oz (Pack of 1) 25N Mocha",
+        "url": "https://www.amazon.com/dp/B0D798X38R",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pOvy5s0-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D58JK8BP",
+        "title": "0.63 Fl Oz (Pack of 1) 34W Toffee",
+        "url": "https://www.amazon.com/dp/B0D58JK8BP",
+        "imageUrl": "https://m.media-amazon.com/images/I/710Tu-8RBjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2KWV799",
+        "title": "0.63 Fl Oz (Pack of 1) 13C Fair",
+        "url": "https://www.amazon.com/dp/B0D2KWV799",
+        "imageUrl": "https://m.media-amazon.com/images/I/71UXZS5vZsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZJSP1K",
+        "title": "0.15 Fl Oz (Pack of 1) 29C Taupe Beige",
+        "url": "https://www.amazon.com/dp/B0DBZJSP1K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AfzuQxriL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZHM3XS",
+        "title": "0.63 Fl Oz (Pack of 1) 10C Shell",
+        "url": "https://www.amazon.com/dp/B0DBZHM3XS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SlqvdbBmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZL6D7K",
+        "title": "0.15 Fl Oz (Pack of 1) 22W Sheer Beige",
+        "url": "https://www.amazon.com/dp/B0DBZL6D7K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SCh9EMAzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZJSP7F",
+        "title": "0.63 Fl Oz (Pack of 1) 47N Ebony",
+        "url": "https://www.amazon.com/dp/B0DBZJSP7F",
+        "imageUrl": "https://m.media-amazon.com/images/I/71n4WxVu5FL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBZHGXN3",
+        "title": "0.15 Fl Oz (Pack of 1) 28N Oat",
+        "url": "https://www.amazon.com/dp/B0DBZHGXN3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71sscvLYtHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B87BBZJZ",
+        "title": "0.15 Fl Oz (Pack of 1) 23N Sand",
+        "url": "https://www.amazon.com/dp/B0B87BBZJZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71GpfoUxkSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2L39Y4P",
+        "title": "0.63 Fl Oz (Pack of 1) 33N Macchiato",
+        "url": "https://www.amazon.com/dp/B0D2L39Y4P",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xjNRy+bbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D2L45BVX",
+        "title": "0.63 Fl Oz (Pack of 1) 40N Cinnamon",
+        "url": "https://www.amazon.com/dp/B0D2L45BVX",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SEwHpsRbL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 17.5,
+      "beforePrice": 25,
+      "discount": "-30%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "TIRTIR. INC",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3OI1HNTH0P9J5",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61iLemSu+FL._SL1000_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61iLemSu+FL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61-upH7NYiL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71R6yEshWFL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61wKnkoglyL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61A4Vb50DNL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61CiGJxvoTL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61UcEug2a5L._SL1080_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c8afe778-bb90-46c6-99d1-7aa1099c554d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/63b7c9b0-7c9a-4d81-9c2d-90a8a33edb36.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/652362b8-220d-422a-b796-dc79b446e4e7.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74769de4-7568-4e24-a0f3-169ba4ef9b95.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b66447a0-4ff5-4748-9a4b-b5aae28a6ae1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ce56104-5446-4deb-b111-bfd6a62ca0e0.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/10e8290e-afe2-4041-be16-f4101304b014.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ab17615-5370-47c9-9e6d-90699abec7eb.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77fa42fa-fb22-4571-b3bb-d27ccf5eeb20.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7ac66a9-b09c-4486-be00-7be9edd2306c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3b00388b-7223-4148-9ebf-d06bc3ba0be0.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f82fd62-2140-47c9-8fe5-bded88fc0ac2.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15285233-a764-49cf-a7ba-adb7ceaf4787.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f3181c30-ea9f-48ee-84da-2d69729b4b84.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cbc0157a-6603-4b2d-a2df-ed819598b84a.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cbc0157a-6603-4b2d-a2df-ed819598b84a.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/844f2956-57fd-4720-8774-5f90bf3c9c4f.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/844f2956-57fd-4720-8774-5f90bf3c9c4f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/281286aa-680b-4eeb-8e56-9a5f7456b44f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02812952-4ac4-4f2a-adb3-45ec67d6d85d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cushion"
+      },
+      {
+        "key": "Color",
+        "value": "21N Ivory"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Base Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "TIRTIR"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Republic of Korea"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "08809679696451"
+      },
+      {
+        "key": "Model Number",
+        "value": "8809679696451"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "8809679696451"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "TIRTIR"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#262 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #2 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B09LCMQM44"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Talcum Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Satin"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "18 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3.15 x 3.74 x 1.18 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Talcum Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 36052,
+      "rating": 4.1,
+      "starRates": {
+        "fiveStars": "62%",
+        "fourStars": "14%",
+        "threeStars": "10%",
+        "twoStars": "5%",
+        "oneStars": "9%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage that's buildable and feels light on the skin, with smooth application and a natural appearance that looks like their own skin. The product receives positive feedback for its quality, with one customer describing it as a stunning foundation. The color match and longevity receive mixed reviews - while some say it matches their skin perfectly and lasts throughout the day, others find the color too dark and report it oxidizes quickly. Skin compatibility is also mixed, with some saying it makes skin look flawless while others note it accentuates pores.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 991,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 952,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 951,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61bDcaGIs+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wr78Sy9mL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71J6glxS0NL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71yohdlBmUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61c5Ry-dYBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71TN143gZLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61waqCl-imL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71hVpOslt9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71eej7VbSjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/716fd4PWnkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71DrQIRLFoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71DbvFX80TL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "love this -- and I'm a makeup minimalist",
+          "reviewText": "TLDR: It's advertised as a buildable coverage foundation, so with lighthanded application, it suits my minimalist makeup style. It goes on easily and with a little time to react with my skin, it looks like natural, healthy skin -- not makeup. Trial and error with the shade matching is inevitable. Plus it's summer and if you're spending time outdoors (like me), different shades may match at different times I've never liked makeup -- probably bc as a teenager I watched my mother do her makeup for hours every morning and swore I'd never get up early to waste that much time making myself up for anyone. Fast forward 30 years -- while I would still go completely makeup-less if I could, dark spots/age spots/acne scars have forced me to consider a light approach to makeup. Plus I've been convinced that sunscreen is a must to fend off any further aging, so my late 40s makeup journey started with the search for the perfect tinted mineral sunscreen. For people who say this is too heavy or cakey, I disagree. You can use a very light touch with this, you just need to not squish the puff down hard into the compact's cushion. I'm able to dab very lightly into the cushion, and if I get too much, I pat it off on the inside of the black flap that covers the cushion. If it looks wet on my skin, I know I've put too much on. I'm able to achieve enough coverage to even out redness and cover spots/blemishes without looking or feeling like I'm wearing heavy makeup. Since I'm oily/combination, I'll powder lightly (with either Morphe Soft Focus translucent setting powder or Hourglass Vanish pressed powder in translucent tan). If it looks too matte after the powder or if it's a really hot day, I'll spray TirTir's Mask Fit Makeup Cool Fixer (the cooling effect is so nice -- I wish Amazon sold this). Immediately after application, I think the cushion foundation looks a little \"flat\" (even with highlighter and contour/bronzer), but with time, it must react with my skin and it starts to look like glowy, healthy skin. For people who are taking stars off bc of color matching -- you're buying makeup online -- no monitor or phone screen is going to accurately display a makeup color. So unless you're able to try this in person, it's going to be trial and error ordering online. I've gone through 6 shades (and 2 sample packs), aside from the 1st 2 shades not matching me, the others have been because it's summer and I'm getting darker as I spend more time outside. I have medium to tan skin with warm undertones -- this is the order of the shades I've tried and when I tried them: 27N Camel (mid-May): too yellow/olive for me. Also seemed to oxidize orange-ish on me 25N Mocha (late May): less yellow/olive than 27N Camel, but also too light on me 9-shade original sample pack (early June): sampled 24N Latte and 29N Natural Beige from the packets next to 25N Mocha from the compact. Both 24N and 29N seemed like potential matches. 25N was still too light. Instead of smearing on wet, I tried to press the sample makeup into my skin to mimic if I was using the puff and cushion compact, I'm convinced that the samples are okay to test colors, but don't represent the colors exactly as they come out of the cushion compact 27C Cool Beige (early June): TirTir released new shades so I wanted to see how this compared to 27N. 27C isn't really \"cool\", it\u2019s more peach-y and not as yellow/olive as 27N. It was a good match when I tried it. But this shade felt more drying than the previous cushions. I was coming off a week of antibiotics so maybe the meds dried me out, or maybe the newer shades are a different formulation? 24N Latte/29N Natural Beige (2nd week of June): got the compacts of these. Both were decent matches but I could see that 24N would be too light as the summer went on, 24N still seemed darker on me than 25N Mocha. 29N became my go-to shade for the next few weeks 6-shade medium sample pack (late June): ordered this to try the darkest shades in the pack, 30N Rich Honey and 31N French Beige. 31N was too dark for me and 30N was just a hair darker than my skin at that time 30N Rich Honey (mid-July): ordered 30N during the Prime day sale and it's been my go-to shade since then (it's now early August) I totally expect that as we go into fall, I'll revisit the lighter shades as my summer tan fades. I was initially drawn to these red cushion foundations because they were supposedly SPF 40 when there were only 3 shades, and unlike most tinted sunscreens, I wouldn't have to get it all over my hands to apply. However, the US packaging doesn't mention SPF, so I prep as if these have no SPF. I prep with TirTir's Milk Skin Toner Light (I chose the Light for my oily/combination skin -- love what this has done for my skin). Then a vitamin C serum (not TirTir), Baebody eye gel, then Baebody eye cream. Next, If I'm not going outdoors at all, I'll use Drmtlgy's Water Creme moisturizer, then apply the cushion foundation. If I'll be outside for only a short amount of time, I'll use LiveTinted Huegard 3-in-1 SPF 30, then the cushion foundation. If I'll be outdoors for an extended amount of time, I'll apply the cushion foundation after the Water Creme moisturizer and TirTir's Mask Fit (Blue) Cool Sun Cushion SPF 50+ -- I wish Amazon sold this. It's one shade and does start off too light on me, but I can pat it in and it leaves just a minimal lighter cast on me. I love that it's sun protection that I can apply with a puff and not my bare hands. I've never had any issues with the red cushion foundation pilling over any of these different products. With trial and error for shade matching and to get your desired amount of coverage, this TirTir red cushion foundation is an amazing product. 100% recommend the sample packs (if they're available) or the mini compacts to test shades, and also recommend TirTir's Milk Skin Toner Light, Mask Fit Makeup Cool Fixer, and Mask Fit Cool Sun Cushion (Amazon please please please start carrying these 2 Cool items!)",
+          "reviewDate": "Reviewed in the United States on August 4, 2024",
+          "customer": "avalancheryder",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEMFZRXLEBY7BGHUEF7FANG5NZTQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "27C Cool Beige"
+          },
+          "helpfulVotes": "787 people found this helpful"
+        },
+        {
+          "reviewTitle": "It Is Absolutely WONDERFUL To FINALLY Find Foundation That Matches My Skin!!! BUT....",
+          "reviewText": "I absolutely LOVE this foundation!! You have no idea how wonderful it is to FINALLY find an affordable foundation that matches my skin tone PERFECTLY. As a \"woman of a certain age\" (let's leave it at that!) my only choices when I first started wearing makeup were the only department store foundation made exclusively for Black women (before there was ever Fenty) or settle for weird looking drugstore foundation matches. And who would have thunk it would be a South Korean makeup company that would finally match my skin tone all these years later! I purchased shade 40N and 43N (at the time the two darkest TIR TIR shades). I got 43N because it was what a You Tube influencer that I follow used (MissDarcei) who is my exact shade in both summer and winter. When I heard that the foundation oxidizes a shade darker, I went with 40N first. As it turns out, 40N will work great for my winter shade. There are tutorials on You Tube on how to best apply this foundation to get the best results. Robert Welsh is a great place to start. As far as wear goes, I have done makeup tests with the foundation on my face bare skin and without primer and with skin care prep, and it looked as good as it did when I put it on. I wore this foundation for up to 12 - 15 hours each time, and the only thing that happened was that I did start looking a little \"dewy\" in my T-zone around hour 10, but nothing that a quick dab of powder wouldn't fix. The foundation never separated, never looked cakey, and didn't fill in any lines. It also played nicely with my concealer, etc. 1. It didn't separate even after almost 15 hours, which was the day I wore it just on my face and with nothing else on underneath it. 2. It didn't settle into my laugh lines or any fine lines. 3. There was very minimal transfer, and what transferred were things like blush and highlight. The foundation itself had practically no transfer. 4. The longer it was on my face, the better it looked, and it looked fantastic to start. Plus my skin looked great when I removed it. 5. It stayed on my face until I took it off, and this was even through gardening, running errands, and going out into a heat wave. IMPORTANT TIPS TO REMEMBER: 1. DON'T keep constantly keep pressing into the foundation. When they say a little goes a long way, they mean it. Press the applicator LIGHTLY once into the cushion so that you can barely see the foundation on the applicator. If you can see it, tap the excess off on the inside of the cover. It is buildable, so start with a very light layer, which will be more than enough to do your whole face. You should be able to lightly press into the compact and use that little bit to cover your whole face, and if you miss a spot or two, pick up the excess that you wiped on the inside cover and use that. 2. If the foundation looks cakey or orange, you applied WAY too much to the pad and piled the excess right onto your face. The more you apply in the very first application, the more it will oxidize and give you cake-face. 3. DON'T drag the applicator sponge across your face. That's another reason why you have cake face and look like an Oompa-Loompa. TAP the sponge into your face, starting from the center and work outward. 4. DO NOT use a foundation brush or beauty blender to apply this foundation. This will also give you cake-face because you're using too much foundation all at once. 4. SKIN PREP IS KEY! I have combo/oily skin, so I did my skin prep (clean skin, moisturizer, primer for oily skin), let it sit and soak in for 5-10 minutes, and then applied this foundation. If you have oily skin, set this foundation with powder. 5. Wait for the foundation to set before you apply anything on top of it. It dries down fast, especially if you apply it the right way. 6. Go a shade lighter than you think you'll need. Even with the light application, it does oxidize like any other makeup does. It will oxidize a shade darker. And again, if you put on too much, you will turn orange. I had no breakouts or flaky skin anywhere with this foundation. I think the people having problems with this foundation should address it through their skin prep. Of course there are people who will be allergic and who can't use the foundation, but I think the majority of people complaining about how the foundation looks don't know how to apply it correctly. TL:DR - Absolutely love this foundation, 10 out of 10 would recommend. UPDATE AND EDIT ON 8/27/2024: TL:DR - I still like this foundation, but I got one of the recent shade updates (45W Chestnut), and it was a swing and a miss. I got a bit darker than anticipated because - SUMMER- and was really excited that a warm shade had come out. I pre-ordered it, got two compacts of the new shade b/c I remembered how quickly they sold out, and got one of the first batches. Way, WAY too red. And when it oxidized, my face was two shades darker than my ears! Even after applying the foundation using the techniques I outlined earlier. Do I still like the product? Yes. I like the coverage, I like the wear-ability, I like how it feels on my skin. But if you're still listening, Tir-Tir, please make warm AND cool shades, especially in the deeper skin tones. POC have different undertones, and not all dark people have red undertones. I appreciate that you've been receptive to our requests thus far, but you're almost there with the shade range! Keep going, and like they say in K-Dramas, Fighting!",
+          "reviewDate": "Reviewed in the United States on June 21, 2024",
+          "customer": "Cybergeekchick",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFJFKMGKDJREPOWALOYZJFMCK5TQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "40N Cinnamon"
+          },
+          "helpfulVotes": "1,089 people found this helpful"
+        },
+        {
+          "reviewTitle": "Goes on smooth and appears matte, may settle in fine lines.",
+          "reviewText": "I bought this a while ago and have worn it maybe once for a short time. Today I decided to practice some makeup before a shower and I was reminded how good it looks! I pat it on, but I can see this blending out more evenly with a brush. I have aging skin and do see it settle a bit into my fine lines. It was only a test on bare skin, so a primer and setting spray might help that. It is medium coverage with the ability to build. The consistency stays a little tacky after applying, but it stays fairly matte in my opinion. I have pretty problematic combination skin with blemishes, so you can tell which side it's on in the pictures. My face is multiple colors, ranging from a light, cool pink tone to a golden mid, and a warm brown. I bought 33N after watching videos and reading reviews and I think it was a good choice that is fairly neutral. It does oxidize and get a touch warmer, so I think this shade matches best for the summer. I'll have to get another sample in a lighter color to see if I can get a more perfect shade.",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "K. Simms",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFCJU243OKMA52JFP33NGTKX5LAA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.15 Fl Oz (Pack of 1)",
+            "color": "33N Macchiato"
+          },
+          "helpfulVotes": "33 people found this helpful"
+        },
+        {
+          "reviewTitle": "Radiant & Lightweight Makeup Base",
+          "reviewText": "I purchased this foundation and absolutely love it. It leaves the skin baby-soft and makes it look truly beautiful and flawless. The coverage is perfect: it doesn\u2019t feel heavy, blends easily, and lasts well throughout the day. Plus, its lightweight texture allows the skin to breathe, giving a natural and radiant finish. This is definitely a foundation I recommend for anyone looking for a fresh, flawless, and healthy-looking complexion.",
+          "reviewDate": "Reviewed in the United States on February 25, 2026",
+          "customer": "Ani",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEW4R5DIK3KED6O2BSSPSTUNGIWQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "13W Cream"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great coverage and texture",
+          "reviewText": "Omg. As someone who doesn\u2019t wear makeup, this one feels clean, easy to apply, fresh, and professional quality without comptomising on price. Would definitely recommend for someone with freckles or uneven skin tone who doesn\u2019t want to look and feel cakey and heavy but wants a soft natural looking high coverage",
+          "reviewDate": "Reviewed in Italy on February 4, 2026",
+          "customer": "Sofia",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.15 Fl Oz (Pack of 1)",
+            "color": "21C Cool Ivory"
+          }
+        },
+        {
+          "reviewTitle": "Exact Shade!",
+          "reviewText": "I was able to order this to try out and the shade matched perfectly to my skin tone, so light that it doesn\u2019t even feel like I am wearing any foundation for the whole day! Great mini size for travel.",
+          "reviewDate": "Reviewed in Canada on August 16, 2024",
+          "customer": "Julia Yee",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.15 Fl Oz (Pack of 1)",
+            "color": "25N Mocha"
+          }
+        },
+        {
+          "reviewTitle": "Full coverage, soft matte, lightweight and a concealer",
+          "reviewText": "I honestly think this has to be the best foundation ever. I have spent so much money on foundations. I have oily/combo skin and I like a full coverage foundation that is long wearing and lightweight. I have an issue with most foundations that aren\u2019t matte that they basically slide off my face by midday and I\u2019m an oily mess with patchy makeup. For years, I\u2019ve been using Too Faced Born This Way 24hour matte foundation which is really matte. I\u2019ve been on the hunt for something a bit more lightweight that would work better on my textured skin. As I\u2019ve aged (39) matte foundations have started to accentuate my fine lines and pores and I\u2019ve wanted to find something that looks a bit more natural. Enter Tir Tir cushion foundation. I am honestly blown away by how beautiful this foundation makes my skin look. It blurs pores, doesn\u2019t settle into fine lines, it\u2019s lightweight and lasts forever. It\u2019s so convenient for travel. You can wear it without a setting powder if you want a nice glow or lightly powder for a more matte finish. This foundation also works so well as an undereye concealer. I have troubles finding a good concealer because I have genetically dark under eye circles and I also have fine lines that make most concealers crease. I was using Tarte Shape Tape which has amazing coverage but I was finding it made my under eyes look dry and the formula can be hard to work with because it dries so quickly. Well this Tir Tir foundation works SO well as a concealer. I\u2019m so impressed. This foundation is amazing and it\u2019s going to save me both time and money as well. Absolute Holy Grail foundation. No joke. Give this foundation a try. UPDATE: I had a previous update here where I took a star off because the foundation dried very quickly in the compact but it seems this was only specific to that one compact so it must\u2019ve not been sealed properly. I have not had that issue since so I\u2019m returning my review to a full 5 stars.",
+          "reviewDate": "Reviewed in Canada on June 11, 2024",
+          "customer": "G. Smith",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.63 Fl Oz (Pack of 1)",
+            "color": "24W Soft Beige"
+          }
+        }
+      ]
+    }
+  }
+}

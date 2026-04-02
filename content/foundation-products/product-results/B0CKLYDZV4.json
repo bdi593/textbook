@@ -1,0 +1,401 @@
+{
+  "requestMetadata": {
+    "id": "724e9d27-638d-42c9-baca-8fa45722d331",
+    "status": "ok",
+    "html": "https://files.hasdata.com/724e9d27-638d-42c9-baca-8fa45722d331.html",
+    "json": "https://files.hasdata.com/724e9d27-638d-42c9-baca-8fa45722d331.json",
+    "url": "https://www.amazon.com/dp/B0CKLYDZV4"
+  },
+  "product": {
+    "asin": "B0CKLYDZV4",
+    "url": "https://www.amazon.com/dp/B0CKLYDZV4",
+    "title": "Almay Hydrating Liquid Foundation Tint, Lightweight with Light Coverage, Naturally Dewy Finish, Hypoallergenic, Dermatologist TestedFragrance Free, 110 Buff, 0.94 fl oz.",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Buff",
+      "size": "0.94 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "LIGHTWEIGHT TINT: Hydrating liquid foundation blends effortlessly into skin with light coverage and a naturally dewy, perfected finish",
+      "SKIN-CARING INGREDIENTS: Includes hyaluronic acid to hydrate and plump the look of skin, naturally derived squalane, a blend of vitamins to help replenish skin\u2019s moisture barrier",
+      "AFTER 4 WEEKS: Skin\u2019s elasticity increases, skin roughness decreases, and the appearance of wrinkles is minimized",
+      "SUITABLE FOR ALL SKIN TYPES: Even sensitive. As always, hypoallergenic, dermatologist tested, cruelty free, fragrance free",
+      "GENTLE ON EARTH: The cap is made from 96% PCR material, the tube is made from 49% PCR material"
+    ],
+    "description": "Revitalize dull, dry skin with this lightweight tint that locks in moisture as it perfects your complexion with light coverage and a dewy finish. Almay Skin Perfecting Hydrating Tint\u2122 is formulated with skin-caring ingredients hyaluronic acid, naturally derived squalane and a multivitamin complex, this foundation instantly hydrates and helps reduce visible signs of aging. Immediately, skin is moisturized and skin tone is brightened. Over time, skin looks plump, wrinkles are minimized, and elasticity improves.",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0CKLYDZV4",
+        "title": "Buff 0.94 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CKLYDZV4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QMKwy5AAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CKWKD5WZ",
+        "title": "150 Honey 0.94 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CKWKD5WZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BRPcMX6rL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GT6RWP5F",
+        "title": "150 Honey 0.94 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0GT6RWP5F",
+        "imageUrl": "https://m.media-amazon.com/images/I/71gK9M5WKvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CKWL3YLX",
+        "title": "170 Mocha 0.94 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CKWL3YLX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61I8x5vjjgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CKWKYCVY",
+        "title": "160 Mahogany 0.94 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CKWKYCVY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zF6pl8fFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CKLYLL3L",
+        "title": "120 Beige 0.94 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CKLYLL3L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jfff+CacL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CKLYJ98X",
+        "title": "140 Tan 0.94 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CKLYJ98X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EqZ8ZqoWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CKLZ91FR",
+        "title": "130 Sand 0.94 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CKLZ91FR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mXkGRJJ+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CKLZ8NRH",
+        "title": "Ivory 0.94 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CKLZ8NRH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kES7FFZzL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 6.86,
+      "beforePrice": 13.17,
+      "discount": "-48%",
+      "priceFrom": 6.86,
+      "otherOfferQuantity": 9
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61QMKwy5AAL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61QMKwy5AAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61C45MJ8CaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-x5H49dTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81rG55qNbIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91ASgOJKQcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SQZ8OsMUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Qvu5cbRCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81QLvPah6qL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d8b5877-451d-4d7d-bf63-5c77d4845856.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a3b12f4-88bb-42d7-9f01-181266afcf76.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d8079de-911e-482a-8a26-5f9fd0ad281b.__CR1,0,1469,602_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3ca4aed8-775a-42a1-a377-40c63c23201f.__CR0,0,488,700_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c557b197-31c0-48f4-8a49-ef990d271be0.__CR0,0,488,700_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dea696d9-4230-4133-9773-110d1ce5f536.__CR0,0,488,700_PT0_SX488_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c53a5478-2808-4ec0-9c99-b13f5be953e0.__CR0,0,488,700_PT0_SX488_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/73d55839-377a-4770-bcc5-aac5dba76b51.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Buff"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Apply dots of skin tint foundation onto face, then evenly blend from center of face outwards."
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Almay"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Cruelty Free, Dermatologist tested, Hydrating, Hypoallergenic, Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Cru, Fragrance Free, Hypoallergenic"
+      },
+      {
+        "key": "UPC",
+        "value": "309970217457"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Revlon Consumer Products Corp."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#16,384 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #174 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CKLYDZV4"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Dermatologist Tested, Lightweight"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "29 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.55 x 1 x 4.5 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 387,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "76%",
+        "fourStars": "13%",
+        "threeStars": "7%",
+        "twoStars": "2%",
+        "oneStars": "2%"
+      },
+      "customersSay": "Customers find this foundation hydrating, particularly suitable for mature skin, and appreciate its natural tan look and accurate color match. The product receives positive feedback for its lightweight feel, silky texture, and ease of application, with customers noting it goes on smoothly and blends well with skin tone. They like its sheer coverage and quality, with one customer noting it performs better than luxury brands.",
+      "aspects": [
+        {
+          "aspect": "Moisturizing",
+          "count": 37,
+          "status": "positive"
+        },
+        {
+          "aspect": "Tint",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 27,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 27,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 23,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 14,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 13,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 12,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/510xONZoIRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71uaqtp4dnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71kvGXoHiSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51eKTkWwrRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71e3HHPqnxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71HPVuZc6iL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51owpCJL4fL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/617ueoTZVLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Ie8gXC+6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71XbaUPSrwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71G2gs4D7iL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71oZ2X0mHbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great for mature skin!",
+          "reviewText": "Feels very light and doesn't settle in pores or lines. I'm 55 so I would know. I purchased Ivory and Buff. The ivory is a bit too pink and I'm more neutral. The buff is a true neutral. It's not orangy or too yellow or too pink. I kept both. I could mix them if I want and that looks good too. Not a lot of coverage but I don't mind. The finish is nice. It's not too matte and it's not sparkly or too luminous. I'm pretty fair/light and the shades are pretty forgiving if you choose the wrong one. Looks good all day and doesn't oxidize. Great price for this product.I would purchase again.",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "momof4",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQHIN4UOEYUXIMZTXP4ERNEEDRQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Ivory",
+            "size": "0.94 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Pretty and gentle",
+          "reviewText": "My go to! I use it instead of foundation, because I have really sensitive skin, and this is very gentle! Lightweight and moisturizing. Blends well with other makeup. Use a bit for a natural look, or a thicker layer for a made up look. Apply with a make up sponge.",
+          "reviewDate": "Reviewed in the United States on September 28, 2025",
+          "customer": "M.A.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXZEH3W3WQV6AX7WRURSRZB7WIA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "140 Tan",
+            "size": "0.94 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Sheer coverage good skin match",
+          "reviewText": "Good size matches my daughter\u2019s skin tone well. Minimal coverage, but still very nice & easy to apply. Good price for the size. Not too thin or thick, and not sticky.",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "Abbey A",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHKX6NELLZHZR7ZCYWEJOUFCZUAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Ivory",
+            "size": "0.94 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Easy to use",
+          "reviewText": "Nice and lightweight. Didn't crease.",
+          "reviewDate": "Reviewed in the United States on January 12, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGD2JWGZLC7ZIBFRBUSOYRR24RDA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "130 Sand",
+            "size": "0.94 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Nice glow light weight",
+          "reviewText": "Love this stuff it\u2019s very light on the face. It blends in with your skin very well. It is not full coverage so you will see some of your flaws. It just makes your skin tone look a little bit more even and brighter and it gives a nice glow been using it for a long time. The store stopped selling it so now I have to get it off Amazon.",
+          "reviewDate": "Reviewed in the United States on February 7, 2026",
+          "customer": "Laura Davis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGUV2WEY7K4I34SX6UIAF327DK6A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "120 Beige",
+            "size": "0.94 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Light, covers evenly",
+          "reviewText": "Works great for a light, even covering.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Angela",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG6XGKB3V674RIPFOWCYK37Y5U4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "120 Beige",
+            "size": "0.94 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "AVERAGE DRUGSTORE FDN \ud83d\ude41",
+          "reviewText": "Just\u2026..eh. Typical drugstore fdn. Ended up getting a more expensive product following further use, just wasn\u2019t performing to the standards that I expected.",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "CLE Jackie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHY5P7LORSSLXWSUMPMRXJKHMBIQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Ivory",
+            "size": "0.94 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Skin tint covers like foundation",
+          "reviewText": "Love the light texture and natural finish. Stays fresh all day. Works well mixed with my heavier foundations to sheer them out for summer. Doesn\u2019t settle into fine lines or pores. This has replaced my other daily foundations. Excellent quality for the price. Will definitely repurchase.",
+          "reviewDate": "Reviewed in the United States on August 1, 2025",
+          "customer": "KatJ",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF74KMF2S27EK43DGRUBCZGDRQAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Ivory",
+            "size": "0.94 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        }
+      ]
+    }
+  }
+}

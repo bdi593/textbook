@@ -1,0 +1,167 @@
+{
+  "requestMetadata": {
+    "id": "a4033396-e9a7-4698-be9a-12ae32f41919",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a4033396-e9a7-4698-be9a-12ae32f41919.html",
+    "json": "https://files.hasdata.com/a4033396-e9a7-4698-be9a-12ae32f41919.json",
+    "url": "https://www.amazon.com/dp/1638380112"
+  },
+  "product": {
+    "asin": "1638380112",
+    "url": "https://www.amazon.com/dp/1638380112",
+    "title": "SCP Foundation Artbook | Paperback Edition | Black Journal",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "format": "Perfect Paperback"
+    },
+    "features": {
+      "printLength": "192 pages",
+      "language": "English",
+      "publisher": "Aloha Comics LLC",
+      "publicationDate": "January 1, 2023",
+      "readingAge": "14 years and up",
+      "dimensions": "8.5 x 11.2 x 0.9 inches",
+      "isbn10": "1638380112",
+      "isbn13": "978-1638380115"
+    },
+    "description": "SCP Foundation Artbook Series by ParaBooks is based on an ambitious international web project scpwikidotcom. The Black Journal contains such famous objects as The Shy Guy, The Sculpture, Hard-to-Destroy Reptile, Able, Cain, and many other monstrous creatures and intriguing stories that will send a chill down your spine. Read detailed reports imitating real SCP Foundation documents, complemented by additional infographic materials, and illustrated by professional artists from all around the world. The book is designed with great care to look like an authentic research journal. You can even write your name on it!",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "variants": [
+      {
+        "asin": "1638380112",
+        "title": "Perfect Paperback",
+        "price": "$24.45",
+        "url": "https://www.amazon.com/dp/1638380112"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 24.45,
+      "beforePrice": 29.9,
+      "discount": "-18%",
+      "priceFrom": 20.32,
+      "otherOfferQuantity": 15
+    },
+    "deliveryRawDate": "April 7 - 13",
+    "deliveryIsoDate": "2026-04-07T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "fastestDeliveryRawDate": "Thursday, April 2",
+    "fastestDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "fastestMessage": "Order within 4 hrs 20 mins",
+    "fastestDeliveryPriceMessage": "fastest",
+    "returns": "30-day refund/replacement",
+    "seller": "Aloha Comics",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3EY1SWK7SF041",
+    "shipper": "Aloha Comics",
+    "totalImages": 1,
+    "primaryImage": "https://m.media-amazon.com/images/I/717QGaPY9BL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/717QGaPY9BL._SL1500_.jpg"
+    ],
+    "totalVideos": 3,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/372b1e94-e4d4-4199-ba72-152c13c0a0b9.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/372b1e94-e4d4-4199-ba72-152c13c0a0b9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b26e2837-7e6c-46b2-8faa-1e6472b94b5d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/63196397-5d2f-459a-abcf-5ee2afd32f03.mp4/productVideoOptimized.mp4"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 76,
+      "rating": 4.8,
+      "starRates": {
+        "fiveStars": "91%",
+        "fourStars": "7%",
+        "threeStars": "0%",
+        "twoStars": "0%",
+        "oneStars": "2%"
+      },
+      "reviews": [
+        {
+          "reviewTitle": "Absolutely GORGEOUS Book!",
+          "reviewText": "This book is a fantastic tribute to the SCP Foundation. The art is incredible, so vivid and creepy. The pages are set up to look like actual files you\u2019re flipping through\u2014it makes it super immersive and cool! An amazing addition to my library. I love these so much!",
+          "reviewDate": "Reviewed in the United States on August 19, 2025",
+          "customer": "Amanda Mic Perkins",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AECDPWFKLZXDMO4TKRBKSN3ZP45Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Perfect Paperback"
+          }
+        },
+        {
+          "reviewTitle": "Amazing Artwork!",
+          "reviewText": "Great quality and really cool artwork. Definitely recommend for fans of SCP. However it does have some spooky elements so I\u2019d probably recommend against letting anyone under the age 17 from purchasing this book.",
+          "reviewDate": "Reviewed in the United States on August 21, 2025",
+          "customer": "Aidan Book",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPLDYP3LRD6UTIGBYJVI7GASTUA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Perfect Paperback"
+          }
+        },
+        {
+          "reviewTitle": "Review of product",
+          "reviewText": "The book was late on arrival. But the product was in mint condition",
+          "reviewDate": "Reviewed in the United States on May 17, 2025",
+          "customer": "James",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHWBGC65735JNTRGJ4TZUYD4XB5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Perfect Paperback"
+          }
+        },
+        {
+          "reviewTitle": "Good book",
+          "reviewText": "My daughter loved it",
+          "reviewDate": "Reviewed in the United States on June 5, 2025",
+          "customer": "Stephanie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHZRJWOJ3GUVBBVKBZEC3MJXMMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Perfect Paperback"
+          }
+        },
+        {
+          "reviewTitle": "epic",
+          "reviewText": "sick book, little brother loves it",
+          "reviewDate": "Reviewed in the United States on March 11, 2025",
+          "customer": "rachel le",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHQ6JXEDH4W7RC3J2ZUOBG6FMFUA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Perfect Paperback"
+          }
+        },
+        {
+          "reviewTitle": "Great quality",
+          "reviewText": "I really enjoyed the overall quality and design and surprised at how big they were, all the little details and additional materials that were added was the cherry on top. I ordered all three, they are much cheaper than the hard cover, though still about $100 total, but I definitely got my moneys worth. I\u2019ll definitely be willing to buy any future art books that Parabooks publish",
+          "reviewDate": "Reviewed in the United States on June 6, 2023",
+          "customer": "tiggr07",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFICZMZQSNRUK5KEPNT25KWLOS6A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "format": "Perfect Paperback"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing for SCP Lovers",
+          "reviewText": "I can't gush about this book enough. The artwork is beautiful and the quality of the paper/book itself is outstanding for the price. My one quibble is that there are spots where a little more proofreading was needed, but these are very minor and probably not noticeable to most people. Overall, I highly recommend it.",
+          "reviewDate": "Reviewed in the United States on January 24, 2024",
+          "customer": "Abby Gardner",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFVVR6NUGLAC2UVOUIH72PMHOICQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Perfect Paperback"
+          },
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

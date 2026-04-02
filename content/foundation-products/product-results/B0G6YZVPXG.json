@@ -1,0 +1,255 @@
+{
+  "requestMetadata": {
+    "id": "f934f1cf-e0c6-4f0d-8423-abd64d300a73",
+    "status": "ok",
+    "html": "https://files.hasdata.com/f934f1cf-e0c6-4f0d-8423-abd64d300a73.html",
+    "json": "https://files.hasdata.com/f934f1cf-e0c6-4f0d-8423-abd64d300a73.json",
+    "url": "https://www.amazon.com/dp/B0G6YZVPXG"
+  },
+  "product": {
+    "asin": "B0G6YZVPXG",
+    "url": "https://www.amazon.com/dp/B0G6YZVPXG",
+    "title": "Cushion Foundation, 2026 New Mushroom Head Air Cushion Cc Cream Foundation, Bb Cream Foundations, Makeup Foundation for Older Women, Long-Lasting and Evens for Light/Medium Complexions(Natural color)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Natural color"
+    },
+    "featureBullets": [
+      "Adjustable Coverage with a Natural Appearance: This BB cream offers flexible coverage that helps improve the look of pores, blemishes, and uneven tone. The texture feels light and breathable on the skin, blending into a soft, naturally radiant finish that remains comfortable during daily wear without a heavy or greasy appearance",
+      "Comfort-Focused Formula with Skincare Inspiration: Formulated with a mild blend of moisturizing and plant-derived components, this BB cream is designed to support a smooth and conditioned-looking complexion while worn. It provides gentle hydration and a soothing feel, helping skin appear more balanced and refreshed as part of everyday makeup routines",
+      "Smooth Application with Balanced Wear Performance: The cushion-style design uses a flexible film structure to dispense a controlled amount of product for even application. It helps enhance overall brightness and soften the appearance of imperfections while maintaining a lightweight, breathable feel during use",
+      "Light Moisture with a Skin-Like Finish: Featuring a water-based texture, this formula delivers light moisture without weighing the skin down. The finish leans toward a fresh, dewy look that supports a natural, skin-like appearance and ongoing comfort throughout the day",
+      "Easy Application for a Refined Look: Apply after completing your regular skincare steps. Use the included cushion puff to gently press and pat the product onto the skin, helping achieve a smooth and blended result. A setting spray may be used to enhance makeup stability and maintain a natural-looking finish"
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "BB Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B0G6YZVPXG",
+        "title": "Natural color",
+        "url": "https://www.amazon.com/dp/B0G6YZVPXG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71je8PGUXyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G6Z6ZGQS",
+        "title": "Ivory white",
+        "url": "https://www.amazon.com/dp/B0G6Z6ZGQS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71nPAjv4oYL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 18.99,
+      "beforePrice": 19.99,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 7 hrs 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "ZhiXiangMuYe",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A38F2DR8562HDP",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/71je8PGUXyL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71je8PGUXyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712UsNgs0tL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81rhOYizycL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81IKnLhW6wL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bbYMcrw6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MNSJmuicL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71vZMJqKQNL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f607983e-f841-4a90-bb6e-9731a5668317.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ed6c65f-84ac-460a-9d98-15d81bd902b9.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c9d9a6b1-85eb-4ebb-b53b-b0f33de38491.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cfdc597a-8685-496b-811a-f93fd3af8bc9.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a69765c4-6747-4b17-9443-90d9ed3eb24e.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/928986a7-2e5c-4fa5-a1f2-23b04ed79456.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a32192bf-3451-452d-8df0-1c2762da0908.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6ee22c87-e12d-4844-8fe0-3677d0d75083.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/25db872e-bebd-42e7-9a95-e743b2f28978.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Natural color"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Box"
+      },
+      {
+        "key": "Brand Name",
+        "value": "luvie"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Buildable coverage, hydrating, natural finish"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "All Ages"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "lganijunqn"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#44,112 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #30 in BB Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0G6YZVPXG"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Number of Items",
+        "value": "5"
+      },
+      {
+        "key": "Unit Count",
+        "value": "4.2 Fluid Ounces"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 22,
+      "rating": 3.2,
+      "starRates": {
+        "fiveStars": "36%",
+        "fourStars": "11%",
+        "threeStars": "20%",
+        "twoStars": "6%",
+        "oneStars": "27%"
+      },
+      "reviews": [
+        {
+          "reviewTitle": "Don't order",
+          "reviewText": "wrong color. It doesn't work well with the cushion as it broke the first and last time i tried it",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Jamie Crain",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG3T35IPJRGOACVSGTF5K3BWSPNQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Natural color"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Not a great product",
+          "reviewText": "Just ok. Does not do what is advertised. Filling in lines and creases. NOT!",
+          "reviewDate": "Reviewed in the United States on March 19, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGSNXFNR45YJYSQLTLTTIFXD2HEQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Natural color"
+          }
+        },
+        {
+          "reviewTitle": "Makeup",
+          "reviewText": "Works!!!",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "JC",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGPR7KLGR6CKOTC7OIP566IP62IQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural color"
+          }
+        },
+        {
+          "reviewTitle": "Exactly what I wanted",
+          "reviewText": "Good",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Brenda Hoyles",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFJN4HCW2LIR4OFEBYYP3LT73WBA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Natural color"
+          }
+        },
+        {
+          "reviewTitle": "Coverage",
+          "reviewText": "Color was way lighter than described and did not cover much",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "Frances",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGRIX25QD6OO7RZKORMODT5G2C2A",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Ivory white"
+          }
+        },
+        {
+          "reviewTitle": "Be sure to get the correct color",
+          "reviewText": "Lovely I had to buy a darker one the first was so light",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "Shirley Rigo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGCMGZGY4PIL5COA64F3GMGCZHZQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural color"
+          }
+        },
+        {
+          "reviewTitle": "My thoughts",
+          "reviewText": "It's okay",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Lynn M.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF52Z4CJPEPOZFLHW2QE2JO5QUPQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Natural color"
+          }
+        }
+      ]
+    }
+  }
+}

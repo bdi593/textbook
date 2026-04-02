@@ -1,0 +1,318 @@
+{
+  "requestMetadata": {
+    "id": "376878e6-1f5b-472b-b206-aad18e392143",
+    "status": "ok",
+    "html": "https://files.hasdata.com/376878e6-1f5b-472b-b206-aad18e392143.html",
+    "json": "https://files.hasdata.com/376878e6-1f5b-472b-b206-aad18e392143.json",
+    "url": "https://www.amazon.com/dp/B0DLKGM316"
+  },
+  "product": {
+    "asin": "B0DLKGM316",
+    "url": "https://www.amazon.com/dp/B0DLKGM316",
+    "title": "Foundation 4 in 1 - Medium Spectrum with SPF 50+ Inspired, Hydrating Color Changing Foundation Makeup Liquid - Longwearing & Waterproof for Sport, Dancing (Natural Color)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Natural Color",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "\u30104-IN-1 FOUNDATION\u3011This Waterproof moisturizing light foundation Instantly mimics your skin tone and creates a uniform complexion without masking skin creating a illuminating silky finish.",
+      "\u3010PREMIUM WEAR\u3011Our breathable and hydrating foundation is formulated to maintain coverage for 24 hours. This oil free foundation resists sweat and natural oils without clogging your pores. Lightweight foundation is buildable for heavier coverage.",
+      "\u3010SKIN-FRIENDLY FORMULA\u3011Our foundation glides on smoothly, blending seamlessly with your skin tone for a perfect match every time.This foundation eliminates a lot of steps and moisturizes 30 seconds after application to leave your skin looking radiant.",
+      "\u3010LONG-LASTING WATERPROOF\u3011For daily application or for gym, workouts and dancing class, suitable for all skin types and ensuring a flawless, natural-looking finish that stays put all day long.",
+      "\u3010ALL-DAY WEAR AND BREATHABILITY\u3011Enjoy a breathable, hydrating foundation that maintains its coverage for a full 24 hours. This oil-free formula resists sweat and natural oils, ensuring your pores stay clear while delivering a buildable coverage that feels lightweight on the skin"
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0DLKGM316",
+        "title": "Natural Color 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DLKGM316",
+        "imageUrl": "https://m.media-amazon.com/images/I/51U7nEQk4TL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 19.99,
+      "beforePrice": 19.99,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Deconflux",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AATM2JYEVO4DA",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51U7nEQk4TL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51U7nEQk4TL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61r0IBraskL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71VZyhaXnLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71v5lpLIzsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61lBfgYQRVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71glDeNsrTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71p5XCIDT5L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d1cc8eef-f1fb-4018-889f-bee1ea181300.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d0198da-1b3b-41f1-aac2-92bcef3938da.__CR0,0,1940,1200_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d238ab9-dbbb-45c4-aabd-81f46875f2cb.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/31962b9d-4279-4ae9-b187-f10c5f619f8e.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a857465-2758-4543-a896-55950a734eab.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0a1738e4-e376-45cb-a7ad-a6d4d6f50ba8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Lotion"
+      },
+      {
+        "key": "Color",
+        "value": "Natural Color"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "4 In 1 Foundation Liquid"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Rulinal"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "4-in-1 Hydrating Longwear"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Hydrating, Longwearing, Buildable"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "763527487814 753584064936"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Rulinal"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#35,044 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #313 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DLKGM316"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "5E+1 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Cruelty Free, Oil Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.1 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Gluten Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 394,
+      "rating": 4.1,
+      "starRates": {
+        "fiveStars": "65%",
+        "fourStars": "12%",
+        "threeStars": "8%",
+        "twoStars": "4%",
+        "oneStars": "11%"
+      },
+      "customersSay": "Customers find the foundation to be of excellent quality and appreciate its coverage. However, the skin color match receives mixed feedback, with some saying it looks natural while others report it makes their skin tone very pale. Moreover, customers disagree on the texture, with some describing it as light makeup while others find it greasy and oily. The effectiveness of the product also gets mixed reviews.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 10,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 5,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin color match",
+          "count": 23,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 17,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 14,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71OUnYObe3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81hytBl1MkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61JG0idNb-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61d8cVhUkqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/819ztJFPW3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71UVqVDSYzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71LgYomm7zL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81-BUNbXCzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81WxjU3M9lL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81buClfJFrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61YrSn70LsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71lGP33ureL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Really Works!",
+          "reviewText": "Actually it really works! Color matches your skin tone perfectly good quality and coverage, my skin looks very nice and smooth",
+          "reviewDate": "Reviewed in the United States on February 23, 2026",
+          "customer": "Luz",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH2V2GQL33KK6NM7LBH5GIVC2MPQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Moisturizer /sunscreen/foundation",
+          "reviewText": "Does change to your skin color. Easy to blend. Light coverage",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFP2UKI2UAUOTV35YD2J3YOVTU3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Keep pressing the pump to prime it. That takes several tries.",
+          "reviewText": "Ease of application but the pump takes a while to prime. It\u2019s not broken but needs to work better to start pushing the product out. Product started coming out around the pump parts.",
+          "reviewDate": "Reviewed in the United States on September 6, 2025",
+          "customer": "kent",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFAGQ4WF3LW6M5IKAZI76DR6ZMHA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Natural Color",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Don\u2019t order medium for color. Go to darker color you\u2019ll get color!!",
+          "reviewText": "Medium color is much, much too light! After the first application I was soooo disappointed that I threw it in the dumpster!",
+          "reviewDate": "Reviewed in the United States on January 9, 2026",
+          "customer": "marianne.johnson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHLLBRLWAKMVNVLM7DLCG3E4AYYA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Natural Color",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Happy with this product!",
+          "reviewText": "This is a great product. The cream goes on white and then becomes your natural face color\u2026I use fair to medium and it stays on until you wash it off. The quality of this cream is very nice\u2026it is light weight and goes on easily.",
+          "reviewDate": "Reviewed in the United States on December 31, 2025",
+          "customer": "Pauli",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFST5LX3I4JLIZNKJ2NLJFRFSJBQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Makeup",
+          "reviewText": "Not heavy which is great however doesn\u2019t cover like it is pitched.",
+          "reviewDate": "Reviewed in the United States on October 27, 2025",
+          "customer": "Jody Marie Doherty",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHGWQ5AC76H6DH33SPPI7UCJO5CQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Natural Color",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        }
+      ]
+    }
+  }
+}

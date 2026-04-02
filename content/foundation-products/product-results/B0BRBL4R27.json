@@ -1,0 +1,431 @@
+{
+  "requestMetadata": {
+    "id": "884d10c1-ea1a-4cd3-a767-8086dc639248",
+    "status": "ok",
+    "html": "https://files.hasdata.com/884d10c1-ea1a-4cd3-a767-8086dc639248.html",
+    "json": "https://files.hasdata.com/884d10c1-ea1a-4cd3-a767-8086dc639248.json",
+    "url": "https://www.amazon.com/dp/B0BRBL4R27"
+  },
+  "product": {
+    "asin": "B0BRBL4R27",
+    "url": "https://www.amazon.com/dp/B0BRBL4R27",
+    "title": "No7 Restore & Renew Multi Action Serum Foundation - Warm Beige - Liquid Foundation Makeup with Vitamin C, Vitamin E & Collagen for Face - Beauty Skin Serum Formula with Medium Coverage (30ml)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)",
+      "color": "04 - Warm Beige"
+    },
+    "featureBullets": [
+      "Anti-Aging Serum Foundation Hybrid - This revolutionary, lightweight foundation is powered by No7's Restore & Renew brightening serum technology and visibly improves the 5 key signs of aging.",
+      "Buildable, Light-Medium Coverage Foundation - This hydrating foundation instantly conceals fine lines, wrinkles, age spots, uneven texture & tone. Available in 14 shades.",
+      "Skin Loving Ingredients - Collagen Peptide Technology reduces the look of fine lines and wrinkles, Pro-Retinol helps to smooth skin, and Vitamin C is added to the liquid makeup for a radiant glow.",
+      "SPF for Ultimate Protection - In addition to our skin-loving ingredients like face collagen and vitamin E, this makeup foundation liquid is formulated with skin-protecting Broad Spectrum SPF 20.",
+      "Suitable for Sensitive Skin - This vitamin C face serum foundation for face is suitable for all skin types, including sensitive. This SPF foundation is also good on oily skin."
+    ],
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0GGF57YFQ",
+        "title": "1 Fl Oz (Pack of 2) 07 - Wheat",
+        "url": "https://www.amazon.com/dp/B0GGF57YFQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qrlNYXQ+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBLVM4Z",
+        "title": "1 Fl Oz (Pack of 1) 02 - Calico",
+        "url": "https://www.amazon.com/dp/B0BRBLVM4Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qlwUvnpdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBLGHJD",
+        "title": "1 Fl Oz (Pack of 1) 06 - Honey",
+        "url": "https://www.amazon.com/dp/B0BRBLGHJD",
+        "imageUrl": "https://m.media-amazon.com/images/I/6171N2FvA9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBL4R27",
+        "title": "1 Fl Oz (Pack of 1) 04 - Warm Beige",
+        "url": "https://www.amazon.com/dp/B0BRBL4R27",
+        "imageUrl": "https://m.media-amazon.com/images/I/517GgbXwemL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBKPKWW",
+        "title": "1 Fl Oz (Pack of 1) 07 - Wheat",
+        "url": "https://www.amazon.com/dp/B0BRBKPKWW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61S5+S6pfzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBM97X1",
+        "title": "1 Fl Oz (Pack of 1) 09 - Dune",
+        "url": "https://www.amazon.com/dp/B0BRBM97X1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TFMp80QYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBN4441",
+        "title": "1 Fl Oz (Pack of 1) 13 - Cedar",
+        "url": "https://www.amazon.com/dp/B0BRBN4441",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bR-7dIikL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBJBRVB",
+        "title": "1 Fl Oz (Pack of 1) 03 - Cool Vanilla",
+        "url": "https://www.amazon.com/dp/B0BRBJBRVB",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ytSHbKJvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBM9B5S",
+        "title": "1 Fl Oz (Pack of 1) 05 - Cool Beige",
+        "url": "https://www.amazon.com/dp/B0BRBM9B5S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eucsM+DAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBJCVTW",
+        "title": "1 Fl Oz (Pack of 1) 01 - Porcelain",
+        "url": "https://www.amazon.com/dp/B0BRBJCVTW",
+        "imageUrl": "https://m.media-amazon.com/images/I/51vlV6RCZAL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 17.99,
+      "beforePrice": 17.99,
+      "discount": "-5%",
+      "priceFrom": 17.99,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "FRONT ROW",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1J4W8BQO23A27",
+    "shipper": "Amazon",
+    "totalImages": 5,
+    "primaryImage": "https://m.media-amazon.com/images/I/517GgbXwemL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/517GgbXwemL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DzqMHMOjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61AByRYPS6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61kgqMQUtaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61MLja6SdUL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f62810b-fc7b-4f3e-bf96-f33a3eca8a7b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f478779b-5fe3-482e-97a3-6acc12083e1e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/98bda98b-4619-49a4-8a5e-fb0d9e685642.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38bb6fe2-eddf-47a3-b036-4f4f235b744b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7ada27d-9121-4c16-b1ee-1c2f11ef3389.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ebc2a21-0058-4d40-93a7-5008bb569608.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8ffde9f-6c63-4351-919d-660d730ce6e6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bddb026-725a-4d55-9374-73bdf2e9965c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d700e70e-010c-409b-b558-c1855d797ec8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d102630-f330-4725-a887-cbb6fc7eb5a2.__CR259,167,1481,1667_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbf3a8da-b75a-40d3-b9d3-cd58a102a224.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/604f651c-8ac8-44f9-aafc-d97e5139910c.__CR259,167,1481,1667_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3fe633c1-15b9-4aab-b4c0-7383337c0fc4.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efd9c9e3-a195-46db-bad3-9364b7d09991.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/63e3bab6-e1f8-4776-928d-326e5e60ac53.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12bffb13-c5f7-4604-b7c7-79b8e70b82f1.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/06f43aa4-168b-43ca-981b-ee549728c4f9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "04 - Warm Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal, mature"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "No7"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Fair"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "not-tested-on-animals"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Model Number",
+        "value": "88-48-602"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "88-48-602"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "The Boots Company PLC"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#13,369 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #143 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BRBL4R27"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "20 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Aging,Anti-aging,Hydrating,Lightweight,Radiant"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural, Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "2.56 ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "5.04 x 1.38 x 1.38 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free, Oil Free, Paraben Free, Sulfate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1342,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "75%",
+        "fourStars": "14%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage while being lightweight and not greasy, with a smooth, silky texture that feels amazing on the skin. The color matches skin perfectly and creates a natural, glowy finish. The application is smooth and easy to use. While the foundation lasts a long time, opinions about its longevity are mixed.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 139,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 111,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 75,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 61,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 57,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 51,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 50,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 29,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81GzrIAQ-YL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81JkBEcMs1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pQPf2AnnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gT-b5OxvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71fJ3XBzMCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/817p6vz10RL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81DvWobqNnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71fjMshZsmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61k3rhFlXvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51WtqnszKdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61cxhN1WmML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/611udJO89YL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Very good makeup",
+          "reviewText": "Good color match. Glides on and very nourishing for my dry skin. Stays on all day.",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Donna",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPE5SDRN3SQYU6JOGH2FZCLPBOQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Calico"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Nice product for this price point",
+          "reviewText": "This is some of the best base makeup I have ever used and I\u2019ve tried a lot. It looks very natural and a great match for skin tone. You can layer coverage of imperfections well. So glad I tried it.",
+          "reviewDate": "Reviewed in the United States on January 22, 2026",
+          "customer": "Nancy Duplechian",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGDYIAFCN472YVHN4IDKKQCFRH3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Calico"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lovely",
+          "reviewText": "Love this serum foundation! Moisturizing and blends well without getting cakey. Light, but great coverage!",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "Allison T.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEI6FBIGC6HQ3IUARBQMLJRZAKQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Calico"
+          }
+        },
+        {
+          "reviewTitle": "Great and light weight",
+          "reviewText": "For my skin ,I need a primer , but works well great color match and light on the skin even as a 52 yr old .",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Diana Quidachay",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGLHVRDG6PSQ6TLFLBMHCKFMJWPQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Calico"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "The Perfect Foundation",
+          "reviewText": "I am 69 years old and need a foundation that covers up age . I don\u2019t want anything that lives in the creases of my skin. No. 7 is great! It is not greasy or chalky. It gives me the perfect cover. It is inexpensive and it feels so light on my face. It doesn\u2019t dry out my my skin.",
+          "reviewDate": "Reviewed in the United States on March 1, 2026",
+          "customer": "Cooper\u2019s Mama",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGNALEXNC4XAVRX65R4UTOYCAX5Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "03 - Cool Vanilla"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Coverage",
+          "reviewText": "Porcelain is hard to find. This liquid foundation goes on easily and gives me moderate coverage. It blends in well and evens out my skin tone. No allergic reaction. I had read reviews online for months and finally made the purchase. Most of the time, I wear no makeup and twice a week wear powder. But occasionally, you want a little more coverage and this foundation works well. I will buy it again someday.",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Miss Vicki",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFEAMXBGGYBZXCJDMJTS4AUBH65A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "01 - Porcelain"
+          }
+        },
+        {
+          "reviewTitle": "Loving it!",
+          "reviewText": "Doesn't settle in wrinkles and accentuate them! Nice, smooth, light coverage. Really loving it for my \"mature\" (lol - \"crinkly\" is more like it!) skin.",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Julie Lynn Burson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGJMOZRTL6IUC4L7GLMQGRTRDBGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "06 - Honey"
+          }
+        },
+        {
+          "reviewTitle": "Looks great and feels good.",
+          "reviewText": "I am 73 years old and starting to get lines in my face. My cousin told me to try this make up, No 7. I got the calico shade. I usually get a classic Ivory, but this one looks quite a bit better. It feels good and it looks great. It hides the dark circles under my eyes and more.",
+          "reviewDate": "Reviewed in the United States on March 6, 2026",
+          "customer": "Patrice",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGVSAWBOPPTIIEMHHELMHSDMI4MQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Calico"
+          },
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

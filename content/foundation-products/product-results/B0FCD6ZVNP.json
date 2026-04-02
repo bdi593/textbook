@@ -1,0 +1,361 @@
+{
+  "requestMetadata": {
+    "id": "12bc8c64-b792-4351-9a5f-cc5e27091d16",
+    "status": "ok",
+    "html": "https://files.hasdata.com/12bc8c64-b792-4351-9a5f-cc5e27091d16.html",
+    "json": "https://files.hasdata.com/12bc8c64-b792-4351-9a5f-cc5e27091d16.json",
+    "url": "https://www.amazon.com/dp/B0FCD6ZVNP"
+  },
+  "product": {
+    "asin": "B0FCD6ZVNP",
+    "url": "https://www.amazon.com/dp/B0FCD6ZVNP",
+    "title": "4 in 1 Color Changing Foundation with SPF 50 - Moisturizing Medium-Full Coverage Concealer, Medium Spectrum Foundation Cream, Long-Lasting Lightweight Makeup Liquid, Natural Look Cosmetics",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1.41 Fl Oz (Pack of 2)",
+      "color": "Medium Spectrum"
+    },
+    "featureBullets": [
+      "\u30104-IN-1 MULTITASKING FORMULA\u3011 SPF 50 sunscreen + Waterproof &Sweatproof + Full Coverage + Hydration \u2013 Reduces touch-ups for gym, swimming, or humid climates, protects your skin from UV light while providing a smooth and even look",
+      "\u3010SMART COLOR ADAPTATION\u3011 Color matching foundation contains shade-sensing beads which are encapsulated pigments that can deliver shade transformation upon blending into skin, adjust from cool to warm tones",
+      "\u3010SKIN-CARE INFUSED\u3011 Enriched with SODIUM HYALURONATE & ALLANTOIN to moisturize while concealing acne scars, dark circles, and redness",
+      "\u3010FLAWLESS COVERAGE\u3011 Buildable medium-full coverage Concealer is the perfect blend of skin care and makeup",
+      "\u3010SWEAT PROOF FOUNDATION\u3011 LONG-LASTING for daily application or for gym, workouts and dancing class , Safe for ALL SKIN TYPES, especially mature skin"
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FCD63WS1",
+        "title": "Medium Spectrum 1.41 Fl Oz (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0FCD63WS1",
+        "imageUrl": "https://m.media-amazon.com/images/I/51UtXAyGLsL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FCD6ZVNP",
+        "title": "Medium Spectrum 1.41 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FCD6ZVNP",
+        "imageUrl": "https://m.media-amazon.com/images/I/51htlvgxuxL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FB3ZF84M",
+        "title": "Medium Spectrum 1.41 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0FB3ZF84M",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cF7wAMV+L._SL1200_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 21.99,
+      "beforePrice": 21.99
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "szE-Smart",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3E3KR91QGNOVC",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/51htlvgxuxL._SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51htlvgxuxL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61xORNYrhYL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61wlIYB8iTL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/718ErRV1Z+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7122IB5jJ+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61kiKJdwc-L._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61NWQVQ-MqL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/71KvhLC047L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/16f5c638-3f90-4dff-af04-4085673373fb.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46bc301b-1d41-461c-a1b5-b686781389b7.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/33850d2f-fc79-4f2f-8b83-dbe678cdc296.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/603a27a2-e159-410c-97b2-a973f29b4df4.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9e5632fd-f69e-4b79-828a-f570f090bf75.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/67ac9d93-390d-4f2c-bc48-6fcc26234962.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Medium Spectrum"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Color Correction"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "BARUBT"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Model Number",
+        "value": "FDY1815"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "FDY1815"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "YouBaiJia"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#20,787 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #213 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FCD6ZVNP"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable, Lightweight, Long Lasting, Travel Size"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "140 Grams"
+      },
+      {
+        "key": "Number of Items",
+        "value": "2"
+      },
+      {
+        "key": "Unit Count",
+        "value": "2.82 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 363,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "68%",
+        "fourStars": "11%",
+        "threeStars": "7%",
+        "twoStars": "5%",
+        "oneStars": "9%"
+      },
+      "customersSay": "Customers find the foundation matches their skin color perfectly and gives a flawless glowing look, with a smooth, creamy texture that feels like a moisturizer. They appreciate its lightweight feel and easy application, and one customer notes it stays on all day. The coverage and moisturizing effects receive mixed feedback - while some say it provides good coverage and moisturizes well, others report it doesn't cover well and breaks out their skin.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 43,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin match",
+          "count": 42,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 24,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 24,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 22,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 16,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 39,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 37,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71e450DcHZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rDrSHyTdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71FPP+3RypL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71reUd+AUuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71sWWdcWdgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61DCRUmcwqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61oFQJ7FHmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Smooth Coverage",
+          "reviewText": "Great product. I'm over 50 and the coverage was better than I expected. The first time I put it on the color was a dark orange, but as I blended it in the color changed to match my skin tone. I would definitely purchase this item again.",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Michelle Mogg",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGNR7FRNFXC3LZW4ZUCJDIPFKPFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Spectrum",
+            "size": "1.41 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "So Thankful for this product...",
+          "reviewText": "I recently started using this color matching foundation because I was having such a hard time getting someone to find the right color for me at the make up counter in the store's. It was really getting annoying because I would leave the store and look in the mirror when I got to my car and I would look terrible or my husband would laugh at me when I got home. I love the color matching foundation! It is perfect for me and it really does work. I have a light to medium complexion and freckles and it is just perfect. It goes on so nicely and has a natural look and I am almost 70 years old. Easy application and no greasiness...I am so glad I have found this product!",
+          "reviewDate": "Reviewed in the United States on October 28, 2025",
+          "customer": "Bhurst56",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHMXNOEDLG6QK5OAUXOSJCPQLO4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Spectrum",
+            "size": "1.41 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "20 people found this helpful"
+        },
+        {
+          "reviewTitle": "Full coverage in a nice lightweight finish",
+          "reviewText": "Pleasantly surprised at the quality of this product. The coverage is thorough and very natural looking. The medium was a perfect color match for me yet perfectly camouflage for my pigmented areas of concern .thank you for great value for a great product",
+          "reviewDate": "Reviewed in the United States on December 2, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEV3OHGI7V6MZ3KNYBU3ICZZAPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Spectrum",
+            "size": "1.41 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great product! Broken pump...",
+          "reviewText": "I love this foundation. It goes on smoothly. Color matches great. My skin is dry so when I put anything on my face it gets flakey.... Not with this stuff! It works great. I finally found something I love. The only reason I have a 4 star and not a 5 is because I ordered a 2 pack and the second bottle doesn't work. I push the pump for it to come out and nothing comes out. Otherwise a great product and great price!",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "Chelsie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFA53F34326POV6XLKRH7V42NGXA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Medium Spectrum",
+            "size": "1.41 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "This foundation is easy to apply and I\u2019m pleased with the natural look it gives",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH5W4T2MKMJFA5XTSNKIOB5S3WUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Spectrum",
+            "size": "1.41 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "This blends to your face tone!!!!",
+          "reviewText": "I use this every day, not a heavy coverage, very light, like a lightweight face cream. Goes on white but matches to your skin tone as soon as you blend it in. This is the only foundation I use now and have for the past year. Love love love this!!!!",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "jennygirl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGOE6LB4BOIYL3H6IZOK4VD2COXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Spectrum",
+            "size": "1.41 Fl Oz (Pack of 2)"
+          }
+        },
+        {
+          "reviewTitle": "Not for mature skin",
+          "reviewText": "No coverage, very light if any. Not for mature skin. Feels tacky after applying. Saw no real color change. Does give complexion a slight glow. Ordered the 2 pack set. One bottle would not pump. The beauty blender is a nice quality.",
+          "reviewDate": "Reviewed in the United States on January 9, 2026",
+          "customer": "DONNA H STARLING",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF4KWT6YQWHUXZFXBESJ5BKMW4PA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Medium Spectrum",
+            "size": "1.41 Fl Oz (Pack of 2)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "I'm astonished it actually does what it says!",
+          "reviewText": "I hate writing reviews but I was so surprisingly pleased with the performance of this foundation I figured I'd leave one because I remembered it had very few. I'm 53 years old with rosacea so I tend to have really light skin with bright red cheeks and nose. I have a hell of a time matching foundation because every part of my face is a different color and it's never the right shade. On the rare occasion I find one close, it either sinks into the cracks and fine lines, and makes me look 10 years older, or is really thick and heavy, and makes me feel sweaty and sticky. I almost never wear makeup because it's so hard to find comfortable products that look good. I wasn't holding out a lot of hope for this one because it was reasonably priced and claims to change color to match your skin and give good coverage, but I was in need of a new bottle of something so I figured I'd give it a try. Imagine my astonishment when it actually worked! I used a makeup brush and squeezed the foundation directly on to it. It came out of the tube white. I brushed it down my cheeks and with a couple strokes it blended in perfectly. It evened out my bright red cheeks and nose and gave a smooth matte finish to my whole face. And to top it off it did not sink into the fine lines. I am absolutely thrilled with this Foundation. The best part was I couldn't even feel it on my face. It didn't feel like I was wearing a mask. It just did what it said it would. I am so incredibly happy with this purchase I may actually start wearing makeup on a regular basis because this made it so easy. I will continue to buy this brand. It actually works.",
+          "reviewDate": "Reviewed in the United States on December 27, 2025",
+          "customer": "Tressie N Conway",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGG5SWEBC2JEYSAP4B4L5QZ77HGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Spectrum",
+            "size": "1.41 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        }
+      ]
+    }
+  }
+}

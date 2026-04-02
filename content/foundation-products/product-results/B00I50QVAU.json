@@ -1,0 +1,401 @@
+{
+  "requestMetadata": {
+    "id": "5cab8e5e-343c-49a9-afb3-32d84de03eb3",
+    "status": "ok",
+    "html": "https://files.hasdata.com/5cab8e5e-343c-49a9-afb3-32d84de03eb3.html",
+    "json": "https://files.hasdata.com/5cab8e5e-343c-49a9-afb3-32d84de03eb3.json",
+    "url": "https://www.amazon.com/dp/B00I50QVAU"
+  },
+  "product": {
+    "asin": "B00I50QVAU",
+    "url": "https://www.amazon.com/dp/B00I50QVAU",
+    "title": "Almay Skintone Matching Foundation, Smart Shade Face Makeup with SPF 15, Hypoallergenic, Oil-Free, Dermatologist-Tested, 200 Light Medium Mine, 1 fl oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "200 Light, Medium Mine",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Almay's liquid foundation formula instantly transforms from a white cream to your ideal shade as you smooth it on\u2014that\u2019s the magic of our technology",
+      "Almay's Tonemimic technology uses tiny spheres that break open and release pigment as you blend them over your skin",
+      "6 shades of natural-looking, streak-free, medium-coverage foundation with a luminous glow that builds, so you get the exact coverage you want from this liquid base",
+      "Smart Shade foundation has SPF 15 broad-spectrum protection",
+      "As always, dermatologist tested, hypoallergenic, fragrance free, clean, and cruelty free"
+    ],
+    "description": "Take the guesswork out of finding your foundation with this innovative formula that adjusts to match your skin tone\u2014instantly!",
+    "boughtInPastMonth": "4K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00I50QVBO",
+        "title": "300 Straight Up Medium 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00I50QVBO",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JXsjUzcsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00GXUQBPY",
+        "title": "100 My Best Light 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00GXUQBPY",
+        "imageUrl": "https://m.media-amazon.com/images/I/41w7dERmfUL._SL1100_.jpg"
+      },
+      {
+        "asin": "B00I50QVAU",
+        "title": "200 Light, Medium Mine 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00I50QVAU",
+        "imageUrl": "https://m.media-amazon.com/images/I/610Af3YGzWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GSNSHNH",
+        "title": "My Best Light (100) 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07GSNSHNH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Pb8RkCWLL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 12.98,
+      "beforePrice": 15.49,
+      "discount": "-16%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 1 hr 35 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 10,
+    "primaryImage": "https://m.media-amazon.com/images/I/610Af3YGzWL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/610Af3YGzWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61q4IuIpP7L._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/41RzR2HWbmL._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/616EyqVzNFL._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/61nKDYBc6jL._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/710wMO1fcGL._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/71lkEBdQKfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31SjU9WwAuL.jpg",
+      "https://m.media-amazon.com/images/I/61cd5seP+mL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/41hHMz999+L._SL1050_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0a1738e4-e376-45cb-a7ad-a6d4d6f50ba8.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "200 Light, Medium Mine"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Sensitive Skin"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Almay"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hypoallergenic"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "hypoallergenic"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00309975603026"
+      },
+      {
+        "key": "UPC",
+        "value": "309975603026"
+      },
+      {
+        "key": "Model Number",
+        "value": "309975603026"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "5603-02"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Revlon Consumer Products Corp."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#3,109 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #37 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00I50QVAU"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.88 x 0.81 x 4.5 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "30 Milliliters"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "BPA free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 8641,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "14%",
+        "threeStars": "7%",
+        "twoStars": "3%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this foundation effective and easy to apply, with a lightweight texture that doesn't cake on the skin. They appreciate its natural finish that doesn't look caked on, and how it blends flawlessly into the skin. The color match receives mixed feedback - while some say it matches their skin tone perfectly, others find it too dark for their pale skin.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 376,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 319,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 162,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 138,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 124,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin match",
+          "count": 124,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 122,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 378,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/610PRclWv7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61SHvyPnGNL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ye3mSTglL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Qy2KoCJvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ye3MF0bOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pe73vOkLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71walmOhQTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71smi3bdsdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/21aQqQZIymL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71xdtah4OxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wFmZqvtBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71UcAu3NAlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Almay matches your skintone",
+          "reviewText": "The best cream for everyday use! Covers redness but not heavy like make-up, it feels light on the skin and creamy. I love it! And it totally matches your skin tone. Very recommendable!",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Sabine Mohseni",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQNMV2LTZIIXVMYAE4Q4WB3ZCKA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "200 Light, Medium Mine",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "High-end coverage for drugstore price!!",
+          "reviewText": "If you're on the hunt for a foundation that provides excellent coverage while feeling light and airy on your skin, look no further than the skintone matching foundation! This foundation is truly outstanding, and I can't recommend it enough. Science man - it's amazing. It goes on white and right before your eyes, you watch it change to match your skintone PERFECTLY. Unlike other foundations that can leave you looking too orange or too pink, this one blends seamlessly into your natural skin tone, giving you a flawless, natural-looking finish. But what really sets this foundation apart is how well it covers imperfections. Whether you have acne, dark spots, or fine lines, this foundation provides excellent coverage that lasts all day. And the best part? It feels incredibly light and airy on your skin, so you won't even feel like you're wearing makeup! Another great feature of this foundation is how easy it is to apply. The formula is smooth and blends easily into your skin, so you won't have to spend hours trying to get the perfect finish. And because it's so lightweight, it won't clog your pores or cause breakouts, making it ideal for anyone with sensitive skin. Overall, the skintone matching foundation is a truly outstanding product that I highly recommend to anyone who wants flawless coverage without feeling like they're wearing a heavy mask. It's a must-have for anyone who wants to look their best, whether they're heading to the office, out on the town, or just running errands. So go ahead and give it a try \u2013 I promise you won't be disappointed!",
+          "reviewDate": "Reviewed in the United States on April 18, 2023",
+          "customer": "Ashley Nichols",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF2MBRF5TWIWLU34AG3E4DDF25UA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "200 Light, Medium Mine",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "171 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love Love Love",
+          "reviewText": "I have very light skin & it's really hard to find the right shade. This is the only product of skintone matching that looks natural on my skin. It's a perfect match with a light/medium finish. It helps even out reddish areas and dark circles. It's exactly what I'm looking for. Make sure your face is properly moisturized to prevent creeping or build up in one area. The product lasts all day with minimal fading. I use a liquid blush that easily applies over the foundation.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Jon's Mom",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGDVRR34V77EJP5FV73LK5TMZCFA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "100 My Best Light",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Not ideal for those with dry skin to start with, but a pretty good makeup choice",
+          "reviewText": "I do like the color-changing formula and it adapts to my light skin tone pretty well. However, it seems to go on a little bit dry, so I definitely need a primer or lotion to use with it, which is slightly disappointing. Coverage is good, but does tend to show some blending lines due to how dry it is. A quick additional blend with a make-up brush smooths it out pretty well, so it\u2019s not a real dealbreaker for me. But, since I don\u2019t have dry skin to begin with, it\u2019s not a big deal, people with dry skin may have more issues with it than people like me that have normal-to-oily skin.",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "NH",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFHZKDKZWP6XJA5ENVWHFBAAJKDQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "100 My Best Light",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great for my rosacea",
+          "reviewText": "This foundation is amazing! When I first squirted some out, it looked like white lotion. I have fair skin and I thought it was going to be way too light. Once I applied it, it gave me great coverage for my rosacea and turned out to match my complexion perfectly. It felt very good and not heavy. No skin irritation at all. Highly recommend!",
+          "reviewDate": "Reviewed in the United States on February 18, 2026",
+          "customer": "R. Scott-Ericsson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE35LUCZXOEBIRILTOYU4LVTDWOA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "200 Light, Medium Mine",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice color match foundation",
+          "reviewText": "This feels good on. Blends well.color matches well. No scent really.dont take much at all . No stickiness. Easy to apply .",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Meri Longmire",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AECPA7Y6FQ2FJK6RHHSH26TATVMA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "200 Light, Medium Mine",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "It's ok, gives you a quick cover up",
+          "reviewText": "Ok product, makes my skin dry. It really does match your skin tone, light wear, doesn't last that long. Non sticky.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Mileysi Robles",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AESSOX2MUGG4LVVMM75JUM7VUZLQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "200 Light, Medium Mine",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great product!",
+          "reviewText": "The first time I used this, I thought it was really weird. It comes out white and there are little beads of color that don't appear until its smeared on. I've found it's best to use this like it's a moisturizer. Just use your hands to apply it and blend it in. Once you've done that, it's like you're not even wearing makeup. It's weightless and not greasy. Shockingly awesome product for this price!",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "LOLeah",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEERMPADWD4M2WRCLZE2CS4LLDBA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "100 My Best Light",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lkvely",
+          "reviewText": "Lovely make up. Does as it says. Happy",
+          "reviewDate": "Reviewed in the United Kingdom on March 18, 2026",
+          "customer": "Heather",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "200 Light, Medium Mine",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

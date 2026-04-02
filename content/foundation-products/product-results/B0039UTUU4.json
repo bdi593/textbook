@@ -1,0 +1,446 @@
+{
+  "requestMetadata": {
+    "id": "397d4dbe-5101-4687-b012-70b8d9ccb0a6",
+    "status": "ok",
+    "html": "https://files.hasdata.com/397d4dbe-5101-4687-b012-70b8d9ccb0a6.html",
+    "json": "https://files.hasdata.com/397d4dbe-5101-4687-b012-70b8d9ccb0a6.json",
+    "url": "https://www.amazon.com/dp/B0039UTUU4"
+  },
+  "product": {
+    "asin": "B0039UTUU4",
+    "url": "https://www.amazon.com/dp/B0039UTUU4",
+    "title": "Almay Liquid Foundation, Truly Lasting Color, Long Wearing Natural Finish, Vitamin E and Lemon Extract, Hypoallergenic, Cruelty-Free, Dermatologist Tested, 220 Neutral, 1 fl oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "220 Neutral",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Helps nourish and protect your skin for up to 16 hours and won\u2019t rub off even in heat and humidity",
+      "Formulated with vitamin E and lemon extract to keep skin smooth and naturally radiant",
+      "Light to medium buildable coverage blends seamlessly for a naturally luminous and flawless finish",
+      "Helps to make dull skin look brighter so even a night of restless sleep won't show through the glow",
+      "As always, dermatologist tested, hypoallergenic, fragrance free, clean, and cruelty free"
+    ],
+    "description": "Finally! A long-wear foundation that feels like nothing and takes on everything: marathon workdays, sultry weather\u2014for up to 16 hours. You get light-to-medium coverage, in a formula that our experts infused with vitamin E and lemon extract, we personally love how it skims on and blends seamlessly, producing the naturally luminous, flawless finish we've always wanted. The formula also helps to make dull skin look brighter (and like it's had its morning coffee or kombucha)\u2014so even a night of restless sleep won't show through the glow. As always, dermatologist tested, hypoallergenic, fragrance free, clean, and cruelty free. Pair with your favorite Almay powder and blush for a complete look. Available in 7 shades",
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0039UTUWC",
+        "title": "280 Warm 1 fl oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUWC",
+        "imageUrl": "https://m.media-amazon.com/images/I/51WRcl0cPFL._SL1001_.jpg"
+      },
+      {
+        "asin": "B0039UTUKO",
+        "title": "140 Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUKO",
+        "imageUrl": "https://m.media-amazon.com/images/I/51X6rK7fjPL._SL1001_.jpg"
+      },
+      {
+        "asin": "B0039UTUL8",
+        "title": "160 Naked 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUL8",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XrBEhcFQL._SL1001_.jpg"
+      },
+      {
+        "asin": "B0039UTUU4",
+        "title": "220 Neutral 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUU4",
+        "imageUrl": "https://m.media-amazon.com/images/I/51LOe+K03IL._SL1001_.jpg"
+      },
+      {
+        "asin": "B0039UTUK4",
+        "title": "120 Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUK4",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FdV23R50L._SL1001_.jpg"
+      },
+      {
+        "asin": "B0039UTUUY",
+        "title": "240 Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUUY",
+        "imageUrl": "https://m.media-amazon.com/images/I/51E7RXfNWeL._SL1001_.jpg"
+      },
+      {
+        "asin": "B0039UTUVI",
+        "title": "260 Sand 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0039UTUVI",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+gv0ENr5L._SL1001_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 12.97,
+      "beforePrice": 16.79,
+      "discount": "-23%",
+      "priceFrom": 12.97,
+      "otherOfferQuantity": 5
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51LOe+K03IL._SL1001_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51LOe+K03IL._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/61q4IuIpP7L._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/41t3qARJUzL._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/51IkWVYXs-L._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/61yF7ESBq5L._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/51anIc+hN8L._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/51QJM9dl6hL._SL1001_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/def6e3c0-1dec-4fff-8e36-549f8c4a8110._SR300,300_.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/73d55839-377a-4770-bcc5-aac5dba76b51.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a370fad7-e7a0-4cbc-bcec-a318d72edd14.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "220 Neutral"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "self tanning"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Almay"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hypoallergenic"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light,Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Cru, Fragrance Free, Hypoallergenic"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00309970231040"
+      },
+      {
+        "key": "UPC",
+        "value": "309970231040"
+      },
+      {
+        "key": "Model Number",
+        "value": "309970231040"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "7209750004"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Revlon Consumer Products Corp."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#13,647 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #150 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0039UTUU4"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Cruelty Free, Fragrance Free, Dermatologist Tested"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Buildable Coverage"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.21 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "6 x 5 x 4 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "BPA free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2897,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "81%",
+        "fourStars": "11%",
+        "threeStars": "3%",
+        "twoStars": "1%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage and stays on all day, even when sweating or crying. The color matches skin tone perfectly and evens it out, while customers appreciate its natural appearance with a matte finish. Moreover, the product is gentle on skin, doesn't cause irritation, and applies smoothly, with one customer noting it requires only a small amount for application. Customers consider it a good value for money.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 182,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 122,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 102,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 80,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 57,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 56,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 41,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 40,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61Nk-8hTsaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71FtzyZMriL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61QiC00e3nL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61nS0k7osnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61jWbl6kp7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/715lApwjMcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61HRIf5qxtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gMN5-dcDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71fUvV1j-EL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71jQNteUk-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61XDOXIt3SL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71LkmGJ29SL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Medium coverage, long-lasting",
+          "reviewText": "I'm almost 50 and it works amazingly well on my skin. It's lightweight but it evens out my skin tone like medium coverage. You can apply more and it doesn't look caky. It doesn't clog pores. I paid less than $20, so I guess it's a convenient price, great quality. Oh, and it stays on even if you sweat or cry.",
+          "reviewDate": "Reviewed in the United States on June 18, 2025",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJKUFSC4OKDAAD4TOL5VSXA24LA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "140 Buff",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Feels great but too dark. : (",
+          "reviewText": "This is a wonderful feeling foundation. It spreads well, blends well, and covers slight freckles and blemishes but I chose what I believed to be the lightest color, buff, and it's still too dark... : ( Can anyone tell me if ivory is any lighter? Okay, Update: I bought Ivory and I must take this up a notch from 4 stars to 5. The feel on my skin is fantastic, considering (I am naturally super oily and in all fairness I have NOT found a makeup that can deal), it sinks into my skin nicely, it covers well for me. What makes it cover well for me? I have light (sometimes ghostly where people beg me to get some sunlight) skin. Aforementioned, I have oily skin and very few wrinkles. I don't have pockmarks although I do get acne. My acne varies between whiteheads to downright cystic acne. There's not much you can do to cover cystic acne, they're not selling miracle in a bottle. It does cover whiteheads to the point where they are at least your skin tone. I am an avid user of retin-A so scarring and the dark coloration goes away quickly. I do not believe that if you have significant darkening from acne that this will be the product for you. For THIS issue I would strongly suggest Bare Minerals, I believe that they are calling themselves \"Bare Essentials\" now. It's that mineral makeup. Get the summer bisque concealer (if you are fair toned) and you WILL be covered. The main reason that I don't use this mineral makeup is that I don't require that kind of coverage and it appears to exacerbate my oily skin. The makeup itself is almost impossible to wash off (at least that was the old formula I don't know what it is like now) so it's a great go to makeup if you plan to sweat. Also a little moisture blends it in better. In fact, it is suggested that you spritz your face with water and blend in for a more natural look. NOW BACK TO THIS MAKEUP.... : ) This is a fantastic makeup if you have acne but acne that doesn't leave much scarring or dark spots. I would consider this a medium coverage makeup. Lastly, I would not recommend for dry skin especially if you are concerned about makeup that makes fine lines more noticable.",
+          "reviewDate": "Reviewed in the United States on May 25, 2018",
+          "customer": "SuzieCee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHDRM22YXCQPWFG472DYKJ2EV7IQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "140 Buff",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "30 people found this helpful"
+        },
+        {
+          "reviewTitle": "Thick",
+          "reviewText": "Long lasting. Full coverage on my face. It is not to lightweight. On thick side. The moisture level is not a lot. It is blendable if I use my moisturizer first. Good quality and nice value.",
+          "reviewDate": "Reviewed in the United States on December 2, 2025",
+          "customer": "P.A.M.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFCF7JNGRSWNPJJPHWC4WZLU532Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "280 Warm",
+            "size": "1 fl oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Love this foundation!",
+          "reviewText": "Great foundation!",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Lisa",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFZYHRZFVT42QPJI5PQKGUHURWAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220 Neutral",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Lightweight, medium coverage, Semi Matt",
+          "reviewText": "So I started to change my formula when it came to foundation being that I wanted to go for a healthier foundation a lot of these foundations are not hyperallogenic, unless you pay for non-drugstore foundation the only foundation I know that are hyperallogenic, that are for sensitive skin are physicians, boots, Almay, some Revlon products and Neutrogena but Neutrogena has a tendency of irritating my skin for some reason. I have combination skin with an oily T-zone I\u2019m acne prone with sensitive skin, I\u2019m 28 and still get acne I was using the Almay clear complexion which worked really well with me but unfortunately, I had read up on using salicylic acid which it contains, that with time it tends to thin the skin it is not good for people of medium skintone Hispanic or black I\u2019m cool toned with a tan I realize that it was starting to leave dark spots on my face every time I broke out and it would clear up it would turn into a dark spot and scar so I decided to try this formula which has vitamin C, vitamin E which is healthier for your skin I must say that I am very impressed it goes on smoothly and does not emphasize on my pores it does not settle in lines although I do use it under my eyes with a Real techniques beauty blender and the rest of my face with a flat top kabuki brush. take it in mind this foundation will not look good at all!!\u2019 if you do not know your undertone and do not get the right color foundation I have went through a few of them by now and have learned. As for coverage I have lots of acne scars but I do not like to wear heavy makeup I use full coverage in the winter time only because it doesn\u2019t feel like it\u2019s melting on my face. So I would say this is a medium coverage I have not tried to make it buildable but being that it sets very fast I don\u2019t know if I\u2019d want to try that though. This foundation is really good for spring and summer time because it is so light weight and does not come off easly. I purchased the buff, natural and naked none of them matched me I went to Ulta to get my undertone went with Beige 240 The beigie has a nice pink undertone. The foundation is a Semi matte has to be set with a powder so that it could live up to the actual 8 to 9 hours I also use NYX Clear studio primer which works well with this foundation you can get a total of nine hours without it looking cakey or blotchy or oil breaking through, I use physicians powder to set it. If you are looking for a natural lightweight foundation this is for you it does not have flashback or white cast when taking pictures which is a plus!! I have used Revlon color stay, L\u2019Oreal pro matte, Boots beautiful mattifying, NYX Total control foundation and out of all of these foundations I\u2019ve used this is by far the best!! although Almay clear complexion one has a better coverage I will say that this is just as good!! Good for combination skin with oily T-zone, acne prone skin, sensitive skin. Once you use makeup remover, wash this off your face your face it feel very soft at least for me it does I think that it\u2019s because of the vitamin E which helps a lot with my dark acne spots. I have not had any breakouts with this foundation but then again I never do with Almay!!!",
+          "reviewDate": "Reviewed in the United States on March 28, 2018",
+          "customer": "Nicole NV",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGLKDOQJWFGZOLWQNRGUV2KPX4RQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "160 Naked",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "20 people found this helpful"
+        },
+        {
+          "reviewTitle": "Use it on sensitive skin, washes off easily",
+          "reviewText": "I have sensitive skin and love this Almay foundation. Covers my eye bags and evens the color of my complexion and washes off easily!! It is lightweight even in summer. No scent so you don't smell like your makeup!!",
+          "reviewDate": "Reviewed in the United States on December 22, 2025",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEOZ4LNN4GBNK64DKRY6COOHKX2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "280 Warm",
+            "size": "1 fl oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great. Wish they had more shades.",
+          "reviewText": "This stuff is great. They discontinued my honey shade. And I can\u2019t get the other shades to work. But this stuff is long lasting and great for oily girls.",
+          "reviewDate": "Reviewed in the United States on December 17, 2025",
+          "customer": "NEF",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBQJZQWUANJ5OBT2RFCR3LZBAQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "280 Warm",
+            "size": "1 fl oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great foundation for sensitive skin",
+          "reviewText": "Had to a little while for delivery but it was worth the wait fabulous foundation I\u2019m very pleased as it not always easy to find but it was worth the wait",
+          "reviewDate": "Reviewed in the United Kingdom on March 31, 2023",
+          "customer": "dorothy shaw",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "240 Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Nice foundation",
+          "reviewText": "Nice foundation but my daughter found it a bit watery.",
+          "reviewDate": "Reviewed in the United Kingdom on April 19, 2019",
+          "customer": "Kellbell",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "140 Buff",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Works as described on the bottle",
+          "reviewText": "Was bought as a gift for my daughter who had purchased this item in America and loved it.",
+          "reviewDate": "Reviewed in the United Kingdom on December 14, 2019",
+          "customer": "annette mcclymont",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "120 Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Would buy again",
+          "reviewText": "Fab product and seller",
+          "reviewDate": "Reviewed in the United Kingdom on April 4, 2021",
+          "customer": "KC",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "260 Sand",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Love, love, love!",
+          "reviewText": "Excellent quality makeup and my new go to foundation. I recently bought Nars foundation as I've loved that one but it's $65.00. Egads... and it's great but honestly, this Almay foundation is awesome, makes me feel like I'm wearing a more expensive foundation. It lasts all day and is so nice to wear. Will buy it from now on as long as they keep making it and the same formula. I have combination skin and sensitive but no breakouts or problems with this foundation. So happy to find it!",
+          "reviewDate": "Reviewed in Canada on October 27, 2022",
+          "customer": "Kelly M",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "260 Sand",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

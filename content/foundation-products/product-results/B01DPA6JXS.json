@@ -1,0 +1,459 @@
+{
+  "requestMetadata": {
+    "id": "68584e37-5b64-4433-820b-277dd3ebc9d0",
+    "status": "ok",
+    "html": "https://files.hasdata.com/68584e37-5b64-4433-820b-277dd3ebc9d0.html",
+    "json": "https://files.hasdata.com/68584e37-5b64-4433-820b-277dd3ebc9d0.json",
+    "url": "https://www.amazon.com/dp/B01DPA6JXS"
+  },
+  "product": {
+    "asin": "B01DPA6JXS",
+    "url": "https://www.amazon.com/dp/B01DPA6JXS",
+    "title": "L'Oreal Paris Makeup Infallible Up to 24HR Pro-Glow Foundation, Creamy Natural, 1 fl oz.",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Creamy Natural",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Infallible Pro Glow Foundation With Spf: Lightweight and creamy, this long lasting medium-coverage foundation goes on smooth and finishes with a glow that lasts, The hydrating foundation with SPF is ideal for normal to dry skin",
+      "Infallible Face Makeup: Everything from the Infallible foundations, contour kits, and powders are professionally formulated for an expert look that lasts for hours on end, so you get color, definition and coverage that lasts",
+      "The Foundation Of Your Look: From BB creams to blush, L'Or\u00e9al has everything you need for a smooth, even finish, Highlight to illuminate your look, use concealer to hide imperfections or apply contouring makeup for enhanced, defined features",
+      "Because You're Worth It: L'Or\u00e9al Paris helps you create the look you want with our full line of makeup including foundations, concealers, highlighter makeup, eyeshadow palettes, lipsticks and much more",
+      "Perfect To Pair With: Try with our Infallible Pro Glow Face Primer to prepare, perfect and illuminate while it hydrates skin for better makeup application"
+    ],
+    "description": "Discover the L'Or\u00e9al Paris secret to a complexion that looks professionally perfected. With the Infallible Pro-Glow Foundation, you can achieve a radiant, healthy glow that lasts. Engineered for normal to dry skin, this lightweight and creamy foundation delivers up to 24 hours of hydrating wear. The formula glides on effortlessly, providing buildable medium coverage that instantly conceals imperfections and evens skin tone without ever feeling heavy or looking cakey. Infused with SPF, it helps protect your skin while perfecting it. The result is a luminous, dewy finish that feels comfortable and looks naturally flawless. Whether you're aiming for a sheer daytime look or a more polished full-coverage finish for a special occasion, Infallible Pro-Glow adapts to your needs. It\u2019s the long-wear you love, with a radiant glow you can't live without. Complete your professional look with the entire L'Or\u00e9al Paris Infallible range. Because you're worth it.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0D14Y1DP6",
+        "title": "creamy natural 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0D14Y1DP6",
+        "imageUrl": "https://m.media-amazon.com/images/I/41QgKkOGWyL.jpg"
+      },
+      {
+        "asin": "B01DPA6SZ2",
+        "title": "Natural Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DPA6SZ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/41UpNItNwEL._SL1100_.jpg"
+      },
+      {
+        "asin": "B01DPA6SY8",
+        "title": "Natural Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DPA6SY8",
+        "imageUrl": "https://m.media-amazon.com/images/I/51q1ywAdQiL._SL1000_.jpg"
+      },
+      {
+        "asin": "B01DPA6JXS",
+        "title": "Creamy Natural 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DPA6JXS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71sqBg7jeOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B071Z1MKRW",
+        "title": "Caramel Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B071Z1MKRW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71z4QKbJMdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CG17MHZP",
+        "title": "Caramel Beige 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CG17MHZP",
+        "imageUrl": "https://m.media-amazon.com/images/I/41QK2yd8JiL.jpg"
+      },
+      {
+        "asin": "B01N7ST2GN",
+        "title": "Clear 1 fl oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01N7ST2GN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bgryhF4nL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01DPA6OE2",
+        "title": "Nude Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DPA6OE2",
+        "imageUrl": "https://m.media-amazon.com/images/I/31HNp01EMoL.jpg"
+      },
+      {
+        "asin": "B071F2HY3Q",
+        "title": "cr\u00e8me caf\u00e9 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B071F2HY3Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/71L+lEDew7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01DPA6ONI",
+        "title": "Creme Caf\u00e9 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DPA6ONI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71XYXTuTt-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B01DPA6OGU",
+        "title": "Classic Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DPA6OGU",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eIxUPEMtL._SL1126_.jpg"
+      },
+      {
+        "asin": "B0CJMBF6NX",
+        "title": "Classic Ivory 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CJMBF6NX",
+        "imageUrl": "https://m.media-amazon.com/images/I/41K6kfSKh4L.jpg"
+      },
+      {
+        "asin": "B0711KCBR1",
+        "title": "Sun Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0711KCBR1",
+        "imageUrl": "https://m.media-amazon.com/images/I/710lBNL7XFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BW2WHFNT",
+        "title": "Buff Beige 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BW2WHFNT",
+        "imageUrl": "https://m.media-amazon.com/images/I/41N3Ni3wm1L.jpg"
+      },
+      {
+        "asin": "B072HVJP5S",
+        "title": "Buff Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B072HVJP5S",
+        "imageUrl": "https://m.media-amazon.com/images/I/71O6XKnj7ML._SL1500_.jpg"
+      },
+      {
+        "asin": "B01DPA6SO8",
+        "title": "Cocoa 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DPA6SO8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Wj-jyTkyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B078VR2PHQ",
+        "title": "Beige 1 fl oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B078VR2PHQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71DC9tr8pOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BW39815Z",
+        "title": "Cocoa 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BW39815Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/41piDIoobYL.jpg"
+      },
+      {
+        "asin": "B01DPA6O6K",
+        "title": "Classic Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DPA6O6K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71s9mtcBVqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01DPA6SXY",
+        "title": "Sand Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01DPA6SXY",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TrfS3v46L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 12.97,
+      "beforePrice": 15.99,
+      "discount": "-19%",
+      "priceFrom": 12.97,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Monday, April 6",
+    "deliveryIsoDate": "2026-04-06T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "returns": "Non-returnable. Transportation of this item is subject to hazardous materials regulation",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 2,
+    "primaryImage": "https://m.media-amazon.com/images/I/71sqBg7jeOL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71sqBg7jeOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81sX-1bA7pL._SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/79836b53-a123-4c8e-b388-fac80f4caacb.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/79836b53-a123-4c8e-b388-fac80f4caacb.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/43b8d39b-09ff-4412-b9fd-cad25a5bf92b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Creamy Natural"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Dry"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Lightweight and creamy, this long lasting foundation goes on smooth with a glow finish that lasts. With medium coverage, it instantly hides imperfections for a clear complexion. The hydrating foundation with SPF is ideal for normal to dry skin."
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "The New Pro-Look of Longwear. It\u2019s Pro With an All-Day Glow. Up to 24HR Foundation."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Natural"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00071249330432"
+      },
+      {
+        "key": "UPC",
+        "value": "071249330432"
+      },
+      {
+        "key": "Model Number",
+        "value": "71249330432"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "71249330432"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#3,512 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #41 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01DPA6JXS"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Discover the new pro finish of longwear: up to 24 hour wear with a hydrating glow. Lightweight and creamy, this long lasting foundation goes on smooth with a glow finish that lasts. With medium coverage, it instantly hides imperfections for a clear complexion. The hydrating foundation with SPF is ideal for normal to dry skin."
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.05 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.79 x 1.85 x 4.72 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 16235,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "75%",
+        "fourStars": "14%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage that's buildable, with a natural matte finish that looks amazing throughout the day. The product is lightweight, feels non-cakey, and is particularly suitable for dry to normal skin, leaving it looking moist. They appreciate its longevity, noting it stays on all day, and consider it a great everyday foundation that offers good value for money. The color match receives mixed feedback, with some customers saying it matches their skin tone perfectly while others find it too dark.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 637,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 377,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 334,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 312,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 218,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 168,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 148,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 272,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61SKnRhfApL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61i3PwDYCTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Do5e5eBTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/513Cr6MhQBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71sZRQw0-dL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718KwO+tc5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/615UariKygL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81gpnLsNH0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dwrphRt6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gmMt+S2RL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51ODPEAezdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Y7MaMJaZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "My Go-To Foundation for Years \u2013 Reliable, Long-Lasting, and Flawless",
+          "reviewText": "I\u2019ve been using L'Or\u00e9al Infallible 24HR Liquid Foundation for years, and it\u2019s hands down one of the best drugstore foundations out there. The coverage is buildable\u2014from medium to full\u2014and it blends beautifully without feeling heavy or cakey. It truly lives up to the \u201clong-wear\u201d claim. Whether I\u2019m running errands, at work all day, or going out in the evening, this foundation stays put and keeps my skin looking smooth and even. It handles humidity and long days without sliding off or settling into fine lines. I also love that it comes in a wide range of shades, making it easy to find a perfect match for my skin tone. It gives a natural matte finish that still looks like real skin\u2014not overly flat or dry. Reliable, affordable, and consistently great\u2014this has been a staple in my makeup routine for years, and I\u2019ll keep repurchasing it as long as L'Or\u00e9al keeps making it!",
+          "reviewDate": "Reviewed in the United States on July 5, 2025",
+          "customer": "K.A.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRPPDQZPDIAZO2ERM2HVWXFABQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Beautiful radiant glow, doesn't settle into fine lines, much better than many high-end foundations.",
+          "reviewText": "I LOVE this Pro Glow foundation! It makes me cringe to think about how much money I've wasted over the years between Lancome, Cover FX, Clinique and others when this foundation beats those high-end products in every way AND costs a fraction of the price! For example, the Lancome R\u00e9nergie Lift and Cover FX cream foundations both were great color matches for me, but both required touchups after a few hours even with primer. I loved the look of Cover FX cream foundation on my skin (the dewy glow), but the transfer was terrible. The Lancome matched my color but just looked so dull and needed to be touched up all the time too. Estee Lauder Double Wear had great staying power but settled into my fine lines and crows feet, which made me look older. All of them were expensive, which would be OK if they lived up to their claims. I literally bought this L'Oreal Pro Glow because I knew I wanted to try a new foundation, but most places are not offering samples during Covid 19. I didn't want to spend a lot of money on a high-end foundation that might not be the right color etc. So, I watched a lot of great YouTube reviews about the L'Oreal Pro Glow and thought I'd give it a try to just make due for awhile. Instead, I was blown away with how beautiful this foundation was, the way it gave my 46 year-old skin a healthy glow, it never settled into my fine lines, looked radiant and in tact all day (even without primer), and did not cause any breakouts. I was also impressed that it gave me medium-full buildable coverage and looked great upclose or from a distance...never cakey or heavy looking. L'Oreal Pro Glow is now my favorite foundation ever, and the fact that it's so affordable is just incredible. For reference, I am a light-medium skin tone with neutral undertones. My Lancome R\u00e9nergie Lift foundation color was 260, and I was N40 in Cover FX. I have normal skin but break out easily if a product doesn't agree with my skin. The L'Oreal Pro Glo Natural Buff matched me perfectly and made my skin look and feel incredible. Make sure you shake the Pro Glow foundation first. I've used a beauty blender or a foundation brush to apply, and both methods worked great.",
+          "reviewDate": "Reviewed in the United States on July 4, 2020",
+          "customer": "Jason",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF4JGZJ72PKZM5KN2JHVHH3W2UWA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Buff",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "75 people found this helpful"
+        },
+        {
+          "reviewTitle": "My Holy Grail Foundation",
+          "reviewText": "I'm not sure how many years I've been using this but it has been my one and only go-to for I would say 10-15 years? It's light but provides good coverage. Dries down in that it's not sticky - feels lightweight and natural. You can't feel it on your face after application. Make up - powders and creams do well on top of it. I will never stop using as long as it's produced. It's one of those products that I have anxiety about whether or not it will ever be discontinued and then what will I do. For now, I'll stock up once in a while.",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "ashley",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEGKJV3SY5QKKRYBXZIY7OU5HSZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Creamy Natural",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great old staple drugstore foundation formula",
+          "reviewText": "Good staple drugstore foundation formula. It has a very thin viscosity, more runny - than a thick consistency which makes it buildable. This color is the best offering for pale skin tones ( with a cooler undertone) great for all skin types. Has a slight glow to the formula while still setting down and not being dewy. A medium coverage. Great mixing foundation as well.",
+          "reviewDate": "Reviewed in the United States on August 9, 2025",
+          "customer": "Shay",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGTFMYKNT5QNPRSRTT6S4UPG4N4Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Classic Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth, good coverage and moisture content. Nice match when correct shade is chosen.",
+          "reviewText": "Applies easily, good moisture content and coverage. Smooth coverage. Good value for the money.I recommend this product and the seller.",
+          "reviewDate": "Reviewed in the United States on March 17, 2026",
+          "customer": "Connie Davis-Hart",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMXX36SLGUMHIKJBJ7IKXKHBBFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Creamy Natural",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "My favorite",
+          "reviewText": "The best. I recently had to try something else because they have been out of my shade 203 and I am so happy to have it back again. Close to high end foundations. Smooth and long-lasting. Slightly glowy but not like the lumi, just enough to not be flat. I say full to medium coverage depending on what you use to apply. Only wish they had more shades. I could use a slightly lighter one for winter, and the next lighter is just not the right undertone.",
+          "reviewDate": "Reviewed in the United States on January 21, 2026",
+          "customer": "Kel1982",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEFJV6DCUNZVPFCJTYEELXGUPQVQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Nude Beige",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Fait un bon teint",
+          "reviewText": "Top",
+          "reviewDate": "Reviewed in France on November 8, 2025",
+          "customer": "Client d'Amazon",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Creamy Natural",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

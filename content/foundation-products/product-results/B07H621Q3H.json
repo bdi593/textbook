@@ -1,0 +1,687 @@
+{
+  "requestMetadata": {
+    "id": "958efe86-c72d-4271-b524-32edfd281abf",
+    "status": "ok",
+    "html": "https://files.hasdata.com/958efe86-c72d-4271-b524-32edfd281abf.html",
+    "json": "https://files.hasdata.com/958efe86-c72d-4271-b524-32edfd281abf.json",
+    "url": "https://www.amazon.com/dp/B07H621Q3H"
+  },
+  "product": {
+    "asin": "B07H621Q3H",
+    "url": "https://www.amazon.com/dp/B07H621Q3H",
+    "title": "L'Oreal Paris Makeup Infallible Up to 32 Hour Fresh Wear Lightweight Foundation, 420 True Beige, 1 Fl Oz, Packaging May Vary",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Lightweight Breathable Longwear: Vegan foundation provides medium to full buildable coverage and natural finish available in 40 shades, Ultra thin liquid goes on smoothly for a healthy-looking complexion, Color stays true and blends in evenly",
+      "Advanced formula: The formula's three oil absorbers resist sweat, water, and transfer, SPF 25 to protect, non-comedogenic vegan makeup that is suitable for all skin types",
+      "Foundations for Every Skin Type: Matte foundation ideal for oily skin, hydrating foundations ideal for dry skin and everything in between, Match your skin tone and identify the formula that works best for you",
+      "Because You're Worth It: L'Oreal Paris Makeup helps you create the look you want with our full line of makeup including foundations, concealers, highlighter makeup, brow pencils, eye shadow palettes, lipsticks and much more",
+      "L'Oreal Paris Beauty: A leading total beauty care company based in Paris, we offer innovative products and unique expertise from beauty experts in makeup, skin care, hair care, styling and hair color"
+    ],
+    "description": "Be Unstoppable. Introducing our breakthrough longwear foundation with breathable-skin technology. Up to 24HR Fresh Wear Foundation provides medium-to-full buildable coverage that lasts all day and allows the skin to breathe. The formula's three oil absorbers resist sweat, water, and transfer. The ultra-thin liquid goes on smoothly to give a fresh, healthy-looking complexion that lasts. Color stays true and blends in evenly, so your makeup looks fresh all day. Non-comedogenic and formulated with SPF, this foundation is suitable for all skin types. In 30 shades for every skin tone.",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BPWF12ZL",
+        "title": "440 Natural Rose 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BPWF12ZL",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Z9F-m4fUL.jpg"
+      },
+      {
+        "asin": "B07H5TCKX3",
+        "title": "520 Sienna 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H5TCKX3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EC+0EAEML._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H5TCK7R",
+        "title": "475 Sun Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H5TCK7R",
+        "imageUrl": "https://m.media-amazon.com/images/I/61X9ne6tz-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07X95V7MF",
+        "title": "482 Radiant Sun 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X95V7MF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UGlE1srVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07X95L39B",
+        "title": "488 Caramel 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X95L39B",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fqQFSNeJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BW32XZ98",
+        "title": "530 Deep Amber 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BW32XZ98",
+        "imageUrl": "https://m.media-amazon.com/images/I/41TLI8eMzeL.jpg"
+      },
+      {
+        "asin": "B0C1FLHT5P",
+        "title": "535 Espresso 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0C1FLHT5P",
+        "imageUrl": "https://m.media-amazon.com/images/I/41bsKGdEZ0L.jpg"
+      },
+      {
+        "asin": "B07H637CT2",
+        "title": "525 Deep Golden 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H637CT2",
+        "imageUrl": "https://m.media-amazon.com/images/I/617rYlZ8liL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H634DNX",
+        "title": "510 Hazelnut 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H634DNX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JGxgwrroL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H64QGN9",
+        "title": "470 Radiant Honey 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H64QGN9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61S+jRhe-yL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BPW1PVQJ",
+        "title": "475 Sun Beige 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BPW1PVQJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XNhWqc0PL.jpg"
+      },
+      {
+        "asin": "B07H67H5LG",
+        "title": "425 Linen 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H67H5LG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tFAtk0LzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07X4GQM9S",
+        "title": "412 Warm Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X4GQM9S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61G9cGszCAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07X82S53H",
+        "title": "411 Beige Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X82S53H",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FMpCK0oFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H621PLM",
+        "title": "455 Natural Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H621PLM",
+        "imageUrl": "https://m.media-amazon.com/images/I/612aoANDUSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H64QGND",
+        "title": "505 Toffee 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H64QGND",
+        "imageUrl": "https://m.media-amazon.com/images/I/615SW3B-SXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H63L5TP",
+        "title": "545 Ebony 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H63L5TP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xowuGNnpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07X82K7LD",
+        "title": "511 Maple 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X82K7LD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BkdPLdmnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H67H5LK",
+        "title": "530 Deep Amber 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H67H5LK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61C-4pEiU2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07X82LVKQ",
+        "title": "481 Cool Sand 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X82LVKQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HADP0mUXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H64B6F3",
+        "title": "535 Espresso 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H64B6F3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GTY7smRuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H633XV3",
+        "title": "445 Vanilla 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H633XV3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+iyJ0bNyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H64B6FJ",
+        "title": "485 Golden Sun 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H64B6FJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/611u4E06RrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C1FNZQ6J",
+        "title": "495 Amber 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0C1FNZQ6J",
+        "imageUrl": "https://m.media-amazon.com/images/I/41PiXFlRfmL.jpg"
+      },
+      {
+        "asin": "B07H63CMM3",
+        "title": "Pearl 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H63CMM3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ssxgv00sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H621Q3H",
+        "title": "420 True Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H621Q3H",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RYJ1wFxSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H64QGNG",
+        "title": "500 Honey Bisque 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H64QGNG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gXwLD4HzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H63P3B8",
+        "title": "465 Sand 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H63P3B8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61z-PTY67sL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H633XTR",
+        "title": "410 Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H633XTR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Fj3uXeZDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H634DNY",
+        "title": "540 Mahogany 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H634DNY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61F2EC-jMqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C1FLHV26",
+        "title": "505 Toffee 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0C1FLHV26",
+        "imageUrl": "https://m.media-amazon.com/images/I/41wR4Mx2c4L.jpg"
+      },
+      {
+        "asin": "B07H621P7K",
+        "title": "490 Golden Amber 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H621P7K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gEzaeHYBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H63NGHZ",
+        "title": "515 Copper 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H63NGHZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61KZq8vGRmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07X6HCCTQ",
+        "title": "487 Warm Almond 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X6HCCTQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mYJ2FlWcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07X4GQX1C",
+        "title": "390 Snow 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X4GQX1C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bePr7vyuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H64QGNF",
+        "title": "435 Rose Vanilla 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H64QGNF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JeoVCPZzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07X95TW23",
+        "title": "390 Rose Pearl 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X95TW23",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CBbt4SX3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H621P7X",
+        "title": "480 Radiant Sand 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H621P7X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Lke18IkqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H67CL73",
+        "title": "460 Golden Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H67CL73",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-XBNbU7cL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H63P48Z",
+        "title": "440 Natural Rose 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H63P48Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JY8XGa3TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H64QGNM",
+        "title": "495 Amber 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H64QGNM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61a11hb6ugL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H65NLT9",
+        "title": "430 Ivory Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H65NLT9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xY6O2OpmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H67HVZ5",
+        "title": "450 Rose Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H67HVZ5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61V2WJ+qEHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BGQSLXF9",
+        "title": "500 Honey Bisque 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BGQSLXF9",
+        "imageUrl": "https://m.media-amazon.com/images/I/41MB6swSV6L.jpg"
+      },
+      {
+        "asin": "B07H5T8XLT",
+        "title": "415 Rose Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H5T8XLT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jFlSEmLUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BGQT7CMS",
+        "title": "540 Mahogany 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BGQT7CMS",
+        "imageUrl": "https://m.media-amazon.com/images/I/41zYt-iS7UL.jpg"
+      },
+      {
+        "asin": "B0BPW9DBDC",
+        "title": "435 Rose Vanilla 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BPW9DBDC",
+        "imageUrl": "https://m.media-amazon.com/images/I/41Dtd9JaUsL.jpg"
+      },
+      {
+        "asin": "B07X7HCJH9",
+        "title": "486 Toasted Almond 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07X7HCJH9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TwlcfY91L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07H65NLTH",
+        "title": "405 Porcelain 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07H65NLTH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61SF4GaXCwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BW3XXGQN",
+        "title": "460 Golden Beige 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BW3XXGQN",
+        "imageUrl": "https://m.media-amazon.com/images/I/412-oQ2jhUL.jpg"
+      },
+      {
+        "asin": "B0BGQTQRG1",
+        "title": "480 Radiant Sand 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BGQTQRG1",
+        "imageUrl": "https://m.media-amazon.com/images/I/41fPhwLcfvL.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 14.97,
+      "beforePrice": 18.99,
+      "discount": "-21%",
+      "priceFrom": 14.97,
+      "otherOfferQuantity": 4
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "Non-returnable. Transportation of this item is subject to hazardous materials regulation",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61RYJ1wFxSL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61RYJ1wFxSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71dB8gZaTuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71b-BGJx+QL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81V-SS4uo6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71LMOgYHeVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81m23I93yRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61scZiL3DRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91dkJ6DrK1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Fx+YbTc-L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/288ddeb7-f7af-40bc-998b-504e11f77ea3.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/478e2276-2693-4ce0-935d-a1f0c0e0e263.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7a0e3033-e7a0-4470-a803-2dced62deb70.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3c654cd1-2571-455d-80e6-fc30d2ab4f58.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dbd1c082-9853-4156-bd99-e67c77c16e4c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a2d175b0-4115-4e6c-82ba-3afd7241da3c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aadde9df-c12d-4458-be9d-e83bcf4c4f86.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/847c6326-44bb-45f0-8d8b-0890b4b65d0f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "420 True Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "face makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00071249382158"
+      },
+      {
+        "key": "UPC",
+        "value": "071249382158"
+      },
+      {
+        "key": "Model Number",
+        "value": "071249382158"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "I00109148"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,213 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #28 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07H621Q3H"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "25 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not-Applicable"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full, Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.24 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.18 x 1.18 x 4.61 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "30 Milliliters"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Non-comedogenic"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 22557,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "75%",
+        "fourStars": "12%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this foundation comparable to high-end products, with medium to full buildable coverage that lasts all day. They appreciate its lightweight formula that feels comfortable on the skin, works well for mature and oily skin types, and provides a matte finish. The color match receives mixed feedback - while some say it matches their skin well, others find it too dark. The finish also gets mixed reviews, with some saying it makes skin look flawless while others report a shiny, greasy appearance.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 507,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 489,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 435,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 312,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 311,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 273,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 368,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Finish",
+          "count": 200,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71xM0fPSXGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61wRg--YL8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61eLRlhn4ZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71U0bsLmTzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Xc9P1h6yL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61oedAkbpML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Z3pjySRML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/711l3BisNjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pJBkuS+dL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ESvLkViwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ksOKV8YJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71GX9oBLdrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great quality and good coverage!",
+          "reviewText": "I\u2019m someone who rarely wore makeup. I didn\u2019t like the way it felt on my face and I only wore it on special occasions. However, I\u2019m over 45 now and have a few freckles and dark spots and thought I should start a skincare and makeup routine. I ran into problems trying to find a shade match in the beauty store. After doing a lot of swatching at the beauty store and finding some foundations that seemed close, I was disappointed that one of the better marching ones oxidized and turned orange/bronze on me after a few hours. I tried again with Nyx Blur and L\u2019Oreal Infalliable. The Nyx was terrible on my skin. Wrong shade, but it also looked weird - runny and patchy. The L\u2019Oreal Infalliable 460 Golden Beige was very close, but just a hair orangey to me after wearing it. I decided to go a shade down and switched to a neutral undertone rather than warm, because this foundation was perfect in every other way - it had less oxidation than the previous Maybelline powder foundation I tried, it had better coverage (medium to full), and it was soft and light on my skin. I took a chance and ordered the 455 Natural Buff. I\u2019m in love!! This is the closest shade match I\u2019ve found. I put it on my face and it looked good. I decided to try some on my neck, which can sometimes look slightly lighter than my face, and the makeup on my neck was almost imperceptible from my skin. When I showed my partner my makeup and sent photos to my best friend, both said the foundation looked exactly like my skin and it didn\u2019t look like I was wearing makeup. The quality of the makeup is good. There is a very slight tackiness to it, but it\u2019s not unpleasant. It also seems more hydrating compared to the Nyx makeup. It\u2019s also easy to build up. I can wear it as medium coverage with one coat or full coverage if I layer more on. When I use two coats, it looks very nice and smooth in photos. I would happily buy this again and recommend it to others. This is probably the best quality of makeup I\u2019ve used, apart from a brief period of using bare minerals. And I like that L\u2019Oreal offers a nice shade range so it\u2019s easier to find your matching color. Having fair, olive-toned skin can be hard to find the right match for!",
+          "reviewDate": "Reviewed in the United States on July 15, 2025",
+          "customer": "V.R.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF3J3MXQ27WOPSRMF6MOMM3VSMYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "455 Natural Buff",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "21 people found this helpful"
+        },
+        {
+          "reviewTitle": "Surprisingly good foundation",
+          "reviewText": "Looks great and lasts all day. I bought the Infallible concealer when my regular brand was out of stock, and really liked it. It covered good, lasts all day and has a really nice scent. So when I needed foundation I tried this. The first bottle was too dark so bought a second much lighter so I can mix my custom color. Works great just like the concealer.",
+          "reviewDate": "Reviewed in the United States on January 16, 2026",
+          "customer": "DSK",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBIJVRODOOZRG3DJ7SXRLI3FQIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "465 Sand",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "This is truly great makeup",
+          "reviewText": "This makeup is truly amazing. I was laying on my stomach, my face was face down on a table in the dr's office for about 30 minutes. when I sat up I noticed there was no makeup on the white paper that they cover the table with. I really expected to see a mess when I got up, but I was amazed that I didn't see any at all. I was changing positions constantly trying to get more comfortable and I rubbed my face many times on the paper. That made me a believer of this makeup. I'm 73 and my facial skin has become dryer, I was always combination/normal when younger. I put on a very small amount of moisturizer before applying the makeup and this works perfect for me. I actually look healthy and a bit younger with this makeup. it does not crease and looks very natural and covers my age spots very well. I am fair to light skin tone blonde/silver hair with pale green eyes and the shade 411 has worked out quite well. I like a little cool tone and this is not too pink. I don't know why anyone would not like this makeup unless they have very dry skin and their not using a moisturizer. Loreal has made the perfect make up and I'm ditching the expensive Estee lauder double wear forever. I don't think I will ever have to search for another makeup. I'm so glad I found this, I think it's even better than the double wear and so affordable. Loreal, thank you for a great product, keep up the great work.",
+          "reviewDate": "Reviewed in the United States on July 28, 2025",
+          "customer": "Patricia Goss",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGGYX6DICY2EKZW4YMZWV7SBGLTQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "411 Beige Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "28 people found this helpful"
+        },
+        {
+          "reviewTitle": "Worth a try!",
+          "reviewText": "Gives a full coverage but natural finish. Lasts long and is almost a favorite. My go to is the Est\u00e9e Lauder foundation and this is comparable",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Alarie Padarathsingh",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGDXKI5D5EESN5I2XTI7NKIAHSAA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "445 Vanilla",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "My favorite",
+          "reviewText": "I haven't used any other foundation for a while. This is good. Doesn't feel heavy. I have sensitive skin and this doesn't cause irritation. Doesn't dry out my skin. The coverage is good. I would say it's medium coverage. Easy to apply with the pump. However, this feature does make it harder to get the last of it out of the bottle. I use a small brush to get the rest out. I have fair skin with pink undertones so I bought the Rose Ivory shade. Matches well. Consistency is good. Can make your skin look oily. I use the setting powder in the Infallible line and it's a dream. I also use the concealer in this line as well. Longwear for sure. I wear this combo to work. My work days are 10 hours. Makeup still looks as good as it did when I first applied and I have no irritation. I like all the products. I will continue to buy!",
+          "reviewDate": "Reviewed in the United States on September 16, 2025",
+          "customer": "KatyLeighL",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFCBLLPRQ6TB3FREO2BR7JFPLF4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "415 Rose Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Expired product! Disappointing!",
+          "reviewText": "I have waiting long to receive my product then it came, good thing I saw the expiration prior using. Expiration dated Feb 2022! \ud83e\udd75\ud83d\ude24",
+          "reviewDate": "Reviewed in the United Arab Emirates on July 18, 2023",
+          "customer": "Heidi Siazon",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "480 Radiant Sand",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "This foundation is a dream",
+          "reviewText": "If L'Oreal Paris ever stops making this, I will be in trouble. Why? Because in the last 16/17 years, I have tried many - and I mean MANY - foundations by many brands and even different lines within those brands. From drugstore brands to high ends and everything in between...and this is my absolute match made in heaven! There's a brand from Sephora that's a match too, and I like it for the exact same reasons, but it's much pricier and this L'Oreal Infallible foundation is my exact match, has the same full coverage, very light weight and very long lasting wear, AND a GREAT value. So this is the one I go for. I have used brands like Mac, Cover FX, Clinique etc....and for the price and quality this one is my absolute favourite and its the ONLY ONE I have been using for almost two years now. No plans to switch! I go through the bottles pretty frequently, because I wear it almost everyday (office, going out etc). From morning until I take it off (whenever that may be. Half an hour to 10+ hours, depending on the day), it STAYS PUT. No caking, no smudging, no trouble whatsoever. I use a primer, colour corrector, and this foundation, then set it with powder and that's it. I struggle with dark circles and this foundation helps with that, too. Even when I don't use a colour corrector or a primer (because who always remembers the primer?), it does the job just as good. A little always goes a long way as well, so that's another good thing. The foundation really stays put and I have to wash my face well to get it completely off....which is a very good thing in my book. There's nothing I dislike more about makeup that doesn't stay put and requires repeat application. I highly recommend it. Before you buy it online though, make sure you know your exact shade. I was buying it from the store after finding my match by consulting with a beauty advisor there, then I found this on Amazon, so I got it from here and got a subscription since I know this is the one I'll be using until L'Oreal forces me not to!",
+          "reviewDate": "Reviewed in Canada on November 23, 2022",
+          "customer": "Gemini9684",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "495 Amber",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Skinlike and long wearing",
+          "reviewText": "This is hands down the best foundation ever. I\u2019ve tried many (Makeup Forever, Fenty, Pat McGrath, Shiseido) and this one beats them all. It is priced higher than other drugstore foundations, but it\u2019s still a steal for the formula. I have dry, flaky skin in areas from acne treatment but oily areas too. This foundation balances all those areas, leaving a natural skinlike finish, not dewy or matte. It doesn\u2019t enhance texture or flakiness. The texture is quite liquidy and lightweight and you can\u2019t feel it at all on your skin. I like to pump it on the back of my hand and stipple it in with the Elf Ultimate Blending Brush. It has a nice scent, but not overpowering. I can\u2019t smell it unless I\u2019m purposely trying to get a whiff. The longevity is the standout. It\u2019s transfer proof and literally looks the same, if not better, by the end of the day. I went snowboarding for 6 hours and this did not transfer onto my helmet, did not even enhance dryness that I get from being out in the cold. If you\u2019re on the fence, get it.",
+          "reviewDate": "Reviewed in Canada on February 27, 2021",
+          "customer": "Claire",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "425 Linen",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Worth it, works on all skin types!",
+          "reviewText": "Overall it\u2019s a beautiful product, a great alternative to the more expensive brands but I do find on my oily skin that it doesn\u2019t want to fully stick in certain places but I\u2019ve honestly never had better coverage from a drug store foundation. I would say this is the best one you can get from your local shop!!",
+          "reviewDate": "Reviewed in Canada on February 10, 2021",
+          "customer": "Cara",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "405 Porcelain",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

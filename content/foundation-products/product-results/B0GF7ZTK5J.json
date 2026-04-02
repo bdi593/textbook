@@ -1,0 +1,302 @@
+{
+  "requestMetadata": {
+    "id": "a95100c9-19ce-47d9-9e9e-55795754ba31",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a95100c9-19ce-47d9-9e9e-55795754ba31.html",
+    "json": "https://files.hasdata.com/a95100c9-19ce-47d9-9e9e-55795754ba31.json",
+    "url": "https://www.amazon.com/dp/B0GF7ZTK5J"
+  },
+  "product": {
+    "asin": "B0GF7ZTK5J",
+    "url": "https://www.amazon.com/dp/B0GF7ZTK5J",
+    "title": "Beauty Skin Tint for Black Women, Covebalm Foundation Stick, Serum Boosted Skin Tint Balm, Tinted Moisturizer for Face (# 06)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "# 06"
+    },
+    "featureBullets": [
+      "Hydrating & Skin-Nourishing \u2013 Experience deep moisture with Covebalm Beauty Skin Tint! This serum-infused formula drenches your skin in hydration and nourishment, delivering a naturally dewy, fresh-faced glow while providing flawless coverage. Infused with skincare-loving ingredients, our Beauty Skin Tint ensures your skin stays radiant and healthy.",
+      "Effortless Application \u2013 Glide this Beauty Skin Tint seamlessly for a flawless finish! Designed for ease, the serum-infused stick blends effortlessly with fingers, a brush, or a sponge. Whether on the go or at home, achieve a flawless, second-skin complexion in seconds with Covebalm Foundation Stick.",
+      "Lightweight & Buildable \u2013 Enjoy breathable, non-cakey coverage with Covebalm Beauty Skin Tint! This weightless foundation balm delivers sheer to medium coverage\u2014apply lightly for a natural tint or layer up for skin-perfecting radiance, never heavy with our Beauty Skin Tint.",
+      "All-Day Wear \u2013 Stay confident with Covebalm Beauty Skin Tint that lasts! The formula moves with your skin, resisting creasing, dryness, and patchiness. Ensure a fresh, glowing complexion that endures from morning to night with our hydrating Beauty Skin Tint.",
+      "Multi-Use & Travel-Friendly \u2013 Perfect for every occasion with Covebalm Beauty Skin Tint! Use it as a foundation, tinted moisturizer, or touch-up stick\u2014this multi-use beauty balm does it all. Its sleek, mess-free packaging makes it ideal for travel, gym bags, or quick touch-ups on the go with our Skin Tint Balm."
+    ],
+    "description": "Covebalm Beauty Skin Tint",
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0GF7ZTK5J",
+        "title": "# 06",
+        "url": "https://www.amazon.com/dp/B0GF7ZTK5J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61w9uQyOHXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GF83HWCC",
+        "title": "# 02",
+        "url": "https://www.amazon.com/dp/B0GF83HWCC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61McdZDhQkL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 15.88,
+      "beforePrice": 15.88
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 5 hrs 30 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "GuangZhouGuanWeiDianZiShangWuYouXianGongSi+",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1SXO5VBH6LOAJ",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61w9uQyOHXL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61w9uQyOHXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71lMnzbBLJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711pj8-sQcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61GFiuGFzAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71o+UjwkffL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7173ezoiLSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61DU1zPqqtL._SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b1015485-02bb-4220-ab70-f07456bdd888.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b1015485-02bb-4220-ab70-f07456bdd888.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6cac55e7-b966-478b-a4d1-8ec89fad0772.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1e4dea69-3b79-4cb8-ade2-b6898726b8cf.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1b648d11-08bd-49c3-87fc-718a7e86bf18.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/25db872e-bebd-42e7-9a95-e743b2f28978.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "# 06"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Color Correction, Contouring, Highlighting, Evening Skin Tone, Face"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Covebalm"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating, Moisturizing, Soothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "UPC",
+        "value": "705735904752"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Covebalm"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#19,077 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #196 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0GF7ZTK5J"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light to Medium"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 97,
+      "rating": 3.6,
+      "starRates": {
+        "fiveStars": "49%",
+        "fourStars": "10%",
+        "threeStars": "15%",
+        "twoStars": "6%",
+        "oneStars": "20%"
+      },
+      "customersSay": "Customers find the foundation stick provides good coverage, with one mentioning it works well around the eyes. The product is easy to apply and goes on smoothly, with one customer noting it glides on evenly without needing a moisturizer. They appreciate its lightweight nature and smooth texture, and say it looks amazing. The color match receives mixed feedback - while some say it matches their skin tone well, others find the shade darker than expected.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 18,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 10,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 6,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 6,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 6,
+          "status": "positive"
+        },
+        {
+          "aspect": "Appearance",
+          "count": 5,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 15,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61Pb5GV71+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71W1A-cu2jL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71daVCV0idL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/717v0wQsYJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "AMAZING!!!!!",
+          "reviewText": "If I can rate this past five stars, I would the serum boost quality is amazing the way it feels on my skin feels delicate and light blend perfectly and doesn\u2019t look dry. It gives a gloss to my face, which is very amazing. I was very skeptical about what the product when I seen it on Facebook, but after using it, I am going to buy more. I do think that it\u2019s the color itself shows more of my summer shade I am going to buy another shade just a little lighter than this one however perfect 10 out of 10. No questions about it. If you were skeptical yourself I would say go for it. Go for it perfect. Oh, I would say for us women who would have dark circles on, it does help to start covering it. I would have a concealer corrector to kinda layer on top of it for under Eye darkness. I did it with my Mac concealer and perfect cover-up like I totally love this product.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Jazzie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGOHFQ5GN6NLH2HLBPNGFBJDBNLA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Beautiful!",
+          "reviewText": "It just like they advertise: the color is beautiful on your face. I\u2019ll purchase it again.",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "Kay Lynn Johnson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG5XY3N5QVGNXM4T54DOCZ7QPCGQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "# 02"
+          }
+        },
+        {
+          "reviewTitle": "Great coverage",
+          "reviewText": "I got two colors. Wasn't sure of my color. The lighter one was perfect. The darker color has more red in it so I sure it on my cheek area. Great product but you do need a powder it's a little oily.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "val guerin",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHTAYYKDGWZNGCB5T7OFAS4N56IA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "# 02"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Feel like skin",
+          "reviewText": "Love the feel, it blends well with my complexion",
+          "reviewDate": "Reviewed in the United States on February 23, 2026",
+          "customer": "Kay74",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFQEDAJJ4ZSN55RVIZW4Z7QAY24Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "# 06"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "To slow in delivery",
+          "reviewText": "Item is great, but it took over 3 weeks to get it",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "Darlene",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFHOH74HDUO4JP4BMMG62ZPJNB2Q",
+          "customerStarsRating": 4,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Covebalm",
+          "reviewText": "I love this product. It\u2019s lightweight and cover well. The color is a perfect match. It is easy to apply. It\u2019s nice and creamy. It\u2019s well worth the money.",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "L\u00edLou Simon\u00e9 Pierr\u00e9",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEI4J2XZYJH6C3JD7IE2YJYIXGSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "# 06"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Like the coverage",
+          "reviewText": "I like the feel and coverage but the tone is just a little too red for me to wear without a green concealer or primer .",
+          "reviewDate": "Reviewed in the United States on March 19, 2026",
+          "customer": "Monica Rodriguez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5PAYGTGOBIBDV5ROGNWPHGQRKQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Does not support the video advertising. No truth to advertising.",
+          "reviewText": "Did nothing for my skin, dark circles under my eyes, nor the one baggy eye. I am totally disappointed. Did no make my skin glow nor improve my aging .",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "Patricia Woods",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXWY7AMCBOHB2MGE6X6TNL5F5TQ",
+          "customerStarsRating": 1,
+          "helpfulVotes": "8 people found this helpful"
+        }
+      ]
+    }
+  }
+}

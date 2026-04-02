@@ -1,0 +1,406 @@
+{
+  "requestMetadata": {
+    "id": "0ae043a1-a088-436d-b8e9-700e558cc621",
+    "status": "ok",
+    "html": "https://files.hasdata.com/0ae043a1-a088-436d-b8e9-700e558cc621.html",
+    "json": "https://files.hasdata.com/0ae043a1-a088-436d-b8e9-700e558cc621.json",
+    "url": "https://www.amazon.com/dp/B01N9PSE0P"
+  },
+  "product": {
+    "asin": "B01N9PSE0P",
+    "url": "https://www.amazon.com/dp/B01N9PSE0P",
+    "title": "Black Radiance True Complexion Creme Contour Palette, Medium to Dark, 7.5 Gram",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Medium To Dark"
+    },
+    "featureBullets": [
+      "READY, SET, CONTOUR: Black Radiance True Complexion Contour Palette highlights, shapes, & sculpts facial features for naturally enhanced definition. Create the perfect foundation for your look",
+      "CONTOUR PALETTE: Sculpt, define, & highlight your best features & achieve a look that's perfect for your skin tone. Our set of blendable shades lets you customize foundation, highlighter, & bronzer",
+      "LOVE YOUR SHADE: For more than two decades, Black Radiance has pursued its vision to be the expert & resource for black beauty. We have a wide range of cosmetics for darker skin tones",
+      "EMPOWERED BEAUTY: Black Radiance combines high style with the latest technology, offering exclusively formulated foundations, concealers, highlighters, eye & lip colors for a diverse range of skin tones.",
+      "BLACK BEAUTY MATTERS: We enable women of color around the world to be even more beautiful. Black Radiance highlights the strength & beauty of today\u2019s black women with a portfolio of luxurious, affordable cosmetics."
+    ],
+    "description": "Black Radiance True Complexion Creme Contour Palette makes it easy to become a master of disguise! The new all-in-one palette sculpts contours and defines to emphasize your favorite features. Use the three creams to enhance your features to ultra-defined modelesque features. Use effortless True Complexion Creme Contour Palette from Black Radiance for effortless contouring. Use it to define your cheekbones, perfect your nose, and sculpt your jawline. The oil free, creamy, blendable shades provides full coverage in your perfect tone. Black Radiance True Complexion Creme Contour Palette makes it easy to become a master of disguise! The new all-in-one palette sculpts contours and defines to emphasize your favorite features .Use the three creams to enhance your features to ultra-defined modelesque features.",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Concealers & Neutralizers"
+    ],
+    "variants": [
+      {
+        "asin": "B01N9PSE0P",
+        "title": "Medium To Dark",
+        "url": "https://www.amazon.com/dp/B01N9PSE0P",
+        "imageUrl": "https://m.media-amazon.com/images/I/811PPRIWOSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01N6OZHBX",
+        "title": "Light To Medium",
+        "url": "https://www.amazon.com/dp/B01N6OZHBX",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AyAlnPEFL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 6.99,
+      "beforePrice": 8.99,
+      "discount": "-22%",
+      "priceFrom": 6.99,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/811PPRIWOSL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/811PPRIWOSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7139LYjtHHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71IvqvU1wAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71z2CBxiO-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cqJd0NXZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719G2BVZcDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715SET75BBL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e1fcef9-6373-4148-99e7-2c7d87def572.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a433f195-b979-423c-8ad3-304c0a57508c.__CR0,0,650,350_PT0_SX650_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4c66d5b3-f2b2-434b-a6aa-e33337bd784e.__CR0,0,651,351_PT0_SX650_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41326487-73a4-4e39-9974-07ba305356a8.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 4,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c9c082d8-d3d4-4957-b7ef-2c671a5c4796.MP4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c9c082d8-d3d4-4957-b7ef-2c671a5c4796.MP4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f5dd3320-441f-4410-95ee-b883c033f258.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b63deba3-db08-43b1-8f51-9b797808d294.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/24229eb9-b848-48d8-98e6-c7ad4dde504e.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Finish Type",
+        "value": "Creme"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Medium To Dark"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium To Dark"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Color Correction"
+      },
+      {
+        "key": "Specialty",
+        "value": "Caters to darker skin tones"
+      },
+      {
+        "key": "Container Type",
+        "value": "Palette"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Water Resistance Level",
+        "value": "Not Water Resistant"
+      },
+      {
+        "key": "Face Shaping Makeup Type",
+        "value": "Contour Face Makeup"
+      },
+      {
+        "key": "Complexion Benefits",
+        "value": "contouring, highlighting"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Black Radiance"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "China"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Palette"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00077802646699"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Black Radiance"
+      },
+      {
+        "key": "UPC",
+        "value": "077802646699"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#12,359 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #70 in Concealers & Neutralizing Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01N9PSE0P"
+      },
+      {
+        "key": "Unit Count",
+        "value": "7.5 Ounce"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.14 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "5.55 x 0.51 x 3.78 inches"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      },
+      {
+        "key": "Product Style",
+        "value": "Contour Palette"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Shaping, Contouring, Highlighting, Sculpting"
+      },
+      {
+        "key": "Material Features",
+        "value": "Oil-free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 15187,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find the contour palette's colors perfect for their complexion and appreciate its three complementary shades. Moreover, the product works well with various skin tones, blends easily, and has a creamy consistency that's beginner-friendly. They like its appearance, with one customer noting its natural shimmer, and consider it good value for money.",
+      "aspects": [
+        {
+          "aspect": "Pigmentation",
+          "count": 216,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 215,
+          "status": "positive"
+        },
+        {
+          "aspect": "Contouring",
+          "count": 171,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 99,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 96,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 95,
+          "status": "positive"
+        },
+        {
+          "aspect": "Ease of use",
+          "count": 77,
+          "status": "positive"
+        },
+        {
+          "aspect": "Appearance",
+          "count": 67,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71JSTANapWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71C8CSQb-yL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61s3OTyGiVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71WvLAZyVrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71D3bn6sOML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71RU0WTQ0pL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/711y5y0KCbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61d1xMsTnFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71349djA+XL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81OqnhHJIAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81DMDLttOZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71U3PRbvHoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Perfect Palette",
+          "reviewText": "\ud83d\udc84 I\u2019m loving my new Black Radiance True Complexion Cr\u00e8me Contour Palette! The shades are rich, creamy, and blend like a dream. With three versatile colors, it\u2019s perfect for sculpting, defining, and enhancing your natural features. \ud83c\udfa8 Although I initially ordered a shade that was too dark for my skin tone, the return process was smooth\u2014and the lighter palette I got next is a flawless match. It\u2019s proof that finding the right shade makes all the difference! \ud83c\udf1f This palette is a must-have in any makeup routine. I\u2019ve tried several contour kits over the years, and this one easily outperforms them. The texture is smoother, the colors are more pigmented, and the blendability is next-level. Whether you're going for subtle definition or full glam, it delivers professional-looking results with ease. \ud83d\udcab Definitely a 5-star product in my book!",
+          "reviewDate": "Reviewed in the United States on August 12, 2025",
+          "customer": "Ava Joy Porter",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJDIUI2HOVKR7HHJFVKCE3Q23AA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice product",
+          "reviewText": "I love this pallet",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "GiGi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZP33HS6OCR27BZM4WIUTUB77WQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          }
+        },
+        {
+          "reviewTitle": "Nice!",
+          "reviewText": "Does its job well! It\u2019s pigmented and easy to blend..",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "Kodeisha",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE46FRAFS62NTVU7QW4NXLJAV7HA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great for deep skin tones",
+          "reviewText": "I\u2019ve been loving this palette for a few weeks now and overall I\u2019m really impressed as someone with deeper skin finding contour products that actually shows up on my skin and blends but this was exception which truly delivers in terms of pigment and richness the shades are warm bold and made with melanin rich skin in mind which I really appreciate the texture is creamy and easy to work with it glides on to the sling like butter using a brush or sponge and doesn\u2019t leave that cakey or greasy feeling some cream leaves behinds the clinger shed give great definition the sculpting color is warms up the face nicely and the highlight has a lovely glow not too sparkly or chalky the packaging feels a bit flimsy and the lid doesn\u2019t always snap shut securely so it\u2019s not the most travel friendly also wish the pans were slightly bigger some I use the contour shade more than others still the price and quality is great but especially for women of color definitely would repurchase",
+          "reviewDate": "Reviewed in the United States on August 13, 2025",
+          "customer": "IAMKACY",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBQNU65MBNLXFLMR7KM5WBTOVGQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great for wigs",
+          "reviewText": "Great for wigs",
+          "reviewDate": "Reviewed in the United States on March 29, 2026",
+          "customer": "Chasiti Allen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AETOUD3O3V2NVWTGCJLPLHUXWUOQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          }
+        },
+        {
+          "reviewTitle": "Budget friendly purchase",
+          "reviewText": "Decent contouring palette easy to use",
+          "reviewDate": "Reviewed in the United States on November 13, 2025",
+          "customer": "Jaeden G.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHMU4T5IBUZEFMRYQFN6V7F6D74Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "My New Go To Product!",
+          "reviewText": "I really love this cr\u00e8me contour palette. The texture blends beautifully, and the shades match my skin tone perfectly. One of my favorite things is the application guide on the inside of the palette. It makes it so easy to know exactly where to place each color, even if you\u2019re not a makeup pro. The colors warm my skin in such a natural way without looking heavy or overdone. It gives me a soft, sculpted look that still feels like my own skin. This palette has definitely become a go to in my routine.",
+          "reviewDate": "Reviewed in the United States on December 7, 2025",
+          "customer": "Danielle",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGGA6BUDHV4W7OL2BNECRHKHZIKA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light To Medium"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Buy it!",
+          "reviewText": "So creamy!",
+          "reviewDate": "Reviewed in the United States on March 6, 2026",
+          "customer": "J.H.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBAMKSWEKFDXAQQ6SNRL47NMD2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Love it!",
+          "reviewText": "I really like the guide they've included on how to use the product, good for beginners like myself. Quite pricey.. Blends out beautifully though, really love it.",
+          "reviewDate": "Reviewed in the United Kingdom on July 23, 2020",
+          "customer": "Shelby Mclean",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          }
+        },
+        {
+          "reviewTitle": "Good",
+          "reviewText": "Well pigmented",
+          "reviewDate": "Reviewed in the United Arab Emirates on July 24, 2022",
+          "customer": "Dallas",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          }
+        },
+        {
+          "reviewTitle": "Good for beginners",
+          "reviewText": "I just started doing my own make up and I must say I love the contour palette it make it easy for a beginner like me to know where to put each shade.",
+          "reviewDate": "Reviewed in Canada on September 22, 2025",
+          "customer": "Wealth_with_Kayla",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium To Dark"
+          }
+        }
+      ]
+    }
+  }
+}

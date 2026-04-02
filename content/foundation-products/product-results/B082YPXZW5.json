@@ -1,0 +1,450 @@
+{
+  "requestMetadata": {
+    "id": "4d97cc5c-24ed-43b1-959a-b595e643dc38",
+    "status": "ok",
+    "html": "https://files.hasdata.com/4d97cc5c-24ed-43b1-959a-b595e643dc38.html",
+    "json": "https://files.hasdata.com/4d97cc5c-24ed-43b1-959a-b595e643dc38.json",
+    "url": "https://www.amazon.com/dp/B082YPXZW5"
+  },
+  "product": {
+    "asin": "B082YPXZW5",
+    "url": "https://www.amazon.com/dp/B082YPXZW5",
+    "title": "wet n wild Photo Focus Dewy Liquid Foundation Makeup, Soft Beige (Packaging May vary)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Soft Beige",
+      "size": "0.29 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "YOUR SKIN, ONLY BETTER: Our high-performing, skin-perfecting foundation is formulated with a matte, light-diffusing complex to help prevent white cast in photos and deliver a radiant-looking complexion.",
+      "SELFIE-APPROVED FOUNDATION: Color matched for all undertones with a matte, second-skin finish, this foundation delivers buildable coverage for a flawless-looking complexion in any kind of light.",
+      "BEST FACE FORWARD: From bronzer and blush to primer, highlighter, natural finish powder, and concealer, we've got you covered and photo ready for your next big thing. You've met your true makeup match.",
+      "ALWAYS CRUELTY FREE: We are 100 percent cruelty free, and always have been. We also carry vegan makeup and tools such as foundation, nail polish, contour palettes, lipstick, makeup brushes and more.",
+      "STAY WILD: We are the trusted beauty destination for beauty lovers of all ages, ethnicities, skin colors, and economic statuses. No matter who or where you are in life, we have a product for you."
+    ],
+    "description": "The newest innovation to the cult-favorite photo Focus franchise: dewy foundation. A weightless, super-nourishing foundation that delivers natural, all-day wear. Silky and creamy, coverage is easily buildable from medium to full, and it easily transitions from day to night wear. Ideal for normal to dry skin types, This moisturizing formula blends seamlessly, blurs imperfections and helps minimize the appearance of pores for a perfectly smooth, dewy finish. Available in 20 cruelty-free, gluten-free, talc-free, and vegan shades.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B082YQ1TGY",
+        "title": "Shell Ivory 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YQ1TGY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71uG2WBTdZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YQ3DX6",
+        "title": "Nude Ivory 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YQ3DX6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71yl6mqyB6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YPXNK1",
+        "title": "Caramel 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YPXNK1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SqjmHi2dL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKR3C87",
+        "title": "Caramel 0.29 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKR3C87",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ojyHzhRwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YPXZW5",
+        "title": "Soft Beige 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YPXZW5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xYPKA+jLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YPF7SN",
+        "title": "Soft Ivory 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YPF7SN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bsaUs9+DL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YQ5NT8",
+        "title": "Buff Bisque 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YQ5NT8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71XUimY-ipL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YPX2MW",
+        "title": "Classic Beige 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YPX2MW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ehmay70aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YPZMTT",
+        "title": "Porcelain 0.95 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YPZMTT",
+        "imageUrl": "https://m.media-amazon.com/images/I/717phWR5SuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YQ1TH6",
+        "title": "Amber Beige 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YQ1TH6",
+        "imageUrl": "https://m.media-amazon.com/images/I/716ccxlKlHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YPVTJ2",
+        "title": "Desert Beige 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YPVTJ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71yncweCjhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YQ1TGV",
+        "title": "Golden Beige 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YQ1TGV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71cbJjO+gGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YQ1TGX",
+        "title": "Cream Beige 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YQ1TGX",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ErVdvfqnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B082YQ7BW1",
+        "title": "Bronze Beige 0.29 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B082YQ7BW1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71sR-ris-7L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 4.92,
+      "beforePrice": 6.89,
+      "discount": "-29%",
+      "priceFrom": 4.92,
+      "otherOfferQuantity": 4
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 12,
+    "primaryImage": "https://m.media-amazon.com/images/I/71xYPKA+jLL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71xYPKA+jLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xilBrLM0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71RiuwYa1kL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7127qnwxUvL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51+SfRdMNVL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71nnu0XVMsL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/81xUaiUtF-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61PuShGRhRL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61lnVNOnvwL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51OaVao4GzL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71XdclC5+HL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51BOU0GxjSL._SL1080_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cef11ec2-68e0-4746-bb9a-3203e4bae0a6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ce5861c3-9430-4c32-8609-f09d3e9b5ec2.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e389a14f-414b-469d-9c6e-745e7e9faab4.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b841736-2bf0-4464-b74c-3282a5c89b66.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5b3623b-061a-43a4-b29a-71b1ba42303a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8699aa07-2d42-4bd4-91ae-85c335d32cdc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d8863db8-9c3e-4c91-9da4-2d1df9ba463f.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d8863db8-9c3e-4c91-9da4-2d1df9ba463f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2635e0a6-0549-42d1-9416-4cb5484135be.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9878a77e-f401-4983-a9e8-3da0fe184a86.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/43b8d39b-09ff-4412-b9fd-cad25a5bf92b.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Soft Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "wet n wild"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless, Radiant Finish"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Uneven Skin Tone"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Thailand"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "077802115225"
+      },
+      {
+        "key": "Model Number",
+        "value": "1111522"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "1111522"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Markwins Beauty Brands"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,730 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #33 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B082YPXZW5"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not Tested On Animals"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.29 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.1 x 1.38 x 3.62 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Gluten Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 13682,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "2%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this foundation provides excellent coverage that's buildable and stays on for up to 10 hours, with a dewy finish that looks great on aging skin. The foundation matches skin tone perfectly and makes skin look smooth and glowing, while being particularly suitable for dry skin. Customers appreciate its value for money and moisturizing properties that prevent dryness.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 420,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 353,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 333,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 247,
+          "status": "positive"
+        },
+        {
+          "aspect": "Finish",
+          "count": 242,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 202,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural finish",
+          "count": 199,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 168,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71dj71-zKEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718xnQnr+WL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/711oqByiPkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/619C6MZbOPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+i7XleJOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6192MXbnsKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61bGTWfCS3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61SItgcq86L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51B8ZDLYYNL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610Ik3bBDdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71VbJGNPI6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/615aD3+HAmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Better than NARS.",
+          "reviewText": "I Saw this product in a YT makeup review to be a knock of off NARS, one of my favorite foundations. So cheap- I thought, why not see for myself. Providers a beautiful matte finish, hides minor skin blemishes. Light weight. A lot does a long ways. Today was my first day wearing it and I had three strangers compliment me on my complexion. The first thing my neighbor said when she saw me was, \u201c Your makeup looks great.\u201d I changed nothing but my foundation.",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Diane",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEGCBVIUJVTYP6JE4E743HVNJ3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Amber Beige",
+            "size": "0.29 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Don\u2019t let the price fool you. It\u2019s as good as the $15-$20 makeup.",
+          "reviewText": "Very happy with it so far. It looks pretty natural on my skin. After maybe 8 months of trial and error searching for a shade that is close to my neck color, I think I\u2019ve finally found it! Shell Ivory! I\u2019d bought a tested a few different brands and shades last year (Maybelline, L'Or\u00e9al, Nyx), and settled on the L\u2019Oreal Infallible 32-hour, which seemed to match my face, but after a month or two, it seemed orangey like all the others I\u2019ve tried. Whether I got too pale in winter or it oxidized in the bottle, I\u2019m not sure. It was a decent brand otherwise. But after trying several foundations and shades, I was reluctant to potentially waste another $14-$18 per bottle to try two of the lighter shades in the Infalliable. It took a few tries just to get to the last shade. Every makeup I tried either oxidized or was just not the right shade. I\u2019m 80% sure that I\u2019m a neutral skin tone, but I think I have olive overtones also because makeup can get orange on me but too cool can make me look pinkish. On a whim, I decided to try Wet n Wild. I figured I could buy 3 bottles for the price of just one of the last brand. I took a chance and ordered what I thought would be two shades lighter and it worked!! She\u2019ll Ivory for the win! It is fairly close to my neck color and NOT orange after wearing it all day. I haven\u2019t tried wearing it out in the sun yet, so I\u2019ll see if it survives an afternoon outside. But I\u2019m very pleased thus far. The consistency is good and on par with the thickness of the L'Or\u00e9al. It also blends very well, so A+ for that. It definitely is DEWY, so you\u2019ll have that glossy, sun-kissed glow. They do have other ones that are matte, but I chose the dewy to avoid the patchy, dry look some matte makeup can have. For example, I had tried the Nyx Blur makeup, but it was patchy, almost watery, and terrible looking on my skin. It looked like I tried to watercolor my face. The Wet n Wild and the L\u2019Oreal Infallible were much better at blending, though honestly, I think the Wet n Wild might beat out the Infallible. Because of the dewiness, it just blends so easily. At the beginning of the day, it didn\u2019t look like I had foundation on because it was so subtle with one layer on. At the end of the day, it was a little more obvious as my forehead lines tend to crease heavily and sometimes I get oily. But this was not a deal-breaker, especially because I cared more about matching my skin tone, oxidation, and blendability more than anything else. I\u2019m pretty happy with it. $4-$6 is a good deal for the quality of this foundation. I thought it would be cheap and not as good as the L\u2019Oreal and the nicer drugstore brands, but I was pleasantly surprised. I also have to add that I love the Wet n Wild Satin lipstick, too. To rank the foundations I recently tried: 1. Wet n Wild (best overall value for the price) 2. L\u2019Oreal Infallible 32-Hour Wear (a good medium coverage foundation in a variety of shades, it lasts all day, as promised, while some beauty influencers said it doesn\u2019t oxidize, I suspect it does, but it could just be my own skin type reacting with the formula). 3. Maybelline Fit Me Pressed Powder (I actually loved it and it builds well so you can go from light to a good medium coverage, but it oxidizes too much on me) 4. Nyx Blur (too patchy and watery, not thick enough like the other brands. You could potentially waste more product trying to build it up.) I\u2019ve never been much of a makeup person and when I did wear makeup for special occasions, it was a loose powder, mineral foundation like Bare Minerals or lower end copycats. But now that I\u2019m over 45, I feel like it\u2019s time to wear makeup more often as I need medium coverage to even out my skin and cover freckles, wrinkles, and spots.",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "V.R.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF3J3MXQ27WOPSRMF6MOMM3VSMYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Shell Ivory",
+            "size": "0.29 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Flawless Foundation!",
+          "reviewText": "I absolutely love this liquid foundation! At first, I accidentally bought the wrong color, but when I got the second shade, it was perfect for my complexion. It blends beautifully, feels lightweight, and gives such a smooth, flawless finish. I\u2019ve received so many compliments, and it lasts all day without feeling heavy or cakey. Definitely a must-have for anyone looking for a reliable, high-quality foundation!",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Vanessa",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGALLEDNDPBEY2YAOZRSJK6X2BKQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Shell Ivory",
+            "size": "0.29 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Wonderful product!",
+          "reviewText": "This cosmetic product is a game-changer! I\u2019ve been using it for about two weeks, and the results are fantastic. The formula feels lightweight and non-greasy, making it perfect for daily use. It blends effortlessly and gives my skin a natural, radiant finish. One of the things I appreciate most is how long-lasting it is. Even after a full day, it stays put without smudging or fading. The scent is light and pleasant\u2014not overpowering, which is great for sensitive noses. I also love that it\u2019s made with high-quality ingredients. My skin feels hydrated and looks smoother after every use, and I haven\u2019t experienced any irritation or breakouts, which can sometimes happen with new products. The packaging is sleek and easy to use, and the price is reasonable for the quality you\u2019re getting. I\u2019ll definitely be repurchasing and trying more products from this brand. Highly recommend this for anyone looking to upgrade their beauty routine!",
+          "reviewDate": "Reviewed in the United States on January 8, 2025",
+          "customer": "TP",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFVC4L6KLPGFV6ZBBBCRRQRPSOFA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Soft Beige",
+            "size": "0.29 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "High-end quality for a STEAL!",
+          "reviewText": "I love this foundation! I feel like I'm cheating by wearing it because it's just as good as $20 foundations I've used in the past. Goes on smooth, blends easily, great coverage, lasts all day. I have combination skin and it applies evenly across all my textures. I love the spatula applicator -- reduces wasted product. If you're on the fence, DO IT!",
+          "reviewDate": "Reviewed in the United States on February 5, 2026",
+          "customer": "Jenna",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4IGQSZHYMV67ROXN4QT3ZD7PJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Shell Ivory",
+            "size": "0.29 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Allow enough time to apply it.",
+          "reviewText": "I like this and I don't for different reasons: Why I like it...It does seem to give a leveled surface when applied right. It's a good base for putting on the rest of the makeup (for eyes,cheeks,etc.). Why I didn't like: You really have to make sure that ALL dry flaky skin is sloughed off,or you will get patches of the makeup getting caught in dry skin,which looks bad. So there's more prep time involved. It doesn't always even out enlarged pores. sometimes it will settle in those pores and make it more exaggerated. Trying to even it out with a soft brush or sponge doesn't always work. I think the trick to applying it correctly is use the smallest amount and apply very lightly,then lightly even out with sot makeup brush. light touch. Otherwise, I still us it,because when it's done correctly, it can give a nice smooth appearance, but it's a lot of work and time. Allow enough time if you're using it for an event you're going to,since you may need more time if you have to correct the application defects.",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "A.V.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3SHWWVDR4ZNINFGI6FQFZ5Y4QQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Soft Ivory",
+            "size": "0.29 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Perfect Shade",
+          "reviewText": "This foundation was so cheap, but I needed some foundation, and I didn't want to buy one that was super expensive. But this is going to be one of my normal foundations because despite it being very cheap. Its super high quality and its exactly my shade!",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Cara",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF74XVLHDOOFX42IWOLKZNF3QMCA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Soft Beige",
+            "size": "0.29 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "enhances your skin's beauty",
+          "reviewText": "I have been using this foundation for a few weeks now and I am very impressed with the results. It has a lightweight texture that blends easily into the skin, giving it a natural and dewy finish. It does not cake up or settle into fine lines, and it lasts for several hours without fading or oxidizing. It also has a pleasant scent that is not overpowering. The shade Bronze Beige is perfect for my medium-tan skin tone with warm undertones. It matches my skin very well and does not look too orange or pink. It also has SPF 15, which is a nice bonus for sun protection. The bottle is sleek and easy to use, with a spatula applicator that helps to dispense the right amount of product. The only downside of this foundation is that it does not have full coverage. It is more of a light to medium coverage that evens out the skin tone and hides minor imperfections, but it does not cover up dark spots or blemishes completely. If you are looking for a full coverage foundation, this might not be the best option for you. However, if you are looking for a natural and dewy foundation that enhances your skin's beauty, I would highly recommend this product.",
+          "reviewDate": "Reviewed in Canada on October 14, 2023",
+          "customer": "HGUnified",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Bronze Beige",
+            "size": "0.29 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

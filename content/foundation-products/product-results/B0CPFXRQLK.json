@@ -1,0 +1,554 @@
+{
+  "requestMetadata": {
+    "id": "d2ac5117-71b9-42dd-a38b-0116487fbacf",
+    "status": "ok",
+    "html": "https://files.hasdata.com/d2ac5117-71b9-42dd-a38b-0116487fbacf.html",
+    "json": "https://files.hasdata.com/d2ac5117-71b9-42dd-a38b-0116487fbacf.json",
+    "url": "https://www.amazon.com/dp/B0CPFXRQLK"
+  },
+  "product": {
+    "asin": "B0CPFXRQLK",
+    "url": "https://www.amazon.com/dp/B0CPFXRQLK",
+    "title": "e.l.f. Hydrating Camo CC Cream, SPF 30, Color Correcting Full Coverage Foundation For A Dewy Finish, Vegan & Cruelty-Free, Light 205 N",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "HYDRATING CAMO CC CREAM: Hydrated, dewy skin, here you Camo! The Hydrating Camo CC Cream is a full coverage color correcting foundation formulated with SPF 30 to protect against sun damage and hydrating, nourishing ingredients.",
+      "MULTITASKING DREAM CREAM: This everyday essential gives skin an extra dose of moisture for a glowy finish while delivering the full coverage and smooth complexion you crave. Ideal for dry, oily, and combination skin.",
+      "MOISTURIZING FORMULA: This CC Cream is infused with vitamin B5, plus tremella mushroom, hyaluronic acid, and UVA protection SPF 30 to help protect and plump your skin.",
+      "FIND YOUR MATCH: This shade is ideal for a light complexion with neutral undertones.",
+      "VEGAN & CRUELTY-FREE: 100% vegan, e.l.f. is double-certified cruelty-free by Leaping Bunny & PETA."
+    ],
+    "description": "Hydrated, dewy skin, here you Camo!What it is: e.l.f. Cosmetics\u2019 long-lasting, color-correcting Hydrating Camo CC Cream gives skin an extra dose of moisture for a glowy finish while delivering the full coverage and smooth complexion you crave. The multi-tasking formula is infused with vitamin B5, plus tremella mushroom, hyaluronic acid, and UVA protection SPF 30 to help protect skin from the sun.Why you'll love it:Full coverage, hydrating CC cream that leaves skin with a dewy finishHelps plump skin\u2019s appearance Formulated to provide UVA protection SPF 30 Sun ProtectionKey Ingredient:Vitamin B5 \u2013 helps to moisturize and nourish skinGreat for: Dry, oily and combination skinIngredients may change or vary from time to time. Please refer to the packaging of the product received for the list of ingredients in your particular productProud to be 100% Vegan, Cruelty-Free and Leaping Bunny Certified. Because kindness is chic.",
+    "boughtInPastMonth": "700+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "CC Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B0CPFWXT3Y",
+        "title": "Deep 510 C 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFWXT3Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EFW3ECohL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFW36JL",
+        "title": "Medium 370 N 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFW36JL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WvkfZT7YL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFXRQLK",
+        "title": "Light 205 N 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFXRQLK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+Xrpi0eGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFX8B7B",
+        "title": "Light 210 N 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFX8B7B",
+        "imageUrl": "https://m.media-amazon.com/images/I/61KYJXgiBEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFXJMVV",
+        "title": "Medium 330 W 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFXJMVV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IvpU2jaAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFX1ZMN",
+        "title": "Tan 400 W 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFX1ZMN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Oj6DbIFnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFW9MRT",
+        "title": "Rich 650 C 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFW9MRT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61le3YDznUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFXYL86",
+        "title": "Fair 140 W 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFXYL86",
+        "imageUrl": "https://m.media-amazon.com/images/I/61w6S9dlzcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKSDTFG",
+        "title": "Rich 610 N 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKSDTFG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-lYXLbKIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFWHRY4",
+        "title": "Deep 560 C 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFWHRY4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-tr0Fvv8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFXH35F",
+        "title": "Fair 120 N 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFXH35F",
+        "imageUrl": "https://m.media-amazon.com/images/I/619jvBhy0PL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFX8B8B",
+        "title": "Light 240 W 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFX8B8B",
+        "imageUrl": "https://m.media-amazon.com/images/I/618UXO5tS4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFX4SLZ",
+        "title": "Tan 425 N 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFX4SLZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xo+hYMhaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFXWQGV",
+        "title": "Rich 660 N 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFXWQGV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ISDeDI2LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFXDGTY",
+        "title": "Tan 450 N 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFXDGTY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gfaFl7Y4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFXS38X",
+        "title": "Medium 310 C 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFXS38X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61p4ZWi-lbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFWKZJK",
+        "title": "Fair 125 C 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFWKZJK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61p5OUNYk-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFWKZJB",
+        "title": "Light 280 N 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFWKZJB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vPWYZ9c+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFVZJZY",
+        "title": "Fair 150 C 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFVZJZY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HpIbXPROL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFWD71D",
+        "title": "Rich 610 N 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFWD71D",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GsyUnCEQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFWWYX9",
+        "title": "Medium 350 W 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFWWYX9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OkmrzSWjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GDSTKRKN",
+        "title": "Deep 560 C 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0GDSTKRKN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dgx042YEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFWG91D",
+        "title": "Rich 640 W 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFWG91D",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iSzn+qdiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFXDTG9",
+        "title": "Rich 620 W 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFXDTG9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QoCaQSohL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFY4DPV",
+        "title": "Light 250 W 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFY4DPV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WCKJNTs9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CPFW4B7W",
+        "title": "Deep 530 W 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CPFW4B7W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Uby7-2oUL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 16,
+      "beforePrice": 16,
+      "discount": "-5%",
+      "priceFrom": 16,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/61+Xrpi0eGL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61+Xrpi0eGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61swR3RNLHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81UOq42IeQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811nbq3XIqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pfMeGqycL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/717TFVDniHL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22d76585-ef73-48ba-934d-dc5278b175d4.__CR0,0,2021,625_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/156b2aa4-ab93-485b-bfb0-7aa88e60a0df.__CR0,0,2021,1250_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9163d65-9d20-4a4d-8d6f-0ceacee58f9d.__CR0,0,2021,1250_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03651dc3-5cd8-492e-956e-bf58ef94cfc7.__CR0,0,313,625_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c246fcd9-2594-4054-94b9-406b6dc6a94a.__CR0,0,313,625_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6f5d1920-8680-4cbd-a659-069106097a78.__CR0,0,313,625_PT0_SX150_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39287a2c-98c0-4709-9093-312e4e2beadb.__CR0,0,970,300_PT0_SX970_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/844f2956-57fd-4720-8774-5f90bf3c9c4f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4dc7641c-e59b-4f54-992b-7fa51b0cde7e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e3217492-3a91-4007-b236-2e52dbecb518.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Light 205 N"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Makeup Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "e.l.f."
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Cruelty Free, Moisturizing, Vegan"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "China"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "UPC",
+        "value": "609332847750"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "e.l.f. Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#9,812 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #10 in CC Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CPFXRQLK"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "30 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Vegan, Cruelty-Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1027,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "68%",
+        "fourStars": "12%",
+        "threeStars": "9%",
+        "twoStars": "4%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find the CC cream provides good coverage and value for money, with one noting it goes a long way with a small amount. The color match receives mixed feedback - while some say it matches their skin perfectly, others report it being way off. Moreover, the product works well for mature skin but not for acne-prone skin, and while it keeps skin from looking dry, some find it too moisturizing. Additionally, the application experience is mixed, with some saying it applies easily while others report it being sticky.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 47,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 36,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 22,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 38,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin type compatibility",
+          "count": 33,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 30,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 29,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 26,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/51WN+LvE8hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61GB41cjvIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610LB4hI0oL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610M3rBcxtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61SK1VCbh0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71et5xGJTEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61g86eNZmeL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61L7Zd-SMSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81jLEtmL8FL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-E0WaYxuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61hMdMiHViL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61RgJ-K-UvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great Coverage and Hydration with SPF Bonus",
+          "reviewText": "I was pleasantly surprised by how much I like this CC cream. The coverage is excellent\u2014it evens out my skin tone without feeling heavy or cakey. It also has a hydrating finish that keeps my skin from looking dry, which is a big plus since many foundations can accentuate dry patches. I also love that it has SPF 30 built in, so I get sun protection without having to layer extra products. It wears well throughout the day and still looks natural. For the price point, this really competes with higher-end CC creams, and I\u2019ll definitely be repurchasing.",
+          "reviewDate": "Reviewed in the United States on September 20, 2025",
+          "customer": "Everyday Essentials Reviewer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHO3ZDEXMALUAUQBA7ENA2PD5U3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light 280 N",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Top Quality and Affordable!",
+          "reviewText": "This is a great foundation. This is the first foundation I have found where it doesn\u2019t oxidize on me and turn orangish. I have a cool complexion so when a foundation oxidizes it looks wrong for my skin tone. The foundation is buildable and went over with ease. Lasted all day after setting and sat shell on my combo skin. My skin looked glowing. I recommend 10/10 for me and I\u2019ve tried foundations such as HAUS labs, ABH, Urban Decay, tarte, Maybelline, etc. All of them either never matched my skin tone exactly and would oxidize to an orangish shade. This is such an affordable and good foundation. Elf has been nailing it lately.",
+          "reviewDate": "Reviewed in the United States on June 16, 2025",
+          "customer": "TL1633",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRGSEZCAEU5ZQ6KDRO44JMVDX6Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light 205 N",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "17 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice",
+          "reviewText": "Works good, very full coverage.",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Bria",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGGTQ3XPIB4CLECRZOHK5WEKZD4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light 240 W",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great product, but it has a smell...",
+          "reviewText": "It smells like feet. I have tried multiple bottles - and it has a feet smell. I finally realized it is the MUSHROOM extract in the formulation that gives it that weird smell. Problem is the smell doesn't go away with wear time. The product itself - top notch. It has medium to full coverage, color range is limited, but it worked well for my skin. I wear this formula on days when I am going out for errands and just need makeup coverage - not flawlessness. But it this formula can produce a semi-flawless look if you take your time. Better product than the ITCosmetics one - ITCosmetics dries and cracks on mature skin, where as this formula keeps a dewey fresh feel without moving the product all over your face. If you can handle the smell, its a good foundation.",
+          "reviewDate": "Reviewed in the United States on May 11, 2025",
+          "customer": "SourceDesigns",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFXPNWSLYLXRRP3DSILLMUR2PDRQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Light 240 W",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "Awesome product",
+          "reviewText": "It was a perfect match. Loved it to death. Can\u2019t wait to get another one.",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "Michele",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG5BWXVWXSZKKOVLDY7RCTZMUGZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light 210 N",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Not for mature skin",
+          "reviewText": "It\u2019s a great formula. It is absolutely full coverage. It is a little bit thick, but I will say I can wear the whole day without feeling like my skin is suffocating. My only issue with it it is definitely not for dry skin or in my case someone in their late 30s with fine lines. The formula just does not have enough hydration and leaves a sandpaper texture look by the end of the day. It definitely settles into fine lines. I hydrate my skin very well. I have a whole moisturizing skin care routine. I prime my skin so for this to show that many imperfections tells me that the formula is just not made for mature skin",
+          "reviewDate": "Reviewed in the United States on December 9, 2025",
+          "customer": "Laurin W.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AESSDHCGAVKCXROBEMYWBJQ42ZKA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Light 240 W",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Don't give up, it gets better.",
+          "reviewText": "Funny story, when I first got this I threw it across the room because I couldn't get it to work. But, then I picked it back up and realized that you have to pump it a LOT to get the first bit out, don't give up! I have large pores so I definitely recommend putting some kind of pore less primer on before using this. And tap to apply both instead of smearing it on. I used Google Gemini to find my perfect color match and I just want to say that I highly recommend. I think I used too much my first time. I think one squirt would have been plenty.",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Kimberli L.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFAXTHC5YOPR7VFG667NR7L6AHFA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light 205 N",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Sticky streaky waste of money",
+          "reviewText": "I really wanted to like this but it's awful. Don't waste your money. It balls up a little and stays streaky looking. It never dries completely and stays sticky even after several hours. It came off on my fingers when I touched my face hours later. The \"dewy\" look just makes your face appear wet and it's not cute. I applied it with the recommended brush after my moisturizer and it left obvious brush strokes, too. I tried to blend using a sponge to no avail. By the end of the day my face had absorbed a lot of the color but you could see a little dot of pigment remaining in each pore, making my pores more obvious. My complexion looked better before applying this makeup.",
+          "reviewDate": "Reviewed in the United States on October 22, 2025",
+          "customer": "Mo Mo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5EKUW7IWLBXTGWO6QA4VJOJBAQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Fair 120 N",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Doesn't work as woodland cam",
+          "reviewText": "Won't camouflage you in the woods, but covers a spotty teenage face.",
+          "reviewDate": "Reviewed in the United Kingdom on February 2, 2026",
+          "customer": "Shaun",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light 280 N",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great for Everyday Use, But Not Full Coverage",
+          "reviewText": "I\u2019ve been using the e.l.f. Hydrating Camo CC Cream for a few days now and wanted to give an honest review. If you\u2019re looking for a true full-coverage foundation, this isn\u2019t it but for me, that\u2019s actually a positive. I use it as a tinted moisturiser. I have combination-oily skin with visible redness across my cheeks, and I bought the shade Fair 120W. I use this on its own as a colour-correcting moisturiser as part of my quick 15-minute school-run skincare and makeup routine, and it works really well for that. Especially for anyone with kids who lives a hectic lifestyle but still wants to focus on themselves and feel good in minimal effort The coverage is light to medium and evens out my skin tone nicely without feeling heavy. It\u2019s definitely more of an \u201ceveryday natural skin\u201d product rather than something you\u2019d use for a full glam look. Overall, I\u2019m happy with how it softens the redness without looking mask-like. In my opinion, it applies best with fingers rather than a brush or sponge. A little goes a long way, if you use too much or apply a thick layer, it can start to look cakey. I\u2019ve found the trick is to use a thin layer and then build up where you want a bit more coverage. It lasts all day on me without melting off, which is a big bonus. It does cling slightly to dry or rough patches, so I\u2019d definitely recommend moisturising beforehand for a smoother finish. Great for quick, natural, everyday makeup\u2026 just don\u2019t expect a full-coverage foundation. Considering there are some very expensive ones on the market this is a great budget free alternative.",
+          "reviewDate": "Reviewed in the United Kingdom on January 12, 2026",
+          "customer": "Amy Burton",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Fair 120 N",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great",
+          "reviewText": "....Good foundation for when I want a bit more coverage \ud83d\ude01 Matches my skin well and covers everything. Can be a bit hard to spread but otherwise no problems",
+          "reviewDate": "Reviewed in the United Kingdom on May 23, 2025",
+          "customer": "Phelpsee",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Fair 125 C",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Creases through the day.",
+          "reviewText": "Even with powder and prime/setting spray it gets stuck in facial creases.",
+          "reviewDate": "Reviewed in the United Kingdom on June 13, 2025",
+          "customer": "Lois",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Fair 150 C",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

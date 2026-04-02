@@ -1,0 +1,384 @@
+{
+  "requestMetadata": {
+    "id": "255f5745-86de-4ae4-964d-a67eced4230a",
+    "status": "ok",
+    "html": "https://files.hasdata.com/255f5745-86de-4ae4-964d-a67eced4230a.html",
+    "json": "https://files.hasdata.com/255f5745-86de-4ae4-964d-a67eced4230a.json",
+    "url": "https://www.amazon.com/dp/B0CBPVGGHL"
+  },
+  "product": {
+    "asin": "B0CBPVGGHL",
+    "url": "https://www.amazon.com/dp/B0CBPVGGHL",
+    "title": "UCANBE Goth White Cream to Powder Foundation Makeup, Professional Clown White Face Body Paint with Matte Finish for Halloween, SFX Makeup, Cosplay, Costume, Stage, Mime & Film(0.52oz)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "White"
+    },
+    "featureBullets": [
+      "- UCANBE Classic White Cream to Powder Face & Body Paint Foundation has a smoothly and velvety consistency that glides on like cream yet settles down to a matte finish. White Face Makeup Paint is safe and non-toxic for people of all ages, seniors and youngsters, adults and kids. Suitable for both face and body painting starters and enthusiasts on different occasions such as stage, cosplay conferences, parties and more.",
+      "- Our white face and body paint, with silky foundation-like texture, is easy to use and will give a full coverage. Easy to apply and blend for various fantastic makeup looks, such as classic clown or Joker makeup, pale vampire Makeup, ghost makeup, pop art makeup, skull or skeleton costume makeup.White makeup to use alone or mix with other colors for all Halloween makeup.",
+      "- UCANBE white face painting foundation has intense white color and delivers fully opaque and even coverage. White greasepaint has long lasting staying power which are suitable for eyes, face and body art painting.",
+      "- Easy use and easy cleaning off. For application, you can apply with paint brushes(including flat brushes, detail line brushes), foam applicators or your fingers to create the desired graphs or images. And at the end of the day, removes the white paints easily with some makeup remover, cleansing cream or facial cleanser, then use soap & water to finish the cleaning process.",
+      "- All UCANBE cream foundation paints are manufactured using cosmetic-grade quality ingredients, non-toxic, fragrance-free and paraben-free, suitable for delicate and sensitive skin, kids and adults. It won't itch or irritate your skin.\u3010NOTICE\u3011As with all cosmetics, we advise that a small skin patch test is done before face painting as everyone's skin is different."
+    ],
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0CXJ3TT2T",
+        "title": "Jungle Green",
+        "url": "https://www.amazon.com/dp/B0CXJ3TT2T",
+        "imageUrl": "https://m.media-amazon.com/images/I/71wswLSWbsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CHRR4QFW",
+        "title": "Blue",
+        "url": "https://www.amazon.com/dp/B0CHRR4QFW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71gKIAX8e9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CHYC91TQ",
+        "title": "Black",
+        "url": "https://www.amazon.com/dp/B0CHYC91TQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KLkXTmGiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CHRT6MGN",
+        "title": "Orange",
+        "url": "https://www.amazon.com/dp/B0CHRT6MGN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Zfl37pQJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CSN85GZF",
+        "title": "Black, White",
+        "url": "https://www.amazon.com/dp/B0CSN85GZF",
+        "imageUrl": "https://m.media-amazon.com/images/I/717jh1vghQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CXHTXX3X",
+        "title": "Light Blue",
+        "url": "https://www.amazon.com/dp/B0CXHTXX3X",
+        "imageUrl": "https://m.media-amazon.com/images/I/71DKR+sNStL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CHYBRKBR",
+        "title": "Red",
+        "url": "https://www.amazon.com/dp/B0CHYBRKBR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71qwNEz+wqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CXHQLJS2",
+        "title": "Pink",
+        "url": "https://www.amazon.com/dp/B0CXHQLJS2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71V4OUo4IxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CBPVGGHL",
+        "title": "White",
+        "url": "https://www.amazon.com/dp/B0CBPVGGHL",
+        "imageUrl": "https://m.media-amazon.com/images/I/71yM39EMj6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CXHTFW2D",
+        "title": "Purple",
+        "url": "https://www.amazon.com/dp/B0CXHTFW2D",
+        "imageUrl": "https://m.media-amazon.com/images/I/71vK+nJVLhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CXHPNXW8",
+        "title": "Yellow",
+        "url": "https://www.amazon.com/dp/B0CXHPNXW8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71f02PHUCWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CHYCBSY6",
+        "title": "Translucent",
+        "url": "https://www.amazon.com/dp/B0CHYCBSY6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AZ0a31HzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CHRW4J2D",
+        "title": "Green",
+        "url": "https://www.amazon.com/dp/B0CHRW4J2D",
+        "imageUrl": "https://m.media-amazon.com/images/I/71blRFCIFYL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.99
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 3 hrs 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Fantaise Beauty",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3Q8104QVV9DUB",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/71yM39EMj6L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71yM39EMj6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71hEke2cJRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Nqk8NtcpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xy4MSQSGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FwWQgNIuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71QN5F3+oML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81TZMYdjO6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iv6OPUVjL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d58cad1-f403-42b8-ab3f-1e207ee6e762.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c718bf19-3316-42d6-aebb-f5b1aca3e7af.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3b5d76a-48a6-405f-8d19-7b92301fe6f2.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a58de135-d881-4fd6-9778-513e744a5599.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f7ef45b-5d29-497b-88e0-c3c809d08402.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6067b423-6927-4c66-bf31-cbe77bdda9f3.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b6eb16b9-68a8-4ca1-8529-2706eba8e550.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b2a3b7f0-4265-46ee-be86-5e9214d8354d.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a3be18c1-1710-4506-b475-ca5fe91f8b86.__CR0,0,300,600_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cd7a4696-a0bf-4f57-9154-a462dd8a240e.__CR0,0,300,600_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7887b589-5769-4cb6-93b1-7fb4d9637c8f.__CR0,0,300,600_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c0429f6a-ac97-4a21-88f1-c7419a0434df.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e371b6b-8128-4e27-9b94-b5731aec4bbc.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fa3ebc29-5f0c-4b6c-9480-b8f53140d209.__CR0,0,600,1200_PT0_SX150_V1___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "UCANBE"
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Container Type",
+        "value": "Palette"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Palette"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Is the Item Heat Sensitive?",
+        "value": "No"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "UCANBE"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "STUB106_03"
+      },
+      {
+        "key": "Model Number",
+        "value": "STUB106_03"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#22,804 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #239 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CBPVGGHL"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.52 Ounces"
+      },
+      {
+        "key": "Water Resistance Level",
+        "value": "Water Resistant"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1617,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "73%",
+        "fourStars": "13%",
+        "threeStars": "7%",
+        "twoStars": "3%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find the body paint easy to apply, with one mentioning it goes on smoothly with a sponge. The product receives positive feedback for its quality, coverage, and pigment, with one customer noting it covers tattoos well and another mentioning it's suitable for darker skin tones. Moreover, they appreciate its longevity, smooth feel, and effectiveness for Halloween costumes. However, several customers report the paint smudges easily.",
+      "aspects": [
+        {
+          "aspect": "Application",
+          "count": 75,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 49,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 44,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pigment",
+          "count": 33,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 28,
+          "status": "positive"
+        },
+        {
+          "aspect": "Consistency",
+          "count": 24,
+          "status": "positive"
+        },
+        {
+          "aspect": "Functionality",
+          "count": 23,
+          "status": "positive"
+        },
+        {
+          "aspect": "Staining",
+          "count": 28,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71IElj2InmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/616+mPpRYlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71QKEolHMOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71V15bwTzOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BDBr+zMpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71asylUxQPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61GqI5ygCxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61JyfK3GBkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71HcKrsrvfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71q+APl3wFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71lu-hN7hIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51UpoBBWJxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great Halloween makeup",
+          "reviewText": "This Halloween makeup was easy to apply and covered my skin well. It was easy removal too. Thanks",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Michelle Moscicki",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGUKEP6R3IEFPEIHJ5RAUBUBEQ6A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "White"
+          }
+        },
+        {
+          "reviewTitle": "Very Greasy!",
+          "reviewText": "For Goths I wouldn't recommend it for daily or regular wear. It is very pigmented and perfect for elaborate face paints and a solid white base.",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Piper A.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG7K73RGJBHCEQZOHSKIVEUR7NMA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Black, White"
+          }
+        },
+        {
+          "reviewTitle": "quality",
+          "reviewText": "I am a cosplayer and i swear by this stuff. When you apply in thin layers and you pair it with a setting powder and a setting spray there is very little cracking or flaking. Lasts all con and doesnt make me break out too bad. The compact case makes it easy to take along with you for touch ups and keeps it sealed for later use. Looks cute too.",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "sabrina pennell",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGVJVQ26GRCOWKVBOOILIMF353RA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Black, White"
+          }
+        },
+        {
+          "reviewTitle": "Halloween makeup",
+          "reviewText": "Good quality, easily can spread. Easy to wash off. Blends well with powders. Easy to get on clothes, or other things IF you forget you have make up on.",
+          "reviewDate": "Reviewed in the United States on November 7, 2025",
+          "customer": "Dejah McCloud",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEAI573OCIVELOPJZKBFVRGDKUBQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Green"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent Quality",
+          "reviewText": "This white foundation works great! It goes on opaque. Perfect for costumes and cosplay.",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Wolf Reviews",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG3KZN5N4QT4LH4NA7EJGPRWTFZQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "White"
+          }
+        },
+        {
+          "reviewTitle": "great for gothic looks",
+          "reviewText": "I use this every time I do my gothic makeup I do have a few recommendations though. This product is very soft which is a blessing and a curse, with just your fingers you can dip into the pan and apply just patting with your fingers, for the best results a larger flat brush and/or a beauty blender helps with a more even application, if you have oily skin like me or are planning to wear this makeup out somewhere I would recommend a primer before application. You will definitely need to use a powder to bake it after applied if you don't want it to smudge/wipe off and transfer everywhere. It has a really good opacity and is easy to build up if you haven't powdered yet (building it up with fingers can be difficult but the brush and/or beauty blender seems to do it just fine)",
+          "reviewDate": "Reviewed in the United States on December 7, 2025",
+          "customer": "Angel",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFPTUVXHPXXJXSSNZZHB3GJZUXWA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "White"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing especially for the price",
+          "reviewText": "Set this with some matte translucent powder and you are good to go. Comes with a lot of product. Doesn\u2019t get very shiny after wearing for hours. does come off with constant rubbing and oily foods.",
+          "reviewDate": "Reviewed in the United States on January 19, 2026",
+          "customer": "Matt",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF356FFBUJZ7Q3KKOJOIIKFFBRZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Black"
+          }
+        },
+        {
+          "reviewTitle": "Doesn't set, moves around",
+          "reviewText": "Doesn't set, moves around after application. It needs some sort of setting powder on top. Just as wet towards end of the evening as first applied. That said, pigment is nice.",
+          "reviewDate": "Reviewed in the United States on October 30, 2025",
+          "customer": "SaraCS",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGSHLDH5BFAJ5XETMNGRAWYYBTDQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Orange"
+          }
+        }
+      ]
+    }
+  }
+}

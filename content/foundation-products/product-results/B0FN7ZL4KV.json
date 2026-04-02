@@ -1,0 +1,104 @@
+{
+  "requestMetadata": {
+    "id": "3c641fab-ad1c-4578-863a-61a5762d48e0",
+    "status": "ok",
+    "html": "https://files.hasdata.com/3c641fab-ad1c-4578-863a-61a5762d48e0.html",
+    "json": "https://files.hasdata.com/3c641fab-ad1c-4578-863a-61a5762d48e0.json",
+    "url": "https://www.amazon.com/dp/B0FN7ZL4KV"
+  },
+  "product": {
+    "asin": "B0FN7ZL4KV",
+    "url": "https://www.amazon.com/dp/B0FN7ZL4KV",
+    "title": "Foundation Stick,2 in 1 Dual-Ended Long-Lasting & Waterproof Concealer Korean Foundation Contour Sticks,Contouring Foundation with Brush,Full Coverage Matte Finish for Face Makeup(02NATURAL)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "02 NATURAL"
+    },
+    "featureBullets": [
+      "\u3010Full Coverage Foundation Stick\u3011Concealer Stick offers comprehensive coverage to conceal imperfections and blemishes skin tone, ensuring a flawlessly even complexion and a smooth, radiant finish, keeping your skin looking fresh and radiant all day long",
+      "\u3010Lightweight Concealer Stick\u3011Infused this Korean foundation stick delivers full coverage while keeping your skin hydrated, waterproof & sweat-proof, skin tint stick giving you an immaculate and flawless appearance",
+      "\u3010Portable Design\u3011Built-in Foundation Brush,full coverage foundation stick with brush comes with a soft foundation brush, with a curved design to fit the shape of your face. Easy to apply, also suitable for beginners",
+      "\u3010Multi-Purpose Stick Foundation\u3011Matte concealing stick is highly spreadable for multiple coverage. Covebalm foundation stick could be used as a base foundation or as a concealer, to contour the nose, forehead and cheekbones",
+      "\u3010Suitable for All Skin Tones\u3011 Available in a variety of shades, this korean makeup color changing full-coverage foundation stick is perfect for all skin tones, giving you a flawless, look from day to night, whether you have dark, fair, or yellow undertones"
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FN7ZNWGN",
+        "title": "03LIGHT",
+        "url": "https://www.amazon.com/dp/B0FN7ZNWGN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61il2Hu336L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FN7Z47MY",
+        "title": "04WHEAT",
+        "url": "https://www.amazon.com/dp/B0FN7Z47MY",
+        "imageUrl": "https://m.media-amazon.com/images/I/610ZJ1q-UgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FN7ZL4KV",
+        "title": "02 NATURAL",
+        "url": "https://www.amazon.com/dp/B0FN7ZL4KV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eGSezrBJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FN82FYX5",
+        "title": "01IVORY",
+        "url": "https://www.amazon.com/dp/B0FN82FYX5",
+        "imageUrl": "https://m.media-amazon.com/images/I/611NDnSuIeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FN8234DV",
+        "title": "05DEEP WHEAT",
+        "url": "https://www.amazon.com/dp/B0FN8234DV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WAmCk0HIL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 6.99,
+      "beforePrice": 6.99
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "30-day refund / replacement",
+    "seller": "SuperThinker-US",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1M5GIL957AK1F",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61eGSezrBJL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61eGSezrBJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BMShYWIOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71zdBMKQZ1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jwtpSRD6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71G-v+merjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ofj-QE0vL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71u3twUT7TL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jPoqvsyQL._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 292,
+      "rating": 4.2
+    }
+  }
+}

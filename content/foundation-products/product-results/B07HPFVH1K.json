@@ -1,0 +1,91 @@
+{
+  "requestMetadata": {
+    "id": "3301e5d9-101b-4b23-8ee7-175cec2f18d2",
+    "status": "ok",
+    "html": "https://files.hasdata.com/3301e5d9-101b-4b23-8ee7-175cec2f18d2.html",
+    "json": "https://files.hasdata.com/3301e5d9-101b-4b23-8ee7-175cec2f18d2.json",
+    "url": "https://www.amazon.com/dp/B07HPFVH1K"
+  },
+  "product": {
+    "asin": "B07HPFVH1K",
+    "url": "https://www.amazon.com/dp/B07HPFVH1K",
+    "title": "L.A. Girl PRO.color Foundation Mixing Pigment, Blue GLM714",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Blue"
+    },
+    "featureBullets": [
+      "Long-Lasting Wear: Provides all-day coverage that stays put without fading or smudging.",
+      "Smooth Finish: Delivers a flawless, matte or illuminating finish, depending on the product, for a natural look.",
+      "Buildable Coverage: Offers buildable coverage, allowing you to achieve anything from a natural to a full-coverage look.",
+      "Skin-Friendly Ingredients: Formulated with skin-friendly ingredients to ensure a comfortable wear without clogging pores.",
+      "Wide Shade Range: Available in a variety of shades to match different skin tones and undertones."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B07HPDQ7PX",
+        "title": "White",
+        "url": "https://www.amazon.com/dp/B07HPDQ7PX",
+        "imageUrl": "https://m.media-amazon.com/images/I/51fQmapFmOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HPFVH1K",
+        "title": "Blue",
+        "url": "https://www.amazon.com/dp/B07HPFVH1K",
+        "imageUrl": "https://m.media-amazon.com/images/I/51LJZZemOkL._SL1080_.jpg"
+      },
+      {
+        "asin": "B07HPF4TNB",
+        "title": "Yellow",
+        "url": "https://www.amazon.com/dp/B07HPF4TNB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zdnTKQk6L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.46,
+      "beforePrice": 10,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51LJZZemOkL._SL1080_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51LJZZemOkL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61gVWWuq7PL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61-VRskBJwL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61nF9VrkVEL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61oBhtmIYlL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61isj9wyk-L._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71Vazkdx84L._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 5676,
+      "rating": 4.5
+    }
+  }
+}

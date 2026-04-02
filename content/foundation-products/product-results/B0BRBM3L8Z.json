@@ -1,0 +1,459 @@
+{
+  "requestMetadata": {
+    "id": "0d6e61cd-d5ff-4133-bcdf-25c0b007fa2c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/0d6e61cd-d5ff-4133-bcdf-25c0b007fa2c.html",
+    "json": "https://files.hasdata.com/0d6e61cd-d5ff-4133-bcdf-25c0b007fa2c.json",
+    "url": "https://www.amazon.com/dp/B0BRBM3L8Z"
+  },
+  "product": {
+    "asin": "B0BRBM3L8Z",
+    "url": "https://www.amazon.com/dp/B0BRBM3L8Z",
+    "title": "No7 HydraLuminous Skin Tint Perfector - Aqua Release Tinted Moisturizer with a Hydrating, Lightweight Formula - Sheer to Light Coverage Face Makeup - Light (1 Fl Oz)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "02 - Light",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Ultra-Lightweight & Ultra-Hydrating - HydraLuminous AquaRelease\u2122 Skin Perfector is a lightweight tinted moisturizer that provides your skin with up to 8 hours of hydration and sheer to light coverage.",
+      "Skin-Loving Ingredients - AquaRelease\u2122 Moisture Beads give your skin a surge of long-lasting hydration while ceramides create a barrier to prevent water loss and retain skin's hydration levels. Pro B5 Vitamins are an ultra-moisturizer that attract and hold water within the skin.",
+      "Available in 6 Shades - Formulated with Skin Expert\u2122 technology analyzing 1.9M skin tones for a true-skin match. This tinted moisturizer for mature skin has been specifically formulated to blend seamlessly into a range of skin tones.",
+      "How to Use - For best results, blend the skin tint foundation with your fingers to unlock the AquaRelease\u2122 moisture beads into the skin for a surge of all-day hydration.",
+      "Empowering Women Since 1935 - No7 has been creating beauty history by helping women look and feel their best for decades. With our rich health and beauty heritage, innovative skincare, and makeup backed by science, we've become the trusted brand through the generations. No7 has always offered every woman luxurious and glamorous beauty at a price they can afford."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BRBKYL64",
+        "title": "1 Fl Oz (Pack of 1) 05 - Rich",
+        "url": "https://www.amazon.com/dp/B0BRBKYL64",
+        "imageUrl": "https://m.media-amazon.com/images/I/61F6VrJ9kkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09SV88D7J",
+        "title": "1 Fl Oz (Pack of 1) 04 - Medium Rich",
+        "url": "https://www.amazon.com/dp/B09SV88D7J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HH3CvEQKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBJQ34F",
+        "title": "1 Fl Oz (Pack of 1) 01 - Fair",
+        "url": "https://www.amazon.com/dp/B0BRBJQ34F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NR7PFNEFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBLG5VM",
+        "title": "1 Fl Oz (Pack of 1) 06 - Dark",
+        "url": "https://www.amazon.com/dp/B0BRBLG5VM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Zf8ULXxDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRBM3L8Z",
+        "title": "1 Fl Oz (Pack of 1) 02 - Light",
+        "url": "https://www.amazon.com/dp/B0BRBM3L8Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Zhr9NJWXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09NQ4Y7QZ",
+        "title": "1 Fl Oz (Pack of 1) 03 - Medium",
+        "url": "https://www.amazon.com/dp/B09NQ4Y7QZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TfDov+ctL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 14.99,
+      "beforePrice": 14.99,
+      "discount": "-5%",
+      "priceFrom": 14.99,
+      "otherOfferQuantity": 4
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "FRONT ROW",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1J4W8BQO23A27",
+    "shipper": "Amazon",
+    "totalImages": 3,
+    "primaryImage": "https://m.media-amazon.com/images/I/61Zhr9NJWXL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61Zhr9NJWXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51iwAcV4rVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71B+qR1PZ7L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f62810b-fc7b-4f3e-bf96-f33a3eca8a7b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f478779b-5fe3-482e-97a3-6acc12083e1e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/98bda98b-4619-49a4-8a5e-fb0d9e685642.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38bb6fe2-eddf-47a3-b036-4f4f235b744b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7ada27d-9121-4c16-b1ee-1c2f11ef3389.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ebc2a21-0058-4d40-93a7-5008bb569608.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8ffde9f-6c63-4351-919d-660d730ce6e6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bddb026-725a-4d55-9374-73bdf2e9965c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d700e70e-010c-409b-b558-c1855d797ec8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d102630-f330-4725-a887-cbb6fc7eb5a2.__CR259,167,1481,1667_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbf3a8da-b75a-40d3-b9d3-cd58a102a224.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/604f651c-8ac8-44f9-aafc-d97e5139910c.__CR259,167,1481,1667_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3fe633c1-15b9-4aab-b4c0-7383337c0fc4.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efd9c9e3-a195-46db-bad3-9364b7d09991.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/63e3bab6-e1f8-4776-928d-326e5e60ac53.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12bffb13-c5f7-4604-b7c7-79b8e70b82f1.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b50438cd-f746-477c-a6ce-97e63a1c6d92.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f6d4ec15-67ff-4ef0-b07a-60521e5f3e94.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0a1738e4-e376-45cb-a7ad-a6d4d6f50ba8.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "02 - Light"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal, Sensitive, mature"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Concealer, Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "No7"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Very Fair"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "natural"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Model Number",
+        "value": "88-37-759"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "88-37-759"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "The Boots Company PLC"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#9,801 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #108 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BRBM3L8Z"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Dermatologist Tested"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural, Sheer"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.04 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.98 x 1.54 x 4.92 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.00 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Fragrance Free, Silicone Free, Gluten Free, Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1672,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "16%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this tinted moisturizer provides good coverage for mature skin and matches well with fair and freckled complexions. The product is lightweight, smooth to apply, and customers appreciate its hydrating properties that leave skin soft. They like its smooth texture and non-greasy feel, with one customer noting it works well for dry skin.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 186,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 109,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 101,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 98,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 97,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 77,
+          "status": "positive"
+        },
+        {
+          "aspect": "Tinted moisturizer",
+          "count": 73,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 71,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/51pzpeQqsbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71xFSZ3M28L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61TrUknjE1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61JufoQnAfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61PoY6XS4wL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Vd6DPVGOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BfNzVEjvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61kiLIVeXjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/617QPeeHppL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61yprSs7u+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61UefSCbB-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61rk3zOd3TL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Good light coverage for mature skin",
+          "reviewText": "Very nice light coverage for mature skin. Does not accentuate my wrinkles. Natural looking and somewhat hydrating. it does not have a strong scent and does not irritate my sensitive skin. It appears to be good quality and I am buying this now for the second time.",
+          "reviewDate": "Reviewed in the United States on February 17, 2026",
+          "customer": "Anonymous",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFLILFW4TL43RH4J622CLSY32FCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "03 - Medium"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent, lightweight yet covers well",
+          "reviewText": "I am a senior adult woman and a lot of makeup settles into my fine lines and wrinkles and it looks terrible. It's very aging. This skin tint perfecter is very light and more like a tinted moisturizer. I could no longer find it in the local store, so I was elated to find it again. I love this product so much I wore it to my class reunion. Another reunion, our 50th is next summer. If I can find the product then, I will wear it again. It's that good.",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "Moonbeambaby",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGLOS2ZUMZ6TWS5XE6EISVX23MEA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Light"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Hydrating skin tint!",
+          "reviewText": "I really like this skin tint. It\u2019s hydrating, has light coverage with a dewy finish, and looks very natural on the skin. The texture out of the tube is creamy, then thins out when you apply to the skin. It blends easily, and lasts well with minimal fading throughout my normal work day. I have enjoyed almost every foundation product I\u2019ve tried from No 7 brand, and this one is great for everyday wear.",
+          "reviewDate": "Reviewed in the United States on October 21, 2025",
+          "customer": "S Pross",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4OTLYOKJ634VVQMJBUOBNHAIVA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "01 - Fair"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "My experience as a woman turning 75 in two months",
+          "reviewText": "I am lucky in that genetically and with a few inexpensive products I don't have a lot of wrinkles on my face. HOWEVER while I'm not splotchy, I don't have as even a tone to my skin and I wanted something light to just make it look, well, BETTER. At my age, I find things like putty, spackle (still can't believe they call some beauty products this), primer, don't really seem to help. I just wanted something to smooth out my skin a bit. I have tried foundations supposedly MEANT for MATURE skin. I found most of them oxidize (I'm very pale), so when I remove them, the cloth is ORANGE. I looked at reviews of at least a dozen BB creams, CC creams, and then found this tinted moisturizer. EUREKA! FOR ME this works GREAT. PROS: Coverage - LIGHT, but I can layer a bit by gently rubbing in a first coat, and just blotting on second coat. STILL really light but a bit more coverage. LOOK - It looks like my skin, but just better. AND it doesn't oxidize meaning when I remove it, same color as when I put it on. BLENDS - easy to blend. I often put first coat on with fingers, second coat I blot on with little sponge and takes minutes for it to dry. COLOR - After years, I found something that is the color of my skin and is so natural looking. TEXTURE - LIGHT, not like slathering on a full foundation. PRICE - Not rich, do not spend a fortune on face products. THIS is well worth it. I don't wear it every day if I'm just around the house, but when I go out. ONE CAVEAT - CAREFUL squeezing it. Quite a bit comes out at once. BOTTOMLINE: THRILLED to have found this at almost 75! It was the ONE thing I was missing in my minimal face makeup routine!",
+          "reviewDate": "Reviewed in the United States on November 27, 2025",
+          "customer": "pleinelune",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQITYPQMHYKRIGZBQFPDKGTAJGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "01 - Fair"
+          },
+          "helpfulVotes": "52 people found this helpful"
+        },
+        {
+          "reviewTitle": "Very Light Coverage",
+          "reviewText": "I love this tint covers very lite. Last all day at office job. Feels like I don\u2019t have on anything and that\u2019s the most important thing. No oily or dirty feeling on skin. Does come off on clothing. Covers enough flaws on my very flawed 63 year old face. If I want more for a special occasion I switch to makeup. Otherwise this is perfect for everyday.",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Leslie Blackburn",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGYXLXVHLHQYSSLUCGZY5JI23K7A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Light"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Need more coverage",
+          "reviewText": "This feels good, the color is accurate but need more coverage. More like a moisturizer vs the tint/coverage once on.",
+          "reviewDate": "Reviewed in the United States on February 25, 2026",
+          "customer": "Paige",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEOXMAQNITVVZ5SODSUD6I6IB7DQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Skip the makeup! Tinted moisturizer!!",
+          "reviewText": "Tinted moisturizer for all us gals who don\u2019t care for heavy makeup. Does a great job of minimal coverage. I apply with a brush and have no lines of demarcation",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Donna Lambert",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5LMDPYQ7DXPUKULOBUV77MBT3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "03 - Medium"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great product.",
+          "reviewText": "Great cover. Light. Easy application",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Neenee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFIBCURWLRMRXYTNIRNNGWDMKJQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Summer",
+          "reviewText": "Great for summer, light cover",
+          "reviewDate": "Reviewed in the United Kingdom on March 28, 2025",
+          "customer": "Beccy",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "03 - Medium"
+          }
+        },
+        {
+          "reviewTitle": "Natural coverage",
+          "reviewText": "Slides on easily and leaves a lovely natural shine on your skin.",
+          "reviewDate": "Reviewed in the United Kingdom on February 16, 2025",
+          "customer": "Janey T",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "04 - Medium Rich"
+          }
+        },
+        {
+          "reviewTitle": "Love this product",
+          "reviewText": "Best light coverage foundation suitable for my very fair skin. Non comedonic.",
+          "reviewDate": "Reviewed in the United Kingdom on February 9, 2025",
+          "customer": "kvepsidra",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Light"
+          }
+        },
+        {
+          "reviewTitle": "Lovely",
+          "reviewText": "Best make up ,,, typical you can\u2019t get it anymore \ud83d\ude33",
+          "reviewDate": "Reviewed in the United Kingdom on February 8, 2025",
+          "customer": "moose",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "04 - Medium Rich"
+          }
+        },
+        {
+          "reviewTitle": "will be using again",
+          "reviewText": "excellent light with good cover",
+          "reviewDate": "Reviewed in the United Kingdom on May 7, 2024",
+          "customer": "Sue R",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "02 - Light"
+          }
+        }
+      ]
+    }
+  }
+}

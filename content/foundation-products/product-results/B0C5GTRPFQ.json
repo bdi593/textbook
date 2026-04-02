@@ -1,0 +1,413 @@
+{
+  "requestMetadata": {
+    "id": "5fa45cfa-ca28-49b4-af0f-f08140c8b11b",
+    "status": "ok",
+    "html": "https://files.hasdata.com/5fa45cfa-ca28-49b4-af0f-f08140c8b11b.html",
+    "json": "https://files.hasdata.com/5fa45cfa-ca28-49b4-af0f-f08140c8b11b.json",
+    "url": "https://www.amazon.com/dp/B0C5GTRPFQ"
+  },
+  "product": {
+    "asin": "B0C5GTRPFQ",
+    "url": "https://www.amazon.com/dp/B0C5GTRPFQ",
+    "title": "Summer Fridays Sheer Skin Tint - Skin Tint with Hyaluronic Acid - Helps Diminish Uneven Skin Tone - Sheer to Light Coverage - Shade 1 - Fair with Neutral Peach Undertones (1 Fl Oz)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Shade 01 - Fair with Neutral Peach Undertones"
+    },
+    "featureBullets": [
+      "Award-Winning Formula - Our lightweight skin tint adds a touch of sheer color - providing a more even, healthy appearance while infusing skin with hydration. Its weightless, fluid formula helps diminish the look of redness, pores and uneven skin tone, while giving you an effortless, natural makeup look.",
+      "Key Ingredients - Squalane, Vitamin E, Safflower Oil and Avocado Oil lock in hydration and help the formula glide evenly over skin. Antioxidant-rich Tiger Grass helps soothe the skin and reduce the appearance of redness.",
+      "Hydrating, Dewy Finish - A humectant blend of Glycerin and Hyaluronic Acid helps attract and hold water on skin's surface to plump fine lines and support a healthy moisture barrier.",
+      "How to Use - Shake well before using. Smooth the face makeup in the AM after your daily skincare and SPF products. Lightweight formula can be layered if more coverage is desired.",
+      "Welcome to the world of Summer Fridays. Gently effective skincare and hybrid-makeup essentials that make routines feel effortless and skin look luminous. Formulated to optimize skin and beauty, please the mind and bring ease and softness to everyday life."
+    ],
+    "boughtInPastMonth": "200+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Tinted Moisturizers"
+    ],
+    "variants": [
+      {
+        "asin": "B0C5GPBMDY",
+        "title": "Shade 05 - Medium with Warm Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B0C5GPBMDY",
+        "imageUrl": "https://m.media-amazon.com/images/I/51EYcYnEdOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C5GG9NPM",
+        "title": "Shade 10 - Rich-Deep with Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B0C5GG9NPM",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ufpzvoW7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C5G933D1",
+        "title": "Shade 09 - Rich Deep with Neutral Cool Undertones",
+        "url": "https://www.amazon.com/dp/B0C5G933D1",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cNOqCcgcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C5GFR2FR",
+        "title": "Shade 02 - Light with Cool Undertones",
+        "url": "https://www.amazon.com/dp/B0C5GFR2FR",
+        "imageUrl": "https://m.media-amazon.com/images/I/51O3AitUXpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C5GF7YT6",
+        "title": "Shade 04 - Light-Medium with Neutral Olive Undertones",
+        "url": "https://www.amazon.com/dp/B0C5GF7YT6",
+        "imageUrl": "https://m.media-amazon.com/images/I/51OYQD1q+FL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CJ3F56D5",
+        "title": "Shade 04.5 - Medium with Cool Peach Undertones",
+        "url": "https://www.amazon.com/dp/B0CJ3F56D5",
+        "imageUrl": "https://m.media-amazon.com/images/I/51yDrQ7JzJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C5G4QD28",
+        "title": "Shade 06 - Medium Tan with Warm Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0C5G4QD28",
+        "imageUrl": "https://m.media-amazon.com/images/I/51bay8NtYRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C5GKB2JX",
+        "title": "Shade 07 - Medium Deep with Golden Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B0C5GKB2JX",
+        "imageUrl": "https://m.media-amazon.com/images/I/51g4BoDsbcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C5GF6M5X",
+        "title": "Shade 03 - Light with Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0C5GF6M5X",
+        "imageUrl": "https://m.media-amazon.com/images/I/51maIwOGRHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CJ3FPPWZ",
+        "title": "Shade 02.5 - Light with Cool Peach Undertones",
+        "url": "https://www.amazon.com/dp/B0CJ3FPPWZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51lyMRyq+bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C5GTRPFQ",
+        "title": "Shade 01 - Fair with Neutral Peach Undertones",
+        "url": "https://www.amazon.com/dp/B0C5GTRPFQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RcjuNs3ZL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 42,
+      "beforePrice": 42,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "SummerFridays",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A229MF4CL0RT99",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/51RcjuNs3ZL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51RcjuNs3ZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51CiNXG78iL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51IWw5rCK0L.jpg",
+      "https://m.media-amazon.com/images/I/51b2n8h0SkL.jpg",
+      "https://m.media-amazon.com/images/I/61Vkq1pKIPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71i51UHeL8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61qxqNlu45L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51b9iwb8umL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41jwRsxZi3L.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3afc66de-3906-4f84-aa45-ab2a568f544e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f572944b-c45e-43a6-94cb-75821ad49fc2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ea074d9-a55f-458f-bcb2-15210c92a9d7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d19b1c6-1f6a-4f32-8a58-e90062a2a25c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ee508ec-7405-4de0-a307-f78602ec23b4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/493867a6-1d6c-4197-93fd-a5e7d8df527a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72d4d325-d49b-48a5-a6bd-a239ebdf2892.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9893cde6-17cd-46dc-9827-7f6bf7ca4bde.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07b2bcf8-5eab-4501-92fe-fe5ede6b7738.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dd5fd196-f59f-47db-b2f1-01cbfb71c7da.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2d1ce06b-8261-44a3-a696-199376199f5e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b35c48cf-3ad8-49cd-8e65-ab99bf69282a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/598fd329-8b6a-4d6d-9f7a-600bc23296f3.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "Summer Fridays"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "UPC",
+        "value": "850004852644"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Summer Fridays"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#15,485 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #25 in Facial Tinted Moisturizers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0C5GTRPFQ"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrates, Natural-Finish, Non-Comedogenic"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Fair"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Dry and All Skin Types"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.63 x 0.75 x 3.75 inches"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.3 Ounces"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.00 Fluid Ounces"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Color",
+        "value": "Shade 01 - Fair with Neutral Peach Undertones"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Sulfate Free, Vegan"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 355,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "73%",
+        "fourStars": "12%",
+        "threeStars": "6%",
+        "twoStars": "4%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers love this skin tint for its natural radiant look and perfect coverage that's buildable. They appreciate its lightweight feel, silky texture that feels like their own skin, and moisturizing properties that keep skin hydrated throughout the day. The product lasts all day and is suitable for daily wear, with one customer noting it's particularly good for no-makeup makeup looks. While some customers find it non-greasy, others mention it's not great for oily skin.",
+      "aspects": [
+        {
+          "aspect": "Natural look",
+          "count": 37,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 32,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 26,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 18,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 16,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 14,
+          "status": "positive"
+        },
+        {
+          "aspect": "Non-greasy",
+          "count": 20,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/711cSGaqZUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71W3STWNv1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41coQOeakYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61lLx9TwuyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41x02wqHaVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51AgPvxU15L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41S6ik6T15L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51S0bDM9v0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/416FsTQG5qL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51YbFX2CuuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sB6Z5QGyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71FTv2rtMGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great Product!",
+          "reviewText": "I really like this product! I was looking for a skin tint that was lightweight and not too full coverage, and this was both. It wore good throughout the day, every other time I've tried a skin tint it would cause flaking from dryness and this one didn't after a full 12 hour day. Not oily but still gives a nice glow. I applied with a brush and I'm not into makeup so very easy application! It also did not make me break out which is key. Overall I recommend!",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Lang",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGV6FKNNNP3JXAWLFUEYE6DOSJ5Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Shade 02 - Light with Cool Undertones"
+          }
+        },
+        {
+          "reviewTitle": "Sensitive skin approved---My 6th Bottle for a Reason",
+          "reviewText": "This is my favorite skin tint and my everyday go-to. I have sensitive skin, and this doesn\u2019t make me break out at all. I\u2019m currently on my 6th bottle, which honestly says everything. I\u2019m extremely picky about skincare and makeup, and my skin is allergic to basically everything. It reacts to products like it\u2019s personally offended, so finding something that doesn\u2019t piss my skin off feels like a small miracle. I\u2019m 38, and this does not make my skin look dry or emphasize pores or fine lines. The finish is honestly so pretty \u2014 a natural, healthy glow that still looks like skin. I rarely use full foundation anymore. I might pull it out for a special event, but most days I grab this instead because it sits so well on my skin, looks amazing in photos, and other products blend beautifully on top of it. It also doesn\u2019t feel heavy at all \u2014 you forget you\u2019re wearing anything. With the right skin prep and a setting spray, it\u2019s long-lasting, and a little truly goes a long way. One bottle easily lasts me 3+ months, sometimes longer. No complaints. Just a really solid skin tint that my extremely picky, sensitive skin actually likes \u2014 which is rare.",
+          "reviewDate": "Reviewed in the United States on January 4, 2026",
+          "customer": "Vidadetei",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGCIZZOW6OJJYDGHGO6QIYXULWQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Shade 04 - Light-Medium with Neutral Olive Undertones"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Summer Fridays Sheer Tint",
+          "reviewText": "Love this sheer tint! It feels really good on my skin, blends easily, and the shade is perfect for a natural look. Definitely worth the price for how lightweight and comfortable it is. The only downside is I wish it had a bit more coverage for spots and under the eyes.",
+          "reviewDate": "Reviewed in the United States on February 8, 2026",
+          "customer": "KM Burke",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGGFZDFVCWYVNIOA7VD22DLM7LSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Shade 04 - Light-Medium with Neutral Olive Undertones"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light, dewy coverage",
+          "reviewText": "I like it! I have super hormonal, acne-prone skin and it hasn\u2019t broken me out in any noticeable way. The coverage is LIGHTTTT especially if you wear it for hours on end. By the end of a six hour shift, it doesn\u2019t really cover anything and it does pill depending on what you put under/over it. But it DOES even out my skin tone and feels good on the skin. It\u2019s super dewy so no matte finish here.",
+          "reviewDate": "Reviewed in the United States on May 10, 2025",
+          "customer": "Shelby Morgan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFNE7E2XMJFDVSQO5HUU54BGJJPA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Shade 04 - Light-Medium with Neutral Olive Undertones"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great for two tone hyperpigmentation skin",
+          "reviewText": "I don\u2019t wear makeup but have hyperpigmentation spots on my face I haven\u2019t been able to get rid of. What I like about this product is that it is super light and you can spot cover without it looking like it needs to be fully saturated on face . Really good after my skin routine and sun screen as it stays well and doesn\u2019t smear on everything. What made me try it is I received a sample from a family member and really liked how it looked, so I purchased it full. Very nice product!",
+          "reviewDate": "Reviewed in the United States on December 3, 2025",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGOOTR2B3W7LPSLWJXHHNZMCGC2A",
+          "customerStarsRating": 5,
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great color",
+          "reviewText": "#6 is a perfect match for Carmel colored skin. Looks very natural not like foundation but blurs imperfection for even coloring. The price seems high for a small size, but not much is needed to apply.",
+          "reviewDate": "Reviewed in the United States on February 12, 2026",
+          "customer": "bmm",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFCEA3THUYHM2TXS6WVJW43DMTHQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Made me break out :(",
+          "reviewText": "I've got super sensitive skin and this made me break out with acne, even when I mixed it with my moisturizer. I gave it to my daughter and she seemed to do okay with it, though. I usually use Drunk Elephant's bronzing drops, but I wanted to try something without shimmer. I'll stick with Drunk Elephant and skip the acne!",
+          "reviewDate": "Reviewed in the United States on February 24, 2025",
+          "customer": "Erin Larson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHYMCKLWIKFN7XCHHEKPRBHM25A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Shade 04 - Light-Medium with Neutral Olive Undertones"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wonderful",
+          "reviewText": "I adore this product! Perfect sheer coverage. My only foundation in the summer.",
+          "reviewDate": "Reviewed in the United States on January 19, 2026",
+          "customer": "Betty Allison",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEEQQYJ2JM2S44D2F6VI4BWNJXPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Shade 02 - Light with Cool Undertones"
+          }
+        },
+        {
+          "reviewTitle": "Lightweight but very ordinary",
+          "reviewText": "A makeup artist influenced me. \ud83d\ude06 I tried. I did not find anything unique or special about this product, except its light weight, besides that, it is very ordinary.",
+          "reviewDate": "Reviewed in the United Arab Emirates on June 30, 2025",
+          "customer": "Tatsiana Baravik",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Shade 02 - Light with Cool Undertones"
+          }
+        },
+        {
+          "reviewTitle": "Expensive item for not being delivered",
+          "reviewText": "Item is not delivered",
+          "reviewDate": "Reviewed in the United Arab Emirates on January 27, 2025",
+          "customer": "M.W",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Shade 02 - Light with Cool Undertones"
+          }
+        }
+      ]
+    }
+  }
+}

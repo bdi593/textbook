@@ -1,0 +1,145 @@
+{
+  "requestMetadata": {
+    "id": "9ab759f5-60c1-4de5-b30f-9df088fbfb79",
+    "status": "ok",
+    "html": "https://files.hasdata.com/9ab759f5-60c1-4de5-b30f-9df088fbfb79.html",
+    "json": "https://files.hasdata.com/9ab759f5-60c1-4de5-b30f-9df088fbfb79.json",
+    "url": "https://www.amazon.com/dp/B0GTY1QLXN"
+  },
+  "product": {
+    "asin": "B0GTY1QLXN",
+    "url": "https://www.amazon.com/dp/B0GTY1QLXN",
+    "title": "Tryskintle 2 in 1 Color-Changing Foundation Stick with Brush, Medium to Full Coverage Makeup, SPF30, Lightweight, Lasts 12 Hours, Adapts to Skin Tone (Natural)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Natural"
+    },
+    "featureBullets": [
+      "**Auto-Adapting to Skin Tone:** Tryskintle Liquid Foundation perfectly matches fair to medium skin tones, creating a natural, flawless \"no-makeup makeup\" look.",
+      "**Convenient 2-in-1 Design:** Features a built-in precision brush head with dense, soft bristles, allowing for effortless blending and the quick creation of a refined base makeup look.",
+      "**Long-Lasting & Comfortable Wear:** The Tryskintle Color-Changing Foundation Stick provides wear that lasts for over 12 hours, its lightweight and refreshing texture makes it suitable for all skin types.",
+      "**Built-in Sun Protection:** Formulated with SPF 30, it offers convenient protection for your daily commute\u2014combining your base makeup and sun protection in a single, easy step.",
+      "**Compact, Portable, and Versatile:** Its compact design makes it easy to carry with you wherever you go. Whether for the workplace, travel, or casual gatherings, you can quickly touch up your makeup anytime, anywhere to keep your look fresh."
+    ],
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0GTY46FP3",
+        "title": "Dark",
+        "url": "https://www.amazon.com/dp/B0GTY46FP3",
+        "imageUrl": "https://m.media-amazon.com/images/I/51aAQWMqc3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GTY1T7JL",
+        "title": "Light",
+        "url": "https://www.amazon.com/dp/B0GTY1T7JL",
+        "imageUrl": "https://m.media-amazon.com/images/I/51aAQWMqc3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GTY1QLXN",
+        "title": "Natural",
+        "url": "https://www.amazon.com/dp/B0GTY1QLXN",
+        "imageUrl": "https://m.media-amazon.com/images/I/51aAQWMqc3L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 19.99
+    },
+    "deliveryRawDate": "April 14 - 23",
+    "deliveryIsoDate": "2026-04-14T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "returns": "30-day refund/replacement",
+    "seller": "ZuoQuanBaiCaoTang",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A8IKJ1WKZ3MOE",
+    "shipper": "ZuoQuanBaiCaoTang",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51aAQWMqc3L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51aAQWMqc3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71csUtEqibL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MBU8FEmFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61QhyJ9FtfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61fO3xUInOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Oj69iMwrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51qOM6Vu0YL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/daf40362-2f50-406c-a200-926e333f7931.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fb5d7917-9194-4335-bf81-8a3a7d0820a1.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/45850d53-bf5e-4341-8ae9-9ae751a2f9d8.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/996d86cb-c105-45ee-bf2f-1998774f8b48.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Natural"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Spot Concealing"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Generic"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Generic"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#31,862 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #293 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0GTY1QLXN"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      }
+    ],
+    "reviewsInfo": {
+      "starRates": {
+        "fiveStars": "0%",
+        "fourStars": "0%",
+        "threeStars": "0%",
+        "twoStars": "0%",
+        "oneStars": "0%"
+      }
+    }
+  }
+}

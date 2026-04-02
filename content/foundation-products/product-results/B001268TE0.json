@@ -1,0 +1,612 @@
+{
+  "requestMetadata": {
+    "id": "4fa930d7-8482-4d4d-a5c6-bf1f3e64e503",
+    "status": "ok",
+    "html": "https://files.hasdata.com/4fa930d7-8482-4d4d-a5c6-bf1f3e64e503.html",
+    "json": "https://files.hasdata.com/4fa930d7-8482-4d4d-a5c6-bf1f3e64e503.json",
+    "url": "https://www.amazon.com/dp/B001268TE0"
+  },
+  "product": {
+    "asin": "B001268TE0",
+    "url": "https://www.amazon.com/dp/B001268TE0",
+    "title": "L'Oreal Paris True Match Super Blendable Oil Free Powder Foundation, W4 Light Medium, 0.33 oz, Packaging May Vary",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.33 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "True Match Foundation: Our foundation is a nondrying pressed powder formula that leaves skin with buildable, undetectable coverage and a natural finish. Our foundation makeup shades uniquely match light to dark tones and warm, neutral and cool undertones",
+      "Super Blendable Coverage: This micro-fine face powder features a lightweight, soft face makeup texture that won't settle into lines, clog pores or cake. Minimizes appearance of pores and improves skin tone evenness and texture after 4 weeks use",
+      "All Day Color: Our makeup foundation gives you color that stays true all day long and leaves skin comfortable. Use included mirror and make up applicator for easy on-the-go powder foundation application",
+      "Because You're Worth It: Create the look you want with our full line of makeup including foundations, concealers, highlighter makeup, brow pencils, eyeshadow palettes, lipsticks and much more",
+      "L'Oreal Paris Beauty: A leading total beauty care company based in Paris, we offer innovative products and unique expertise from beauty experts in makeup, skin care, hair care, styling and hair color"
+    ],
+    "description": "True Match Powder precisely matches your skin's tone and texture and coordinates perfectly with True Match Makeup, Blush, and Concealer. Micro-fine powder provides versatile coverage: you can blot shine, blend for a natural finish, or build for more coverage. True Match Powder's formula contains a hint of pearl pigments that enhance your skin's tone. Wear True Match Powder over True Match Makeup or alone for a flawless look. Precisely matches your skin tone and texture Never looks chalky or cakey Natural Finish Mirror inside Use True Match Powder to blot shine on your T-zone, to blend all over the face for a natural finish, or to build for fuller coverage. By L'Oreal Paris",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Powder"
+    ],
+    "variants": [
+      {
+        "asin": "B0FYKDP946",
+        "title": "N7 Medium Deep 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKDP946",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WYPjrHfOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G2TCW8YY",
+        "title": "N1 Light 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0G2TCW8YY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ENBrSMU-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CFCX39F1",
+        "title": "C12 Deep 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CFCX39F1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71aAFj0PW7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYROCW",
+        "title": "W7 Medium Deep 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYROCW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NKb6y5c5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYTTKC",
+        "title": "C3 Light Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYTTKC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JeW8sw-WL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKCLNF7",
+        "title": "C6 Medium 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKCLNF7",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TV1EhKmnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKJ7L4G",
+        "title": "N4 Light Medium 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKJ7L4G",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pucm4TrJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CFD2FZ4V",
+        "title": "W10 Deep 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CFD2FZ4V",
+        "imageUrl": "https://m.media-amazon.com/images/I/717nw1+gfJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0084A72RW",
+        "title": "Deep Golden 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0084A72RW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZAga6jDBL._SL1024_.jpg"
+      },
+      {
+        "asin": "B004YMRQX4",
+        "title": "Natural Ivory [C2] 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B004YMRQX4",
+        "imageUrl": "https://m.media-amazon.com/images/I/616fryGsh5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYVMM0",
+        "title": "W5 Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYVMM0",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JUtHz+ooL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000UH1B9W",
+        "title": "N5 Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000UH1B9W",
+        "imageUrl": "https://m.media-amazon.com/images/I/71CYzFJbdSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CFCWFJ4N",
+        "title": "C9 Deep 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CFCWFJ4N",
+        "imageUrl": "https://m.media-amazon.com/images/I/716nX1scNEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000UGZD9M",
+        "title": "W3 Light Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000UGZD9M",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ljB4KG9OL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKR8162",
+        "title": "W2 Light 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKR8162",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gx29xEsNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYK8G4J8",
+        "title": "W1 Light 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYK8G4J8",
+        "imageUrl": "https://m.media-amazon.com/images/I/615aRDpzyXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000UGZDCY",
+        "title": "N3 Light Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000UGZDCY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71PlzNwbE+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B000UGZDBU",
+        "title": "W6 Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000UGZDBU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71XyejuocdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CFD286T2",
+        "title": "N9 Medium Deep 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CFD286T2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zXP4V8C+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKJS3VL",
+        "title": "W7 Medium Deep 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKJS3VL",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ObopReoJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000UGXFDI",
+        "title": "N1 Light 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000UGXFDI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zbycSTc9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYVMES",
+        "title": "N7 Medium Deep 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYVMES",
+        "imageUrl": "https://m.media-amazon.com/images/I/71gsLKJzY9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B000UGZDD8",
+        "title": "N4 Light Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000UGZDD8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71-qKCc1Y9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B078JJT974",
+        "title": "Sand Beige 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B078JJT974",
+        "imageUrl": "https://m.media-amazon.com/images/I/815L-ztf-qL._SL1500_.jpg"
+      },
+      {
+        "asin": "B004YMRR7E",
+        "title": "Creamy Natural C3 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B004YMRR7E",
+        "imageUrl": "https://m.media-amazon.com/images/I/617rfAd6UEL._SL1180_.jpg"
+      },
+      {
+        "asin": "B001KYVMOI",
+        "title": "C6 Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYVMOI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71U2Js-j-2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYTTL6",
+        "title": "N6 Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYTTL6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IeZG-8eJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYVMFM",
+        "title": "C8 Medium Deep 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYVMFM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71b3QfCrK3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYQ1SA",
+        "title": "N2 Light 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYQ1SA",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZCGf7drzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001268TE0",
+        "title": "W4 Light Medium 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001268TE0",
+        "imageUrl": "https://m.media-amazon.com/images/I/71nrTOyWguL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001707PLE",
+        "title": "W2 Light 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001707PLE",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bcCJh3lhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001KYTTBQ",
+        "title": "C1 Light 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYTTBQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/712bXHJQ+uL._SL1500_.jpg"
+      },
+      {
+        "asin": "B004YMREY0",
+        "title": "Nude Beige Warm 0.33 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B004YMREY0",
+        "imageUrl": "https://m.media-amazon.com/images/I/41EH+2ufTyL.jpg"
+      },
+      {
+        "asin": "B001KYTTQ6",
+        "title": "C2 Light 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B001KYTTQ6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71v6wMgNIqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B000UGVVHK",
+        "title": "W1 Light 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B000UGVVHK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71w58yoMogL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CFCW824K",
+        "title": "N11 Deep 0.33 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CFCW824K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NensTCBAL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.72,
+      "beforePrice": 12.99,
+      "discount": "-33%",
+      "priceFrom": 8.72,
+      "otherOfferQuantity": 6
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/71nrTOyWguL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71nrTOyWguL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81RVKPaci5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YTzli1b8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91yZ0-kiYRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AWELMTGIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91qB3Q0H68L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81W9hmUUDML._SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2850b0d8-c7f1-473c-be4a-56b8f32a8599.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2850b0d8-c7f1-473c-be4a-56b8f32a8599.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/79836b53-a123-4c8e-b388-fac80f4caacb.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ec528ffb-8640-4ac1-84e7-41e707e3eaef.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/90dace81-b2f5-4dda-9c02-eb1c393fb6c1.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "W4 Light Medium"
+      },
+      {
+        "key": "Model Name",
+        "value": "L'Oreal Paris True Match Super-Blendable Powder"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Model Number",
+        "value": "K1600403"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "France"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Palette"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00071249016442, 00885597234119"
+      },
+      {
+        "key": "UPC",
+        "value": "885597234119 071249016442"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,373 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #7 in Face Powder"
+      },
+      {
+        "key": "ASIN",
+        "value": "B001268TE0"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Blendable, Non-Greasy, Pore Minimizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Lightweight"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.1 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.64 x 2.68 x 0.67 inches"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      },
+      {
+        "key": "Color Family",
+        "value": "neutral"
+      },
+      {
+        "key": "Material Features",
+        "value": "Natural"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 20636,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "78%",
+        "fourStars": "12%",
+        "threeStars": "5%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this powder foundation to be of great quality, with good coverage that effectively hides imperfections, and appreciate its huge range of colors that match skin tones well. The product is lightweight, feels comfortable on the skin, and provides a matte finish that keeps skin from looking shiny. They praise its longevity, noting it lasts throughout the day, and consider it good value for money.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 465,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 360,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 322,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 204,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 150,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 139,
+          "status": "positive"
+        },
+        {
+          "aspect": "Finish",
+          "count": 130,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 127,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81+d9zZfN+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81fJrOO8FiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/716-W0d2wxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71kVMKj5qwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-dFSVQIzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71v2E+ULy9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61cHxqu0ayL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71XmL851r9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81sPyplfmFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61T0Cb48IXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Ud+s7PBHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81ddgtHLR+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Excellent Foundation Powder",
+          "reviewText": "This is a tried and true product that lives up to the quality of L'Oreal Paris and at a great price! This powder goes on easily as light coverage and leaves your skin natural looking. I highly recommend this product and make sure you get your 'true match'!",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "Judy Rosenthal Martinson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGY2OLHZTP424AX3LBMPE2J6E7SA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "W2 Light",
+            "size": "0.33 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Blends well, light coverage",
+          "reviewText": "Great product, blends well under the eyes and doesn\u2019t show. Lasts a long time. Great product for me who wears very little makeup.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "Truthsayer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSGVLHCNENHLXSH3KX5JSLDZGSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "N2 Light",
+            "size": "0.33 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "I Found My True Match!",
+          "reviewText": "I love this make up! It\u2019s my go to to stay shine free. L\u2019Oreal True Match has many shades available, which is why I love it, during any season! It goes on light and feels great! Find your True Match like I found mine!,",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "M. Davis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEPYHTDBFY3LHY2UVYM5AF5S6PLA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "W4 Light Medium",
+            "size": "0.33 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "High Quality Powder for a Reasonable Price",
+          "reviewText": "Excellent Face Powder. Always Available Happy to find the shade that I wanted. Price is good and reliable.",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "Jody Benge",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYM4QHFTRP44EFLPQ6363VTRJTQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "C2 Light",
+            "size": "0.33 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "my go-to face powder (mature skin)",
+          "reviewText": "I'm so glad I found the True Match line of L'oreal make up. I use this powder the same way I'd use a powder foundation. It covers nicely without looking cakey and dry. I sometimes apply it with a foundation brush, sometimes I use a soft puff. The C-1 and C-2 shades are perfect for my skin tone, but I think the C-2 has a bit more of a rosy tone and I like that better. The powder doesn't settle into my pores or fine lines. I also use it around my eyes and on my eyelids with no issues. No matter how many other powders/setting powders I try, I keep coming back to the L'oreal True Match powder.",
+          "reviewDate": "Reviewed in the United States on January 22, 2026",
+          "customer": "Wanda",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSTFUYKSBLQEPSZJBODHEJA6DQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "C2 Light",
+            "size": "0.33 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "Great color. I use this daily.",
+          "reviewDate": "Reviewed in the United States on February 21, 2026",
+          "customer": "HJB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEKWAUSP3FOTCJDWMO7J2KEQ3RUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "C2 Light",
+            "size": "0.33 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Soft, Smooth and not shiny",
+          "reviewText": "Love this powder, leave my face soft, without feeling like I am wearing makeup at all. Blends well with foundation, and doesn't leave your skin shiny like others do. Will definitely buy again.",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "NBY",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGGNH4NZTPUSXGMXXSJGBPU3DW2Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "W3 Light Medium",
+            "size": "0.33 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Exelente \u2764\ufe0f\u2764\ufe0f",
+          "reviewText": "I've always used it and its finish is the best a single pass and covers my face",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Rosmary bello",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRYNTFNCP2HHUGJPAO55TFG3QPQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "W4 Light Medium",
+            "size": "0.33 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "On time delivery",
+          "reviewText": "Good",
+          "reviewDate": "Reviewed in the United Arab Emirates on January 21, 2026",
+          "customer": "Sajjad",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "W2 Light",
+            "size": "0.33 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Fantastic product.",
+          "reviewText": "Great find for me. Wouldn't go past it.",
+          "reviewDate": "Reviewed in the United Kingdom on March 28, 2025",
+          "customer": "blonde mel",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "W3 Light Medium",
+            "size": "0.33 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Extremely poor quality product, very very disappointing, pls help to return it",
+          "reviewText": "Item defective/ bad quality, want to return this item, very very poor quality of the product , very disappointed with this one, pictures attached, willing to return it but return window already closed one day before, but wish I could this extremely bad product.",
+          "reviewDate": "Reviewed in India on July 11, 2025",
+          "customer": "Triptimoy Chakraborty",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "W6 Medium",
+            "size": "0.33 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Fab",
+          "reviewText": "Lovely colour fast delivery",
+          "reviewDate": "Reviewed in the United Kingdom on October 12, 2019",
+          "customer": "Aimee McNamara",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "W6 Medium",
+            "size": "0.33 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

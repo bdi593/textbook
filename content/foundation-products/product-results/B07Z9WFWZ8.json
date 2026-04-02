@@ -1,0 +1,549 @@
+{
+  "requestMetadata": {
+    "id": "1f37e669-bc4b-4cfd-b6a4-e058ac004013",
+    "status": "ok",
+    "html": "https://files.hasdata.com/1f37e669-bc4b-4cfd-b6a4-e058ac004013.html",
+    "json": "https://files.hasdata.com/1f37e669-bc4b-4cfd-b6a4-e058ac004013.json",
+    "url": "https://www.amazon.com/dp/B07Z9WFWZ8"
+  },
+  "product": {
+    "asin": "B07Z9WFWZ8",
+    "url": "https://www.amazon.com/dp/B07Z9WFWZ8",
+    "title": "L'Oreal Paris Age Perfect Radiant Serum Foundation with SPF 50, Rose Ivory, 1 Ounce",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "Radiant Serum Foundation: This carefully formulated foundation for mature skin is made with Vitamin B3 and Hydrating Serum, It provides lightweight coverage while also being suitable for sensitive skin",
+      "Hydration And Spf 50 Protection: This foundation evens tone with natural, radiant coverage that doesn't settle into lines, All the benefits of a foundation with the added advantage of all-day hydration and SPF 50",
+      "Illuminate Your Face: From BB creams to blush, we have all you need for a smooth, even finish, Highlight to illuminate your look, use concealer to hide imperfections or apply contouring makeup to define",
+      "All Things Beauty: L'Oreal Paris products encompass all things beauty, from our Voluminous Mascara and Primer to Rouge Signature Matte Lip Stain to 10 percent Pure Glycolic Acid Serum, We've got you covered",
+      "L'Oreal Paris Beauty: A leading total beauty care company based in Paris, we offer innovative products and unique expertise from beauty experts in makeup, skin care, hair care, styling and hair color"
+    ],
+    "description": "Finally, makeup specially designed for mature skin. Age Perfect by L'OREAL PARIS cosmetics, radiant serum foundation is a carefully formulated foundation that provides your skin with Vitamin B3 and hydrating serum while also being suitable for sensitive skin. Radiant serum foundation evens t1 providing natural, radiant coverage that doesn't settle into fine lines. All the benefits of a radiant foundation with the added advantage of all day hydration and SPF 50.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B07Z9X42QJ",
+        "title": "Nude Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9X42QJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DncendTAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9WKNPZ",
+        "title": "Cappuccino 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WKNPZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71c6QzPLBEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9WGWNS",
+        "title": "Perfect Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WGWNS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZsEtahdvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9WZ6P3",
+        "title": "105 Soft Sable 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WZ6P3",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ARXdYZsML._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WW6K3",
+        "title": "Deep Cool 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WW6K3",
+        "imageUrl": "https://m.media-amazon.com/images/I/51NYZWYO3gL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WQ75R",
+        "title": "Warm Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WQ75R",
+        "imageUrl": "https://m.media-amazon.com/images/I/71VT1COvwIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9WPVDG",
+        "title": "Hazelnut 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WPVDG",
+        "imageUrl": "https://m.media-amazon.com/images/I/51oSCOGW8oL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WNCW4",
+        "title": "Cream Beige 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WNCW4",
+        "imageUrl": "https://m.media-amazon.com/images/I/51GGNK91jXL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WQ731",
+        "title": "Sand 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WQ731",
+        "imageUrl": "https://m.media-amazon.com/images/I/51xUUm8tufL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WG3R3",
+        "title": "Amber Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WG3R3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71lu5faJGPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9WHMLL",
+        "title": "Golden Vanilla 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WHMLL",
+        "imageUrl": "https://m.media-amazon.com/images/I/510QFmETrKL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WV9V2",
+        "title": "Classic Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WV9V2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NibjJxSYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9WGWRV",
+        "title": "Beige Rose 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WGWRV",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cSr9lG0jL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WBHXK",
+        "title": "Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WBHXK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VijHzZDAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9X42PZ",
+        "title": "Golden Honey 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9X42PZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71I80pM1UnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9X25JX",
+        "title": "Natural Buff 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9X25JX",
+        "imageUrl": "https://m.media-amazon.com/images/I/51QfTl5VpEL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9X42M1",
+        "title": "Caramel Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9X42M1",
+        "imageUrl": "https://m.media-amazon.com/images/I/51YFPWTQgUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9WF199",
+        "title": "Ivory Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WF199",
+        "imageUrl": "https://m.media-amazon.com/images/I/51s2bTlSDZL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WBHZZ",
+        "title": "Golden Sun 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WBHZZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+Ea6IIijL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WKNR1",
+        "title": "Golden Beige 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WKNR1",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qzqeGkb4L._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WBHZS",
+        "title": "Deep Amber 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WBHZS",
+        "imageUrl": "https://m.media-amazon.com/images/I/51v-rXWs9ZL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WFX1T",
+        "title": "Almond 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WFX1T",
+        "imageUrl": "https://m.media-amazon.com/images/I/51JR+Lb-dVL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WYLR2",
+        "title": "Sienna 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WYLR2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71fpoRPfGnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9WFWZ8",
+        "title": "Rose Ivory 1 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WFWZ8",
+        "imageUrl": "https://m.media-amazon.com/images/I/519yGqgJhmL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WVGNP",
+        "title": "Toffee 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WVGNP",
+        "imageUrl": "https://m.media-amazon.com/images/I/51WrL2NjnUL._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WF5N5",
+        "title": "Honey Rose 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WF5N5",
+        "imageUrl": "https://m.media-amazon.com/images/I/51-IZVt600L._SL1000_.jpg"
+      },
+      {
+        "asin": "B07Z9WGWQJ",
+        "title": "Espresso 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WGWQJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/711DM++bq4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07Z9WW6K1",
+        "title": "Golden Ivory 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07Z9WW6K1",
+        "imageUrl": "https://m.media-amazon.com/images/I/514UEXSsP0L._SL1000_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 14.97,
+      "beforePrice": 18.99,
+      "discount": "-21%",
+      "priceFrom": 14.97,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 12 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/519yGqgJhmL._SL1000_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/519yGqgJhmL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51ggS+Oz7-L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81ESvWs0wHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vYlSazsoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Fom6CTgCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91hgzXiCGTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91OsDPcGWNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71D5OsgeH7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GClwYQnxL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/c3def277-f3d7-4533-9a6c-6638b4d3e679.__CR0,0,1000,309_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/c1471a3f-0ca6-481a-bd0e-d14d1e72c2eb.__CR0,0,1000,309_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/6fd5815b-0d6b-4889-9d1a-f2b24d07b100.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/93b07f71-97bf-4aea-ba61-45f74811f0e9.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/0375616b-9793-487f-bfbe-3c536a29d298.__CR0,0,300,300_PT0_SX300_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/4d3ef906-05ca-4caf-a958-6286d0722ed4.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/9b500279-adbf-43a8-a065-d946e12ab8d4.__CR250,0,500,1000_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/ecffab84-6a7b-40f8-9c54-d22268a666b3.__CR250,0,500,1000_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/a7e2620e-5696-4ed6-858d-b6fa9dc608e2.__CR227,0,500,1000_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/81dc2888-6473-4744-8e75-137631c3bc68.__CR250,0,500,1000_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/7eab2c3a-b272-4b5d-9c08-1bcc9eeb93e9.__CR264,0,500,1000_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/6327c142-72a3-43de-bb9f-c01edab0abd6.__CR250,0,500,1000_PT0_SX150_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e4424022-0ffb-43ef-8585-0b69193964f4.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Rose Ivory"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Natural"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00071249408551"
+      },
+      {
+        "key": "UPC",
+        "value": "071249408551"
+      },
+      {
+        "key": "Model Number",
+        "value": "071249408551"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "071249408551"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#2,265 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #29 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07Z9WFWZ8"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not-Applicable"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1.45 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.98 x 1.5 x 4.96 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Ounce"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 22198,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "66%",
+        "fourStars": "16%",
+        "threeStars": "9%",
+        "twoStars": "4%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage that's buildable, with a lightweight texture that feels like nothing on the skin. The product receives positive feedback for its moisturizing properties, particularly for dry skin, and customers appreciate its natural appearance that looks like second skin. The color receives mixed reviews - while some say it matches their skin tone perfectly, others find it too dark. The longevity and greasiness aspects also get mixed feedback, with some saying it lasts throughout the day while others note it wears off quickly and can settle into fine lines.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 811,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 481,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 462,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 344,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 311,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 466,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 270,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Greasiness",
+          "count": 250,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71wm2c-2tAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81jyc81R8qL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Lz19b1GkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6151YPMwaxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61p7sZg+FVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61aju7wfRML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/21GwqR4bngL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/819FE7sBrZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61kXP2Q3leL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71lcEc0CHsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71UXcIIEJML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61deXiEkOLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Fabulous natural look with great coverage and SPF 50.",
+          "reviewText": "This is a fabulous, high-quality foundation with SPF 50, with fantastic coverage that is buildable and light if you want it to be, or heavier coverage as necessary. It makes my skin look so much more useful and beautiful and blends. Skin tone imperfections into a more perfect look without looking artificial. I have acne prone skin, and I have never broken out with this product and have been using it for years. It absolutely does not clog pores. I apply it on top of a a good cetaphyl moisturizer that also doesn\u2019t make me break out. And I wash and clean my skin carefully at night. I lose 10 years adding this foundation to my routine. Combine it with a hyaluronic or collagen, tincture or serum under your moisturizer and you get a great combination for beauty and anti-aging. It also comes in a plethora of very natural looking colors and part of the natural look is dependent upon finding the one that blends the best with your neck so that it looks natural. Sometimes the other products we combine with it such as sunscreen, or moisturizer can cause a breakout, so test each product individually, and carefully. I positively love this product!.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Tara",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGGBXW2DBXUMXCBRAY6PRDHOJBXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Rose Ivory",
+            "size": "1 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "It's beautiful once you find the sweet spot for skin prep.",
+          "reviewText": "I'm 49 years old and spent a lifetime wearing minimal makeup. I'm talking some mascara, lipstick and maybe a little bronzer. I quit using foundation when I was 16 and realized last summer that I'd better figure out how to use it again, because I NEEDED it!! Needless to say, learning about makeup at my age was an eye-opening experience, and it was startling to realize that so many foundations made me look so much OLDER after I applied them. So, it's been an ongoing search, and an incredibly frustrating one, at times. This foundation can be gorgeous and produce such a glowing, healthy look to your skin....but you really need to be aware of how you prep you skin and be aware of how to deal with it after it's on your skin. This foundation contains sodium hyaluronate (a form of hyaluronic acid) which is all the rage in skin care and it's now making its way into makeup. Which can cause some real problems if you're not prepared for it. If you live in a dry climate (I do) or it's winter (it is) then the thing that hyaluronic acid (I'm just gonna call it HA from here on) needs to work, which is water, is seriously lacking. It can still work for you though. Make sure your skin is well moisturized prior to application. I'd recommend skipping the sponge, although if you do use one, make sure it's damp....even just a touch damper than you would usually use it. I use a brush AND my fingers.....my fingers in areas where I want heavier coverage and buffing it on with a brush where I want lighter coverage. I also set it very lightly. It doesn't settle into lines and wrinkles like most other foundations. Now it's not going to smooth them out for you, they're still going to be there. What I'm saying is that it doesn't migrate and cake up in them. It sinks into the skin beautifully. The next step, for me at least, is crucial right now, since the air is so dry here. After I've set it lightly with a finishing powder, I hit it GENEROUSLY with a dewy setting spray. It has made all the difference. If it starts to feel dry through the day, I'll give it a quick spritz in that area and that seems to solve the problem. It wears REALLY well, I'd say 8-10 hours. The finish isn't luminous, it's more of a healthy glow that looks really amazing and just seems to get better through the day. I think this is going to be AMAZING this summer when the humidity returns because it's such a lightweight, moisturizing formula and that extra moisture in the air will make using this foundation a breeze. PLUS, I love the SPF in this. That doesn't mean I skip my regular SPF, because for SPF to work you've got to put on a certain amount.....and I don't care what anyone says, there is no way I'll be convinced that this is enough to provide adequate protection. But at the same time, I'll never say no to MORE protection. Ever. The coverage is what I would call a light to medium coverage. I can still see my areas of broken veins/redness peeking through where they are most concentrated. I ordered Ivory as I'm fair skinned (red hair, blue eyes, pasty white skin during winter) and the color match was good. Overall, if you experience dryness with this, don't be afraid to work with it to provide some moisture because the results are definitely worth it!!!",
+          "reviewDate": "Reviewed in the United States on March 9, 2020",
+          "customer": "Shannon",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGXN45KGH4E6BIYLNGIFAZJOZPMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "1,779 people found this helpful"
+        },
+        {
+          "reviewTitle": "Pretty good winter foundation for combo aging skin!",
+          "reviewText": "I decided to try this foundation since Purlisse discontinued the darker shades of the CC cream that was my go-to. I am 56 and have menopausal combination skin, along with mild rosacea and brown spots from too much tanning in the 80's. I also get mild acne so I have to be careful with oils and most foundations for mature skin. I didn't expect much but after using this for just under a week, I've been pleasantly surprised. I have a light olive complexion and ordered the sand shade. The color is about perfect. It's easy to apply with your fingers (I'm not a brush fan) and blends well. The coverage is medium- it does a decent job of camoflauging my redness and sun damage but doesn't fully cover the spots without a concealer. I tend to get shiny so I applied without moisturizer first onto clean skin and it feels plenty moisturizing. It gives a nice glow which is great in the cold, dry winter temps. I'm deducting a star as it doesn't have the lasting power of some more expensive foundations and I can tell that it won't hold up in the humid Kansas City summer. That being said, the spf 50 has not irritated my skin and so far, no breakouts. This is a good winter foundation for combo aging skin at a great price point.",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Shana",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFVGI26XOSCZXUMEXY37MWZL57LQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Sand",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "The blurring effect is real!",
+          "reviewText": "I write VERY few reviews, but this product is worth the effort. I had serious doubts about its claims of smoothing over pores, blurring wrinkles, and not settling into \"crevasses\" over time. I'm 57 and my skin is in good shape, but it has larger pores now and a tendency to get red. I applied the pink Age Perfect Face Blurring Primer first, then this serum foundation and...could not believe the results. Absolutely amazing blurring effect, redness almost completely covered, and nothing caky or dry about it. 10/10 recommend for mature skin!",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Michele Phoenix",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE2HZ2TP2WDQWJ6DR4ZBG6YSKGBA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Rose Ivory",
+            "size": "1 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Foundation for Mature Skin",
+          "reviewText": "Highly recommend for mature skin. Great coverage but not heavy on the skin. Doesn't settle into fine lines or wrinkles. Contains great SPF coverage. It seems like every liquid foundation made for mature skin results in a yellow tone to my face. This has a more neutral tone. I pair it with the Loreal Blurfection loose powder in light pink.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "wsa528",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG2AX73M653TLENYCLGUUXQQANAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Beige Rose",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "looks great but caused breakouts",
+          "reviewText": "this makeup actually looks gorg!! it is super hydrating and makes pores and lines disappear. unfortunately it broke me out after a few days of wear (my skin is pretty reactive). so be careful if you have acne prone skin, but i wish it worked for my skin, it is a great foundation!",
+          "reviewDate": "Reviewed in the United States on November 23, 2025",
+          "customer": "Andrew Davis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEXFMAPGSPO5LDOA2UOTT7N4H6AA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "22 people found this helpful"
+        },
+        {
+          "reviewTitle": "Finally a foundation that I love!",
+          "reviewText": "I finally found the perfect foundation. I am 45 and was looking for a foundation with SPF that doesn\u2019t settle into lines. My skin is also prone to breakouts. The foundation is not oily, feels so soft going on and does not cause breakouts for me. I just wore it to the beach, swam twice in the ocean, and when I came home, the foundation was intact. Amazing!",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "emily",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH5DG3XMIBUFE6AD2VJDPLD5H42A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Golden Ivory",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Gorgeous",
+          "reviewText": "This foundation is amazing for the price. It truly feels like a high-end product, provides light to medium glowy coverage. It\u2019s also great for travelling as it\u2019s not heavy at all. I also bought the primer and they work very well together. I would definitely repurchase when I run out.",
+          "reviewDate": "Reviewed in Canada on January 5, 2026",
+          "customer": "Tania",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Beige Rose",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

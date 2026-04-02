@@ -1,0 +1,554 @@
+{
+  "requestMetadata": {
+    "id": "a8bf557b-49f2-4bf8-a180-fd327f08246a",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a8bf557b-49f2-4bf8-a180-fd327f08246a.html",
+    "json": "https://files.hasdata.com/a8bf557b-49f2-4bf8-a180-fd327f08246a.json",
+    "url": "https://www.amazon.com/dp/B084VD9X8S"
+  },
+  "product": {
+    "asin": "B084VD9X8S",
+    "url": "https://www.amazon.com/dp/B084VD9X8S",
+    "title": "Est\u00e9e Lauder Futurist Hydra Rescue Moisturizing Foundation Makeup SPF 45 for a 12-Hour Glow, 1.2 Fl Oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "3N1 Ivory Beige - Medium with neutral undertones"
+    },
+    "featureBullets": [
+      "FOUNDATION + SKINCARE: Futurist is flawless foundation, powered with high-performance Est\u00e9e Lauder skincare. Soothes and reduces visible redness and irritation for a healthy, radiant look. It nourishes and hydrates. Improves skin\u2019s moisture barrier.",
+      "HIGHLIGHTED INGREDIENTS: Nourishing Chia-Seed Extract, Soothing Probiotic Technology and Hydrating IonCharged Water Complex.",
+      "POWERFUL SPF: Provides broad spectrum UVA/UVB protection with SPF 45.",
+      "MADE WITHOUT: This skin-loving foundation is free of parabens, phthalates, drying alcohols and mineral oil.",
+      "POWER YOUR GLOW WITH FUTURIST: Discover the complete Futurist Collection of skincaring makeup, powered by science. Reveal radiant, beautiful skin\u2014now and in the future."
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B08B85J8WQ",
+        "title": "1N2 Ecru - Light with cool rosy-peach undertones",
+        "url": "https://www.amazon.com/dp/B08B85J8WQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fBm05FyBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08BG6W3WY",
+        "title": "5W1 Bronze - Deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B08BG6W3WY",
+        "imageUrl": "https://m.media-amazon.com/images/I/619z9xsq7bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08BG64DM9",
+        "title": "4W1 Honey Bronze - Medium tan with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B08BG64DM9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Vn0nKkNsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BXN2X3C4",
+        "title": "2C1 Pure Beige - Light-medium with cool pink-peach undertones",
+        "url": "https://www.amazon.com/dp/B0BXN2X3C4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NruEAnXqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B084VD9X8S",
+        "title": "3N1 Ivory Beige - Medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B084VD9X8S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61KLIqbHwcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B51BBYJG",
+        "title": "6N1 Mocha - Very deep with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0B51BBYJG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jWeRUkrEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08NW7YCYT",
+        "title": "2W1 Dawn - Light-medium with warm peach undertones",
+        "url": "https://www.amazon.com/dp/B08NW7YCYT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bi5HxqSJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B085DWW3Q4",
+        "title": "5N2 Amber Honey - Medium tan with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B085DWW3Q4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NDQ5im3+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B084WTC13N",
+        "title": "2N1 Desert Beige - Light-medium with neutral undertones",
+        "url": "https://www.amazon.com/dp/B084WTC13N",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QlGRKCFpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B088P7DRNR",
+        "title": "6W1 Sandalwood - Very deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B088P7DRNR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61W+m3rUaaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B085DXK7NY",
+        "title": "7N2 Rich Amber - Extra deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B085DXK7NY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sUHQHXhwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B51D562L",
+        "title": "4N2 Spiced Sand - Medium tan with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B0B51D562L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FHg-8pGwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B7XXZVF1",
+        "title": "2N2 Buff - Light-medium with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B0B7XXZVF1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jF2ErhUML._SL1500_.jpg"
+      },
+      {
+        "asin": "B085DWZ34R",
+        "title": "7W2 Rich Spice - Extra deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B085DWZ34R",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vnJakZasL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08BG5YHZ2",
+        "title": "8N2 Rich Espresso - Deepest with neutral brown undertones",
+        "url": "https://www.amazon.com/dp/B08BG5YHZ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Qv4Rv4kUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08B7V3HM4",
+        "title": "1N0 Porcelain - Light with cool rosy-peach undertones",
+        "url": "https://www.amazon.com/dp/B08B7V3HM4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ozZptAPWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B431M9F2",
+        "title": "1W1 Bone - Light with warm undertones",
+        "url": "https://www.amazon.com/dp/B0B431M9F2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CzgdLrjuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08B7WG5KN",
+        "title": "4N1 Shell Beige - Medium Tan with neutral undertones",
+        "url": "https://www.amazon.com/dp/B08B7WG5KN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+hnqwyRHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08B817DDQ",
+        "title": "3C2 Pebble - Medium with cool rosy undertones",
+        "url": "https://www.amazon.com/dp/B08B817DDQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RZYPI0-jL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08514TVVG",
+        "title": "3W1 Tawny - Medium with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B08514TVVG",
+        "imageUrl": "https://m.media-amazon.com/images/I/616chuQSi4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNZMY74B",
+        "title": "1C1 Cool Bone - Light with cool rosy-peach undertones",
+        "url": "https://www.amazon.com/dp/B0BNZMY74B",
+        "imageUrl": "https://m.media-amazon.com/images/I/616KS5DsUVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B084WZG3F2",
+        "title": "1W2 Sand - Light with warm subtle olive undertones",
+        "url": "https://www.amazon.com/dp/B084WZG3F2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61De5opUShL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08BG6DZ31",
+        "title": "3N2 Wheat - Medium with neutral subtle golden undertones",
+        "url": "https://www.amazon.com/dp/B08BG6DZ31",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UJqk1EkoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B51DCNZZ",
+        "title": "5W2 Rich Caramel - Deep with warm golden undertones",
+        "url": "https://www.amazon.com/dp/B0B51DCNZZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iYX-VgLHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08B7VQ4GR",
+        "title": "2C3 Fresco - Light-medium with cool rosy beige undertones",
+        "url": "https://www.amazon.com/dp/B08B7VQ4GR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iL2Oc2+aL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08G1CLQFR",
+        "title": "6C1 Rich Cocoa - Very deep with cool subtle red undertones",
+        "url": "https://www.amazon.com/dp/B08G1CLQFR",
+        "imageUrl": "https://m.media-amazon.com/images/I/618Iau6braL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09WX7NHY9",
+        "title": "3W2 Cashew - Medium with warm olive undertones",
+        "url": "https://www.amazon.com/dp/B09WX7NHY9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61j-KUhmmtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08G1C4C8C",
+        "title": "8C2 Intense Java - Deepest with cool brown undertones",
+        "url": "https://www.amazon.com/dp/B08G1C4C8C",
+        "imageUrl": "https://m.media-amazon.com/images/I/618QShiiiSL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 55,
+      "beforePrice": 55,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 44 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/61KLIqbHwcL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61KLIqbHwcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zZSECcYVL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61haV+dZKyL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51eNfJ7sSmL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61MBPlW8+ZL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71-8-kYLs6L._SL1000_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b972e793-9511-4c07-b30f-2cce35d9bdbb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/67d4f21f-1200-4f61-b248-bbe6975ed057.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d8277e6-0cc8-4a43-8696-0a8851c2b173.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5dcd3a8b-96dd-4296-bea7-95ab7cfe2258.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/02498960-76a2-46f3-95fc-09d266cc7a34.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d42f2f74-3191-4e0e-92b4-29ffb5d6e5a0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/44aba629-2e14-4526-b125-8095034e48e2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ded42d87-f6bb-4b7c-ae65-9017dd2fcb42.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cf4b8f4c-548b-4eb1-97ad-c83d93b87ade.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a2b52337-6c72-4d39-9630-19f8e9d36d05.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/328c1412-090f-4868-bef9-3d8fbbc56ff2.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d263ccf-cbc5-47fc-bf8a-78880f0fd639.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a35738a1-ecf6-4de7-b529-e98cb9c5fee1.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "3N1 Ivory Beige - Medium with neutral undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Hydration, Longwear"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Est\u00e9e Lauder"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "SOOTHES redness & irritation. PROTECTS from pollution with antioxidants + SPF 45. HYDRATES instantly, all day."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Youth"
+      },
+      {
+        "key": "Specialty",
+        "value": "natural"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00887167466715"
+      },
+      {
+        "key": "UPC",
+        "value": "887167466715"
+      },
+      {
+        "key": "Model Number",
+        "value": "887167466715"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "887167466715"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Est\u00e9e Lauder"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#7,839 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #90 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B084VD9X8S"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "45 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable, Lightweight"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium-to-Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1.2 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3.94 x 3.94 x 1.97 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.2 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free, Silicone Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2579,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "83%",
+        "fourStars": "8%",
+        "threeStars": "4%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage without lines or creases, and appreciate its hydrating properties that keep skin moisturized throughout the day. The product receives positive feedback for its lightweight, natural-looking finish, and its effectiveness for aging skin. While many customers say the color matches their skin perfectly, some report it's not the right shade for them.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 102,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 86,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 47,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 45,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 45,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 35,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin appearance",
+          "count": 29,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 54,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71Jr5BvjoxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Bq-jsUg2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61PEXt5pk1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71PNbI6RHdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/713GlkleyEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wDu81JzZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71strwpwRSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Pa3VaiVCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71xrR19Qi+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qoI-OO7qL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ff7fvP9FL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "WOW! This is great makeup!",
+          "reviewText": "Great coverage and makes your skin look natural! I'm an \"old dog\" and I have used every makeup there is and this makeup makes me look like I am 25! No kidding! I am lucky to have great skin. My Mom showed me how to take care of it when I was young. I was a swimmer most of my life and skied all over the place and back then there was no sun screen available. This makeup is light and has full coverage! Its awesome! I apply it with a makeup brush and it is flawless! I love it!",
+          "reviewDate": "Reviewed in the United States on January 31, 2026",
+          "customer": "The Judster!",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGGGPSHSI6BFNRQVH5GFXASVOXSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2N2 Buff - Light-medium with neutral subtle golden undertones"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent Make-up",
+          "reviewText": "I've been using this make-up for several years and I really like it. It goes on smoothly and has excellent coverage, but not too heavy and it doesn't dry out my skin.",
+          "reviewDate": "Reviewed in the United States on January 22, 2026",
+          "customer": "BirdMama",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGYGWSIPFNBDJYZKCHVPBDPPFLDQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2C3 Fresco - Light-medium with cool rosy beige undertones"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love this makeup!",
+          "reviewText": "I\u2019ve been using this makeup for about 8 months. I used to use Dior Backstage Face and Body makeup, but never could find a color that matched my skin exactly. This makeup has similar buildable coverage, and I use 1N2 in the winter when I\u2019m pale, and 3C2 in the summer. The colors are perfect, and it also has SPF45. I live 20 minutes from the Gulf and have worn this makeup as sunscreen at the beach, it keeps my face from burning. I love that this makeup has a dewy look, and it\u2019s also moisturizing. I use all Est\u00e9e Lauder skincare (I\u2019m 52 and recommend the Revitalizing Supreme + night power bounce cream and Re-nutriv ultimate diamond sculpted transformation cr\u00e8me). The skincare plus this makeup has made a HUGE difference in my face and especially my neck, all my lines and wrinkles are gone. You get what you pay for!",
+          "reviewDate": "Reviewed in the United States on June 2, 2025",
+          "customer": "Mrsquachicsiempre",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGTQ2DTW7LAXOKP47WX3B3ETJJ5Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1N2 Ecru - Light with cool rosy-peach undertones"
+          },
+          "helpfulVotes": "29 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect",
+          "reviewText": "Best foundation I have tried. The coverage is great and it lasts all day. I am a Estee Lauder fan.",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "Beverly Casselberry",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPER5V5YDWCIIEE5RLDBDDTRASQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2C1 Pure Beige - Light-medium with cool pink-peach undertones"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent coverage and overall quality",
+          "reviewText": "For older skin this product does not disappoint, great coverage and does not crease or fall into lines. Excellent skin match I keep 2 shades on hand for seasons. It blends well, and very easy to apply. Price point is a little expensive but not for this quality",
+          "reviewDate": "Reviewed in the United States on January 6, 2026",
+          "customer": "Flush was unbearable, could not take",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH6WT7WP6WLTSUU4PGTIVQYQC6GQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2C3 Fresco - Light-medium with cool rosy beige undertones"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Could be better could be worse",
+          "reviewText": "Pretty good for every day, but could definitely be improved. The shade range could be better, they need to make more fair cool shades. I use 1c1 and it\u2019s pretty dark for being the lightest shade. When it\u2019s first applied it looks like a good shade match, but it oxidizes heavily almost immediately. I have to make sure to blend it out really well or it\u2019s noticeable. Luckily when it\u2019s blended out I can get away with it even though it\u2019s not a perfect match. The formula feels nice on the skin. It\u2019s light coverage, and I don\u2019t recommend trying to build the coverage or it will become cakey and greasy. I also notice it becoming patchy throughout the day in my dry spots, which is weird because it\u2019s a glowy foundation and my matte foundation (Banila co coverlicious) doesn\u2019t do that. It\u2019s good for a daily light makeup look (especially because of the spf), but I wouldn\u2019t recommend it if you\u2019re looking for something more \u201cflawless.\u201d",
+          "reviewDate": "Reviewed in the United States on January 30, 2026",
+          "customer": "Christie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG2BRVTNDAU7I57ZGWEW72A3PIPA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "1C1 Cool Bone - Light with cool rosy-peach undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Good coverage and hydrating",
+          "reviewText": "Love it for senior skin",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Judy A. Campbell",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6JPB6GL67IBU7N62FM5JQ5PNOQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2C1 Pure Beige - Light-medium with cool pink-peach undertones"
+          }
+        },
+        {
+          "reviewTitle": "HIGHLY RECOMMENDED",
+          "reviewText": "OK, this is expensive, however, it\u2019s a wonderful product. It blends beautifully and doesn\u2019t sink into creases. The color is perfect and it feels so light and wonderful. It\u2019s a new fav!",
+          "reviewDate": "Reviewed in the United States on February 5, 2026",
+          "customer": "Cheryl Links",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEPEOLENHEKOP3WYTFIVAZ2QOQMA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "2N1 Desert Beige - Light-medium with neutral undertones"
+          }
+        },
+        {
+          "reviewTitle": "Excellent product",
+          "reviewText": "I really like the lightness and smoothness of this makeup. It does not smell bad like other products",
+          "reviewDate": "Reviewed in Belgium on July 31, 2024",
+          "customer": "Mariana CF",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "3W1 Tawny - Medium with neutral subtle golden undertones"
+          }
+        },
+        {
+          "reviewTitle": "Amazing!",
+          "reviewText": "Excellent product! I use send 5 years and it\u2019s amazing!",
+          "reviewDate": "Reviewed in Germany on August 15, 2025",
+          "customer": "C\u00e1tia Ferreira",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1N2 Ecru - Light with cool rosy-peach undertones"
+          }
+        },
+        {
+          "reviewTitle": "I was worried at first...",
+          "reviewText": "But this is the real deal! A lot cheaper than buying in the UAE, crazy! I thought maybe I would get a knock off, but everything seems to be in order.",
+          "reviewDate": "Reviewed in the United Arab Emirates on May 11, 2024",
+          "customer": "Ky",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "1N0 Porcelain - Light with cool rosy-peach undertones"
+          }
+        }
+      ]
+    }
+  }
+}

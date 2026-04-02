@@ -1,0 +1,324 @@
+{
+  "requestMetadata": {
+    "id": "9c98662b-e0df-44c0-8d11-1a383bd7cfff",
+    "status": "ok",
+    "html": "https://files.hasdata.com/9c98662b-e0df-44c0-8d11-1a383bd7cfff.html",
+    "json": "https://files.hasdata.com/9c98662b-e0df-44c0-8d11-1a383bd7cfff.json",
+    "url": "https://www.amazon.com/dp/B0CGCNJV4P"
+  },
+  "product": {
+    "asin": "B0CGCNJV4P",
+    "url": "https://www.amazon.com/dp/B0CGCNJV4P",
+    "title": "R\u014cZ Foundation Shampoo For All Hair Types & Textures | Hydrating & Cleansing For Healthy Hair| Vegan, Color-Safe, Free of Silicone, Sulfates, Paraben, SLS | Strengthens & Nourishes 10.1 oz/300 mL",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "10.1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "GENTLE & THOROUGHLY CLEANSING: This hydrating, ph balancing shampoo creates the perfect foundation for air drying and styling. Coconut-based surfactants gently remove buildup while enhancing the hair\u2019s natural movement.",
+      "BOTANICOMPLEX FOR STRONGER HAIR: Our proprietary complex restores hair health, strengthens strands, soothes the scalp, and preserves color. Powered by Grape Extract, Frankincense, Walnut Oil, and Ginger Root for nourishment.",
+      "HYDRATING & COLOR-SAFE: Rich lather cleanses without stripping, leaving hair soft, healthy, and primed for effortless styling. pH-balancing formula preserves color and scalp health while deeply hydrating.",
+      "VEGAN & FREE FROM HARSH INGREDIENTS: Made without silicones, parabens, sulfates, SLS, triclosan, or gluten. Cruelty-free and safe for all hair types and textures, ensuring a clean, high-performance cleanse.",
+      "LIGHTWEIGHT, BALANCED FORMULA: Strengthens, reinforces hair health, and promotes a hydrated scalp. Perfect for daily use, this award-winning shampoo delivers weightless nourishment without buildup."
+    ],
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Hair Care",
+      "Shampoo & Conditioner",
+      "Shampoos"
+    ],
+    "variants": [
+      {
+        "asin": "B0CGCNJV4P",
+        "title": "10.1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CGCNJV4P",
+        "imageUrl": "https://m.media-amazon.com/images/I/51WJXbcXHZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DB2PXXPC",
+        "title": "20.2 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DB2PXXPC",
+        "imageUrl": "https://m.media-amazon.com/images/I/51QAC+YEskL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 31.2,
+      "beforePrice": 39,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 55 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "ROZ Hair",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3U0THGB4Q4ROP",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/51WJXbcXHZL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51WJXbcXHZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61fm7H3bCOL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61r9ihxe1wL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61GAxeQZfeL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51bQEVrPu5L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/612oRvbWNRL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61VUwSvRI8L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51XoJNrA75L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61lQMzNLMjL._SL1000_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bec781d5-dc68-4420-988a-08b7d00a5b45.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8ec8d33f-bf7f-42bc-bcc8-a3c44d3a841a.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3f6d85e8-9daf-4083-a171-4907332ce083.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85b57d3d-fb58-4ca0-bd28-73127c3a1342.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4497a236-3421-4bc8-9693-6a59fa22393c.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4497a236-3421-4bc8-9693-6a59fa22393c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/20d2b64e-0e50-4d38-9057-fc217e1704ca.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/622df1ee-7903-4eb4-bcd3-489c32734010.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3dd0a051-d0c3-43f6-959c-082c74e51b1d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/224d09ea-8c24-479c-83cb-e7c65a620753.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Hair Type",
+        "value": "All"
+      },
+      {
+        "key": "Scent Name",
+        "value": "Coconut"
+      },
+      {
+        "key": "Other Special Features of the Product",
+        "value": "Not Tested On Animals, Vegan"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating, Detangling , Cleansing"
+      },
+      {
+        "key": "Suitable Hair Color",
+        "value": "All Hair Colors"
+      },
+      {
+        "key": "Brand Name",
+        "value": "R\u014cZ"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "All"
+      },
+      {
+        "key": "UPC",
+        "value": "196852906482"
+      },
+      {
+        "key": "Model Number",
+        "value": "FGRZSH0000"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "FGRZSH0000"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "ROZ-Women's"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Hair Shampoo"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#7,135 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #221 in Hair Shampoo"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CGCNJV4P"
+      },
+      {
+        "key": "Liquid Volume",
+        "value": "300 Milliliters"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Item Weight",
+        "value": "14 Ounces"
+      },
+      {
+        "key": "Unit Count",
+        "value": "10.1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty free, Paraben free, SLS free, Triclosan free, Gluten free"
+      },
+      {
+        "key": "Active Ingredients",
+        "value": "Ginger Root, Frankincense, Grape Extract, Walnut Extract"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 106,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "6%",
+        "threeStars": "10%",
+        "twoStars": "3%",
+        "oneStars": "9%"
+      },
+      "customersSay": "Customers find this shampoo effective and appreciate its delightful scent. The product makes hair feel clean and soft, with one customer noting it works well for fine hair. While some customers consider it well worth the money, others find it a bit pricey.",
+      "aspects": [
+        {
+          "aspect": "Effectiveness",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Cleansing",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Fragrance",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Hair type",
+          "count": 6,
+          "status": "positive"
+        },
+        {
+          "aspect": "Softness",
+          "count": 6,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 8,
+          "status": "mixed"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Best shampoo",
+          "reviewText": "This shampoo is our absolute favorite. It cleans my hair really well and leaves it so soft. The scent is intoxicated! Doesn't harm my color at all. When I saw that they had a refill, I jumped on it. I believe its about 2 and a half refills which has lasted us months!",
+          "reviewDate": "Reviewed in the United States on December 15, 2025",
+          "customer": "Ashley Bennett-Rice",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH7CV3VV7RV6GMW5YTESLUFXOB6A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "20.2 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Love the product",
+          "reviewText": "It was a little bit expensive but well worth it",
+          "reviewDate": "Reviewed in the United States on January 30, 2026",
+          "customer": "Patti",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHNQKPX2H4WCSKWWLRNNR3MSLYYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Absolutely lovely",
+          "reviewText": "I have been struggling to find a new shampoo that will work with my hair now that it is changing as I age. I am approaching 34 and in perimenopause. My hair is color treated and very coarse and thick. I don\u2019t know why there are complaints about the scent. I found the scent to be delightful and light. It was not strong at all. Perhaps some folks have more sensitive olfactory senses. I do not have sensitivities to scents so this shampoo smelled great to me. The lather was quick and left my hair feeling very clean and healthy. I am very satisfied with this shampoo. Pricey for the size, but honestly worth it.",
+          "reviewDate": "Reviewed in the United States on February 27, 2025",
+          "customer": "Kelly Lingo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQPTER4BN5WUKISIKQPUZGMSROQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Favorite shampoo I own",
+          "reviewText": "AMAZING SHAMPOO!!! My favorite in my shower. It smells amazing and really works. I love using all the Roz products together they are incredible. My hair feels so clean and healthy after I use this. Will never ever stop using.",
+          "reviewDate": "Reviewed in the United States on June 19, 2025",
+          "customer": "N. Parsons",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE2L5X3M6LZT2MR5ICA4FP2CK7AQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not for dry hair",
+          "reviewText": "liked the shampoo but its dedinately not for wavy dry type hair or scalp. Left my hair and scalp super dry",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Val-J",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFUVUJHPERKEE7XVFH4PLKB4PCTQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Broken pump, leaky bottle",
+          "reviewText": "The pump on this bottle was impossible to use. Could not get it to open despite the helpful hints provided by the company. The product also arrived leaking and all over the inside of the box. It smells nice. Please consider a bottle design that doesn\u2019t require helpful hints about opening. Washing one\u2019s hair should be a no brainer!!",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Karen M Truhe",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEE57AUSICC5YXGHD7XTL2ARD77A",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Roz Foundation Shampoo For All Hair Types & Textures",
+          "reviewText": "LOVE this shampoo. My hair is very dry and coarse and haven't found right shampoo until now. This shampoo is a little pricey but well worth it. My hair feels soft and very manageable. Please try it, you won't be disappointed.",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "BJ",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGBF33IXSSGE6CMS2OFXG2BB2LXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Roz shampoo",
+          "reviewText": "Makes my hair soft",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "jrm",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEIKOBFWQWOCRCMIRHZRYQSZZIRA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "10.1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

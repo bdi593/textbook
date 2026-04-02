@@ -1,0 +1,382 @@
+{
+  "requestMetadata": {
+    "id": "66380537-eb02-4552-80fb-cda9d8218f73",
+    "status": "ok",
+    "html": "https://files.hasdata.com/66380537-eb02-4552-80fb-cda9d8218f73.html",
+    "json": "https://files.hasdata.com/66380537-eb02-4552-80fb-cda9d8218f73.json",
+    "url": "https://www.amazon.com/dp/B0G1VBDXYF"
+  },
+  "product": {
+    "asin": "B0G1VBDXYF",
+    "url": "https://www.amazon.com/dp/B0G1VBDXYF",
+    "title": "Luxe Color Changing Foundation for Women \u2013 Instantly Adapts to Your Skin Tone \u2013 Buildable Light-to-Medium Coverage \u2013 12-Hour Wear \u2013 Natural Dewy Finish - Medium",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Medium"
+    },
+    "featureBullets": [
+      "ADAPTS TO YOUR SHADE: Applies white, transforms to your perfect match in minutes.No more guessing. No more orange by noon.",
+      "MICROBEAD COLOR TECHNOLOGY: Tiny capsules detect your skin's pH and release your exact shade. Blends seamlessly for a natural, matte finish.",
+      "STAYS TRUE ALL DAY: Static foundations oxidize and shift color. This one adjusts continuously.Your morning shade stays your evening shade.",
+      "SKINCARE INSIDE: Hyaluronic Acid, Niacinamide, and peptides work while you wear it.Foundation that helps your skin, not hurts it.",
+      "ONE SHADE FITS ALL: Stop buying wrong shades. One formula matches every skin tone - the same technology Korea uses now."
+    ],
+    "boughtInPastMonth": "10K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0G1VDB22X",
+        "title": "Light",
+        "url": "https://www.amazon.com/dp/B0G1VDB22X",
+        "imageUrl": "https://m.media-amazon.com/images/I/714W0naylgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G1VBDXYF",
+        "title": "Medium",
+        "url": "https://www.amazon.com/dp/B0G1VBDXYF",
+        "imageUrl": "https://m.media-amazon.com/images/I/716qzZ51eiL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 39.9,
+      "priceFrom": 39.9,
+      "otherOfferQuantity": 2
+    },
+    "deliveryRawDate": "Wednesday, April 8",
+    "deliveryIsoDate": "2026-04-08T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "returns": "30-day refund/replacement",
+    "seller": "LuxeCosmetics",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1E025XAV15YU7",
+    "shipper": "LuxeCosmetics",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/716qzZ51eiL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/716qzZ51eiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61X6yQAbZUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81M11M131nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cnirHTJ4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71V3Xz8+MzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71lD509WcHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716mJoSzwQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81JtoaqhElL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71goPqWZj7L._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d64ae80-d985-43ab-aa55-3f45bc632a12.__CR0,0,1940,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac21105d-f239-4402-b386-2b48ca1ac7b5.__CR0,0,1940,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6999a420-b281-4249-aa95-bc84bdf31694.__CR0,0,1940,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/334a391a-8022-4173-9130-0879fb54610b.__CR0,0,1940,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54f50330-8b63-4989-bb40-46fa0809a788.__CR0,0,1940,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1210585a-fdfa-46de-a021-47f17a1c385d.__CR0,0,1940,600_PT0_SX970_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/afba8b85-8c6f-44d3-8de2-c6b49a802f34.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/afba8b85-8c6f-44d3-8de2-c6b49a802f34.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/928986a7-2e5c-4fa5-a1f2-23b04ed79456.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1d92e99c-79ff-410b-8876-79e43f2aaddd.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e5e42e82-e557-4edc-acb3-9b78bc4550bc.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/25db872e-bebd-42e7-9a95-e743b2f28978.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Product Benefits",
+        "value": "Color Correction"
+      },
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Specialty",
+        "value": "Color Correcting"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light-to-Medium Coverage"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Luxe Cosmetics"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Luxe"
+      },
+      {
+        "key": "UPC",
+        "value": "199284100763"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#712 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #8 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0G1VBDXYF"
+      },
+      {
+        "key": "Item Volume",
+        "value": "30 Milliliters"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.05 Kilograms"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1055,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "60%",
+        "fourStars": "11%",
+        "threeStars": "9%",
+        "twoStars": "6%",
+        "oneStars": "14%"
+      },
+      "customersSay": "Customers find the foundation easy to apply and appreciate its lightweight, smooth application that creates a natural, bare-skin look. The product receives positive feedback for its quality, with one customer describing it as the best foundation they've used. However, the color match and coverage receive mixed reviews - while some say it matches their skin perfectly, others report it becomes orange when applied, and while some find it very covering, others note it's very sheer. Moreover, customers disagree on how well it suits their skin type, with some finding it great for mature skin while others say it makes wrinkles more noticeable. Additionally, customers consider the product not worth its price.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 132,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 49,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 47,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 41,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 184,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 122,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin type",
+          "count": 103,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 56,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/610odZUKS+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61g8+7ClqQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pis51xRRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YrvgmqQLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61DZscSlbhL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Nx0L1-17L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71igfyMZluL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ewMmu6SNL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51SzMflXe7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613p3vd8Z-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61dTJvaHllL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61g9HZJugjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "I tried it, so you don\u2019t have to (but totally should!)",
+          "reviewText": "This foundation is like the best kind of witchcraft! For reference, I have mature, redness prone skin, with age spots, scars and active blemishes. The color-matching formula actually works\u2014it blends into my skin and adjusts to a really natural shade without looking orange or too dark. It gives a beautiful light-to-medium coverage that evens everything out while still letting my skin look like skin. What I love most is how well it works on mature skin. It doesn\u2019t settle into fine lines or creases, and it has a soft, dewy finish that makes my skin look fresh and healthy without feeling sticky or heavy. It\u2019s lightweight, comfortable to wear all day, and gives a very natural glow. While it didnt really cover the newish blemish on my skin, it certainly toned down the appearance and camouflaged the redness in the rest of my face. The last photo is just my bare skin with the foundation, no primer, setting powder or blush. I\u2019m a believer!",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Central Florida Big Dog Mom",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGOSC435WBZ7KHACRB55BLKRIGYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "129 people found this helpful"
+        },
+        {
+          "reviewTitle": "It works!!!!",
+          "reviewText": "I kept seeing this brand on social media and was HIGHLY skeptical. I really struggle with foundations. I thought I had found the perfect on in Fenty, but I was wrong. My skin isn't what it was 20 years ago (I'm in my 40s) and finding something that both matches my skin tone and doesn't settle into fine lines and wrinkles seemed impossible. I actually had decided to stop wearing foundation because I was so annoyed about it. Like I said, though, this brand kept coming up and I finally decided to give it a try. I am shocked at how good it is. It does match my skin tone. I'm going to have friends and family try it, to see if it matches them as well or if it just tries to make us all the same color, but I actually don't even care which proves to be the case - it matches my skin perfectly. I use a brush to apply it, and it goes on flawlessly. No streaks, no lines, smooth, even, all the things. And the best part is that it actually looks better, not worse, as the day goes on. It lasts through everything too. I ride my horse almost daily, at the end of the day, and it doesn't come off on my helmet. My makeup still looks as good, if not better, when I'm leaving the barn as it did when I first put it on in the morning. If you're on the fence, I highly recommend giving it a try.",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "himurray",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGV3ZSBO3AXQHZMTWOXT2QQDPCHA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium"
+          },
+          "helpfulVotes": "35 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup but the tube wasn't full",
+          "reviewText": "The makeup itself I would give 5 stars - I LOVE it. It covers well, the color is slightly darker than my skin tone but it still looks great and it's not cakey at all. The reason I'm giving 4 stars is because the tube only appears to be about 2/3rds full right out of the box so I don't feel like I got my money's worth.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Gladys",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEZFNLIRKF7DOWQSGZLQHU526FCQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "71 people found this helpful"
+        },
+        {
+          "reviewTitle": "Luxe Color Changing Foundation for Women",
+          "reviewText": "It maybe a little early to give a review. I was surprised how light it was on my face. I it did not cover all my impurities. It did blend perfectly. I only apply a light coat. I could apply more but I like the natural look. It did camouflage where I had surgery on my cheek. I had it on for about nine hours. It did not look cakey, and the best part was it did not settle in my wrinkles. I am 72 years old as you can guess I have plenty wrinkles. I do not wear makeup every day. This is perfect for me. It is a little expensive, however I like to feel like a well-dressed lady once in a while. I am a care giver to my hubby who is on house bound in hospice care. I have always worn. I worked and wore makeup every day. I would recommend it to anyone.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "Glenda Holton",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGFZCBWNILB2C35C4YKB6QXTEZIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "49 people found this helpful"
+        },
+        {
+          "reviewTitle": "Beautiful color and finish!",
+          "reviewText": "Amazing! I usually hate color changing foundations because of their consistency. This one is light and blends beautifully. Perfect color and very nice light coverage. Adds moisture to my skin but doesn't make it shiny. I'm in my '50s and this is perfect foundation!",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "VA2NC2VA",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGU74PBLKWG2ID35X2CRP7XPQCVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Seeing is believing",
+          "reviewText": "This actually does what it says it does. Coverage and an exact color match to my mature skin. No primer needed and I didn't even set with powder yet no settling in lines. I've tried everything and usually have to mix colors and/or ad blue to get rid of orange in foundations. This is a first., straight outta the bottle onto my skin, blend and done. I use an emollient moisturizer and have normal to dry skin with cool tones. I'm always trying something new for fun and wasn't expecting these results. One of the few products I'll buy over and over again. I've had color matching issues for 50 years. Started with makeup as a young teen and I love love love makeup but now at my age there's a new play book. Young women can basically put anything on their skin but not so when we age. Many makeup's make one look older or give that Baby jane look. Glow settles in fine lines or makes me look sweaty, matte is a NFW and blending is vital. With a color that matches to perfection blending over and over is not needed. We mature women have to be careful not to use a heavy makeup even with eye and lip color (they can age you) but I don't want to give up coverage either. Beautiful coverage and a believable finish. Love it. I used a brand new dampened sponge but finger tips worked well also. Put a small stripe onto my cheek straight from the bottle then spread around. I put this to the test and it passed with flying colors. A real time saver because it's so easy to use and I got a great \"no makeup\" look.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "skeptic",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFDRREERJJ5KJ3FRYVY4R6AEJHQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium"
+          },
+          "helpfulVotes": "27 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light shade too dark still",
+          "reviewText": "I loved the texture and coverage of this product more than anything but the color match light foundation was still too dark for my northern pale skin. If it can get a shade or two lighter I will back because it sits nice on 40 yr old skin! I just look like I have self tanner on after blending every which way possible",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "Christine",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGUTRY67LMQ2ASRBRDDHCLMLEQEQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Definitely worth trying",
+          "reviewText": "Wonderful! I was reluctant to try it but needed something different for my mature skin. I am impressed by the true color match. It is light and somewhat buildable. It doesn\u2019t fully cover my dark spots but it does conceal them. If you\u2019re looking for a true full coverage, this may not be it but definitely a nice foundation. My skin looks great all day.",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "Michelle",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGCN6EV752XBDXOWAZOVKDKDBD6Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect skin tone match",
+          "reviewText": "I was really worried this product wouldn\u2019t live up to the hype, but I was shocked how good it is. It did blend to match my skin tone perfectly, I\u2019m medium to light olive,, although has a light to minimal coverage. Maybe I just need to use more. No caking or creasing at the eye area and I\u2019m 50. I did think the tube was a bit smaller than I was expecting but despite this I would definitely recommend. Five stars!",
+          "reviewDate": "Reviewed in the United Kingdom on March 12, 2026",
+          "customer": "A C BRACEWELL",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium"
+          }
+        },
+        {
+          "reviewTitle": "Smooth texture. Perfectly matched skin tone.",
+          "reviewText": "Not thick on your face Smooth. Don\u2019t show. Fine lines in the makeup Great coverage.",
+          "reviewDate": "Reviewed in Canada on February 11, 2026",
+          "customer": "happy customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          }
+        },
+        {
+          "reviewTitle": "Rip off",
+          "reviewText": "Tube was half empty cos \u00a352 i was ripped off. Plus it does not cover fine lined",
+          "reviewDate": "Reviewed in the United Kingdom on March 9, 2026",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Medium"
+          }
+        },
+        {
+          "reviewTitle": "Love this product",
+          "reviewText": "This gives me full coverage, but feels weightless. It lasts all day and it blends great",
+          "reviewDate": "Reviewed in Canada on February 13, 2026",
+          "customer": "Alison spry",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          }
+        },
+        {
+          "reviewTitle": "Didn\u2019t make a difference to my face, in fact, it mad it look ashen",
+          "reviewText": "Over rated",
+          "reviewDate": "Reviewed in the United Kingdom on March 25, 2026",
+          "customer": "Ms. S",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Medium"
+          }
+        }
+      ]
+    }
+  }
+}

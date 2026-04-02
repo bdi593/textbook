@@ -1,0 +1,523 @@
+{
+  "requestMetadata": {
+    "id": "fbda24c5-ad82-4317-a614-c5ba4cfb28ce",
+    "status": "ok",
+    "html": "https://files.hasdata.com/fbda24c5-ad82-4317-a614-c5ba4cfb28ce.html",
+    "json": "https://files.hasdata.com/fbda24c5-ad82-4317-a614-c5ba4cfb28ce.json",
+    "url": "https://www.amazon.com/dp/B00D2NUU8Y"
+  },
+  "product": {
+    "asin": "B00D2NUU8Y",
+    "url": "https://www.amazon.com/dp/B00D2NUU8Y",
+    "title": "COVERGIRL & Olay Simply Ageless Instant Wrinkle-Defying Foundation, Creamy Natural 0.44 Fl Oz (Pack of 1)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "220 Creamy Natural",
+      "size": "0.4 Ounce (Pack of 1)",
+      "style": "Foundation"
+    },
+    "featureBullets": [
+      "YOUNGER-LOOKING SKIN: This anti-aging foundation diminishes the look of fine lines and wrinkles for a more youthful glow",
+      "HYDRATING FORMULA: Contains hyaluronic complex and vitamin C for healthier-looking skin",
+      "SAFE IN THE SUN: With SPF 28, this foundation helps protect skin from sun damage",
+      "FIND YOUR SHADE: Available in multiple shades for you to find the right match for your skin tone",
+      "CRUELTY-FREE: Covergirl products are Leaping Bunny Certified by Cruelty-Free International, meaning they are never tested on animals"
+    ],
+    "description": "Keep them guessing with COVERGIRL Simply Ageless Instant Wrinkle-Defying Foundation. The #1 anti-aging foundation glides over fine lines and wrinkles to reduce their appearance and deliver a youthful-looking glow. Skin looks healthier and more hydrated thanks to the formula with hyaluronic complex and vitamin C, and it contains SPF 28 for protection from sun damage. Pro-tip: Use with COVERGIRL Simply Ageless Anti-Aging Foundation Primer for maximum results. At COVERGIRL, we\u2019re Leaping Bunny approved cruelty free by Cruelty Free International, so you know our products are never tested on animals.",
+    "boughtInPastMonth": "5K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B00D2NUQGK",
+        "title": "230 Classic Beige 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUQGK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71BRXdoel+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUR6Y",
+        "title": "235 Medium Light 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUR6Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71UJlAg4pEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUU7U",
+        "title": "210 Classic Ivory 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUU7U",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+EBKe-prL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUPT8",
+        "title": "255 Soft Honey 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUPT8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IlAHrsM6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUV6A",
+        "title": "215 Natural Ivory 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUV6A",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IbCN1XR0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUR14",
+        "title": "205 Ivory 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUR14",
+        "imageUrl": "https://m.media-amazon.com/images/I/71E-WbUS6BL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUU8Y",
+        "title": "220 Creamy Natural 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUU8Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HM+sABq5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07N8R1HV7",
+        "title": "210 Classic Ivory 1 Fl Oz (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B07N8R1HV7",
+        "imageUrl": "https://m.media-amazon.com/images/I/718QIUi0d4L._SL1420_.jpg"
+      },
+      {
+        "asin": "B00D2NUPRU",
+        "title": "225 Buff Beige 0.44 Fl Oz (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUPRU",
+        "imageUrl": "https://m.media-amazon.com/images/I/71K9S5+lJAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUQEC",
+        "title": "245 Warm Beige 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUQEC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71r4VSY1rUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUQDS",
+        "title": "250 Creamy Beige 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUQDS",
+        "imageUrl": "https://m.media-amazon.com/images/I/716Gns+ayaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUSN6",
+        "title": "240 Natural Beige 0.44 Fl Oz (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUSN6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71kjnYhpjxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00D2NUTIA",
+        "title": "260 Classic Tan 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B00D2NUTIA",
+        "imageUrl": "https://m.media-amazon.com/images/I/71kWp00XU5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07BKSYL4Y",
+        "title": "225 Buff Beige 0.4 Ounce (Pack of 1) Foundation",
+        "url": "https://www.amazon.com/dp/B07BKSYL4Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/6128vn3Y04L._SL1280_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 14.97,
+      "beforePrice": 19.99,
+      "discount": "-25%",
+      "priceFrom": 14.95,
+      "otherOfferQuantity": 11
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/71HM+sABq5L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71HM+sABq5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/611dsFvZDUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91LZ3e0Na5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81zyKgW8LaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Qku48ox9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719LEKT6v4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61-8KjqIuGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71LzDDagKWL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/afe504f8-8695-41f8-933d-07d672effc7c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4ec322d7-1631-4b44-ba5e-8adf04bd23a5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aafaa5b0-34c3-4f8d-aa11-95fb47736314.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad70c750-945f-4771-a146-721b64ca0f6f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa83c1a0-f321-4355-b7ee-c7f6fe827ec1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/799ac74f-95df-4912-9d95-d02baa89a134.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/66e229e9-0115-4fcc-a467-55c10c5dffb9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d8863db8-9c3e-4c91-9da4-2d1df9ba463f.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d8863db8-9c3e-4c91-9da4-2d1df9ba463f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Lotion"
+      },
+      {
+        "key": "Color",
+        "value": "220 Creamy Natural"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face, Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "COVERGIRL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Anti-Aging"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00008100007820"
+      },
+      {
+        "key": "UPC",
+        "value": "008100007820"
+      },
+      {
+        "key": "Model Number",
+        "value": "810000782"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "PPAX1409035"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Procter & Gamble - Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#843 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #11 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00D2NUU8Y"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "28 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Cruelty Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "70 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.7 x 1.01 x 2.7 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 27794,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "75%",
+        "fourStars": "13%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage, with one mentioning it covers fine lines, and appreciate its smooth application with a sponge. The product receives positive feedback for its moisturizing properties, keeping skin hydrated without being oily or dry, and its creamy texture that makes skin look smooth. Customers praise its perfect color match for skin tone and its natural, youthful appearance. Regarding longevity, while some say it stays all day, others report it dries up quickly.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 927,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 701,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 512,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 453,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 439,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 346,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 322,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 376,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/614ZQ5uiPdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61u+DQ8lV8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71R9-6h0c3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81FzLX-+YEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81ACcEfUxgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Zkr2SgpAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qjm7glDeL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/611KnwFv2wL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bpymyLjpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Rk+IJOqUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71yeGraTdyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81uO3syP-6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Unbelievably good!",
+          "reviewText": "Although I regularly try to save money on makeup items, foundation is the one thing I will splurge on. I don't know if I can name brands here, but I've been using a really lovely \"tinted serum\" + SPF lately that I was in love with. I've probably passed right by this CoverGirl Simply Ageless foundation pot a hundred times without giving it consideration. It popped up on a \" related to your interests\" feed, and I guess, on a whim, hypnotized by the swirl maybe? I just added it to the cart. I am so freaking glad I did! I'm not kidding when I say that every time I passed my reflection wearing this I was surprised and happy at the natural looking coverage and overall brightness I saw in my face. You can apply this with a brush and build up the coverage, but I've been using my fingers to blend and apply for a more natural look. The texture is thick, but lightweight like a whipped butter. Its almost grippy like a good serum/primer (without the heaviness). There is kind of a bounciness to it, if you know what I mean, and my skin felt soft, plumped,and young. The scent reminded me of that familiar CoverGirl smell I remember from junior high when I swore by their powder compact. Why did I ever leave you, CoverGirl? This is a fantastic buy considering now I love it more than my $49 tinted serum foundation. My skin is normal to dry, so I can speak to its effectiveness on this type of skin. It is moisturizing, so I'm not sure how it would work on oilier skin types. Glad I took the chance on this. Hope they never stop making it!",
+          "reviewDate": "Reviewed in the United States on October 22, 2025",
+          "customer": "t grace",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEFZJ5DVK4L4SFNINCHPEOF2BRPQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "210 Classic Ivory",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          },
+          "helpfulVotes": "88 people found this helpful"
+        },
+        {
+          "reviewTitle": "Ultra Silky Foundation With Good Coverage",
+          "reviewText": "***UPDATED*** 2 Weeks Later.. *The first time I reviewed this foundation I had only used it once and thought it was good/okay. I've been using it for almost 2 weeks now and decided it deserves an update. Here's what I've learned.. First and foremost, in my initial review I failed to notice that this foundation has a BROAD SPECTRUM SPF, which is an important factor in any skin care of beauty routine. Second, I love how BRIGHTENING this foundation is! It isn't thick or cakey, but goes on oh so smooth, and because of how brightening it is, I really don't need to fuss with much highlighter. Third... And this is the biggest reason why I'm reviewing a second time.. I originally gave this foundation 3 stars but have bumped that up to 5. I feel kind of dumb because I work in the beauty industry she totally missed the point of this foundation the first time around. When I saw the advertising for \"Ageless\" and that it floats over lines and wrinkles I assumed it would conceal those imperfections and was annoyed that I could still see my fine lines after applying. TOTALLY NOT THE POINT! The idea is that it IS antiaging because the product isn't sitting in those lines (and pores!) making them deeper and larger, which in turn helps your skin stay younger looking. I really feel silly for not picking up on that right away. So... You've got SPF, Peptides, and it won't settle into your lines and pores. This foundation is a winner! Thank you Cover Girl!! *FIRST REVIEW/FIRST DAY* Today I used my new Covergirl & Olay Simply Ageless Wrinkle Defy Foundation. I was sent this product for free from Covergirl for testing and review purposes. First impression of this product is that it is good.. But I wasn't blown away. I love that it contains peptides, which as an esthetician are a key component in many of my favorite products. I am pretty picky about foundation, but am by no means a make-up pro. Here is a breakdown of my overall opinion on this product.. 1. Easy color matching. Because I was sent this product for review purposes, I had to choose/guess what shade would suit my skin tone, which is light to medium with very red undertones. I went with Creamy Natural and found that it is a perfect match for my skin. (For comparison, I use Medium Beige Bare Minerals). 2. The foundation comes with an applicator sponge, which is what I used to apply. The foundation goes on silky smooth and is very easy to blend. Some foundations I have tried seem to coat every baby hair/peace fuzz/rogue blonde eyebrow on my face, but this one did not. I found the finish to be very natural looking, which is incredibly important to me! 3. As far as the Anti-Aging component, this is why I only gave this product 3 stars. I actually felt that it highlighted my wrinkles, specifically my \"crows feet\" which I have NEVER been concerned with before. Usually it's fine lines on my forehead and glabella that bother me the most. If you look at my before and after photos, you can see (or at least I saw) that my crows feet stood out more in the \"after\" photo. I'll give it another try tomorrow and see if I get the same effect. Maybe it was poor lighting, but I did take the picture in my usual \"selfie spot\" :D. I won't give up on this foundation just yet because it actually did a really nice job blurring my acne scars, which is one of my biggest concerns when looking for a new foundation. It also scored big with me for how well it concealed my very red undertones. For the retail price, I think this is a good foundation. Certainly much better than others I have tried and if I can avoid the expensive department store brands I definitely will. Covergirl & Olay Simply Ageless Wrinkle Defy Foundation is worth trying for sure.",
+          "reviewDate": "Reviewed in the United States on February 28, 2016",
+          "customer": "Courtney",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEB2ETE26JSPW3BGPOUQAW72PKIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220 Creamy Natural",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          },
+          "helpfulVotes": "243 people found this helpful"
+        },
+        {
+          "reviewTitle": "Just try it",
+          "reviewText": "Nice and creamy. Goes on smooth and covers well. Has spf!",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Powderr",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6QBJHYXVZC3NLS6JYJZFWQPE6A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "230 Classic Beige",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good coverage and added moisture!",
+          "reviewText": "The color match to my skin was almost perfect! The makeup is best applied with a patting motion rather than swiping as the coverage is tends to have a little cakeiness without patting. My skin type is a bit dry and this added a bit of moisture to my face. Overall, I'd recommend it based on the value for money and the added convenience of a one-stop method.",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "PanamaCitySteph",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3XJJWLHAKOQUITMXOMAYKKTLOA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "220 Creamy Natural",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          }
+        },
+        {
+          "reviewTitle": "Amazing!",
+          "reviewText": "So beautiful! Light coverage, evens out skin tone, goes on cool. Covers pretty well. I pick it up with a foundation brush. Can also pick it up with your fingers.",
+          "reviewDate": "Reviewed in the United States on February 4, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEPOIRHIYPFRRVVPX6LLBGDTVFCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220 Creamy Natural",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Really is for mature skin!",
+          "reviewText": "Finally found a foundation that does not settle in wrinkles and is for mature skin like it says. Tried many other more expensive brands that claimed that they but did not do what they said and had very few color options. This foundation is now my go to. Feels light but has buildable coverage. Evens out my uneven skin tone. For reference I am in my late fifties with fine lines/wrinkles, dry, sensitive, fair skin. I selected Natural Ivory and it matches my skin tone perfectly. I applied one side of face with a brush and one side with enclosed sponge to compare. Both worked great and looked even and natural.",
+          "reviewDate": "Reviewed in the United States on January 2, 2026",
+          "customer": "Frequent Shopper USA",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBWGZSYMKML3KMD5KCONS5CW5XA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "215 Natural Ivory",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          },
+          "helpfulVotes": "20 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good product",
+          "reviewText": "This is very creamy. It goes on very smooth. It looks really good. I've used it for ye",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Therese Gautreaux",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFPM5P33Z3LFCHC2DEHDTHH7TADA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "210 Classic Ivory",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          }
+        },
+        {
+          "reviewTitle": "Good coverage but it creases",
+          "reviewText": "Used this foundation for several years. Pros: great coverage, goes on smoothly, relatively inexpensive. Cons: it creases on your face in cerain areas and this is even with using a primer underneath. I tried using less product to see if that helped lessen the creasing and it didn't. I discontinued use at this point.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Lisa Schmitz",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEMVQ4TTTZRCFUOXTMS5DNM3T4FQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "215 Natural Ivory",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          }
+        },
+        {
+          "reviewTitle": "Impressive make up.",
+          "reviewText": "This surprisingly easy to apply with the sponge supplied. It gives a good coverage and is not tacky to touch.",
+          "reviewDate": "Reviewed in the United Kingdom on April 11, 2024",
+          "customer": "Jaynedavies",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "230 Classic Beige",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          }
+        },
+        {
+          "reviewTitle": "Two Stars",
+          "reviewText": "Bit messy and takes a bit of rubbing in, wouldn't buy it again.",
+          "reviewDate": "Reviewed in the United Kingdom on May 4, 2018",
+          "customer": "Helen",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "260 Classic Tan",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          }
+        },
+        {
+          "reviewTitle": "I love it!",
+          "reviewText": "Its really good in my skin. Really blends well. I dont feel sticky feeling specially when outdoor and weather is kinda hot. Just that the shipment takes long time than i thought",
+          "reviewDate": "Reviewed in Japan on June 7, 2022",
+          "customer": "Kazumoka",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "215 Natural Ivory",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          }
+        },
+        {
+          "reviewTitle": "Lightweight, gorgeous, better than some luxury brands",
+          "reviewText": "Such a beautiful foundation. Blends out beautifully, medium coverage but looks very natural and glory. Feels lightweight. As good as some luxury brands.",
+          "reviewDate": "Reviewed in the United Kingdom on August 24, 2025",
+          "customer": "CD",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "205 Ivory",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          }
+        },
+        {
+          "reviewTitle": "Good product",
+          "reviewText": "For the price this foundation is brilliant. It covers so easy and blends well",
+          "reviewDate": "Reviewed in the United Kingdom on February 26, 2018",
+          "customer": "Julie Ashton",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "235 Medium Light",
+            "size": "0.4 Ounce (Pack of 1)",
+            "style": "Foundation"
+          },
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

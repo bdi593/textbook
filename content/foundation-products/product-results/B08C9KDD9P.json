@@ -1,0 +1,352 @@
+{
+  "requestMetadata": {
+    "id": "4425a8ad-e120-462d-bf3c-7d7253cfa82c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/4425a8ad-e120-462d-bf3c-7d7253cfa82c.html",
+    "json": "https://files.hasdata.com/4425a8ad-e120-462d-bf3c-7d7253cfa82c.json",
+    "url": "https://www.amazon.com/dp/B08C9KDD9P"
+  },
+  "product": {
+    "asin": "B08C9KDD9P",
+    "url": "https://www.amazon.com/dp/B08C9KDD9P",
+    "title": "2pcs TLM Color Changing Foundation Liquid with 2 Brushes and 2 Cosmetics Sponge Flawless Full Coverage Natural Color Face Primer Base Makeup 30ml",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "2.02 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Instantly color self-adjusts: One shade suits all. TLM color changing foundation is a revolutionary new liquid foundation that goes on white and instantly self-adjusts to match your EXACT skin tone,it can be applied to any skin color.",
+      "SPF 15 sun protection: This foundation with SPF 15 sun protection to shield your skin from harmful UVA and UVB rays.",
+      "Hides blemishes: a natural looking medium coverage liquid foundation makeup, light weight matte foundation, hides blemishes and evens skin tone,create a natural flawless makeup.",
+      "Unique formula: Designed specifically for all skin, oil-free, non-comedogenic formula, easy to apply and blend,effectively hydrate and moisturize skin,feels comfortable and long-wearing",
+      "With 2 makeup brushes and 2 cosmetics sponge.Soft, dense brushes kit can pick up and work with liquid, powder & creams makeup more nicely."
+    ],
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B08C9KDD9P",
+        "title": "2.02 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08C9KDD9P",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TEAZ+yTxL.jpg"
+      },
+      {
+        "asin": "B0GH2Q4DMP",
+        "title": "2.02 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0GH2Q4DMP",
+        "imageUrl": "https://m.media-amazon.com/images/I/51O1a7m0aIL._SL1002_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 15.99,
+      "beforePrice": 16.99,
+      "discount": "-6%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Friday, April 3",
+    "primeMemberDeliveryIsoDate": "2026-04-03T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Tohuimin",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1KWSTYRFRVKK5",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/51TEAZ+yTxL.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51TEAZ+yTxL.jpg",
+      "https://m.media-amazon.com/images/I/71KegoPMBLL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/515ZIExKP3L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61NvLhVO6rL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61dZxzy1FzL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61xR50ChK8L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/41sov+UQMyL.jpg",
+      "https://m.media-amazon.com/images/I/416XOnH7OxL.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1aa236d6-9278-4219-9a17-cd74845272c1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a2ba087f-77b4-4dc2-8e4b-75f5d5c0031f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76fac6ae-1140-4748-a48d-8ebb70c3a612.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4aa58b1a-70e7-40aa-adcf-fccab1b6cfba.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/491d7530-bce9-4dd8-aa94-36788bec3acb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f8d2cc7a-1847-48ab-a6b8-47cbcb135641.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1d475e1c-c02b-4666-9e2c-2fd474b5f0b9.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1d475e1c-c02b-4666-9e2c-2fd474b5f0b9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/397c66f5-2a65-4efb-bcb9-d1cccafc3f8c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3a4d604-789c-4ff7-972f-fee710b53c7b.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Blue, Pink, White"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Acne Prone"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "UCANBE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Suitable for acne-prone skin, providing lightweight, oil-free, matte coverage that won't clog pores"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "UCANBE"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#37,378 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #332 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B08C9KDD9P"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Oil-free,Matte,Light Weight,Non-comedogenic"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte, Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "266 Grams"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "2.02 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Non-comedogenic"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 4392,
+      "rating": 3.7,
+      "starRates": {
+        "fiveStars": "53%",
+        "fourStars": "11%",
+        "threeStars": "11%",
+        "twoStars": "8%",
+        "oneStars": "17%"
+      },
+      "customersSay": "Customers find the foundation easy to apply smoothly and appreciate its nice quality. The color match and coverage receive mixed feedback - while some say it matches their skin perfectly, others report it doesn't change color at all and provides minimal coverage. The texture receives mixed reviews, with some finding it smooth while others describe it as sticky, and customers disagree on whether it feels light or heavy. The natural appearance is also mixed, with some finding it natural-looking while others say it looks ghostly. Value for money opinions are divided between those who find it good for the price and those who consider it not worth the money.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 140,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 80,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 379,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 329,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 96,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 87,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 81,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 66,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61g41RuuheL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/719pe-8lN3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gNwYVGhwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zwFjzDCuL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71wBRjfmTYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Ei+R+N63L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/B144eaQauqS._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71J84PTCwlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qN1YNPEZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-ajSQvD3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+QH6kRf+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71bEJcyhK3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Okay, Had To Change My Review",
+          "reviewText": "So, I first tried it yesterday, and I was not changing color. I applied it with one of the brushes that came with it, and while I like the accent and the texture of my skin after applying it, it really just blended in like lotion, with no coverage effect, which is easy to tell on me because my skin has red patches from rosacea. Which was fine to me, because it's a good price for lotion. Today, using it as a lotion, and applying with my fingers, it did change color. It did provide light to medium coverage. And I think it does match my skin well. So there were are. I'm not sure if it was the brush or because yesterday I had also but lotion and face primer like I would normally before applying foundation, but something made a difference.",
+          "reviewDate": "Reviewed in the United States on December 26, 2024",
+          "customer": "Jennifer Ransom",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQAXLBGFPTAJFD56MYBOMEWAZNA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "2.02 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "35 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lightweight Foundation with Subtle Shade Adjustment",
+          "reviewText": "This is an interesting foundation concept. It goes on light and blends easily, and the texture feels smooth and comfortable on the skin. The color-changing effect is subtle. It adjusts a little to your skin tone, but it\u2019s not magic, it still works best if you\u2019re already close to the shade range it\u2019s meant for. Coverage is light to light-medium, so it\u2019s better for natural, everyday makeup rather than full glam. It didn\u2019t feel heavy or cakey during wear. Overall, it\u2019s a nice lightweight foundation option if you want something easy to apply with a natural finish.",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "Aj",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFH2JU2S5UFSIOKDLENUX3L35D5Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "2.02 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "This product doesn't change colors.",
+          "reviewText": "This stuff is a scam \ud83d\ude22 it comes out white and stays that way. This is more of a primer then a foundation... I applied it to my skin which is almond color as well as I applied it to my daughters skin which is more of a mocha color and it didn't change at all... I'm completely disappointed with this product...",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "Meechi",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AET4FNTTCOAVXOLVHVNXCASCG2WA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "2.02 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Very pale and shiny",
+          "reviewText": "Im very fair skinned.I had to mix this in with a dab of my regular makeup because it came out so pale. It's very sheer coverage and doesn't cover red spots. It is ok once you add your contour and blush. I wouldn't buy again.",
+          "reviewDate": "Reviewed in the United States on December 19, 2024",
+          "customer": "Brianna",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHA22T4EAH6VAWQON6VZDMJUTDVQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "2.02 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "I like it enough to recommend to a friend.",
+          "reviewText": "I have been using this off and on for 2 months now. The only con I find is that it feels kind of tacky. Its not horrible, but its noticeable. Pros-I have rosacea occasionally. This foundation doesn't cover freckles(I don't have many so I don't care), but it covers the reddish splotches and evens out my complexion well. It goes on white and then blends into a more natural color, and I see if I wipe it off with makeup cleansing wipes, that is really has changed color not just soaked in like lotion. It seems to have best application using a sponge or just plain fingertips. Brush application leaves it a little lighter. I have tried it directly on my skin, or over moisturizer and don't see a lot of difference. Some days I use it with full makeup, blush, powder etc. Other days, its the only thing I use. I like it.",
+          "reviewDate": "Reviewed in the United States on January 21, 2026",
+          "customer": "LisaG",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGFA3J5FU3NRRFL2D2XWEQZAGAHA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "2.02 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Foundation",
+          "reviewText": "Nice and smooth smells good matches my skin tone perfectly awesome coverage",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "Anna",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4Q5JRX77Z3FD2WFTGPUJZ4KB5Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "2.02 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Cheap",
+          "reviewText": "Smells like cheap lotion.. I have beige tan undertone skin and this just looked really whitewashed like I was sick. Ended up being super oily after a couple of hours too and I don't have naturally oily skin, not sure what happened there",
+          "reviewDate": "Reviewed in the United States on March 11, 2026",
+          "customer": "T.H93",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE53V6A7BH44CXRFOMNJUAZ2DP5Q",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "size": "2.02 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Very impressed for the price.",
+          "reviewText": "I was surprised at the quality and coverage of this foundation. It does adapt to my skin color and gives good coverage. Was hesitant, but pleased.",
+          "reviewDate": "Reviewed in the United States on December 27, 2025",
+          "customer": "Teresa Smith",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3MGVR4YY2JNUNWMBARSWTPR3AQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "2.02 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        }
+      ]
+    }
+  }
+}

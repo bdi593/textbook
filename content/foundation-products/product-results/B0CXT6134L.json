@@ -1,0 +1,247 @@
+{
+  "requestMetadata": {
+    "id": "4268857c-cfd5-4cf7-a127-e4d5698c5e1c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/4268857c-cfd5-4cf7-a127-e4d5698c5e1c.html",
+    "json": "https://files.hasdata.com/4268857c-cfd5-4cf7-a127-e4d5698c5e1c.json",
+    "url": "https://www.amazon.com/dp/B0CXT6134L"
+  },
+  "product": {
+    "asin": "B0CXT6134L",
+    "url": "https://www.amazon.com/dp/B0CXT6134L",
+    "title": "Mary Kay Foundation Primer Sun Screen Broad Spectrum spf 15 by Mary Kay",
+    "isAvailable": true,
+    "featureBullets": [
+      "Foundation Primer",
+      "Light-weight",
+      "spf 15",
+      "Foundation Primer",
+      "Light-weight",
+      "spf 15"
+    ],
+    "description": "Mary Kay Foundation Primer Sun Screen Broad Spectrum spf 15 by Mary Kay Foundation Primer Light-weight",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 19.98,
+      "beforePrice": 21.49,
+      "discount": "-7%"
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "stockWarning": "Only 16 left in stock - order soon.",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "ArkCoast",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1RWASBZTIAHI1",
+    "shipper": "Amazon",
+    "totalImages": 2,
+    "primaryImage": "https://m.media-amazon.com/images/I/81oivKjrSDL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81oivKjrSDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71lpujnGZtL._SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d7accc6d-3f3d-4b39-bbf9-179a19848cc8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d7accc6d-3f3d-4b39-bbf9-179a19848cc8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb787a38-11e7-469c-ae35-8d035ddd63c7.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/08cb98d1-d4cd-4f8b-b662-da59d7fc28b6.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/233aa26b-6dd5-473b-84f6-848d4b1f5988.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Product Benefits",
+        "value": "Sun Protection"
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Acne Prone"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Specialty",
+        "value": "Sun Protection"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Mary Kay"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "unknown"
+      },
+      {
+        "key": "Model Number",
+        "value": "Foundation Primer"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#41,961 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #175 in Foundation Primers #371 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CXT6134L"
+      },
+      {
+        "key": "Item Volume",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.04 Pounds"
+      },
+      {
+        "key": "Material Features",
+        "value": "oil-free, matte finish"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 215,
+      "rating": 4.7,
+      "starRates": {
+        "fiveStars": "86%",
+        "fourStars": "6%",
+        "threeStars": "4%",
+        "twoStars": "1%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find the primer effective, with one mentioning it fills in dents. They appreciate its quality, and one customer notes it keeps their face clean without making it greasy.",
+      "aspects": [
+        {
+          "aspect": "Effectiveness",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Greasiness",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 7,
+          "status": "positive"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "And it's also affordable to buy it's not expensive try it out",
+          "reviewText": "Thank you Mary Kay this primer is the best primer it keeps your makeup on it's also keep your face clean when you take it off no sweating thank you Mary",
+          "reviewDate": "Reviewed in the United States on December 13, 2025",
+          "customer": "enid roman",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEGILVK2POGPRJEWWQ3FB7KIPZ5Q",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "MK is great",
+          "reviewText": "Mary Kay is my go to make up, always worth the price",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Brenda",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGIBALCQ7QYTNB2O3BSMS2MJVDEA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Me",
+          "reviewText": "It works.",
+          "reviewDate": "Reviewed in the United States on January 19, 2026",
+          "customer": "jim craft",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHQTROP2XMQDM3K74F73HKOG3DNA",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Excellent packaging & product.",
+          "reviewText": "I have to commend the Seller on doing an excellent job at packaging the product neatly and with love and care. I received my product packaged neatly & with the cutest message. A small gesture that means a lot. Thank you! The product itself is lightweight and gives my skin a smooth glow. Tip: always use a toner underneath this primer. Your skin would feel softer, glow better & be better protected. I was also happy that the product came with an expiration date of 2024. I\u2019ve received expired ones in the past from other Sellers.",
+          "reviewDate": "Reviewed in the United States on May 24, 2022",
+          "customer": "Cali Sabs",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF3LLOE7IXBVGSB5M52GWOE4LL5Q",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "Have used Mary Kay products for years. Awesome line and great results",
+          "reviewDate": "Reviewed in the United States on June 12, 2022",
+          "customer": "Sheila Herman scherma145",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGET65NZMQFZHKNYYYGKR3ITLKEQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Love this stuff",
+          "reviewText": "Since I can't use Home Depot spackling paste on my face this stuff fills the bill. Fills the dents and makes my face feel smooth and the foundation go on smoothly.",
+          "reviewDate": "Reviewed in the United States on July 23, 2020",
+          "customer": "LA Kelly",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGS4F26TGR5WG563WFR3LHCRWFJQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Jury still out.....",
+          "reviewText": "Very nice primer. Just not sure about Mary Kay products. Reading about too many products containing bad ingredients. Will have to research more before buying again.",
+          "reviewDate": "Reviewed in the United States on July 23, 2016",
+          "customer": "Oma T.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGL2OYBETNF4XSEANZ6BWXELBLQA",
+          "customerStarsRating": 4,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Foundation",
+          "reviewText": "Very happy with it.",
+          "reviewDate": "Reviewed in the United Kingdom on July 22, 2024",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5
+        }
+      ]
+    }
+  }
+}

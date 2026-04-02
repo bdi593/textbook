@@ -1,0 +1,347 @@
+{
+  "requestMetadata": {
+    "id": "1fadeb01-0231-43b2-b3c0-5d15906463fb",
+    "status": "ok",
+    "html": "https://files.hasdata.com/1fadeb01-0231-43b2-b3c0-5d15906463fb.html",
+    "json": "https://files.hasdata.com/1fadeb01-0231-43b2-b3c0-5d15906463fb.json",
+    "url": "https://www.amazon.com/dp/B0DZNM6X1T"
+  },
+  "product": {
+    "asin": "B0DZNM6X1T",
+    "url": "https://www.amazon.com/dp/B0DZNM6X1T",
+    "title": "O'CHEAL Face Foundation Contour Stick Long-wear Lightweight Brighten Stick Blemish Contouring Face Concealer Beauty Makeup 04#WHEAT",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "04#WHEAT"
+    },
+    "featureBullets": [
+      "\u3010Concealer Foundation Stick\u3011: O'cheal Stick foundation offers comprehensive coverage to conceal imperfections and blemishes skin tone, ensuring a flawlessly even complexion and a smooth, radiant finish, keeping your skin looking fresh and radiant all day long.",
+      "\u3010Hydrating Lightweight Concealer\u3011: Enriched with moisturizing ingredients, O'cheal foundation stick provides hydration while offering full coverage, Leaves your skin looking immaculate.",
+      "\u3010Contour Brush\u3011: Unique Double-headed design, the bristles are soft and elastic M-shaped bristles, which fit the shape of the face and comfortable. Easily brush foundation on details such as the wings of the nose, the mouth corners, and the eye corners.",
+      "\u3010Lightweight & Long-Lasting\u3011: This makeup stick glides on like silk and blends naturally into skin, delivering breathable, blendable and buildable coverage. The lightweight formula provides natural coverage without feeling heavy or cakey, leaving a fresh, natural-looking matte finish all day long.",
+      "\u3010Suitable for All Skin Tones\u3011: Available in a range of skin-perfect shades, this full coverage foundation stick unleashes the power of makeup to transform your look. Continue throughout your daily activities and nights out for a stunning, irresistible, long-lasting look, whether you're dark, brunette, fair, or yellow."
+    ],
+    "boughtInPastMonth": "700+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0DZND9DGM",
+        "title": "01#IVORY",
+        "url": "https://www.amazon.com/dp/B0DZND9DGM",
+        "imageUrl": "https://m.media-amazon.com/images/I/51JjFosyknL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZNG3SKB",
+        "title": "03#LIGHT SKIN",
+        "url": "https://www.amazon.com/dp/B0DZNG3SKB",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Uem06jdxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZNM6X1T",
+        "title": "04#WHEAT",
+        "url": "https://www.amazon.com/dp/B0DZNM6X1T",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Pj7H2b2yL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZN7CQVX",
+        "title": "02#NATURAL",
+        "url": "https://www.amazon.com/dp/B0DZN7CQVX",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ZtJaRRiqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DZN7F2LJ",
+        "title": "05#DEEP WHEAT COLOR",
+        "url": "https://www.amazon.com/dp/B0DZN7F2LJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51112FtqlgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FY5LBZXK",
+        "title": "06#CHOCOLATE COLOR",
+        "url": "https://www.amazon.com/dp/B0FY5LBZXK",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HhRY-5PvL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 7.29,
+      "beforePrice": 7.29,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 12 hrs",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "O'CHEAL OFFICIAL STORE",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3G36GIV2G1Y7F",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51Pj7H2b2yL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51Pj7H2b2yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719Y0ueqMcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81J+YRqgX0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71pwWCAUnvL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81VN7chYggL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bpOKR9RXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71E2ojJ-swL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe708f36-e3f7-4044-8ed8-2f538450453e.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee278bb8-57e8-4ab3-870a-e9c077ff9484.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae8c73ca-5a00-47ca-b7ab-515f388eac08.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6c0801ae-68d1-497b-958c-c6dcd0b309c2.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9dd519dd-46e0-4c4c-a2d5-e0aea370e022.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11393542-8fec-4f58-a3ab-7cbc9339fee9.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fcaad2e4-88a2-4599-9f83-b9ec7e7e1f1f.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f78afe38-8484-451b-8956-67fda995d8a6.__CR250,0,500,1000_PT0_SX150_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e24e2d5a-0376-4bfb-8e7a-becbd2f447e5.__AC_SR150,300___.jpg"
+    ],
+    "totalVideos": 2,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02812952-4ac4-4f2a-adb3-45ec67d6d85d.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/02812952-4ac4-4f2a-adb3-45ec67d6d85d.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1c0e9ed2-a487-4e7a-9195-eb8667e9efee.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Stick"
+      },
+      {
+        "key": "Color",
+        "value": "04#WHEAT"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "key": "Brand Name",
+        "value": "O'CHEAL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Corrects Imperfections"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "O'CHEAL"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#9,350 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #103 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DZNM6X1T"
+      },
+      {
+        "key": "Finish Types",
+        "value": "opaque"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.06 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1149,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "71%",
+        "fourStars": "10%",
+        "threeStars": "8%",
+        "twoStars": "4%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage and is easy to apply, with a creamy texture that goes on smoothly. The product receives positive feedback for its quality and natural-looking finish, though opinions about color match are mixed, with some saying it's a good match while others find it too dark. The consistency and moisturizing properties receive mixed reviews, with customers noting it can be sticky and dry.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 52,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 40,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 27,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 20,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 18,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 18,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Consistency",
+          "count": 16,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 15,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/610u0oHVRLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qfOZuvviL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/11dC++MR9dL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/716C7VAkmbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61CwfjeS8UL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71WdH26koKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71w4k0AHuwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61qz+CkZJhL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71srnxmanIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81BQfoJNQDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ulMavY4yL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61HQAUcqb+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Good finish foundation stick",
+          "reviewText": "Beautiful amazing foundation stick for a very good price. I just love it. Works very well and glides easily on my face and gives a beautiful finish look. Works as a concealer too and its medium to high coverage. Its very light incaeight some times i pair with rimmer foundation stick bt alone itself it works good. Stays for longer and it doesnt smudge.",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "Tapan S.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEXL6MGB7BUKCXMU4Q56SLMC74YQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05#DEEP WHEAT COLOR"
+          }
+        },
+        {
+          "reviewTitle": "Good coverage and easy to apply",
+          "reviewText": "Easy to apply, provides perfect coverage, and lasts all day. An affordable must-have for contouring and foundation!",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Martha Castro",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHDN3AXJQUNJD6E4DGTZHURGZQVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04#WHEAT"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent quality! Great product!",
+          "reviewText": "Very happy with the product. It feels smooth and comes with a brush. The color tone was perfect. I'd recommend this to try, it probably beats some of the mainstream brand.",
+          "reviewDate": "Reviewed in the United States on March 5, 2026",
+          "customer": "Bru",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHTMK72CSYHO7HH5SJOI4MUMCFVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02#NATURAL"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great coverage and color match",
+          "reviewText": "I love this foundation. Great coverage and so easy to blend. It does stay a little sticky/shiny, so if you want a dry/matte finish, you\u2019ll need to set it with powder\u2026 which just means it won\u2019t dry out your skin, at all. True to color, it matched perfectly for me.",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFLAZWBHEOZEIURBBQEH25RJNWJA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03#LIGHT SKIN"
+          }
+        },
+        {
+          "reviewTitle": "Nice",
+          "reviewText": "Product recommended, it is soft to apply, just be careful in choosing your right color. The first one I bought was to light for me and I had to buy a second one darker.",
+          "reviewDate": "Reviewed in the United States on October 23, 2025",
+          "customer": "Carmen De La Rosa",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGW2W4YVQ7VDM5SRBZAWWWZTPRHA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "03#LIGHT SKIN"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "has a smell, different application",
+          "reviewText": "has a smell, not bad but you definitely smell it. goes on smooth. takes a bit to get used to applying.",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "MeAyla",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGTDYU4JIKNRQMYYDUYDMQHVGPTA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "03#LIGHT SKIN"
+          }
+        },
+        {
+          "reviewTitle": "Concealer Foundation",
+          "reviewText": "Blends easily and feels creamy on the skin. Coverage is light to medium and looks natural. Good for quick, everyday touch-ups.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Manuela guachiac",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGR7G67JUY3SJYQG6WRLN7QK5E2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04#WHEAT"
+          }
+        },
+        {
+          "reviewTitle": "Smooth, creamy, and beginner-friendly",
+          "reviewText": "This contour stick blends surprisingly well and feels creamy, not dry or patchy. It\u2019s easy to apply directly to the face and blends out nicely with a brush or sponge. The finish looks natural and not muddy, which is great for everyday makeup. For the price, this is a solid contour stick and works well for quick routines.",
+          "reviewDate": "Reviewed in the United States on January 23, 2026",
+          "customer": "Alba O",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEUIJYHTGRYMSEBEPCAILESPMZZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05#DEEP WHEAT COLOR"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        }
+      ]
+    }
+  }
+}

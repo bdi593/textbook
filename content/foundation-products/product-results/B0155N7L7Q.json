@@ -1,0 +1,374 @@
+{
+  "requestMetadata": {
+    "id": "a997c9fd-b42e-4707-82db-cb49a974af91",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a997c9fd-b42e-4707-82db-cb49a974af91.html",
+    "json": "https://files.hasdata.com/a997c9fd-b42e-4707-82db-cb49a974af91.json",
+    "url": "https://www.amazon.com/dp/B0155N7L7Q"
+  },
+  "product": {
+    "asin": "B0155N7L7Q",
+    "url": "https://www.amazon.com/dp/B0155N7L7Q",
+    "title": "wet n wild Photo Focus Matte Face Primer - Partners in Prime",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.84 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Lightweight formula",
+      "Matte finish helps to reduce shine",
+      "Extends makeup wear by preventing cracking, fading, or creasing",
+      "Contains Aloe Vera and Vitamin E"
+    ],
+    "description": "Remember when you were a kid, watching fairy tales, wishing you had a magic potion to transform yourself instantly into a glamorous princess? Well, were here to make your dreams come true! This miraculous primer can be used all over your face to minimize the appearance of pores, fill in fine lines and wrinkles, even out skin tone, prevent your foundation from caking, and brighten your complexion for ultra-vibrant color that lasts all day. Magic! How does it do this? Because we basically put diamonds in a bottle! No, really, we did. The key ingredient in this miracle primer is white sapphire, formulated into a smooth, silky cream that glides on effortlessly, leaving behind a crystal complexion. Just think of us as your fairy godmother!",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation Primers"
+    ],
+    "variants": [
+      {
+        "asin": "B0155N7L7Q",
+        "title": "0.84 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0155N7L7Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CUYHNF7kL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GHC48MVX",
+        "title": "0.84 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0GHC48MVX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Qa7-OQi7L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 5.47,
+      "beforePrice": 6.49,
+      "discount": "-16%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61CUYHNF7kL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61CUYHNF7kL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/612HmbEYTNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TC3kqBROL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sGM3UgObL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71O9xB+OFDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pQo1CN4nL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71nlROoFZzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ftGstlLzL._SL1080_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e6aaf0f6-8bc9-4e3c-87fd-ae24866276c2.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e6aaf0f6-8bc9-4e3c-87fd-ae24866276c2.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/08cb98d1-d4cd-4f8b-b662-da59d7fc28b6.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d7accc6d-3f3d-4b39-bbf9-179a19848cc8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1bab6777-1582-4166-a45b-0765ee2809db.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d18520bc-45c8-4598-acde-10fd127a8fb0.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Product Benefits",
+        "value": "The wet n wild Photo Focus Matte Face Primer offers a lightweight formula with matte finish, helping to reduce shine and extend makeup wear by preventing cracking, fading, or creasing. It contains Aloe Vera Vitamin E, is gluten-free, vegan, cruelty-free, fragrance-free, paraben-free, oil-free."
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Specialty",
+        "value": "Gluten-free,Vegan"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Coverage",
+        "value": "Lightweight"
+      },
+      {
+        "key": "Brand Name",
+        "value": "wet n wild"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Markwins Beauty Products"
+      },
+      {
+        "key": "UPC",
+        "value": "077802585004"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "850"
+      },
+      {
+        "key": "Model Number",
+        "value": "850"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#17,003 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #74 in Foundation Primers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0155N7L7Q"
+      },
+      {
+        "key": "Item Volume",
+        "value": "23.66 Milliliters"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.8 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.81 x 2.07 x 4.02 inches"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty-Free, Vegan, Fragrance-Free, Paraben-Free, Gluten-free, Oil-free"
+      },
+      {
+        "key": "Material Features",
+        "value": "lightweight and non-greasy"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 4858,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "64%",
+        "fourStars": "13%",
+        "threeStars": "11%",
+        "twoStars": "5%",
+        "oneStars": "7%"
+      },
+      "customersSay": "Customers find this primer to be an amazing product that provides a nice matte finish, silky smooth texture, and helps with facial shine. They appreciate its effectiveness and value for money, with one customer noting it competes well with high-end primers. The consistency receives mixed feedback - while some say it works well for oily skin, others find it too watery.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 78,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 56,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pore coverage",
+          "count": 51,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 49,
+          "status": "positive"
+        },
+        {
+          "aspect": "Matte finish",
+          "count": 37,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 31,
+          "status": "positive"
+        },
+        {
+          "aspect": "Pore reduction",
+          "count": 69,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Consistency",
+          "count": 63,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61HpfZlgXwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Hmx41+v+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91AKM-FQowL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71FmJxNgKcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61QR0Oq6WML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/715LFnpbsjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ZPeEeaAKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ESt3zwxKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61eOqKmYciL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61JAfvgsUlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61VVqmd-5hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91oIfXi0QrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Smooth, Lightweight, and Perfect for Makeup!",
+          "reviewText": "I recently tried the wet n wild Photo Focus Matte Face Primer, and I'm impressed. The primer goes on smooth and lightweight, creating a perfect base for foundation without feeling greasy or heavy. It helps minimize pores and control shine, giving a matte finish that lasts throughout the day. Makeup applies more evenly and stays in place longer when I use this primer. It's also affordable, effective, and easy to blend, making it a great option for everyday use. Overall, this primer is high-quality, budget-friendly, and reliable - a must-have for anyone looking to keep their makeup fresh and flawless all day!",
+          "reviewDate": "Reviewed in the United States on October 12, 2025",
+          "customer": "Cherri",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH2VOXSYT64MGFACM2DLT2FK2AZQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect primer.",
+          "reviewText": "Perfect. Left my face a smooth palette for my makeup. I highly recommend this primer.",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Kate M.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHG64X5KTWFQDHPQB3ETCOOW5HXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Pretty good",
+          "reviewText": "Doesn't keep makeup on very well but definitely makes it more matte. A little bit runny so be careful getting it out",
+          "reviewDate": "Reviewed in the United States on October 26, 2025",
+          "customer": "Rebekah",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYAILAJ4C2OOTOVHXJKIRH5ICZQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "No greasy all day stay or",
+          "reviewText": "Love this stuff! Got it at a drug Store and been obsessed ever since. I can have this in for 12 plus hours and my make up never gets greasy! It\u2019s so affordable I really like more than other expensive primers! It\u2019s Super lightweight and feels like lotion and absorbs well and non greasy",
+          "reviewDate": "Reviewed in the United States on February 10, 2026",
+          "customer": "Sekula's Precision Painting",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGS4MCZ3H3E7TITCXC2ZN2WMYHJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Doesn\u2019t cover your pores",
+          "reviewText": "Very runny product, doesn\u2019t cover your pores all too well, you would need to put a lot of it on. Half the bottle is full when you get it. Also you can feel it on your face because it dries up hard",
+          "reviewDate": "Reviewed in the United States on November 26, 2025",
+          "customer": "Esmeralda Trellez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEPVYUYYDKXIXWE3MPYK4A4XDKQA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "it is both matte and a primer",
+          "reviewText": "this product is not pretending to be anything it isn't. the austere packaging tells you everything you need to know. it is a primer, and it is matte. it looks, smells, and feels like elmer's glue. it somehow manages to be less viscous than water. if you are naive enough to try to turn the tube upside down to get your primer out you will end up with half the contents in your hand. it dries within seconds of it touching your face and leaves you feeling like fine-grained sandpaper. it does not fill in or smooth, in fact it makes any texture on your face look more pronounced than before. it does not hydrate, or brighten, or even your skin tone. but it does not promise to do these things. it does not promise to be comfortable or to be easy to use. it promises exactly two things: to be primer, and to be matte. and that it is.",
+          "reviewDate": "Reviewed in the United States on December 10, 2025",
+          "customer": "Faith",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYSZ6O7P6AVIUMXYTIIM73FACIQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Favorite primer",
+          "reviewText": "Love love love !!!! Very lightweight and pore blurring! So affordable and one of my favorite primers.",
+          "reviewDate": "Reviewed in the United States on November 30, 2025",
+          "customer": "Shelby Wilson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEMES54AZP7F6JEIBMIYUMG44W4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "I received only half a tube of product.",
+          "reviewText": "I purchased this product in hopes it would conceal some imperfections and work well with my foundation. However, when I received this product it was half full, I didn't return it. Not enough time to really give it a better review. Will I purchase another, probably not due to not being able to use a full tube to give a better review.",
+          "reviewDate": "Reviewed in the United States on December 3, 2025",
+          "customer": "BARBARA H.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6GN4U45OXCWAOXZQPSMW2VWBKQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "The best I have ever used.",
+          "reviewText": "This is the best primer I have ever used. My only complaint is that it only comes in a small size. It is everything it says on the tin.",
+          "reviewDate": "Reviewed in the United Kingdom on August 30, 2025",
+          "customer": "Sarah Scardini",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Amazing primer",
+          "reviewText": "Do buy for flawless finish of make up",
+          "reviewDate": "Reviewed in India on April 7, 2025",
+          "customer": "Mohammed Ali",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great",
+          "reviewText": "My go-to primer. It's light on your face and helps to keep the shine away",
+          "reviewDate": "Reviewed in Canada on February 6, 2026",
+          "customer": "Connie Linguist",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.84 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

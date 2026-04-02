@@ -1,0 +1,427 @@
+{
+  "requestMetadata": {
+    "id": "872a8f91-9543-464c-9cbe-6f5f31558155",
+    "status": "ok",
+    "html": "https://files.hasdata.com/872a8f91-9543-464c-9cbe-6f5f31558155.html",
+    "json": "https://files.hasdata.com/872a8f91-9543-464c-9cbe-6f5f31558155.json",
+    "url": "https://www.amazon.com/dp/B0G2N5XKY9"
+  },
+  "product": {
+    "asin": "B0G2N5XKY9",
+    "url": "https://www.amazon.com/dp/B0G2N5XKY9",
+    "title": "Palladio Skin Tint with Aloe, Niacinamide and Hyaluronic Acid, Sheer to Medium Coverage, Glowy Finish, Brightening and Blurring Lightweight Foundation Makeup (Light Ivory)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Light Ivory"
+    },
+    "featureBullets": [
+      "YOUR SKIN, ONLY BETTER: A breathable skin tint foundation that evens tone, smooths texture, and enhances your natural radiance with a healthy, skin-like glow.",
+      "HYDRATING, WEIGHTLESS WEAR: Powered by multi-weight Hyaluronic Acid and Squalane for lasting hydration and a fresh, dewy finish that stays comfortable all day.",
+      "BRIGHTENS & BALANCES: Niacinamide helps visibly brighten, soften the look of discoloration, and promote a balanced complexion over time.",
+      "NATURAL, BUILDABLE COVERAGE: Sheer-to-medium coverage that layers seamlessly without caking, creasing, or settling into fine lines\u2014perfect for everyday wear.",
+      "CLEAN, VEGAN, SKIN-LOVING: Formulated with Aloe, Agave, Vitamin E, and botanical ingredients. Vegan, cruelty-free, paraben-free, gluten-free, and gentle for all skin types.",
+      "EASY APPLICATION, INSTANT GLOW: Blends effortlessly with fingers, brush, or sponge. Wear alone for a natural glow or as a hydrating base under your foundation."
+    ],
+    "boughtInPastMonth": "800+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0G2N6TMPG",
+        "title": "Medium Beige",
+        "url": "https://www.amazon.com/dp/B0G2N6TMPG",
+        "imageUrl": "https://m.media-amazon.com/images/I/51w3Kn+brXL._SL1100_.jpg"
+      },
+      {
+        "asin": "B0G2N5KJXF",
+        "title": "Medium Sand",
+        "url": "https://www.amazon.com/dp/B0G2N5KJXF",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+sd5fBqvL._SL1100_.jpg"
+      },
+      {
+        "asin": "B0G2N23BY4",
+        "title": "Tan Honey",
+        "url": "https://www.amazon.com/dp/B0G2N23BY4",
+        "imageUrl": "https://m.media-amazon.com/images/I/51wyDlWO+NL._SL1100_.jpg"
+      },
+      {
+        "asin": "B0G2NP7C9V",
+        "title": "Fair Porcelain",
+        "url": "https://www.amazon.com/dp/B0G2NP7C9V",
+        "imageUrl": "https://m.media-amazon.com/images/I/51h8kHBeM5L._SL1100_.jpg"
+      },
+      {
+        "asin": "B0G2N5BKG4",
+        "title": "Dark Caramel",
+        "url": "https://www.amazon.com/dp/B0G2N5BKG4",
+        "imageUrl": "https://m.media-amazon.com/images/I/51OAQe0FdLL._SL1100_.jpg"
+      },
+      {
+        "asin": "B0G2N5XKY9",
+        "title": "Light Ivory",
+        "url": "https://www.amazon.com/dp/B0G2N5XKY9",
+        "imageUrl": "https://m.media-amazon.com/images/I/51jgupqup5L._SL1100_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 15.99,
+      "beforePrice": 15.99,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 1 hr",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Palladio Beauty",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1XJZJETUISXA3",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/51jgupqup5L._SL1100_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51jgupqup5L._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/51RpIclVu9L._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/71twwiaWeSL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/51qNGM0DrgL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/71HDpUp03GL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/51Qm4jjg8uL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/61Dlaxk9jyL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/51EWOH4nr4L._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/61rPTqUdiWL._SL1100_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4a5bd1c-5b66-486f-b9a1-bbe10199b4e0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/52e1b15c-3d46-421f-aa0f-758ebb74da53.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5024ab87-ad29-4ca5-a979-8eaaa8b95f63.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/83ac7902-d646-4bb6-8c34-7886cf8d3751.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/266a9db1-a80f-4cc1-bcec-713acd9d10c6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c28b32fa-575f-47ca-ae9e-cf1adbc642dc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/449fb2b0-e02d-4929-99da-3b47e90a12a1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/56965be0-7a78-4e44-bb33-4c93bd0e06b9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5f922a60-6af4-4a2c-bdf9-e0311f8fa40b.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5f922a60-6af4-4a2c-bdf9-e0311f8fa40b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/eeb9f5df-6cfc-4f0f-8912-31b42aa9cdb5.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1b648d11-08bd-49c3-87fc-718a7e86bf18.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/25db872e-bebd-42e7-9a95-e743b2f28978.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/066bba41-fe63-4671-9de2-7c22ade796b3.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Lotion"
+      },
+      {
+        "key": "Color",
+        "value": "Light Ivory"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Combination, Dry, Normal, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Complexion Enhancement, Daily Wear, Lightweight Coverage, Natural Makeup Looks, Skin Brightening"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Palladio"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Blurring, Brightening, Hydrating, Lightweight Coverage, Natural Glow, Nourishing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Taiwan"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "024057243210"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Palladio Beauty Group"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#17,894 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #184 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0G2N5XKY9"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Blurring, Brightening, Contains Aloe, Lightweight, Natural Glow"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Dewy"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.87 x 1.53 x 3.02 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Gluten Free, Oil Free, Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 174,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "61%",
+        "fourStars": "19%",
+        "threeStars": "7%",
+        "twoStars": "7%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find the foundation provides beautiful coverage that evens out skin tone, with a natural, glowing look that blends seamlessly. They appreciate its lightweight, gentle texture, and consider it a great everyday product that offers good value at half the price. The application receives mixed feedback - while many find it easy to apply, some mention it's hard to squeeze the product out of the bottle. The bottle size receives criticism for being smaller than expected.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural look",
+          "count": 24,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 12,
+          "status": "positive"
+        },
+        {
+          "aspect": "Product quality",
+          "count": 11,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 11,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Bottle size",
+          "count": 8,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81k8nR1QOrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-FouVsDOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/615QtyAXypL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61utzMlrXoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41LBZAwVu6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61c7zyiXWiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71nq99pL3TL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mO48LF5NL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61re-E+V9LL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/618WqaftuEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71U4NW3klEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613Q9ySNI9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Lightweight and Perfect for Everyday Wear",
+          "reviewText": "It feels incredibly lightweight on my skin and doesn\u2019t feel heavy at all. It\u2019s super easy to apply, perfect for busy days when I need something quick but still want a fresh, glowy look. The coverage is just right and evens out my skin tone beautifully while still looking natural. It\u2019s hydrating, has a smooth texture that blends effortlessly, and lasts well throughout the day. Definitely a great everyday product!",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Angelica",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFPZ5U46AC3EFNJG4XPKJDVAAIBA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light Ivory"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent skin tint works well just make sure you\u2019re getting the right tone for your skin.",
+          "reviewText": "This skin tint works beautifully. It was perfect for my daughter\u2019s light skin tone, warming it up to a natural medium shade, while on my already medium skin it softened and evened the tone without looking heavy or dark. The formula feels great on the skin lightweight, comfortable, and hydrating. It blends easily, looks very natural, and doesn\u2019t feel greasy or drying. I also appreciate that it washes off easily at the end of the day. Overall, a great everyday product that evens skin tone while feeling gentle and breathable. Highly recommend.",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Natalie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGLEJGEISSKJ6DO2DGJJTCJ5FXIA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light Ivory"
+          },
+          "helpfulVotes": "25 people found this helpful"
+        },
+        {
+          "reviewTitle": "Really affordable skin tint with solid coverage and healthy glow!",
+          "reviewText": "Pleasantly surprised with this little gem. If it had sunscreen, it would be a \"Holy Grail.\" I used this on a day my skin had been peeling from tretinoin the night before. It gave me beautiful coverage with a heavy dose of healthy glow in a really good way! Application and blendability both were a 10 out of 10. The color match was also perfection. For reference , I am typically light/medium neutral and ordered the medium sand. I will definitely repurchase. My skin felt and looked hydrated and fresh for a fraction of the price of many tints on the market. I've seen complaints about the size of the bottle however, it is a standard 1 oz size.",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "A. T.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGCX7WPJGHDUZ6X5MQIN67ZYKGEQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Medium Sand"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Secret product i never knew existed",
+          "reviewText": "I bought both the Fair/Porc, and light/ivory. I have a weird white skin tone im not pale overall but my face is with hints of redness/rosacea, one would think the light/Ivory would be better but after putting them both on about one third of my face and leaving the last third untouched the porcelain/fair color made me skin look 99% natural with no redness. the light looked 75-80% natural. good enough to keep and use sparingly if ever. anyways this stuff is awesome for men who need to cover up pimples, red bumps uneven skin/tone. basically like makeup but no one will tell unless you get it wet i guess. also got compliments how young i looked today and got carded which is funny cause with my usual skin tone no one ever thinks that of me or cards me anymore at 39",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Eric",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFO2CS37F3S2Z24CWYZTOHW3FYHQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Fair Porcelain"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice, natural finish",
+          "reviewText": "This was the first time buying this product. I wanted a light weight, moisturizing product that wouldn\u2019t look caked on. This product delivered! The color was perfect. It doesn\u2019t sink into my fine lines and looks natural. I highly recommend giving this product a try.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "LISA PISACANE",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEE336DCD2LVHTCIXFCOQ7DUR4WA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Beige"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "alergic reaction",
+          "reviewText": "nice color, good coverage, i had alergic reaction",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Ravenbat",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AELCWLJFGZWPTQX6KQGVZT4Q4NDQ",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "Fair Porcelain"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Disappointed",
+          "reviewText": "Nice coverage but not very easy to spread on the face, not very pliable kinda a sticky. The packaging is deceiving. Very small amount in the container for the price",
+          "reviewDate": "Reviewed in the United States on February 13, 2026",
+          "customer": "Chic design",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXHMGIMYBXTR23BTOSQNCWOD7BA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Medium Sand"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Natural, dewy glow",
+          "reviewText": "It gives sheer coverage and nice dewy glow. Can wear for daytime while running errands or date night for a soft, natural look. Absolutely love it!!!!",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Jessica",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQ2GI6ZDL6T62LHXKTTGXRDQD6A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Sand"
+          }
+        },
+        {
+          "reviewTitle": "A lovely product.",
+          "reviewText": "I'm not someone who generally purchases cosmetics sight unseen and definitely not from a brand that I've never heard of but when I was offered the opportunity to try out the Palladio skin tint I was I was very interested to see how it performed on my skin. The reason for my interest and stepping outside my comfort zone was reading up on the brand and the list of great ingredients more often seen in skincare than cosmetics. I'm of an age where I don't wear a lot of makeup but still like to swipe on something that perks up my face and makes me feel put together when I need to go out. I've been finding my usual foundation just too much like it's hi lighting problem areas rather than blurring them so the idea of a buildable sheer type of tint really appealed to me. There were several shades of skin tones to choose from and I went for one up from the lightest as for some reason the images made it look lighter and I do have a very pale complexion and my choice wasn't a bad one although I subsequently read on other reviews that it is actually a poor colour representation. Instead of the matt cakey kind of look you can end up with when using foundation I was impressed at the dewey kind of glow this tint gives my face, there's no heavy deposit of colour so it's not going to erase the look of blemishes or marks but you can definitely build the coverage and shade to a degree. The addition of skincare ingredients means that this product feels very nourishing and moisturising and I'm not having to use as many products which makes it a great way to save a little money too. The skin tint is very easy to apply and I tend to use my fingers to apply it and then a beauty blender to distribute it around my face although I suspect it is fine if I just used my fingers as it is a smooth and gliding consistency. I've been surprised and converted now to this product, which I think is very reasonably priced, as it just gives me a bit of a glow up and confidence when I had become quite self conscious about using my usual foundation. I'm really happy with the Palladio skin tint and therefore have no issue recommending it.",
+          "reviewDate": "Reviewed in the United Kingdom on March 22, 2026",
+          "customer": "Slightly Dotty",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light Ivory"
+          }
+        },
+        {
+          "reviewTitle": "Good quality foundation at a fraction of the cost of high end brands.",
+          "reviewText": "Really nice texture. I was looking for an Ilia skin tint dupe as Ilia is quite pricey. This has a little heavier coverage than I expected, but goes on nicely and amazingly good colour match (not sure how, but not complaining!) Not a good dupe, but great value for a good quality foundation with beneficial ingredients. I\u2019ll likely buy again.",
+          "reviewDate": "Reviewed in Canada on March 10, 2026",
+          "customer": "T. Stork",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Sand"
+          }
+        },
+        {
+          "reviewTitle": "I love it",
+          "reviewText": "My daily skint tint. Skin gets some coverage but still looking like skin. Easy to blend and last all day after setting with powder or spray. Beautiful looking and perfect color match. Highly recommended.",
+          "reviewDate": "Reviewed in the United Kingdom on March 11, 2026",
+          "customer": "LIVEAdrian",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Sand"
+          }
+        },
+        {
+          "reviewTitle": "Lightweight, glowy and easy to blend.",
+          "reviewText": "I\u2019ve been using the Palladio Skin Tint for around 3 weeks now and I really like it for everyday wear. The colour match is excellent for my skin, I went for the Fair/Porcelain and would say I am neither pale or tanned, somewhere in the middle! It blends beautifully and easily without looking orange or cakey. It gives a nice, natural glow and feels lightweight on my skin which makes it perfect for a quick, simple makeup routine. The main drawback is coverage, it\u2019s very sheer so it won\u2019t hide any blemishes or uneven skin tone much. That\u2019s why I\u2019m giving it 4 stars rather than 5. It\u2019s also slightly pricey for what it offers, but the quality and finish make it easy to use and I really like the feel of my skin with it on as I\u2019m not keen on the feel of heavy foundation. Overall I would say it\u2019s a lovely option for a lightweight, natural, glowy every day look.",
+          "reviewDate": "Reviewed in the United Kingdom on January 14, 2026",
+          "customer": "Livinglife1983",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Fair Porcelain"
+          }
+        }
+      ]
+    }
+  }
+}

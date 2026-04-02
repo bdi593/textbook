@@ -1,0 +1,367 @@
+{
+  "requestMetadata": {
+    "id": "a1e7be65-42a3-4180-ba40-4f31d1c83719",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a1e7be65-42a3-4180-ba40-4f31d1c83719.html",
+    "json": "https://files.hasdata.com/a1e7be65-42a3-4180-ba40-4f31d1c83719.json",
+    "url": "https://www.amazon.com/dp/B09KC1F4V7"
+  },
+  "product": {
+    "asin": "B09KC1F4V7",
+    "url": "https://www.amazon.com/dp/B09KC1F4V7",
+    "title": "PURITO Cica Clearing BB Cream #13 Neutral Ivory 1 fl.oz / 30ml, Vegan bb cream, foundation, cruelty free",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "#13 Neutral Ivory"
+    },
+    "featureBullets": [
+      "Sustainable Packaging",
+      "This non-irritating, lightweight BB cream complements your natural complexion with a soft, dewy finish, Both calming and hydrating, it\u2019s packed with skin-loving ingredients, including Centella Asiatica Extract and Panthenol, that help prep and protect the skin barrier, A hybrid skin solution with light to medium coverage, it\u2019s blendable and buildable, leaving skin velvety smooth with a pinch of glow",
+      "Cruelty free",
+      "\ud83c\udf3f BB cream is an ideal proposition for people who value a natural look and uniform skin tone"
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "BB Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B09KC1F4V7",
+        "title": "#13 Neutral Ivory",
+        "url": "https://www.amazon.com/dp/B09KC1F4V7",
+        "imageUrl": "https://m.media-amazon.com/images/I/41S6S93RfyL._SL1000_.jpg"
+      },
+      {
+        "asin": "B09X6BGWD2",
+        "title": "#27 Sand Beige",
+        "url": "https://www.amazon.com/dp/B09X6BGWD2",
+        "imageUrl": "https://m.media-amazon.com/images/I/41YYSV2kfTL._SL1000_.jpg"
+      },
+      {
+        "asin": "B09KBS3FZ2",
+        "title": "#15 Rose Ivory",
+        "url": "https://www.amazon.com/dp/B09KBS3FZ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/41tXToYc99L._SL1000_.jpg"
+      },
+      {
+        "asin": "B08JCK7LSN",
+        "title": "#21 Light Beige",
+        "url": "https://www.amazon.com/dp/B08JCK7LSN",
+        "imageUrl": "https://m.media-amazon.com/images/I/41sCZfuiaHL._SL1000_.jpg"
+      },
+      {
+        "asin": "B09KC14P9F",
+        "title": "#31 Deep Warm",
+        "url": "https://www.amazon.com/dp/B09KC14P9F",
+        "imageUrl": "https://m.media-amazon.com/images/I/41ZJP-vUnBL._SL1000_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 11.2,
+      "beforePrice": 12,
+      "discount": "-7%",
+      "priceFrom": 11.2,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Friday, April 3",
+    "primeMemberDeliveryIsoDate": "2026-04-03T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "PURITO KOREA",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2PSI981BR43AS",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/41S6S93RfyL._SL1000_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41S6S93RfyL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61UsTcTPYeL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51-ShkHzbPL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/614W9-1efEL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61Hq7WgfVIL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71CqDKPS63L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61aJsvnXfgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613zJ2RNcXL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c4421817-a6ad-4c79-8a9f-ec7a38b8e022.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/51d02716-988a-4c26-9b41-549d9fdcd823.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dbb4f976-39d8-4ae9-972b-91c2fcd2d5d3.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/70bcd8be-e116-45a1-ad64-f9c18b25e11b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/359c9eac-0bff-4617-b0a3-6c52967c353a.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d5e015a-a4f2-4943-8c7d-3860f9dd7c46.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/71cc1cd0-d92e-4c69-8d40-69e8f55c2f9b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3fd1e005-1617-4ae2-afd8-bc5ae4b1b2fa.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/75e526c3-3a73-4080-9d7a-8afd866e7297.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/af1a25b1-c1c3-4832-afca-575a8671ea10.__CR151,0,697,1000_PT0_SX488_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/96f5f2dd-117b-44ab-8b35-3b5f723fa51b.__CR151,0,697,1000_PT0_SX488_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fc1a7a9e-aaa9-47ad-999d-25aee773b612.__CR0,135,3000,1230_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8cc9f7ce-3e19-4499-afbd-2a9609c0ddee.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8cc9f7ce-3e19-4499-afbd-2a9609c0ddee.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6fc1e536-fd5c-4b7a-ad23-a857c83b9bed.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/310dc767-120f-4304-a2f5-f8ecbbe0b824.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91b40434-23c6-4ef9-a69e-fe2359a9ad8c.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "#13 Neutral Ivory"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Sun protection, even complexion"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "PURITO"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating,Smoothening,Softening"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Vegan"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Model Number",
+        "value": "MJ002"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "LHB-PU0093"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "HINATURE Inc."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#16,361 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #13 in BB Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B09KC1F4V7"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Lightweight, non-irritating formula with soothing and moisturising ingredients"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Cream"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free, Essential Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 4402,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "63%",
+        "fourStars": "15%",
+        "threeStars": "11%",
+        "twoStars": "5%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this BB cream provides light-medium coverage and a lovely natural finish, with one customer noting it covers acne scars well. The product has a creamy texture that feels light on the skin, applies smoothly, and lasts throughout the day, particularly on oily skin. The color match receives mixed feedback - while some say it matches their undertone, others find it too pale. The moisturizing properties also get mixed reviews, with some finding it great for dry skin while others say it's not moisturizing enough.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 368,
+          "status": "positive"
+        },
+        {
+          "aspect": "Appearance",
+          "count": 225,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 180,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 140,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 122,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 83,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 248,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 154,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81LzpLGf9hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71ePQ1IvSsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71XaJCZb+WL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61MwEvr3NvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sIdI27G4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71LH7mbGHWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71twtj4aaQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61v3ON5vuPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/519ahJPI8RL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61jAdb7yMcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-Sf2hZEUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61lqisW9XML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Opaque, redness covered, lightweight for all seasons!",
+          "reviewText": "Big fan already. I've used it five or six times now with different primers, and it always looks flawless. I have rosacea so covering my redness is always a challenge. This BB Cream really melts into my skin while being opaque. Never had an issue with weird texture. I apply with a damp sponge. It plays well with setting powder, too, but you don't really need it. Powder blush goes over it just fine after letting it dry down a bit. The light beige looks like it's going to be too dark but it's perfect for my fair/light complexion. The gray undertone reminds me of Dr. Jart+ BB creams, which have been my favorites for years.",
+          "reviewDate": "Reviewed in the United States on March 13, 2026",
+          "customer": "J. Crowder",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGJID7KIFOSDGWKTE7ELSI3XUIAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "#21 Light Beige"
+          }
+        },
+        {
+          "reviewTitle": "Beautiful coverage!",
+          "reviewText": "This is really as good as the hype. If you can find your shade match(which needs more inclusivity, come on), you will love this. It feels like great coverage skincare. I can\u2019t use the missha version because it has rosemary in it, and I\u2019m highly allergic to that, but I love this one. It\u2019s smoothing and moisturizing and leaves you with a beautiful finish.Taylor Wynn was right, this is a great foundation!",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Gabriela Sim",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG6GAVWAYZ66XD3KMGIYVSAQDE3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "#27 Sand Beige"
+          }
+        },
+        {
+          "reviewTitle": "Very matte and opaque",
+          "reviewText": "I was looking for a less expensive alternative to the Dr. Jart product, and ideally better tone matching. After trying eight different products, this is the closest dupe in that it has higher coverage. However the finish is not dewy at all, but very matte with an almost claylike finish more like full coverage foundation. While it doesn't draw tons of attention to dry patches, large pores, or texture on my mature, yet still mercilessly acne-prone skin, it doesn't blend imperfections as well as the product I'm looking to replace. Since I use tretinoin and can occasionally get a little bit of dryness or flaking, many products tend to highlight that, or are so sheer they are not useful for evening out my skin tone, but this one is more opaque. It doesn't have as pearly a finish as Dr. Jart or, say, glow screen. If you want that super dewy finish and don't need a lot of coverage, I just tried the Elta MD and it has a very sheer finish and lots of pearlessence. Too sheer for me but may be your jam. It's maybe two shades darker than these two shades but since it's sheer, it doesn't matter much. From the product listing, I really couldn't tell which shade was right for me. I have peachy undertones to my skin, and the light beige looked almost gray in the listing photo. In fact, it really is very cool--almost ash--but that cast is less obvious once you blend a bit. The other shade I ordered, neutral ivory, is a lot peachier, and somewhat pale. If you have very light skin, both of these may be just a bit too dark but if you're light medium, they may fall on the fair side. They look darker squeezed from the tube than they do once rubbed in. The underlying zinc seems to emerge a bit more once in use. Darker or more tan skin colors could probably still get away with these shades, but the opacity of the product does mean it can shift your skin color. If your skin is more like caramel or almond tones, definitely try one of the deeper shades. My skin is sort of a tan version of fair, and both of these are a hair too light even for my winter skin. The light beige is best if you want to neutralize warmth in your skin. It has none! I've taken some pictures to show what it looks like IRL in the hopes it helps, since I really couldn't suss out the right shade from the pics. One pic is squeezed direct from tube, the other is blended a bit. In both pictures, the top is number 13 neutral ivory, and the bottom is number 21 Light beige. Hope it helps somewhat!",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "Cautionary Tales",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQ5MI7RGHGZZGL5JYWHGOR3TRWA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "#13 Neutral Ivory"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Blown away, looks like skin!",
+          "reviewText": "Cons: I'll start with the only con which is their limited shade range. However I'm lucky to have found a great shade match. I'm wearing 21, which is a light true neutral beige color. I feel a lot of the review photos do not do this shade justice as it looks a lot less grey dry vs wet. Sure it might look ashy on some people but if you're very cool to neutral and beige like me and everything seems too orange, yellow, or pink then try this out. Some of us have grey undertones ya know. Know your skin color theory! Coverage: this actually has good coverage for a bb cream. It's definitely buildable. I'm only wearing one layer in the photo and my freckles are slightly coming through. I would say it's medium coverage. Texture: this gives a skin like texture. It is the best foundation I've own, I don't even need a primer. It doesn't highlight my dry spots or enlarged pores. I have some fine lines around my mouth and it doesn't settle. Ive heard it works well on oily and dry skin. I have combination... Update! My 60 year old mother tried this in shade 27 and this looks great on her mature skin. We used the finger method to blend out. She is Afrolatina with light warm caramel skin. This was a good shade for her. Note for oily people: just updating my review because I used this product in a tropical climate. In tropical climates my skin becomes more oily. However, I still liked this bb cream! It gives me a healthy glow, it stayed on through the sweat even though I had no setting powder. I also am updating this review with a photo of me in the tropics. Remember folks the finish is dewy like most Korean skin products. Saw someone say it's not for oily people but I think it depends more what type of finish you prefer. I agree if you are a matte girly this product may not be for you. Overall this is the best bb cream and foundation Ive ever worn. It performs better then expensive brands like Nars and Armani for me. For the price it's worth a shot. Just please make more shades so I can recommend this to my friends!",
+          "reviewDate": "Reviewed in the United States on February 15, 2023",
+          "customer": "ProspectAvenue",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHGR5KXTX5R4HYSPGVTARH7L4GEQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "#21 Light Beige"
+          },
+          "helpfulVotes": "167 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light BB cream but doesn\u2019t correct much",
+          "reviewText": "I really wanted to love the PURITO Cica BB Cream (#13 Neutral Ivory), but it\u2019s just okay for me. The texture is nice and it spreads fast, absorbs well, and feels lightweight\u2014no dryness. As a BB, it slightly evens the tone, but it doesn\u2019t correct: my red spots still show through even with a second thin layer. On my skin you can also tell there\u2019s product\u2014more like a light foundation than an invisible BB. By midday the redness peeks through again. The good part: comfortable to wear and fine for a quick, natural look. The downside: coverage is too sheer if you expect any real correction. If you need hydration and a soft tint, it might work, if you want to cover redness or blemishes, look for something with more coverage.",
+          "reviewDate": "Reviewed in the United States on April 8, 2025",
+          "customer": "Kseniia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPO5ICS35HZJHWYURW4QCN4ZFYQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "#13 Neutral Ivory"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Exact skin match",
+          "reviewText": "It matches exactly to the skin tone and moisturise the skin also",
+          "reviewDate": "Reviewed in Australia on November 15, 2024",
+          "customer": "sandeep kaur",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "#27 Sand Beige"
+          }
+        },
+        {
+          "reviewTitle": "Too dark, looks a bit orange",
+          "reviewText": "I purchased this in \u2018neutral ivory\u2019 and am disappointed since it\u2019s not exactly as described. I was hoping it would match but it doesn\u2019t. It\u2019s too dark on me and looks a bit orange. For reference I wear the shade Oslo in NARS foundation and 1N2 ecru in estee lauder double wear foundation. The consistency is nice however. Idk, might be able to wear it in summer.",
+          "reviewDate": "Reviewed in Australia on October 9, 2025",
+          "customer": "Zoe",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "#13 Neutral Ivory"
+          }
+        }
+      ]
+    }
+  }
+}

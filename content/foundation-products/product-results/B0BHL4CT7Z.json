@@ -1,0 +1,494 @@
+{
+  "requestMetadata": {
+    "id": "0af8c34c-75f5-4bde-b97a-19ef88cfd022",
+    "status": "ok",
+    "html": "https://files.hasdata.com/0af8c34c-75f5-4bde-b97a-19ef88cfd022.html",
+    "json": "https://files.hasdata.com/0af8c34c-75f5-4bde-b97a-19ef88cfd022.json",
+    "url": "https://www.amazon.com/dp/B0BHL4CT7Z"
+  },
+  "product": {
+    "asin": "B0BHL4CT7Z",
+    "url": "https://www.amazon.com/dp/B0BHL4CT7Z",
+    "title": "Almay Anti-Aging Foundation, Smart Shade Face Makeup with Hyaluronic Acid, Niacinamide, Vitamin C & E, Hypoallergenic-Fragrance Free, 200 Light Medium, 1 Fl Oz (Pack of 1)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "LIGHT MEDIUM",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "BUILDABLE NATURAL FINISH FOUNDATION: Lightweight, buildable-coverage liquid foundation delivers your ideal shade match while reviving skin for a smooth, replenished look in just two weeks",
+      "SKIN TONE MATCHING MAKEUP: Skin tone matching shades turn from white to your ideal shade as you blend, Each color-adjusting face makeup shade is flexible across a range of skin tones",
+      "SKIN-CARING INGREDIENTS: The new and improved Smart Shade Foundation includes niacinamide to help even skin tone and reduce the appearance of discoloration, and hyaluronic acid to hydrate and plump the look of skin",
+      "FORMULATED WITHOUT: Formulated without added parabens, mineral oil, DMDM Hydantoin, and palm oils",
+      "SUITABLE FOR SENSITIVE SKIN: As part of the Almay promise, this product is hypoallergenic as well as dermatologist tested, clean, cruelty free, and fragrance free"
+    ],
+    "description": "Almay\u2019s new and improved hypoallergenic Smart Shade Foundation delivers your perfect shade match while encouraging you to embrace your skin no matter your age. The lightweight, medium-coverage, natural finish liquid foundation starts out white (like its predecessor) and transforms to your ideal shade as you blend. The formula now has a skin-reviving complex made up of a team of skin-caring ingredients that work to replenish, smooth, and protect skin. Niacinamide helps even skin tone and reduce the appearance of discoloration. Hyaluronic acid hydrates and plumps the look of skin. Electrolytes contribute to well-balanced skin and help skin retain its moisture. Vitamins C and E protect against environmental aggressors. Upon application skin looks fresh and feels moisturized and comfortable\u2014no caking. In just two weeks, skin appears lifted and smooth, and wrinkles appear minimized. Plus, not only is Ageless Smart Shade Foundation gentle on skin, it is gentle on the earth. The cap is made from 90% PCR material and the tube is made from 72% PCR material. As always, this Almay product is suitable for sensitive skin, hypoallergenic, dermatologist tested, clean, cruelty free, and fragrance free. It is also formulated without added parabens, mineral oil, DMDM Hydantoin, and palm oils.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BHKRK5R9",
+        "title": "300 Medium 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BHKRK5R9",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WWNgsETiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHL57QQD",
+        "title": "FAIR 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BHL57QQD",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TIFQsrgmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHKQYHNT",
+        "title": "LIGHT 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BHKQYHNT",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Ip-TjZjGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBYBWTR4",
+        "title": "300 Medium 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBYBWTR4",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Bk4sJxztL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHL2MWCM",
+        "title": "600 Tan 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BHL2MWCM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xcQl4hUaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHKZMTH3",
+        "title": "BEIGE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BHKZMTH3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71wOlt5oANL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHKY8VL5",
+        "title": "800 Deep 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BHKY8VL5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71mVxG7d7UL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHKZHV4V",
+        "title": "GOLDEN 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BHKZHV4V",
+        "imageUrl": "https://m.media-amazon.com/images/I/71V4mxV-JeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKN4FJQ",
+        "title": "GOLDEN 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKN4FJQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71OqAwew5nL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHL7WZ1L",
+        "title": "SPICE 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BHL7WZ1L",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Ds5QXiNxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BHL4CT7Z",
+        "title": "LIGHT MEDIUM 1 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BHL4CT7Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/714M1APH+EL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FBZSHLK1",
+        "title": "SPICE 1 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FBZSHLK1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71F5LM+7ouL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 12.75,
+      "beforePrice": 15.99,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/714M1APH+EL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/714M1APH+EL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71D+m5e7MxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81fmYQywpCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81a9k3s0ZoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xrsCgdd2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71hqxsoRmBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81dr0UvM2uL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Xpq3TNgRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81CySu2NWlL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b5bb0ae-e79d-4b60-bc60-79202cd6af61.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/076ea302-4897-432c-8116-81afdf17a4cf.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/794c4439-9bb6-41f7-840a-b7069d73b3e4.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/32bca72b-4f12-4499-ad38-83e2aa1ec73f.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/993adbdb-f607-4c5b-9111-ced44f8a36ef.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e474f5b8-7150-40e4-b06a-042321cfd735.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e72d359-e5bf-4f3e-9f30-89035609517e.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/25970d17-ae1e-4665-9296-c63a5d4dc471.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "LIGHT MEDIUM"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Anti-aging,Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Almay"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "BUILDABLE NATURAL FINISH FOUNDATION, SKIN TONE MATCHING MAKEUP"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "hypoallergenic"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00309970190026"
+      },
+      {
+        "key": "UPC",
+        "value": "309970190026"
+      },
+      {
+        "key": "Model Number",
+        "value": "2206410"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "2206410"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Revlon"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#4,762 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #55 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BHL4CT7Z"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Fragrance Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.08 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "4.41 x 1.69 x 0.67 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 4285,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "68%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "4%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this foundation effective for mature skin, providing good coverage with a small amount and blending nicely on the skin. The product receives positive feedback for its lightweight feel, smooth texture, and natural look, with one customer noting it keeps skin hydrated all day. The color match receives mixed reviews, with some customers finding it a great match for their skin tone while others say it's too dark.",
+      "aspects": [
+        {
+          "aspect": "Moisturizing",
+          "count": 173,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 140,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 131,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 104,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 90,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 83,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 80,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 269,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61S5fvZ7SKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61DhV3ErG1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61tyDHjeHrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Kt1Hqai5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81O67ZNDgpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71n-aRGZ-UL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/415PObBb6vL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71uBW+icheL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/616DcNR4HsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/312f7pW6g9L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61nKIj-zv6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71EYSPjUQvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great foundation with no hives or allergies.",
+          "reviewText": "Love this foundation, not itching or breaking out in hives and the color is perfect. Blends really nice with my skin tone (ultra white) goes on soft and smooth, covers what I need it to. It's like I am not wearing makeup. Almost didn't get it because some of the reviews stated it was too dark. If it blends in my skin it's not dark as I am glow in the dark white. Sunburn real easy. I didn't see if it had any sun protection but I usually put on sun protection anyway, wait 15 minutes, then apply makeup. AZ sun even on cloudy days will burn skin. It's perfect in price, color, and size, works excellent.",
+          "reviewDate": "Reviewed in the United States on November 24, 2025",
+          "customer": "Nina M BourBeau",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFHYSOJ7A6TCHZ7J72CI6O6DUAAA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "LIGHT MEDIUM",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light (not cakey), firms & smooths, matches skin tone with a fresh look. Great Value for $$",
+          "reviewText": "Love this foundation. It goes on smooth, firms and tightens skin. Not heavy, looks fresh, and never cakey. Once applied it matches your skin tone automatically. It is well worth the cost and a fantastic value for the money. Highly recommend.",
+          "reviewDate": "Reviewed in the United States on January 20, 2026",
+          "customer": "FortGirlSinga",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG6HTLB5WA3G7C5IDJA66IXQ65RQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "600 Tan",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lightweight but too dark and orangey",
+          "reviewText": "Blends well, but the tints run dark! I had to go two shades lighter, one shade lighter in the summer. Light coverage that looks natural.",
+          "reviewDate": "Reviewed in the United States on September 25, 2025",
+          "customer": "PM Mich",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZOCRTAELP3YYMUDB6IMBOGUE5A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "LIGHT MEDIUM",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "The Best",
+          "reviewText": "I\u2019m nearly 50 years old and my preferred makeup style is simple, moisturizing primer, a basic foundation, fill the eyebrows a touch, a tinted lip balm, and maybe some blush if I feel pale. I\u2019ve tried most big brands of foundations, from drugstore brands up to the most expensive department store items, but never really found an ideal match in a comfortable foundation until trying this product. I have cool-toned, fair combination skin and most foundations look and feel too thick, settling into pores and creases. My skin is also pretty sensitive, so I avoid anything with scents or heavy consistencies because they can cause rashes and breakouts. This foundation is almost white out of the tube but after application and light blending, it matches my skin perfectly and evens my skin tone very well. It feels light and not at all sticky or heavy. I can\u2019t feel it any more than my moisturizer. While I wouldn\u2019t consider it to be moisturizing on its own, it\u2019s not drying at all. The big test for me today was a visit to the dentist. After X-rays and cleaning, the foundation hadn\u2019t rubbed off or gathered in spots, as I\u2019ve come to expect from almost every brand. My skin still appeared soft and healthy with consistent coloration and texture. This has become my daily foundation and I see no reason to swap to anything else. The price here is far better than any competitors as well. I\u2019ve seen some mention that the color didn\u2019t match their skin well. I would advise that you still need to choose the right tone for your skin. I couldn\u2019t apply a dark or warm tone to my pale cool skin and expect it to match. I do hope they\u2019ll release a broader range of colors for a more diverse group of customers as it\u2019s still pretty limited to light skin tones.",
+          "reviewDate": "Reviewed in the United States on December 11, 2024",
+          "customer": "Amy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYMHGHYY637A2H4NUMPSO3MHPLQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "LIGHT",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "76 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best foundation on the market!! 66 yrs old and it covers everything and I look younger!",
+          "reviewText": "I'm in LOVE LOVE LOVE with this foundation. I am soon to be 67 and this makeup is fantastic. It's smooth and doesn't cake up or gather in your wrinkles. I had been in the hospital for a month and my face looked really horrible. I went to my ladies coffee club soon after getting home. I used this foundation in the color \"light medium mine\" and I got so many compliments on how fresh I looked..... even those who didn't know I had been in the hospital were complimenting me on my makeup!! I love this and am ordering more to have as backup!!",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "NonnieRose",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGUEYAHG5O2IEEYMQWNGTKL4LX2Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "LIGHT MEDIUM",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light coverage with a little healthy glow.",
+          "reviewText": "I like that it gives your skin a nice healthy glow and light coverage. Not heavy at all and looks natural. Does not give full coverage or buildable coverage so not too good when blemishes pop up or if you want a better coverage foundation",
+          "reviewDate": "Reviewed in the United States on September 8, 2025",
+          "customer": "mac",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3EHBQGV7BMJEVDLYTYOWRTG43Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "LIGHT",
+            "size": "1 Fl Oz (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great anti-aging foundation",
+          "reviewText": "I really love this product\u2014it blends seamlessly with your skin tone and feels incredibly natural. It doesn\u2019t leave that heavy, layered feeling on your skin, which is a huge plus. The price is a great deal for such a high-quality product.",
+          "reviewDate": "Reviewed in the United States on March 19, 2026",
+          "customer": "Mickey",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGKGBGFTPU2UHRDP5HYSLXB3AP5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "LIGHT MEDIUM",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "I like this foundation",
+          "reviewText": "Goes on white until blended. Matches my skin tone well and is easy to apply. Not full coverage but not no coverage either.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "Tama",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AED7A25X2APDS4LIBEJM3QWZS6ZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "LIGHT",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "What your buying",
+          "reviewText": "Too dark",
+          "reviewDate": "Reviewed in Canada on March 11, 2026",
+          "customer": "Laurie & Lorne Miskuski",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "800 Deep",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Foundation turned my skin orange",
+          "reviewText": "This product turned my skin orange. Great for Halloween but I couldn't wear it any other time. soo disappointed.",
+          "reviewDate": "Reviewed in Canada on January 16, 2025",
+          "customer": "Connie Waye-MacDonald",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "GOLDEN",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "The item is used, not new",
+          "reviewText": "I received a used item. Scratched half-empty bottle is stated as NEW in the description. Besides it has strange smell (like expired) though it should be fragrance-free.",
+          "reviewDate": "Reviewed in the United Arab Emirates on July 15, 2025",
+          "customer": "Kk",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "FAIR",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Blends beautifully on my skin",
+          "reviewText": "Ideal for the minimal look, covers well to your complexion. I have used the product for any years and I have never been disappointed with the light feeling of makeup on my face.",
+          "reviewDate": "Reviewed in Canada on November 3, 2025",
+          "customer": "I am patient",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "600 Tan",
+            "size": "1 Fl Oz (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

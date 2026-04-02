@@ -1,0 +1,451 @@
+{
+  "requestMetadata": {
+    "id": "9ff67a5a-d6f0-4660-8a15-52e3c5429b50",
+    "status": "ok",
+    "html": "https://files.hasdata.com/9ff67a5a-d6f0-4660-8a15-52e3c5429b50.html",
+    "json": "https://files.hasdata.com/9ff67a5a-d6f0-4660-8a15-52e3c5429b50.json",
+    "url": "https://www.amazon.com/dp/B008C13146"
+  },
+  "product": {
+    "asin": "B008C13146",
+    "url": "https://www.amazon.com/dp/B008C13146",
+    "title": "Maybelline Dream Fresh Skin Hydrating BB cream, 8-in-1 Skin Perfecting Beauty Balm with Broad Spectrum SPF 30, Sheer Tint Coverage, Oil-Free, Light/Medium, 1 Fl Oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1 Fl Oz (Pack of 1)",
+      "color": "110 LIGHT/MEDIUM"
+    },
+    "featureBullets": [
+      "Dream BB fresh 8-in-1 skin perfecting beauty Balm hydrates, protects with SPF 30, brightens, blurs imperfections, smoothens, enhances, is oil-free and available in 5 skin-tone perfecting shades",
+      "Light Coverage Foundation + Skincare Benefits = Bb Cream: BB Cream adjusts to skin tone, minimizes and blurs the look of pores, and reduces the appearance of redness, Oil-free",
+      "Best Face Forward: Maybelline has sheer, medium, and full coverage foundation in liquid and powder foundation formulas, and a range of concealers, face primers, contour, highlighter, and pressed and setting powder to help you create a perfect canvas",
+      "Create any look with Maybelline, foundation, BB creams, concealers, and setting powders for the perfect canvas, eye shadows, mascara, brow pencils, and eyeliners for any eye look and lip products, from showstopping lipstick to plumping lip gloss"
+    ],
+    "description": "Dream fresh BB cream 8-in-1 skin perfector is the 1 step wonder for a good skin day, everyday.\u00c2 Get 8 skin benefits in 1 simple step, blurs imperfections, brigh10s, evens skin-t1, smoothes, hydrates, enhances, protects with SPF 30, and contains 0% oils and heavy ingRedients. By MAYBELLINE.",
+    "boughtInPastMonth": "20K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "BB Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B008C131HS",
+        "title": "1 Fl Oz (Pack of 1) 130 MEDIUM\\/DEEP",
+        "url": "https://www.amazon.com/dp/B008C131HS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TOCakkINS._SL1500_.jpg"
+      },
+      {
+        "asin": "B085S94H81",
+        "title": "1 Fl Oz (Pack of 1) 100 LIGHT",
+        "url": "https://www.amazon.com/dp/B085S94H81",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zeP0SA0LS._SL1500_.jpg"
+      },
+      {
+        "asin": "B085S9NJV2",
+        "title": "1 Fl Oz (Pack of 1) 140 DEEP",
+        "url": "https://www.amazon.com/dp/B085S9NJV2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71dg1Wrp5rS._SL1500_.jpg"
+      },
+      {
+        "asin": "B008C13146",
+        "title": "1 Fl Oz (Pack of 1) 110 LIGHT\\/MEDIUM",
+        "url": "https://www.amazon.com/dp/B008C13146",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dhZNYpwuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D14XVRCD",
+        "title": "1 Fl Oz (Pack of 2) 120 MEDIUM",
+        "url": "https://www.amazon.com/dp/B0D14XVRCD",
+        "imageUrl": "https://m.media-amazon.com/images/I/41hNASfipnL.jpg"
+      },
+      {
+        "asin": "B008C131AK",
+        "title": "1 Fl Oz (Pack of 1) 120 MEDIUM",
+        "url": "https://www.amazon.com/dp/B008C131AK",
+        "imageUrl": "https://m.media-amazon.com/images/I/710nvMyu0gL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 7.99,
+      "beforePrice": 10.99,
+      "discount": "-27%",
+      "priceFrom": 7.98,
+      "otherOfferQuantity": 12
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 15,
+    "primaryImage": "https://m.media-amazon.com/images/I/61dhZNYpwuL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61dhZNYpwuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31tgiZzulHL.jpg",
+      "https://m.media-amazon.com/images/I/417FpEKKBML.jpg",
+      "https://m.media-amazon.com/images/I/61NGechWG6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bwkJdG8QL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719K9aWj1FL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91cx3xIr2RS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KQev5RnaS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71U0cujPv9S._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715yG3OIuhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41mt1YxjtJL.jpg",
+      "https://m.media-amazon.com/images/I/61XqVwTsFCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/21M8izvlcRL.jpg",
+      "https://m.media-amazon.com/images/I/21kWuTpgOcL.jpg",
+      "https://m.media-amazon.com/images/I/31oqs2oI0NL.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b50438cd-f746-477c-a6ce-97e63a1c6d92.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream,Balm"
+      },
+      {
+        "key": "Color",
+        "value": "110 LIGHT/MEDIUM"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "America\u2019s #1 BB cream, Dream BB Fresh is hydrating and lightweight. Dream BB Fresh Cream gives you a natural, skin-perfected look. Our BB (which stands for \u201cBeauty Balm\u201d) cream combines skincare and makeup to perfect skin in 1 simple step. It glides on easily for smooth application, providing sheer coverage with the added benefit of SPF to protect you from the harsh rays of the sun. Dream Fresh has 8 skin-loving benefits in 1. Hydrates. Protects with SPF 30. Brightens. Blurs imperfections. Smoothes. Enhances. Oil-free and without any heavy ingredients. Available in 5 skin-tone perfecting shades. This skin hydrating beauty balm leaves skin feeling fresh with a natural finish. Suitable for all skin types, Dream BB Fresh suits a wide range of skin tones and is non-comedogenic."
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MAYBELLINE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "suits a wide range of skin tones"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Oil Free"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00041554282634"
+      },
+      {
+        "key": "UPC",
+        "value": "041554282634"
+      },
+      {
+        "key": "Model Number",
+        "value": "K1161200"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "10058606"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Maybelline New York"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#936 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #2 in BB Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B008C13146"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "30 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Hydrating,Oil-free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1.48 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.93 x 1.83 x 4.57 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 43661,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "73%",
+        "fourStars": "15%",
+        "threeStars": "8%",
+        "twoStars": "2%",
+        "oneStars": "2%"
+      },
+      "customersSay": "Customers find this BB cream provides nice sheer coverage that evens out complexion and matches skin perfectly, while being lightweight and easy to blend. The product is moisturizing without being greasy, and customers appreciate its dewy finish and smooth application. They consider it good value for money, with one customer noting it offers decent coverage at half the price.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 774,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 744,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 688,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 520,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 473,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 464,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 339,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71RulbyyP3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Vzc1i1KrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zGcc5Qd2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61DxDfoqpKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61lFURiR7+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61+WOhYk8pL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81yBkIWkI+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-kz83bL+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61PrshFrwHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YWr+OpFcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/5174A1fITmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71kupTEIDBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "This BB cream is perfect!",
+          "reviewText": "LOVE THIS!! It gives me such a natural look without being heavy or thick. How I use: I follow my normal skin care routine, even my regular moisturizer, spray a setting spray on my face, apply brows, then I go in with this BB cream (using a brush) after the bb cream I apply concealer under my eyes, bronzer, blush, setting powder and I spray setting spray one more time. This is light weight so my skin feels like it can breathe. It\u2019s easy to blend and apply, I\u2019m sure you could use your fingers if you wanted. I want to be clear this is not a full coverage foundation this is however an amazing bb cream with buildable coverage. My skin is on the drier side which is why I apply my regular moisturizer under this. I consider the BB cream to be more of a tinted sunscreen. It gives me more of a dewy look, I\u2019m not sure how it would work for oily skin. I can wear the cream all day and it will budge a bit, but that\u2019s mostly in the summer. In the winter, the cream holds up pretty well. I recommend it to everyone.",
+          "reviewDate": "Reviewed in the United States on January 8, 2026",
+          "customer": "Kailly Sabrina",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AETZDE34UKP7RE4VG4BVUQ7CFNDQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "120 MEDIUM"
+          },
+          "helpfulVotes": "29 people found this helpful"
+        },
+        {
+          "reviewTitle": "Lightweight Everyday Moisturizer with Great Tint",
+          "reviewText": "I have been purchasing this product for years, and I absolutely love it. It\u2019s a lightweight everyday moisturizer that feels comfortable on the skin while providing a nice, natural tint. I especially appreciate that it gives me enough coverage that I don\u2019t need to use foundation every day. The price is very reasonable for the quality, and I definitely feel it\u2019s worth every penny. A reliable staple in my skincare routine!",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Melie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGEAHAU6NU2FFGUSBWCMB4YICLEA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110 LIGHT/MEDIUM"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Pretty good",
+          "reviewText": "I\u2019ve been using the Maybelline Dream Fresh Skin Hydrating BB Cream for about a year now and I\u2019m honestly impressed. It gives me just enough coverage to even out my skin tone without looking heavy or cakey \u2014 perfect for busy mornings when I want to look put together but not like I\u2019m wearing a full face of makeup. It feels really lightweight and breathable, and I love that it has SPF and hydration built in. My skin stays comfortable all day and doesn\u2019t feel greasy or tight. It blends easily with my fingers and still looks natural up close. The only reason it\u2019s not a full 5 stars is the shade range \u2014 I had to mix a little with another product to get my perfect match. Other than that, it\u2019s an amazing everyday BB cream and a staple in my makeup bag. Would definitely repurchase!",
+          "reviewDate": "Reviewed in the United States on January 7, 2026",
+          "customer": "Girl Mama",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEFZE7DQSXU2KPB55ZAKJU7UCIZA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110 LIGHT/MEDIUM"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "A new fave!",
+          "reviewText": "For those of us with mature skin, this is a wonderful addition to our daily makeup routine. I can no longer wear matte foundation and have to be very careful with matte powders. When I apply this before my satin foundation, I get a lovely soft glow. On days I don't want to go full tilt with my makeup, I use this on it's own followed by a light dusting of finishing powder. It leaves a soft beautiful finish. Priced much better than the high-end BBs too. My skin type is combination but mature so not looking dry is very important. On it's own, it lasts 8 hours if I'm not exercising or working in the garden etc. It's not sticky and looks very natural. Tip: If it's a little too shiny for you, a light dusting of finishing powder mutes it to a lovely satin finish.",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "DeVa Darling",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG3RX2V5EAPAIISREVWJ5M7FZDMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110 LIGHT/MEDIUM"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "The best beauty balm and tinted coverage",
+          "reviewText": "This is magical stuff! It is so amazing for matching my skintone, for the sunscreen, and for such a smooth light feel. It is not oily at all, a little goes a long way and the consistency and coverage are amazing. It works so well! This is the absolute best!",
+          "reviewDate": "Reviewed in the United States on January 15, 2026",
+          "customer": "Meg F",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGSHYA2GJZPLWGIJLOKNJCVVOB3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110 LIGHT/MEDIUM"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Finally found my unicorn beauty balm!",
+          "reviewText": "I am honestly amazed by the quality and performance of this product. Have spent a small fortune on premium brands looking for a unicorn product that moisturizes without being too shiny or sticky, that provides some coverage without looking like a mask, that has spf without nasty chemicals, that matches my skin color without making me look washed-out, plays well with my moisturizer and rosacea medication, etc etc etc. This product checks all the boxes, for less than $10!!! It glides on smoothly with just my fingertips and leaves zero streaks. I do wish they made one shade lighter in a peachy/ivory tone because even the lightest shade (100) is a hair too dark and yellow for me, but it looks totally natural if i apply a thin veil of translucent powder. I'm so glad i found this and hope they make it forever.",
+          "reviewDate": "Reviewed in the United States on October 13, 2025",
+          "customer": "Drosophila Melanogaster",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH5XSVT53ZZF3XTPY6UTEGYYKU4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "100 LIGHT"
+          },
+          "helpfulVotes": "38 people found this helpful"
+        },
+        {
+          "reviewTitle": "Decent coverage",
+          "reviewText": "If you\u2019re older. It doesn\u2019t cover age spots and broken blood vessels but for someone younger it would be great",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "Jane mccallum",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHREJYT7FZ445A3LUCMHME4ZIT2A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110 LIGHT/MEDIUM"
+          }
+        },
+        {
+          "reviewTitle": "My absolute favorite for everyday wear! \u2b50\u2b50\u2b50\u2b50\u2b50",
+          "reviewText": "This is the perfect product for that 'no-makeup' look. It\u2019s incredibly lightweight, feels just like a moisturizer, and the added SPF 30 is a huge plus. It evens out my skin tone perfectly without feeling heavy or greasy. Unbeatable value for the price!",
+          "reviewDate": "Reviewed in the United States on February 2, 2026",
+          "customer": "Yailin Josefina Avenda\u00f1o Romero",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG6DZTS3YINPZNSUGK3NMXO525GQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110 LIGHT/MEDIUM"
+          },
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "BB cream for the win",
+          "reviewText": "Product was delivered as shown. A little bit smaller than expected (but to be fair I didn\u2019t pay much attention to size when choosing this BB cream). I like the coverage and it really is hydrating- no flakiness without looking oily (what I experienced with other brands). It lasts me a full day at the office, but by the time I get home there is no real need for make-up remover as the tint and coverage is all but gone- but I can\u2019t say this is exclusive to this BB cream as I have faced the same with other foundations and creams (perhaps best paired with a primer then?) Also the other BB creams that I\u2019ve used tend to transfer a lot easier to tissues and phones, whereas this doesn\u2019t as much. It was really useful that seller included the differences between the BB creams as that made it a-lot easier to buy the correct product for my skin type.",
+          "reviewDate": "Reviewed in the United Arab Emirates on February 15, 2023",
+          "customer": "CB Khurram",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110 LIGHT/MEDIUM"
+          }
+        },
+        {
+          "reviewTitle": "Only in emergency",
+          "reviewText": "It\u2019s a good sub when I have run out of other product. But there are better products out there for men especially",
+          "reviewDate": "Reviewed in Australia on January 23, 2025",
+          "customer": "Luciferivy",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "130 MEDIUM/DEEP"
+          }
+        },
+        {
+          "reviewTitle": "Second skin feeling",
+          "reviewText": "Absolutely like this product, feels like a second skin. Good tone correction and love the dewy look.",
+          "reviewDate": "Reviewed in Australia on December 4, 2025",
+          "customer": "Shay",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "110 LIGHT/MEDIUM"
+          }
+        },
+        {
+          "reviewTitle": "Foundation",
+          "reviewText": "As I can't get my normal foundation anymore this is tge next best thing...it was delivered earlier than expected",
+          "reviewDate": "Reviewed in Australia on April 27, 2025",
+          "customer": "Kellie Meadows",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "100 LIGHT"
+          }
+        }
+      ]
+    }
+  }
+}

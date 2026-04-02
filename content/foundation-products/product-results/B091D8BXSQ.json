@@ -1,0 +1,463 @@
+{
+  "requestMetadata": {
+    "id": "60a7d3a6-5674-4676-876c-6fbb0c92a7b2",
+    "status": "ok",
+    "html": "https://files.hasdata.com/60a7d3a6-5674-4676-876c-6fbb0c92a7b2.html",
+    "json": "https://files.hasdata.com/60a7d3a6-5674-4676-876c-6fbb0c92a7b2.json",
+    "url": "https://www.amazon.com/dp/B091D8BXSQ"
+  },
+  "product": {
+    "asin": "B091D8BXSQ",
+    "url": "https://www.amazon.com/dp/B091D8BXSQ",
+    "title": "L'Oreal Paris True Match Nude Hyaluronic Tinted Serum Foundation with 1% Hyaluronic acid, Light 2-3, 1 fl. oz.",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Light 2-3",
+      "size": "1 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "Tinted Hydrating Serum Vegan Foundation: Formulated with Hyaluronic Acid to leave skin smoother and more hydrated, plus luminous mineral pigments for lightweight coverage and to brighten complexion",
+      "Hyaluronic Acid: Naturally found in the skin, Hyaluronic Acid helps enhance skin\u2019s ability to retain moisture, Vegan makeup, Dermatologically tested, paraben- and fragrance-free, noncomedogenic, and suitable for all skin types, even sensitive skin",
+      "Illuminate Your Face: From BB creams to blush, we have all you need for a smooth, even finish, Highlight to illuminate your look, use concealer to hide imperfections or apply contouring makeup to define",
+      "Because You're Worth It: Create the look you want with our full line of makeup including foundations, concealers, highlighter makeup, brow pencils, eyeshadow palettes, lipsticks and much more",
+      "L'Oreal Paris Beauty: A leading total beauty care company based in Paris, we offer innovative products and unique expertise from beauty experts in makeup, skin care, hair care, styling and hair color"
+    ],
+    "description": "Makeup + Skincare = The Perfect Match. Introducing New True Match Nude Hyaluronic Tinted Serum foundation by L'Oreal Paris - The 1st tinted serum with 1 percent Hyaluronic Acid. With this tinted serum skin instantly looks brighter, even and feels hydrated for a nude, radiant finish. The 1% Hyaluronic acid gives skin a hydrated feel and smooths over time, while the luminous mineral pigments provide lightweight coverage for a brightened complexion. Available in 14 nude, radiant shades that blend to match a variety of skintones. Find your true match today 100% satisfaction guaranteed.* *Money back guarantee, up to $14.99 after coupon (sales tax and shipping will not be refunded). Restrictions apply. For details, call 1-855-332-9983. Valid in the 50 US/DC, 18 years of age or age of majority and older and only on purchase of a L\u2019Oreal Paris True Match product made between 1/1/2021 and 12/31/21 with original store receipt or ship confirmation. Request must be postmarked by 1/29/22 and received by 2/13/22. Void where prohibited. Limit 1 refund per person and per household. Please allow 8-10 weeks for delivery.",
+    "boughtInPastMonth": "4K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B091D5RRKV",
+        "title": "1 Fl Oz (Pack of 1) Medium 4-5",
+        "url": "https://www.amazon.com/dp/B091D5RRKV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BT9fxkbPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B091DBGM91",
+        "title": "1 Fl Oz (Pack of 1) Light-Medium 3-4",
+        "url": "https://www.amazon.com/dp/B091DBGM91",
+        "imageUrl": "https://m.media-amazon.com/images/I/613We37XXaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B091D9Z7MK",
+        "title": "1 Fl Oz (Pack of 1) Medium Tan 5-6",
+        "url": "https://www.amazon.com/dp/B091D9Z7MK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61H-CyafCnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B091D4D7VT",
+        "title": "1 Fl Oz (Pack of 1) Very Deep 10-12",
+        "url": "https://www.amazon.com/dp/B091D4D7VT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-3Y0QJkjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B091D95K37",
+        "title": "1 Fl Oz (Pack of 1) Tan 6-7",
+        "url": "https://www.amazon.com/dp/B091D95K37",
+        "imageUrl": "https://m.media-amazon.com/images/I/617p4cyZX9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HLBSTK4",
+        "title": "1 Fl Oz (Pack of 1) Cool Deep 7.5-8.5",
+        "url": "https://www.amazon.com/dp/B09HLBSTK4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61cqL3GXHPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HLCS3FY",
+        "title": "1 Fl Oz (Pack of 1) Medium Deep 8.5-9.5",
+        "url": "https://www.amazon.com/dp/B09HLCS3FY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71aeQcMVT8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B091D9QFG3",
+        "title": "1 Fl Oz (Pack of 1) Tan-Deep 7-8",
+        "url": "https://www.amazon.com/dp/B091D9QFG3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UqsdQb+OL._SL1500_.jpg"
+      },
+      {
+        "asin": "B091DB1QFV",
+        "title": "1 Fl Oz (Pack of 1) Deep 8-10",
+        "url": "https://www.amazon.com/dp/B091DB1QFV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lp5PxNpvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B091D8BXSQ",
+        "title": "1 Fl Oz (Pack of 1) Light 2-3",
+        "url": "https://www.amazon.com/dp/B091D8BXSQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DF9OZhIJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HL96Z54",
+        "title": "1 Fl Oz (Pack of 1) Rich Medium 4.5-5.5",
+        "url": "https://www.amazon.com/dp/B09HL96Z54",
+        "imageUrl": "https://m.media-amazon.com/images/I/61YUWXKGujL._SL1500_.jpg"
+      },
+      {
+        "asin": "B091DB3DV5",
+        "title": "1 Fl Oz (Pack of 1) Rich Deep 10.5-11",
+        "url": "https://www.amazon.com/dp/B091DB3DV5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pk+Lc2HhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B091G1YKVB",
+        "title": "1 Fl Oz (Pack of 1) Very Light 0.5-2",
+        "url": "https://www.amazon.com/dp/B091G1YKVB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61c2LcACWYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HL99JZW",
+        "title": "1 Fl Oz (Pack of 1) Rosy Light 1-2.5",
+        "url": "https://www.amazon.com/dp/B09HL99JZW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61E-J4siA3L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 15.82,
+      "beforePrice": 20.99,
+      "discount": "-25%",
+      "priceFrom": 15.82,
+      "otherOfferQuantity": 4
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 5 hrs 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "Non-returnable. Transportation of this item is subject to hazardous materials regulation",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61DF9OZhIJL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61DF9OZhIJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81DGVuqr6RL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81aK+zocObL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cBOh-DReL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mOIk1vJQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Ff7Tr2CLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91qIL1OZayL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81x75PgYndL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/89915bc0-8342-4ebd-8dfd-3df0c2e1a88e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d14101bb-4579-4bdd-950d-5d1f71ea0576.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8eeae1f1-c707-42d3-b77c-90d68cd22ced.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bebdc521-0028-41ae-b4c1-8409a7424131.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5fcb9248-2a9e-48f1-b14b-282a5bd769bf.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b831d629-5190-4246-bc63-d34d34a901ef.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/78897a6c-e143-4bc0-81d2-26f55bc4c71b.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e4424022-0ffb-43ef-8585-0b69193964f4.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Serum"
+      },
+      {
+        "key": "Color",
+        "value": "Light 2-3"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Oily, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Brightening, Flawless, Hydrating, Smoothing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "071249635926"
+      },
+      {
+        "key": "Model Number",
+        "value": "K3341702"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "K3341702"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L'Oreal Paris"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Foundation"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,046 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #15 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B091D8BXSQ"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Unscented"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Luminous"
+      },
+      {
+        "key": "Coverage",
+        "value": "Lightweight Coverage"
+      },
+      {
+        "key": "Item Weight",
+        "value": "4.61 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.29 x 1.29 x 4.47 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free,Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 18783,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "13%",
+        "threeStars": "7%",
+        "twoStars": "3%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this foundation provides great coverage and appreciate its lightweight, smooth texture that feels like skincare. The product offers a natural-looking finish, lasts throughout the day with a setting spray, and is considered one of the best drugstore foundations. While some customers say the color matches their skin tone perfectly, others find it too dark for their complexion. Customers disagree on whether it's suitable for dry skin.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 757,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 418,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 396,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 368,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 244,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 212,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 513,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin type",
+          "count": 296,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81HIHFoSdwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718aI-N5YlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61c48mtJRzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/717p8KlH+KL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81-kMwQpnTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rtUXwBARL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51qwTwcBwWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61IFJeA4DhL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71s6MiFQ5qL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61UGnqR-haL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71buB4BThUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71jid4-0V3L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "\"Just right\" Coverage - This is a winner!",
+          "reviewText": "This product is WONDERFUL! I\u2019ve been searching forever for a foundation-type product and have accumulated too much makeup because I keep learning of something new/different that looks/sounds promising only to be utterly disappointed with how it looks on me. My bare face is sickly pale and washed out, but every foundation-type product I\u2019ve tried ends up looking cakey and/or artificial on me, and as I\u2019m getting older (now in my 40s), I\u2019m having trouble with makeup leaving me looking dried out. NOT the case with this Loreal Tinted Serum! This is EXACTLY what I\u2019ve been wanting for so long. This tint offers just the right amount of coverage, (just slightly more than sheer), to give my face a polished, healthy glow while still being sheer enough and close enough to my coloring to look natural (a no-makeup makeup look). Maybe it\u2019s the hyaluronic acid, but it seems quite moisturizing (it really feels more like I\u2019m applying skincare rather than makeup but it obviously is both \u2013 such a win-win!). I generally apply a light moisturizer first, but I\u2019m not sure I\u2019d have to - it depends how dry your skin is. It wears beautifully for at least 10-12 hours, looking to me basically the same as when I first applied it without creasing or looking cakey. It doesn\u2019t settle into (emphasize) my fine lines, but rather has a slight softening/blurring effect. Also, it\u2019s super easy, quick and fail-proof to apply \u2013 huge wins for my busy life. In 2 minutes, I can apply this and some lipstick and feel fully confident no matter where my day takes me. Or when I have time for a full face of makeup, it\u2019s the perfect foundation. Having only been using it a few weeks, I can\u2019t say for sure how long a bottle lasts, but it seems to go a long way \u2013 a few drops on each section of my face is aplenty. I can\u2019t say enough good about this \u2013 I\u2019m in love! Only two cautionary notes I\u2019d offer \u2013 1) it IS relatively thin coverage, so it doesn\u2019t conceal dark spots or blemishes completely \u2013 if I have a noticeable acne blemish or something, I still need some concealer to fully cover it. 2) Other reviewers mentioned it being messy, and I can see that\u2019s a possible drawback because it\u2019s liquidy and the way the screw lid/dispenser works, it can easily get all over the bottle, etc if you\u2019re not careful \u2013 I just make sure to draw the dispenser out & put it back in very slowly as to not smudge it all over the bottle rim. Conclusion: Unless you want or need a heavier/thicker foundation, I can\u2019t imagine anyone not being as thrilled with this tinted serum as I am, especially for non-youthful skin that tends dryer with fine lines.",
+          "reviewDate": "Reviewed in the United States on January 2, 2025",
+          "customer": "missouragirl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHZ6TMWCJTWSTKMZ4LETQF6RM7MQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Light 2-3"
+          },
+          "helpfulVotes": "175 people found this helpful"
+        },
+        {
+          "reviewTitle": "10 STARS IF I COULD",
+          "reviewText": "I\u2019ve repurchased this tinted hyaluronic acid several times now, and it has become my absolute go-to. I hate, hate, hate traditional foundations (they always feel heavy and unbreathable), but I LOVE this product. Shade & Skin Tone: I use Rosie Light, and it is perfect for fair skin with red undertones or naturally rosy cheeks. It evens everything out without masking your natural complexion. After the first layer dries, I sometimes add a literal drop (just one drop, seriously) and pat it onto my cheeks for more coverage because my irish cheeks stay rosie all year. I also tried a shade darker, and it was excellent for summer - still lightweight and natural, just a bit more warmth for sunny months. Texture & Feel: This formula is incredibly lightweight and moisturizing. It feels breathable, never heavy, and it absolutely does not clog pores. There\u2019s no smell, which I appreciate since fragrances often irritate my skin. It layers very well over CeraVe moisturizing tinted sunscreen. Still breathable and light! Performance: The coverage is soft, sheer, and glowy, but still manages to smooth out your skin tone beautifully. It layers amazingly well, as mentiined above, especially over the CeraVe Ultra Lightweight Moisturizer - truly a perfect combo. Pro Tip: Apply this tinted hyaluronic acid before your moisturizer completely dries. When the skin is still slightly damp and hydrated, the product glides on like butter and gives the smoothest, easiest blend you could imagine. It spreads effortlessly on hydrated skin, and the applicator dropper works really well to control how much you're using. Final Thoughts: This has become my everyday complexion product. Lightweight, breathable, moisturizing, easy to blend, no scent, and gorgeous natural coverage. If I could give it 10 stars, I absolutely would. If you hate heavy foundations but need to even out your skin tone or want a smooth but natural or makeup-free looking finish, then this is the product you've been looking for. Great value, great product.",
+          "reviewDate": "Reviewed in the United States on November 21, 2025",
+          "customer": "ShishaDoe",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFUEXCM462JX754BKTULN3Q2NJJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Rosy Light 1-2.5"
+          },
+          "helpfulVotes": "37 people found this helpful"
+        },
+        {
+          "reviewTitle": "Second skin!!",
+          "reviewText": "I was not so sure about it at first, but let me tell you. As soon as I applied it, I loved it, the coverage is buildable, so you wont have a problem when using it, it does not crack up, that was my problem with most foundations. I leaves my skin feeling and visible hydrated and like wearing a filter, it looks smooth. The color matched my skin tone perfectly and that was the biggest plus for me because I always have an issue finding one that is not too light or too dark for me, since I'm in between, I usually could wear a light tone, but in summer I could use a warmer one. It is worth every penny, and the size I feel is perfect, because you don't need that much for it to work.",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Yosmary Salazar",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AET3H7MNG676Q47KWBODZXKK6FQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Medium 4-5"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Love the product, hate the packaging.",
+          "reviewText": "I love this foundation because it\u2019s so light weight I forget it\u2019s there, and haven\u2019t noticed any fragrance. It\u2019s light coverage but buildable and very forgiving when blending. It has a dewy finish and I didn\u2019t notice any creasing after a day of work. The only thing that drives me crazy is that you have to be SO CAREFUL when opening it or it\u2019ll get all over the bottle.",
+          "reviewDate": "Reviewed in the United States on February 23, 2026",
+          "customer": "Ellie Bailey",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AENJ7YUCI4JPCJ72AYC3XMQVKASQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Rich Medium 4.5-5.5"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good coverage and good finish",
+          "reviewText": "Love this foundation because it gives the glassy look that I am now interested in having, easy color match. It\u2019s very light and best to put it on with a brush.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "S. Watson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYSG777JUFFFBF2A2FRED6D3AMA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Very Light 0.5-2"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "My go to!",
+          "reviewText": "This is hands down the best light coverage, natural, buildable tinted serum. It is so flawless, very blendable, and you can use more or less. I use a damp foundation sponge to apply and use a dewy setting spray, I\u2019m 42 and it looks amazing!",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "AlliFitness",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHIQLBYJMGIWZKIDZL4MFG33R5SA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Light-Medium 3-4"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great value",
+          "reviewText": "Good value great coverage",
+          "reviewDate": "Reviewed in the United Kingdom on February 27, 2026",
+          "customer": "jennifer mary haynes",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Medium 4-5"
+          }
+        },
+        {
+          "reviewTitle": "Feels like skin",
+          "reviewText": "One of the best tinted serum I have used. It is light to medium coverage and a bit runny but feels like skin once set. Totally recommend!",
+          "reviewDate": "Reviewed in Canada on February 6, 2026",
+          "customer": "AKulka",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Rich Medium 4.5-5.5"
+          }
+        },
+        {
+          "reviewTitle": "Superbly long lasting",
+          "reviewText": "Possibly the best foundation I ever tried\u2026 blends easily and perfectly stays on throughout the day \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
+          "reviewDate": "Reviewed in Singapore on August 28, 2023",
+          "customer": "JT",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1 Fl Oz (Pack of 1)",
+            "color": "Light-Medium 3-4"
+          }
+        }
+      ]
+    }
+  }
+}

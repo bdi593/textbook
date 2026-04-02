@@ -1,0 +1,204 @@
+{
+  "requestMetadata": {
+    "id": "f9d13ad4-228c-4264-ab58-e554d0c88fcf",
+    "status": "ok",
+    "html": "https://files.hasdata.com/f9d13ad4-228c-4264-ab58-e554d0c88fcf.html",
+    "json": "https://files.hasdata.com/f9d13ad4-228c-4264-ab58-e554d0c88fcf.json",
+    "url": "https://www.amazon.com/dp/B005WWTDHC"
+  },
+  "product": {
+    "asin": "B005WWTDHC",
+    "url": "https://www.amazon.com/dp/B005WWTDHC",
+    "title": "Foundation's Edge",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "format": "if (typeof uet == 'function') {\n            uet('bb', 'audibleMediaMatrixScope', {wb: 1});  //timestamp body-begin\n        }\n    \n                      \n                           \n                        \n         Audiobook              \n\n    \n    .adblVerticalAlignCenter {\n        padding-top: 0 !important;\n        display: flex !important;\n        flex-direction: row;\n        justify-content: center;\n        height: 100%;\n        align-items: center;\n    }\n    .adblVerticalAlignTop {\n        padding-top: 4px !important;\n        display: flex !important;\n        flex-direction: row;\n        justify-content: flex-start;\n        height: 100%;\n        align-items: flex-start;\n    }\n    .adblShowExtraMessageWithoutPriceTitle {\n        position: inherit;\n        top: 12px;\n    }\n    .adblShowPriceWithoutExtraMessage {\n        margin-top: 9px;\n    }"
+    },
+    "features": {
+      "book4Of7": "Foundation",
+      "listeningLength": "16 hours and 14 minutes",
+      "author": "Isaac Asimov",
+      "narrator": "Scott Brick",
+      "publicationDate": "October 18, 2011",
+      "language": "English",
+      "publisher": "Random House Audio",
+      "asin": "B005WWTDHC",
+      "version": "Unabridged",
+      "programType": "Audiobook"
+    },
+    "description": "The fourth novel in Isaac Asimov\u2019s classic science-fiction masterpiece, the Foundation seriesTHE EPIC SAGA THAT INSPIRED THE APPLE TV+ SERIES FOUNDATIONAt last, the costly and bitter war between the two Foundations has come to an end. The scientists of the First Foundation have proved victorious, and now they return to Hari Seldon\u2019s long established plan to build a new Empire on the ruins of the old. But rumors persist that the Second Foundation is not destroyed after all\u2014and that its still-defiant survivors are preparing their revenge. Now two exiled citizens of the Foundation\u2014a renegade Councilman and a doddering historian\u2014set out in search of the mythical planet Earth . . . and proof that the Second Foundation still exists.Meanwhile someone\u2014or something\u2014outside of both Foundations seems to be orchestrating events to suit its own ominous purpose. Soon representatives of both the First and Second Foundations will find themselves racing toward a mysterious world called Gaia and a final, shocking destiny at the very end of the universe.",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Books",
+      "Science Fiction & Fantasy",
+      "Science Fiction",
+      "Hard Science Fiction"
+    ],
+    "variants": [
+      {
+        "asin": "B003EY7JC6",
+        "title": "Kindle",
+        "price": "$7.99",
+        "url": "https://www.amazon.com/dp/B003EY7JC6"
+      },
+      {
+        "asin": "B005WWTDHC",
+        "title": "Audiobook",
+        "price": "$0.00",
+        "url": "https://www.amazon.com/dp/B005WWTDHC"
+      },
+      {
+        "asin": "0808522035",
+        "title": "School & Library Binding",
+        "price": "$18.80",
+        "url": "https://www.amazon.com/dp/0808522035"
+      },
+      {
+        "asin": "0593159985",
+        "title": "Paperback",
+        "price": "$11.89",
+        "url": "https://www.amazon.com/dp/0593159985"
+      }
+    ],
+    "totalImages": 1,
+    "primaryImage": "https://m.media-amazon.com/images/I/917LDdE4kpL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/917LDdE4kpL._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 9053,
+      "rating": 4.7,
+      "starRates": {
+        "fiveStars": "73%",
+        "fourStars": "23%",
+        "threeStars": "4%",
+        "twoStars": "0%",
+        "oneStars": "0%"
+      },
+      "customersSay": "Customers find this science fiction book to be a well-developed novel with incredible plot twists and a dramatic ending, making it essential reading for fans of the Foundation Trilogy. Moreover, the writing style receives praise, with one customer noting how it takes psychohistory one step beyond. Additionally, customers appreciate the book's intellectual depth, with one review highlighting how it explores the extremes of science and mentalics, and its timeless classic status.",
+      "aspects": [
+        {
+          "aspect": "Content",
+          "count": 113,
+          "status": "positive"
+        },
+        {
+          "aspect": "Plot",
+          "count": 59,
+          "status": "positive"
+        },
+        {
+          "aspect": "Series",
+          "count": 54,
+          "status": "positive"
+        },
+        {
+          "aspect": "Thought-provoking",
+          "count": 31,
+          "status": "positive"
+        },
+        {
+          "aspect": "Writing style",
+          "count": 24,
+          "status": "positive"
+        },
+        {
+          "aspect": "Intellectual",
+          "count": 14,
+          "status": "positive"
+        },
+        {
+          "aspect": "Foundation",
+          "count": 12,
+          "status": "positive"
+        },
+        {
+          "aspect": "Timeless",
+          "count": 12,
+          "status": "positive"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "A soul-satisfying tale of galactic powers deciding on the fate of the Galaxy",
+          "reviewText": "Warning: Spoiler Alert! It is 500 years after the establishment of the Foundation on the isolated planet of Terminus. The young and brash councilman, Golan Trevize, has been drawing the irritated attention of the Mayor of Terminus for his overt actions regarding his negative opinions of Hari Seldon\u2019s \u201cPlan\u201d, and the existence of the Second Foundation. And this gets him exiled, along with a 52 year-old scholar of history and mythology, Janov Pelorat. Yet, it is a very strange exile. He is given a powerful computer-controlled spaceship with the ability to jump through hyperspace with ease, and a \u201cmission\u201d to search for \u201cEarth\u201d, the legendary planet of human origin. Meanwhile, Stor Gendibal, a brilliant and powerful speaker of the Second Foundation, still located on the planet Trantor, prior center of the Galactic Empire, proves to the First Speaker, that a group with mentalic powers greater than their own, are keeping the Seldon Plan on track with far greater accuracy than the Second Foundation could. He further points out that it is Golan Trevize, the councilman of the Foundation Federation, who is the inadvertent pawn of this \u201canti-mule\u201d group. And so begins the incredible odyssey of Golan and Janov, as they bond together on their quest through the Galaxy to find Earth, but unknowingly to unravel a mystery which holds the fate of the entire Galaxy in their hands. There are a multitude of science fiction stories which describe starships speeding across the Galaxy, flitting from star to star or planet to planet, but most of them pay little attention to the details of what that interstellar travel must involve. Asimov, via the delightful and thoughtful conversations of his two protaganists of Golan and Janov, provide the readers with a truly appealing interchange between the two men as they become fast friends in the depths of space. And in that interchange, we are treated to the beautifully explained and articulated thoughts and trade secrets of space travel and mythology \u2013 and the \u201crules\u201d of how to behave on a strange planet - of a time 20,000 years in the future. Asimov leaves us well entertained with his soul-satisfying climax, as the three \u201cpowers\u201d in the Galaxy \u2013 the Foundation, the Second Foundation, and the \u201canti-mules\u201d of the mysterious planet \u201cGaia\u201d - meet in stalemate in space to let Golan Trevize decide the future fate of the Galaxy.",
+          "reviewDate": "Reviewed in the United States on July 9, 2013",
+          "customer": "Al Azose",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHNDPXO5WGXJAORMNTJKNBC2M27Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Unsurpassed.",
+          "reviewText": "Of all the science fiction stories that Asimov wrote, this and Robots of Dawn are the two best. Of course all of Asimov's science fiction novels are stellar but in a stellar constellation these two are outstanding. The level of creativity here is marvelous. The Foundation Trilogy was great and I have read all three many times and enjoyed each on the fifteenth reading as much as on the first. Asimov is not a grand master for nothing. But Foundation's Edge is so far above the first three on every level: especially characterization and plot development not to mention the fabulous ending. After Foundation's Edge and Robots of Dawn Asimov went on to write another Robot novel and three more Foundation novels but they were rather disappointing. They were formulaic. I suppose every author that writes a series uses a formula but it doesn't do to let the bones of the formula show through. In the fourth Robot novel and the three final Foundation novels the protagonist(s) travel to this place then that place then another place then a final place and the endings (except for Robots and Empire) don't justify the time we've spent traveling from place to place. The creativity is gone. Which makes Foundation's Edge all the more glorious. I can't recommend this book highly enough.",
+          "reviewDate": "Reviewed in the United States on January 18, 2016",
+          "customer": "Lover of English",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG6DOJIQEWIO4N2IHASLSALDPQ7A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Mass Market Paperback"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Check the dimensions before buying the hardcover version.",
+          "reviewText": "This rating is based on the hard cover version, not on the contents. Sadly the fault is mine for not checking the dimensions. The hard cover is the size of a pocket paperback! Not worth the money spent. I read the original Foundation trilogy 50 years ago and so, I was confused by the Apple series which seemed completely different from the Novel. But it has been 50 years so I bought hardback copies of the Original Series of 3 books and read them all and it ends up, my memory isn't all that bad after all. I wondered why Apple screwed with the main plot so terribly, sure, I can see getting rid of the misogynistic, cigar smoking, brandy swilling, objectification of women, but just down right altering the whole plot! I mean, really, A Robot, robot wars! I read Irobot, I read Caves of steel, but there wasn't a trace of that in the original trilogy, then I found out that he wrote additional novels in 82 and the Apple series is based on the Fourth novel Foundation Edge. I haven't read it yet, I'm just annoyed with myself for not looking at the size of the hardcover version before I purchased it :(",
+          "reviewDate": "Reviewed in the United States on September 13, 2025",
+          "customer": "Coconut",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG3JEGBSGFRRTZU2S5E4LSYHPVDA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "format": "School & Library Binding"
+          }
+        },
+        {
+          "reviewTitle": "Extremely intelligent, vividly written, and boldly imaginative and conceived",
+          "reviewText": "A masterfully conceived and written story. Satisfyingly intellectual, vividly and clearly written, boldly imaginative, and singularly entertaining. Asimov brings the literary components together in the Foundation series. It is an eruption of curiosity, innovation, and craft.",
+          "reviewDate": "Reviewed in the United States on September 2, 2025",
+          "customer": "Jeff Lacy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHUIJRFYSRFEFPJGIQE7UO2EQA4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Looking for earth",
+          "reviewText": "This book is obviously written a significant time after the foundation series had become a thing. The science was no longer out of date. The language as also update except for the history professor who sounded like a contemporary of HG Wells. The story moves along in a way that keeps one constantly interested in what's next. The basic idea is that the mayor of terminus gets a thorn out of her side by sending him off on a quest to find the second foundation. She teams him up with a history professor on a quest to find the list origin planet of earth. They're put on a cutting edge advanced space ship with the idea that they'll never return. Well they never find earth or the second foundation, but they find Gaia (Greek for Terra). Seems Gaia has some unique aspects that it has successfully kept hidden until this terminus politician comes snooping around. This gets the mayor, the second foundation, and a few other people all in a dither. The end result is predictable, but still an amusing read.",
+          "reviewDate": "Reviewed in the United States on November 16, 2023",
+          "customer": "William S. Morris",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3V4G3WHLVUTWU2ZIA3JXP76WLQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Foundation",
+          "reviewText": "Very good book. Continues from The Foundation trilogy very well.",
+          "reviewDate": "Reviewed in the United Kingdom on June 9, 2025",
+          "customer": "Diamond Laser",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "A brilliantly imaginative, thought-provoking and greatly engrossing book!",
+          "reviewText": "When you pick up an Isaac Asimov book, you're always in for a treat. This is the fourth book of the Foundation Saga from the Master of Sci-fi. Here's a summary and review: This book hits the ground running by immediately plunging the reader into the political intrigue of the two foundations in the backdrop of a suspiciously perfectly progressing Seldon Plan. The readers are introduced to the First Foundations' highly advanced technology whose workings and implied societal and cultural implications are astounding. The readers are also thoroughly introduced to the Second Foundation's enormous and literally mind-bending psychic powers and the control they exert on the galaxy. In the middle of it all are two exiled First Foundationers, A bold and courageous councilman with uncanny intuition, and a shy and curiosity-driven historian/mythologist. It's gratifying to read about formidable individuals laying out their elaborate plans within plans, thinking on their feet, and going head-to-head with invisible foes, all in the service of a greater good and sometimes personal gains. The book is a highly engaging page-turner with well-written characters, all of whom beautifully converge towards the resolution of the story via a sometimes convoluted but undeniably imaginative plot. The ideas and themes of technology, politics, free will, governance, etc, are thought-provoking without being preachy. And the world-building in the book is rich and complex. An immensely enjoyable book which is a testament to the author's literary adeptness, imagination, foresight, and overall richness of the mind.",
+          "reviewDate": "Reviewed in India on December 3, 2024",
+          "customer": "Rutwik sakhare",
+          "customerStarsRating": 5
+        }
+      ]
+    }
+  }
+}

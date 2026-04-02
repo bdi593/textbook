@@ -1,0 +1,685 @@
+{
+  "requestMetadata": {
+    "id": "7c8448a2-d0c1-464a-8f7e-8a1daca09dbe",
+    "status": "ok",
+    "html": "https://files.hasdata.com/7c8448a2-d0c1-464a-8f7e-8a1daca09dbe.html",
+    "json": "https://files.hasdata.com/7c8448a2-d0c1-464a-8f7e-8a1daca09dbe.json",
+    "url": "https://www.amazon.com/dp/B0BNWBT2G2"
+  },
+  "product": {
+    "asin": "B0BNWBT2G2",
+    "url": "https://www.amazon.com/dp/B0BNWBT2G2",
+    "title": "Lanc\u00f4me Teint Idole Ultra Wear Natural Matte Foundation- Longwear, Medium-Full Coverage, Natural Finish, Waterproof & Hydrating Formula",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "220C: For light skin with cool/pinky undertones"
+    },
+    "featureBullets": [
+      "UP TO 24HR LONGWEAR: Buildable full coverage with a breathable, natural matte finish.",
+      "SUITABLE FOR ALL SKIN TYPES: Dermatologically tested, ideal for mature, oily, sensitive, and acne-prone skin.",
+      "HYDRATING FORMULA: Infused with hyaluronic acid, vitamin E, moringa, and prebiotics for optimal skin care benefits.",
+      "IDEAL FOR ACNE-PRONE SKIN: Non-comedogenic formula resists creasing, caking, and settling into fine lines.",
+      "66 INCLUSIVE SHADES: 99% of participants found their perfect shade match in a consumer test with 252 women."
+    ],
+    "boughtInPastMonth": "700+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0BNWF2DYX",
+        "title": "405W: For medium-deep skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNWF2DYX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BZYSJUiNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWFNX22",
+        "title": "425C: For medium-deep skin with cool\\/rich-red undertones",
+        "url": "https://www.amazon.com/dp/B0BNWFNX22",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-gkMVycLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWF4LKH",
+        "title": "430C: For medium-deep skin with cool\\/rich-red undertones",
+        "url": "https://www.amazon.com/dp/B0BNWF4LKH",
+        "imageUrl": "https://m.media-amazon.com/images/I/612OKIRWcrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWBPCPQ",
+        "title": "445N: For medium-deep skin with neutral\\/deep peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWBPCPQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/617QWANl2bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWDM28F",
+        "title": "135N: For fair to light skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWDM28F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VHInJRKpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007C8G0TS",
+        "title": "100 Ivoire N: fair skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B007C8G0TS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61aWTGPGV9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWC7P5S",
+        "title": "415W: For medium-deep skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNWC7P5S",
+        "imageUrl": "https://m.media-amazon.com/images/I/610wB5NawwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWD4DSX",
+        "title": "320C: For medium skin with cool\\/rosy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWD4DSX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hzclkmj4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWDN5Q3",
+        "title": "455W: For medium-deep skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNWDN5Q3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x45dXqNvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWC4S5J",
+        "title": "540C: For deep skin with cool\\/rich red undertones",
+        "url": "https://www.amazon.com/dp/B0BNWC4S5J",
+        "imageUrl": "https://m.media-amazon.com/images/I/51kmvDtdYlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCPDTM",
+        "title": "205C: For light skin with cool\\/pinky undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCPDTM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qG944XqUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCHNGJ",
+        "title": "115C: For fair skin with cool\\/pinky undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCHNGJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61x13L2CGBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCYLV4",
+        "title": "520W: For deep skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCYLV4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kaAtI--XL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CMRYY3RC",
+        "title": "097N: For fair skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0CMRYY3RC",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Z2zA7N8xL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWC6GD8",
+        "title": "240W: For light to medium skin with warm\\/yellow undertones",
+        "url": "https://www.amazon.com/dp/B0BNWC6GD8",
+        "imageUrl": "https://m.media-amazon.com/images/I/615p2j7u50L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CMRXJVQ5",
+        "title": "090N: For fair skin with neutral\\/pinky undertones",
+        "url": "https://www.amazon.com/dp/B0CMRXJVQ5",
+        "imageUrl": "https://m.media-amazon.com/images/I/51l68uGKhfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWBJ8XQ",
+        "title": "345N: For medium skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWBJ8XQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61O8Ku-CEmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCST3H",
+        "title": "410N: For medium-deep skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCST3H",
+        "imageUrl": "https://m.media-amazon.com/images/I/614NAw7TS9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNW9ZWFT",
+        "title": "525W: For deep skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNW9ZWFT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fziEkuBTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCDCGM",
+        "title": "245C: For light to medium skin with cool\\/rosy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCDCGM",
+        "imageUrl": "https://m.media-amazon.com/images/I/615KhdpIDZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNW8LTQ2",
+        "title": "340W: For medium skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNW8LTQ2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61PQvzguzyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWDM6FG",
+        "title": "510N: For deep skin with neutral\\/deep peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWDM6FG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GwLD9nxVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CMS1LX1P",
+        "title": "095W: For fair skin with warm\\/yellow undertones",
+        "url": "https://www.amazon.com/dp/B0CMS1LX1P",
+        "imageUrl": "https://m.media-amazon.com/images/I/51+cHw9BvgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWD2QT2",
+        "title": "200N: For light skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWD2QT2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61D9UYbWPrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CMS71H8D",
+        "title": "555C: For deep skin with cool\\/rich red undertones",
+        "url": "https://www.amazon.com/dp/B0CMS71H8D",
+        "imageUrl": "https://m.media-amazon.com/images/I/51-9PhP8onL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWDJF4Q",
+        "title": "420W: For medium-deep skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNWDJF4Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RkSBpo2jL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWD64B4",
+        "title": "230W: For light to medium olive skin with warm\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWD64B4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UtdR1zLqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCHZ95",
+        "title": "400W: For medium-deep olive skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCHZ95",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UKk7WnI8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWF5VD7",
+        "title": "505N: For deep skin with neutral\\/deep peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWF5VD7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yuju9lrDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWBT2G2",
+        "title": "220C: For light skin with cool\\/pinky undertones",
+        "url": "https://www.amazon.com/dp/B0BNWBT2G2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kD0CjKOlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCNPTP",
+        "title": "300N: For medium skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCNPTP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FTyvaxdNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWDJTCS",
+        "title": "330N: For medium skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWDJTCS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61aitms5-CL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWC5MWL",
+        "title": "450W: For medium-deep skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNWC5MWL",
+        "imageUrl": "https://m.media-amazon.com/images/I/619quVhB9bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWFD71S",
+        "title": "440N: For medium-deep skin with neutral\\/deep peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWFD71S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GH6uny2rL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWC2ZVC",
+        "title": "105W: For fair skin with warm\\/yellow undertones",
+        "url": "https://www.amazon.com/dp/B0BNWC2ZVC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-+iYcuCvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNW85XMM",
+        "title": "350N: For medium olive skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNW85XMM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DlKsjh2uL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWFJVF4",
+        "title": "305N: For medium skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWFJVF4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Iwbpa50iL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWFJQL9",
+        "title": "120N: For fair skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWFJQL9",
+        "imageUrl": "https://m.media-amazon.com/images/I/614AigYlp9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCHQZ7",
+        "title": "215C: For light skin with cool\\/pinky undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCHQZ7",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kPIKKTCOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWDQWC7",
+        "title": "310N: For medium skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWDQWC7",
+        "imageUrl": "https://m.media-amazon.com/images/I/612me9w1Y9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWD51B6",
+        "title": "125W: For fair to light skin with warm\\/yellow undertones",
+        "url": "https://www.amazon.com/dp/B0BNWD51B6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Js8YWIxKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWGCSVD",
+        "title": "100W: For fair skin with warm\\/yellow undertones",
+        "url": "https://www.amazon.com/dp/B0BNWGCSVD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61k8m9fKqRL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCNN8M",
+        "title": "110C: For fair skin with cool\\/pinky undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCNN8M",
+        "imageUrl": "https://m.media-amazon.com/images/I/611LHga25uL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWC57N8",
+        "title": "250W: For light to medium skin with warm\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWC57N8",
+        "imageUrl": "https://m.media-amazon.com/images/I/610ZhKY1oKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWBWY9F",
+        "title": "325C: For medium skin with cool\\/rosy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWBWY9F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UBC+aST+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCWR43",
+        "title": "130C: For fair to light skin with cool\\/pinky undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCWR43",
+        "imageUrl": "https://m.media-amazon.com/images/I/61P7vTUPK-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CMS8WTP9",
+        "title": "560C: For deep skin with cool\\/rich red undertones",
+        "url": "https://www.amazon.com/dp/B0CMS8WTP9",
+        "imageUrl": "https://m.media-amazon.com/images/I/51A9B29kMNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCSG1J",
+        "title": "355N: For medium skin with neutral\\/peachy undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCSG1J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61iOdT921yL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BNWCN9NT",
+        "title": "335W: For medium skin with warm\\/golden undertones",
+        "url": "https://www.amazon.com/dp/B0BNWCN9NT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OzxVxfWGL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 45.05,
+      "beforePrice": 53,
+      "discount": "-15%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "fastestDeliveryRawDate": "Saturday, April 4",
+    "fastestDeliveryIsoDate": "2026-04-04T00:00:00.000Z",
+    "fastestMessage": "Order within 9 hrs 20 mins",
+    "fastestDeliveryPriceMessage": "fastest",
+    "returns": "Non-returnable. Transportation of this item is subject to hazardous materials regulation",
+    "seller": "Lanc\u00f4me",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A34EYZSYIJGMW5",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61kD0CjKOlL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61kD0CjKOlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PSmDeHEEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81DSnewbNbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91eANrVX84L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/714St9zfyoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YmVFMn2PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81zHELogwgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81w8gSAZxmL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/14880d02-6489-4645-9bfe-cef8e2783d89.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ca1a270-cd77-4dde-8595-64654d0538e6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/13ff66b8-6982-45c7-a969-21711cf5c56f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe3e9fff-e1dd-4fca-99d2-fe76489b1859.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f2ee26e-8a97-47fb-ae13-e6124cfe255b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/019b57d0-1fa2-46c3-91e9-89977db039a8.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23aea211-b387-492e-9a2d-4231234daf4a.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2c131e1a-88b5-4aef-ba85-7600bfdbb74e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/78d87fad-5ddb-47be-9f46-5c0f93b27851.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15295a77-3ae3-4ea3-915d-aae6a85feab9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ce2e8121-a02c-4496-9ec6-41036d30444f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23df8006-9a29-4978-86cb-f703be6114c7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/669ba427-6281-4326-8670-2699c81d068f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d048a578-33da-4936-aa46-f9cacffdb95c.__CR83,0,1333,1500_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7c9f4f8b-b24a-4b14-b1b6-053838711c2b.__CR83,0,1333,1500_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ce6aae6b-ad8a-4f3b-bd02-c702391075e1.__CR29,0,464,522_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e64fe63a-d1d1-44eb-901f-6f52fb8a0d42.__CR83,0,1333,1500_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7fa25d9e-41c9-4a9c-bfd8-dc925f98a96a.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7fa25d9e-41c9-4a9c-bfd8-dc925f98a96a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9e5632fd-f69e-4b79-828a-f570f090bf75.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "220C: For light skin with cool/pinky undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Acne Prone, Combination, Mature, Oily, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Buildable Full Coverage"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Lanc\u00f4me"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Natural matte finish, 24-hour wear, waterproof, sweat & humidity-resistant, non-comedogenic, dermatologist-tested."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "not-tested-on-animals"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Model Number",
+        "value": "3614273793131"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "3614273793131"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Lanc\u00f4me"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#4,516 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #53 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BNWBT2G2"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "buildable"
+      },
+      {
+        "key": "Item Weight",
+        "value": "127.8 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.34 x 1.53 x 5.16 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3764,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "81%",
+        "fourStars": "9%",
+        "threeStars": "4%",
+        "twoStars": "1%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this foundation to be the best they've used, praising its buildable coverage, smooth application, and long-lasting wear that stays put for hours. The foundation provides a natural fresh finish that looks flawless, and customers consider it worth the price. Regarding color match and moisturizing properties, opinions are mixed - while some find it matches their complexion perfectly, others say it's too dark, and while some appreciate that it doesn't leave skin feeling oily, others report it being too dry.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 144,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 116,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 69,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 65,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 59,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 102,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 57,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 52,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61tmu6P9PGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81oLeaWsR7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71geufHIZqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ona+75PzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zaBjRKxJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71nyBk+NunL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71O8LTDOUbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71OHqvy-b5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81goOZO9hcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71KmIoYGS2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ogXL5ZuiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ErSfM2LmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Best Foundation Hands Down Beautiful Finish",
+          "reviewText": "Hands down the best foundation I have ever used, and I have bought them all. It\u2019s moisture rich and gives a natural fresh finish. I have dry and mature skin, and get compliments daily when I use this. I love that a sunscreen is part of the formula and the color match is perfect. I hope they never stop making it. A bottle last a longtime and I find one or two pumps max is needed and application with my ring finger works best. I just slowly apply with a tapping and blend motion. It\u2019s buildable coverage and I set mine with a setting spray before adding blush or anything else. I don\u2019t find to be sticky, never irritates my sensitive skin, and the texture is smooth and doesn\u2019t oxidize is a bad way that many do. I have only used the same color match as my skin tone and can\u2019t speak to what a shade darker will look like. Highly recommend!",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "K. SPRINTZ",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGRKTUYYJCXUDKNC46RNNZPZJ7QQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "305N"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Awesome foundation!",
+          "reviewText": "My go to for the past 8 years! Lasts all day, smooth texture that\u2019s build able. Not sticky at all, no smell That I\u2019ve noticed. I have oily skin, not too matte that looks dry. Like be this stuff!",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "My Public Name",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXQJ456KNQVNJFYIM5D6WZHTU2Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "115C"
+          }
+        },
+        {
+          "reviewTitle": "This Brand is Great for Mature Women",
+          "reviewText": "I get nervous ordering foundation makeup on line but I\u2019m so happy I took a chance on this. I wear it with the base you can order to wear underneath this foundation. Anyway this comes out thin when you put it on your face but what wonderful coverage this gives you. Now that I\u2019m 66 years old I have to be careful about what foundation I use because of all my wrinkles now. This brand doesn\u2019t sink down into my wrinkles, like other brands do, which makes my face look more old and horrible. It\u2019s very easy to apply also. I think this is a great quality product and I will use this brand from now on.",
+          "reviewDate": "Reviewed in the United States on December 25, 2025",
+          "customer": "Staceylenard",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHOX7CF7CR6L5XLBI4UHFJ5SU32A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "240W"
+          },
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent make-up.",
+          "reviewText": "Love the color and the texture of the makeup. It lasts the whole day and evening.",
+          "reviewDate": "Reviewed in the United States on March 13, 2026",
+          "customer": "Ilene Gross",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHCCKKSY7HZSTYBJ4HZQGSXO6GVQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220C"
+          }
+        },
+        {
+          "reviewTitle": "Nice color and texture, easy application",
+          "reviewText": "it is a nice foundation with a nice natural shade and good coverage but i was expeting better from such a luxuary brand. it is still a little too thick for me and it takes me a lot of blending to remove the excess and remove any visible strike, especially around the nose pores. not sure i will buy again but i will continue using the one i have.",
+          "reviewDate": "Reviewed in the United States on January 18, 2026",
+          "customer": "Nat373",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEAPMUUGLTS4TNDFLMJQMJL5ZXXQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "090N"
+          }
+        },
+        {
+          "reviewTitle": "Highly recommended",
+          "reviewText": "I love this product easy to apply and looks very natural,perfect color and long expiration date.",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "Mary",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHEZM5HZQFOIKC53IPKYFXSIWY5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "250W"
+          }
+        },
+        {
+          "reviewTitle": "Lancome Tient Idole",
+          "reviewText": "115C. Perfect color and coverage! I am very fair with pink undertones and silver gray hair. Been using Lancome for years and recently changed to this color. It's lovely coverage is light to medium and creamy. I do use Lancome primer first and results are awesome! Would definitely recommend.",
+          "reviewDate": "Reviewed in the United States on December 31, 2025",
+          "customer": "tawanda",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFOV2RATPHP47GXBHDOI5HHQLO5Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "115C"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect match",
+          "reviewText": "Match perfect with my skin color , great foundation .second time buying , will buy again once in stock.",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Brittany R",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGTH6SLWEGCAPUJBZWHO5UVE7WYQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "The natural finish.",
+          "reviewText": "I have been using this product for about five years because it gives a beautiful natural finish and doesn\u2019t have that awful cake on feeling. There is such a wide range of colours that I\u2019ve been able to match my complexion perfectly.",
+          "reviewDate": "Reviewed in Australia on February 23, 2026",
+          "customer": "Bron",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "It's a great foundation",
+          "reviewText": "It's awesome! Lightweight true to match color and it feels beautiful on the skin",
+          "reviewDate": "Reviewed in Canada on January 29, 2026",
+          "customer": "Rachel morrison",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220C"
+          }
+        },
+        {
+          "reviewTitle": "Ultra Perfect",
+          "reviewText": "Lancome products are always perfect. This product is special but this color has been discontinued so I was especially pleased to find it on Amazon and to received it in the fastest time.",
+          "reviewDate": "Reviewed in Australia on December 6, 2025",
+          "customer": "Pamela James",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "Love this product and this is the perfect shade. I like the pump as I don't waste any and get the perfect amount needed.",
+          "reviewDate": "Reviewed in Canada on October 18, 2025",
+          "customer": "PC FOX",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "220C"
+          }
+        },
+        {
+          "reviewTitle": "Comes on smooth and lasts all day",
+          "reviewText": "The coverage in this foundation is amazing. It lasts my whole work day and even some more. It applies on smooth and covers all blemishes. I am not a makeup expert, but rarely ever do I need to apply that green blemish concealer as this foundation covers everything. The end result looks airbrushed. I have used this for years. This shade is perfect for me as I like a more tanned look, during the winter time I go a shade lighter.",
+          "reviewDate": "Reviewed in Canada on May 19, 2025",
+          "customer": "mgalar",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "230W"
+          }
+        }
+      ]
+    }
+  }
+}

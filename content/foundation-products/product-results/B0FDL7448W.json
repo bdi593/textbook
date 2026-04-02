@@ -1,0 +1,121 @@
+{
+  "requestMetadata": {
+    "id": "acce5521-cfd2-4b90-b287-51600d2be887",
+    "status": "ok",
+    "html": "https://files.hasdata.com/acce5521-cfd2-4b90-b287-51600d2be887.html",
+    "json": "https://files.hasdata.com/acce5521-cfd2-4b90-b287-51600d2be887.json",
+    "url": "https://www.amazon.com/dp/B0FDL7448W"
+  },
+  "product": {
+    "asin": "B0FDL7448W",
+    "url": "https://www.amazon.com/dp/B0FDL7448W",
+    "title": "Prime Prometics PrimeSkin CC+ Cream for Mature Women \u2013 Lightweight Liquid-to-Powder Foundation \u2013 Blurs Pores & Covers Age Spots \u2013 Crease-Free, Hydrating & Soft-Matte Finish for Sensitive Skin (Medium)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Medium"
+    },
+    "featureBullets": [
+      "Prime Prometics PrimeSkin CC+ Cream \u2013 Designed specifically for mature women, this liquid-to-powder foundation blurs pores, evens skin tone, and covers age spots without settling into fine lines, for a natural, soft-matte finish",
+      "Lightweight Liquid-to-Powder, Crease-Free Finish \u2013 Glides on like a soft cream and sets like a weightless powder, blurring pores and imperfections without emphasizing texture or fine lines.",
+      "Natural-Looking, Adaptive Coverage \u2013 Buildable and breathable, this tinted moisturizer evens out redness, blurs imperfections, and adapts to your tone for a flawless, second-skin look all day.",
+      "Easy to Blend, Streak-Proof Texture \u2013 The weightless formula melts into skin effortlessly with fingertips or brush, leaving a seamless finish without streaks or patchiness.",
+      "Skin-Perfecting Formula \u2013 Infused with Bioferment Serum, Avocado Oil, and Rosemary Extract to hydrate, soothe, and support skin\u2019s elasticity while promoting a smoother, more even-toned complexion over time."
+    ],
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "CC Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B0FDL48G7X",
+        "title": "Tan",
+        "url": "https://www.amazon.com/dp/B0FDL48G7X",
+        "imageUrl": "https://m.media-amazon.com/images/I/41pDbaVzUcL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FDL6NW21",
+        "title": "Fair",
+        "url": "https://www.amazon.com/dp/B0FDL6NW21",
+        "imageUrl": "https://m.media-amazon.com/images/I/41RvjaPg--L._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FX5C8M8L",
+        "title": "Ivory",
+        "url": "https://www.amazon.com/dp/B0FX5C8M8L",
+        "imageUrl": "https://m.media-amazon.com/images/I/415pZsPtqXL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FX58Z8PP",
+        "title": "Tan Rich",
+        "url": "https://www.amazon.com/dp/B0FX58Z8PP",
+        "imageUrl": "https://m.media-amazon.com/images/I/41VTZX7K45L._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FDL6P6NJ",
+        "title": "Light",
+        "url": "https://www.amazon.com/dp/B0FDL6P6NJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/41XlU1S8kjL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FDL7448W",
+        "title": "Medium",
+        "url": "https://www.amazon.com/dp/B0FDL7448W",
+        "imageUrl": "https://m.media-amazon.com/images/I/41gA6RKO7vL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FX594ZCR",
+        "title": "Golden Medium",
+        "url": "https://www.amazon.com/dp/B0FX594ZCR",
+        "imageUrl": "https://m.media-amazon.com/images/I/41s9nz5OYYL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0FDL47Q7X",
+        "title": "Rich",
+        "url": "https://www.amazon.com/dp/B0FDL47Q7X",
+        "imageUrl": "https://m.media-amazon.com/images/I/41zvtyVfVKL._SL1200_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 46,
+      "beforePrice": 46,
+      "discount": "-10%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Prime Prometics",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1VQDQ8F0HOVZX",
+    "shipper": "Amazon",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/41gA6RKO7vL._SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41gA6RKO7vL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/713G0PxJeQL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/51DmHSkeX9L._SL1210_.jpg",
+      "https://m.media-amazon.com/images/I/61X1BtmUPYL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/51SvUxRm9-L._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61eCMY2I04L._SL1080_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 454,
+      "rating": 4
+    }
+  }
+}

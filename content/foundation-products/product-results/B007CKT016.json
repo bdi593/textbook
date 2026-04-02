@@ -1,0 +1,500 @@
+{
+  "requestMetadata": {
+    "id": "b85d98b6-705c-4ceb-8ca7-16339b22751c",
+    "status": "ok",
+    "html": "https://files.hasdata.com/b85d98b6-705c-4ceb-8ca7-16339b22751c.html",
+    "json": "https://files.hasdata.com/b85d98b6-705c-4ceb-8ca7-16339b22751c.json",
+    "url": "https://www.amazon.com/dp/B007CKT016"
+  },
+  "product": {
+    "asin": "B007CKT016",
+    "url": "https://www.amazon.com/dp/B007CKT016",
+    "title": "P\u00dcR MINERALS 4-in-1 Tinted Moisturizer With SPF 20 - Hydrating Face Moisturizer, Primer, & Foundation With Shea Butter, Aloe Vera & Vitamin B3 - Vegan Friendly - Free of Paraben, Gluten & BPA",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Light"
+    },
+    "featureBullets": [
+      "Multitasking Tinted Moisturizer: Simplify your beauty routine with the natural-looking coverage of the P\u00dcR 4-in-1 Tinted Moisturizer - a moisturizer, primer, foundation and broad spectrum SPF 20 protection all-in-one. Shade: light.",
+      "Skin-Loving Benefits: This innovative 4-in-1 formula infuses the skin with powerful hydrators and proven correctives, including Sodium Hyaluronate and P\u00dcR's Ceretin Complex, a one-of-a-kind ingredient engineered to help renew the look of skin.",
+      "How To: Use this tinted moisturizer alone for a one-step, ultra-natural-looking finish, or as a hydrating, broad-spectrum base. Simply smooth a small amount onto clean skin and blend for desired coverage.",
+      "All the Beauty You Love, None of the Ingredients You Don\u2019t: P\u00dcR products are 100% cruelty-free and vegan. Bunnies are our friends not our models. We\u2019ve also left out unnecessary ingredients, making this product paraben and gluten-free.",
+      "Pure & Simple: We\u2019ve redefined clean beauty with one mission in mind\u2014to offer multitasking beauty solutions that support your lifestyle. Our products leave your skin looking and feeling its best, long after the makeup comes off!"
+    ],
+    "boughtInPastMonth": "800+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Tinted Moisturizers"
+    ],
+    "variants": [
+      {
+        "asin": "B007CKT18I",
+        "title": "Tan",
+        "url": "https://www.amazon.com/dp/B007CKT18I",
+        "imageUrl": "https://m.media-amazon.com/images/I/71bljIlPc9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0877QSGKY",
+        "title": "Chesnut",
+        "url": "https://www.amazon.com/dp/B0877QSGKY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71B27VN7zdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0877D13ST",
+        "title": "Buff",
+        "url": "https://www.amazon.com/dp/B0877D13ST",
+        "imageUrl": "https://m.media-amazon.com/images/I/71h62gZG1lL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0877QBHQK",
+        "title": "Dark Almond",
+        "url": "https://www.amazon.com/dp/B0877QBHQK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71YeBsgPqNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B087S4GVL6",
+        "title": "Almond",
+        "url": "https://www.amazon.com/dp/B087S4GVL6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IT49RWzvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007CKT0SE",
+        "title": "Dark",
+        "url": "https://www.amazon.com/dp/B007CKT0SE",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Blc7fL27L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0877PF9CG",
+        "title": "Fair Ivory",
+        "url": "https://www.amazon.com/dp/B0877PF9CG",
+        "imageUrl": "https://m.media-amazon.com/images/I/71zOl18g3pL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007CKT016",
+        "title": "Light",
+        "url": "https://www.amazon.com/dp/B007CKT016",
+        "imageUrl": "https://m.media-amazon.com/images/I/71H30V6k2lL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007CKT0FW",
+        "title": "Medium",
+        "url": "https://www.amazon.com/dp/B007CKT0FW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Ex4uBUp-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0877Q1F4D",
+        "title": "Bone",
+        "url": "https://www.amazon.com/dp/B0877Q1F4D",
+        "imageUrl": "https://m.media-amazon.com/images/I/71EYCPXO9FL._SL1500_.jpg"
+      },
+      {
+        "asin": "B087S4NNV3",
+        "title": "Warm Sand",
+        "url": "https://www.amazon.com/dp/B087S4NNV3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71yjI-ZQf2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0877PK1CJ",
+        "title": "Cinnamon",
+        "url": "https://www.amazon.com/dp/B0877PK1CJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/717sHxyRNHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0877PX2GF",
+        "title": "Tan Sand",
+        "url": "https://www.amazon.com/dp/B0877PX2GF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JUw1ZCrOL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 38,
+      "beforePrice": 38,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Friday, April 3",
+    "primeMemberDeliveryIsoDate": "2026-04-03T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 10,
+    "primaryImage": "https://m.media-amazon.com/images/I/71H30V6k2lL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71H30V6k2lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71BcuHUk5BL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71YJiZ-8emL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71e57WGwYFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81U4SFHYVlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71LDpj-3DBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719ulTzocnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bTqAfgBML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LScUQegzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61mX9I6v9KL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/09804580-e40c-4215-ac9e-a80cd14cb2e9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6ddeb6e8-970f-4d7a-9f72-12ab3a161787.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9fc72b34-7008-4ec7-9051-18564fa52425.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a4c557c-98d2-4e71-bf36-b54ed1ac6f83.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2158c5fa-91f2-4e2d-aadd-0de7ded99afa.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e1cf2dd-cadf-472b-9453-9774c2be1398.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/63fa5052-c485-4d1b-8faf-c280c8521979.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e4a7bdb6-9e76-4e0e-acb5-3770df540090.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7c8ac842-d740-4f37-b6c1-70253d30d3c2.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/902f6412-6d4a-40fe-a434-e7e79b0de3a4.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/745f929a-b914-415e-a92a-ff1922073d7b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/254dcb75-3ddf-4288-8c1a-7facbde197db.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b50438cd-f746-477c-a6ce-97e63a1c6d92.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "P\u00dcR MINERALS"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Target Use Body Part",
+        "value": "Skin"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Soothing, Correcting, Hydrating"
+      },
+      {
+        "key": "Specific Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "UPC",
+        "value": "847137001186"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00847137001186"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "37001186"
+      },
+      {
+        "key": "Model Number",
+        "value": "37001186"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Pur Minerals"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#10,292 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #19 in Facial Tinted Moisturizers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B007CKT016"
+      },
+      {
+        "key": "Item Volume",
+        "value": "1 Fluid Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.9 x 2.1 x 4.8 inches"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.7 Ounce"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1.7 Ounces"
+      },
+      {
+        "key": "Active Ingredients",
+        "value": "Ceretin Complex, Sodium Hyaluronate, Aloe Vera, vitamin_e"
+      },
+      {
+        "key": "Special Ingredients",
+        "value": "Aloe and Vitamin E | Help to condition skin, Ceretin Complex | Powered by Retinol and Retinyl Palmitate to gently improve the look of skin tone and texture while helping to diminish the look of fine lines and wrinkles, Chamomile and Shea Butter | Help to soothe and calm skin, Sodium Hyaluronate | Helps to firm, hydrate, and retain skin\u2019s moisture"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Gluten Free, Paraben Free"
+      },
+      {
+        "key": "Material Features",
+        "value": "Cruelty Free"
+      },
+      {
+        "key": "Other Special Features of the Product",
+        "value": "Cruelty Free, Paraben Free, Vegan Friendly, BPA Free"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "20 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Sun Protection Factor",
+        "value": "20 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Scent Name",
+        "value": "Unscented"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3809,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "71%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this moisturizer effective for dry skin, providing a nice tint that matches skin tone well. The product offers good coverage without appearing heavy, with a dewy finish that creates a fresh, natural look. Customers appreciate its smooth texture and easy application. While some customers report it stays on all day, opinions about longevity are mixed.",
+      "aspects": [
+        {
+          "aspect": "Moisturizing",
+          "count": 255,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin tone match",
+          "count": 176,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 155,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 121,
+          "status": "positive"
+        },
+        {
+          "aspect": "Appearance",
+          "count": 116,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 78,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 63,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 59,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71CBjJR4yCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41Arq3UpFAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ZNKTd8OwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/713G81v8CEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BPZ5pDR8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61CaYew0yKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dV0fg9IBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ozFMDxcYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71yxwWDZKeL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CcNjLGqQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71gwcgjxLDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718dYw8l5mL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "P\u00dcR Beauty 4-in-1 Tinted Moisturizer \u2013 SPF 20, Hydrating Face Primer & Foundation, Vegan Friendly",
+          "reviewText": "4-in-1 Formula: Moisturizer, primer, foundation, and SPF 20 in one Hydrating & Nourishing: Enriched with shea butter, aloe vera, and vitamin B3 Vegan & Clean Beauty: Free of parabens, gluten, and BPA Lightweight Coverage: Evens skin tone for a natural, radiant finish Daily Protection: SPF 20 helps shield skin from harmful UV rays The P\u00dcR Beauty 4-in-1 Tinted Moisturizer combines hydration, primer, foundation, and SPF 20 in one lightweight formula. Enriched with shea butter, aloe vera, and vitamin B3, it provides natural coverage while protecting and nourishing your skin. Perfect for everyday wear and clean beauty lovers.",
+          "reviewDate": "Reviewed in the United States on September 22, 2025",
+          "customer": "Outdoors_WI",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3V22LCHZRSKWHFWW5AMFK7M7FA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great coverage but not heavy. Not oily.",
+          "reviewText": "Love it. Sheer and light makeup with great coverage. Does not clog pores or cause break outs. Perfect for combination skin.",
+          "reviewDate": "Reviewed in the United States on January 30, 2026",
+          "customer": "D Bolen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHQOZ62ASBVVDA7QOQ4Z6HAG6GRA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Bone"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Tinted Moisturizer",
+          "reviewText": "I have tried a lot of Tinted Moisturizers (Clinique, Lancome, and Bare Minerals) and this one was ranks right up there with my Bare Minerals. It doesn't rub off on clothing or tissues. I let it set for about a minute and put my finishing powder and blush on, and out the door I go. It looks as fresh as when I put it on to doing a twelve-hour shift at the hospital. I get a lot of compliments on the radiant look I have. This is my go to. It just took a few weeks until I finally found the one. Amazon is amazing about returning products as well. I looked on Amazon for everything about a 4.50 star. This one definately checked all my boxes. I have olive skin and I am using the LG3. This is the perfect match for my skin tone, it goes on smooth and lasts all day. I don\u2019t use foundation anymore because this tinted moisturizer is the best. My face feels very soft and moisturized. I highly recommend this product!",
+          "reviewDate": "Reviewed in the United States on May 26, 2025",
+          "customer": "Pamela Weicht",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFYPDQFA66UI3SM2ME2PO6SUKRTA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "32 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great color match but wish SPF was higher",
+          "reviewText": "I love that this is moisturizing, does not pill or create flakes and the match for my cool fair skin is spot on. It does a reasonable job, but not stellar job of not settling too much into fine lines. (La Roche-Possay Anthelios tinted is much better for a smooth finish but it\u2019s light tint is way too orange for me.) The biggest issue for me with this is the low SPF does not provide enough protection. If the SPF was higher this would be a daily go to for me.",
+          "reviewDate": "Reviewed in the United States on May 8, 2025",
+          "customer": "JB",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF6TLTS7SMEO7T42HR7ECW2Q3ZDQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Bone"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "LOVE LOVE LOVE",
+          "reviewText": "Okay this is a super high quality foundation. It really is everything in one. It's not too cakey at all! It feels more like a medium-full coverage and so I don't use it as often as I would if it were a little lighter weight, but its still great to have! She thick! I feel like the photos were pretty accurate in terms of skin tone color and I was able to figure out which one to buy. It matches my summer skin perfectly. I love a clean product as well and PUR I'm pretty sure is not used on animals & is vegan if I recall correctly. It's a good guilt free make up. Great value for the money. Smells like make-up but nothing bad almost like a waxy scent?",
+          "reviewDate": "Reviewed in the United States on February 19, 2026",
+          "customer": "Jocelyn Z.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH2RDA5SVVFNLOQ34WDX6PBPC3QQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          }
+        },
+        {
+          "reviewTitle": "Crease enhancing",
+          "reviewText": "The color was lovely, but it definitely does have a shimmer to it, which does not do well for middle aged skin. It will find any crevice and tends to make it look worse. Very disappointed because the color is very nice, but not a good choice for mid aged skin.",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Jason Boren",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBZJFFY7TQXFDGXUEAVYE3OQE5A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Bone"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great everyday tinted moisturizer!",
+          "reviewText": "I\u2019ve used this P\u00dcR 4-in-1 Tinted Moisturizer several times now, and I really like how it performs overall. It\u2019s lightweight super easy to apply and blends nicely into my skin without feeling heavy or cakey. I love that it gives light coverage while still evening out my skin tone, and the added SPF 20 is a big bonus for everyday wear. The finish is more on the dewy side, which I personally like for a natural, healthy glow. It also feels very hydrating, which is great for my slightly dry skin. I\u2019ve even worn it alone without any foundation on days when I just want something quick and simple. The coverage is very light, so not ideal if you need to cover blemishes or dark spots. The product can a bit shiny after a few hours if you have oily skin (I just set it with a little powder). Overall, I keep coming back to this product because its reliable, looks reliable, looks natural, and feels great on my skin. Perfect for \"no make-up\" makeup days!",
+          "reviewDate": "Reviewed in the United States on June 14, 2025",
+          "customer": "Carla",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQRNRHQMS23NB42KNUGEEF7DBOQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "18 people found this helpful"
+        },
+        {
+          "reviewTitle": "Even color, goes on smoothly",
+          "reviewText": "Covers lightly and smoothly",
+          "reviewDate": "Reviewed in the United States on February 11, 2026",
+          "customer": "kak",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJJ2MDPZDXBBO2EXMXPV5UDH3DQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Perfection!",
+          "reviewText": "My wife has been using Pur for over 20 years and really likes this product. She says it is lightweight with perfect coverage without looking \"made up\". She loves the luminescence. Very natural looking.",
+          "reviewDate": "Reviewed in Canada on December 31, 2025",
+          "customer": "Len J",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Bone"
+          }
+        },
+        {
+          "reviewTitle": "Value & look!",
+          "reviewText": "Love this, easy to use, amazing finish, great value!!",
+          "reviewDate": "Reviewed in the United Kingdom on November 25, 2025",
+          "customer": "Foxy",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          }
+        },
+        {
+          "reviewTitle": "Perfect",
+          "reviewText": "What i have been chasing and not being able to get",
+          "reviewDate": "Reviewed in Australia on June 11, 2021",
+          "customer": "Lynne Takacs",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium"
+          }
+        },
+        {
+          "reviewTitle": "Five Stars",
+          "reviewText": "this is a great tinted moisturiser",
+          "reviewDate": "Reviewed in the United Kingdom on October 22, 2015",
+          "customer": "J. C. Sams",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Tan"
+          }
+        },
+        {
+          "reviewTitle": "Beautiful look and feel",
+          "reviewText": "My first purchase of this product was in a drug mart. The beauty consultant recommended this brand, color and size to try. I love it. It blends so well and stays on till you wash it off. I do find it very expensive but when you find a product you love you will pay for it. I think if it was less expensive the company would have more buyers.",
+          "reviewDate": "Reviewed in Canada on February 17, 2026",
+          "customer": "Faith Van riel",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Warm Sand"
+          }
+        }
+      ]
+    }
+  }
+}

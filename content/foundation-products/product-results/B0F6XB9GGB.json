@@ -1,0 +1,507 @@
+{
+  "requestMetadata": {
+    "id": "a386cd52-6517-4653-8641-42daa240dbba",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a386cd52-6517-4653-8641-42daa240dbba.html",
+    "json": "https://files.hasdata.com/a386cd52-6517-4653-8641-42daa240dbba.json",
+    "url": "https://www.amazon.com/dp/B0F6XB9GGB"
+  },
+  "product": {
+    "asin": "B0F6XB9GGB",
+    "url": "https://www.amazon.com/dp/B0F6XB9GGB",
+    "title": "TIRTIR Mask Fit Red Foundation\u3163Long Lasting Flawless Coverage, Energy Essence, Lightweight, Hydrating, Pore-Blurring, Breathable Satin Finish, Makeup, Radiant Skin, #23N Sand, 1.01 Fl Oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "23N Sand"
+    },
+    "featureBullets": [
+      "[RED ENERGY COMPLEX FOR RADIANT SKIN] Infused with Hibiscus, Red Propolis, and Astaxanthin, this nourishing foundation helps improve skin elasticity while enhacing radiance. Your skin stays hydrated, firm and glowing with rich redness care.",
+      "[30 SHADES FOR EVERY YOU] Available in 30 inclusive shades, from fair to deep, with warm, cool and neutral undertones. Whether you are looking for a daily natural glow or a flawless even-ready base, there is a shade made just for you.",
+      "[LONG-LASTING WEAR] Enjoy up to 72 hours of flawless coverage that resists smudging, creasing and fading. Our high-adherence formula ensures your skin looks fresh from morning to night.",
+      "[LIGHTWEIGHT & BREATHABLE TEXTURE] Designed with ultra-fine powder particles, this foundation feels light and allows your skin to breath.",
+      "[PORE-PERFECTING, BUILDABLE COVERAGE] Covers blemishes, uneven tone, and pores while allowing you to build coverage as needed. Achieve a smooth, satin finish that looks like your skin - only better."
+    ],
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0F6WZZD9F",
+        "title": "27N Camel",
+        "url": "https://www.amazon.com/dp/B0F6WZZD9F",
+        "imageUrl": "https://m.media-amazon.com/images/I/51JFR0RLTDL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XHQC44",
+        "title": "10C Shell",
+        "url": "https://www.amazon.com/dp/B0F6XHQC44",
+        "imageUrl": "https://m.media-amazon.com/images/I/51TQwj1FO4L._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6X2VHZH",
+        "title": "17N Vanilla",
+        "url": "https://www.amazon.com/dp/B0F6X2VHZH",
+        "imageUrl": "https://m.media-amazon.com/images/I/51QHd6jB2FL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6WKQ3GQ",
+        "title": "43N Deep Cocoa",
+        "url": "https://www.amazon.com/dp/B0F6WKQ3GQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51JnyYgAG2L._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XLYHTK",
+        "title": "25N Mocha",
+        "url": "https://www.amazon.com/dp/B0F6XLYHTK",
+        "imageUrl": "https://m.media-amazon.com/images/I/51KQIkMun2L._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XC14ZZ",
+        "title": "28N Oat",
+        "url": "https://www.amazon.com/dp/B0F6XC14ZZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51O8S4N+8YL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6X61LKF",
+        "title": "55N Espresso",
+        "url": "https://www.amazon.com/dp/B0F6X61LKF",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PPgPZ1FUL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6WZXZFC",
+        "title": "33N Macchiato",
+        "url": "https://www.amazon.com/dp/B0F6WZXZFC",
+        "imageUrl": "https://m.media-amazon.com/images/I/514N8WMyCHL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6WTKHG2",
+        "title": "25C Cool Taupe",
+        "url": "https://www.amazon.com/dp/B0F6WTKHG2",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ZC+47VcKL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6W8VJMN",
+        "title": "49N Deep Chestnut",
+        "url": "https://www.amazon.com/dp/B0F6W8VJMN",
+        "imageUrl": "https://m.media-amazon.com/images/I/51s9SlKnWaL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XPJ457",
+        "title": "51N Fudge",
+        "url": "https://www.amazon.com/dp/B0F6XPJ457",
+        "imageUrl": "https://m.media-amazon.com/images/I/51eWaWToldL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6WJN8FZ",
+        "title": "33C Hazel",
+        "url": "https://www.amazon.com/dp/B0F6WJN8FZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/517y75ScRyL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6WHZ295",
+        "title": "39W Caramel",
+        "url": "https://www.amazon.com/dp/B0F6WHZ295",
+        "imageUrl": "https://m.media-amazon.com/images/I/51jwZIYua7L._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XPJ454",
+        "title": "30N Rich Honey",
+        "url": "https://www.amazon.com/dp/B0F6XPJ454",
+        "imageUrl": "https://m.media-amazon.com/images/I/512vf0bESIL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6X2698P",
+        "title": "21W Natural Ivory",
+        "url": "https://www.amazon.com/dp/B0F6X2698P",
+        "imageUrl": "https://m.media-amazon.com/images/I/514AGMy05cL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XF1H88",
+        "title": "13N Fair Ivory",
+        "url": "https://www.amazon.com/dp/B0F6XF1H88",
+        "imageUrl": "https://m.media-amazon.com/images/I/51lLl3dQZIL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XGJG96",
+        "title": "24N Latte",
+        "url": "https://www.amazon.com/dp/B0F6XGJG96",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RLFQ-YVmL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6WJJL9P",
+        "title": "17C Porcelain",
+        "url": "https://www.amazon.com/dp/B0F6WJJL9P",
+        "imageUrl": "https://m.media-amazon.com/images/I/51fCHQEfFEL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XRC7QS",
+        "title": "37N Peanut Almond",
+        "url": "https://www.amazon.com/dp/B0F6XRC7QS",
+        "imageUrl": "https://m.media-amazon.com/images/I/51PXySpyhgL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XB9GGB",
+        "title": "23N Sand",
+        "url": "https://www.amazon.com/dp/B0F6XB9GGB",
+        "imageUrl": "https://m.media-amazon.com/images/I/51yr5-aEzLL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6WVCJ51",
+        "title": "21N Ivory",
+        "url": "https://www.amazon.com/dp/B0F6WVCJ51",
+        "imageUrl": "https://m.media-amazon.com/images/I/51uZIetUqpL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6X1LPRB",
+        "title": "27C Cool Beige",
+        "url": "https://www.amazon.com/dp/B0F6X1LPRB",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XTOtr5PdL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6W5ZJ3T",
+        "title": "11C Cool Rosy",
+        "url": "https://www.amazon.com/dp/B0F6W5ZJ3T",
+        "imageUrl": "https://m.media-amazon.com/images/I/51yaWbeLq7L._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XF2SZ8",
+        "title": "15C Fair Porcelain",
+        "url": "https://www.amazon.com/dp/B0F6XF2SZ8",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Jxl+wF2bL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6WKDK26",
+        "title": "29N Natural Beige",
+        "url": "https://www.amazon.com/dp/B0F6WKDK26",
+        "imageUrl": "https://m.media-amazon.com/images/I/51JAHocP7fL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6W7PKRC",
+        "title": "21C Cool Ivory",
+        "url": "https://www.amazon.com/dp/B0F6W7PKRC",
+        "imageUrl": "https://m.media-amazon.com/images/I/515wRqtc0XL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6X5G77G",
+        "title": "22N Shell Beige",
+        "url": "https://www.amazon.com/dp/B0F6X5G77G",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cgDQpQffL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6WKH53X",
+        "title": "45W Chestnut",
+        "url": "https://www.amazon.com/dp/B0F6WKH53X",
+        "imageUrl": "https://m.media-amazon.com/images/I/51dQN95TdtL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0F6XB7BWS",
+        "title": "34W Toffee",
+        "url": "https://www.amazon.com/dp/B0F6XB7BWS",
+        "imageUrl": "https://m.media-amazon.com/images/I/51tuDAu1yUL._SL1080_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 17.55,
+      "beforePrice": 27,
+      "discount": "-35%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 8 hrs 9 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "TIRTIR. INC",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3OI1HNTH0P9J5",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51yr5-aEzLL._SL1080_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51yr5-aEzLL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61u4ZvVCg1L._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61REJMZMqQL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61XKeQ9K3qL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61vI0H-YVhL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/71sDydFpupL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61WomweYJOL._SL1080_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/58ba8766-8294-4ec7-b45c-5019bb1a6b3f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f89fd5ae-ecc0-4474-bafe-debff1be060a.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9553e7b6-e8f4-4529-bf1f-91e3881f854a.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd7e5f84-2259-4bc8-904c-7734c9e36f4e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/25231a09-466a-4424-970b-54da87a5191e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5db3bfdd-e3db-4500-9047-9eb4905d75c6.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28d4ae12-ddd8-43e1-b48e-b3337cddaa45.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ea2b099-ce73-4171-96bd-ec4320714a0c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a2e662f8-2cbb-41cc-8bec-3bf8df915188.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/19f804c7-017f-4395-87b9-f6236d23cf0c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/98fc2f82-9dc9-4478-af0f-8e865cb60c85.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e9c1db0f-873f-4142-9ad6-a721a35102d7.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15285233-a764-49cf-a7ba-adb7ceaf4787.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f3181c30-ea9f-48ee-84da-2d69729b4b84.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d15f59bd-4866-4a17-a415-5355d9854a7a.MP4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/397c66f5-2a65-4efb-bcb9-d1cccafc3f8c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/281286aa-680b-4eeb-8e56-9a5f7456b44f.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Foundation"
+      },
+      {
+        "key": "Color",
+        "value": "23N Sand"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "TIRTIR"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Long Lasting Flawless Coverage, Hydrating, Radiant Skin"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Teen, Adult"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "8800288642570"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "TIRTIR"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#4,017 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #49 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0F6XB9GGB"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Semi-Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "30 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.05 x 2.01 x 3.31 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.01 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Dye Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 758,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "65%",
+        "fourStars": "16%",
+        "threeStars": "10%",
+        "twoStars": "4%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find this foundation provides excellent coverage that stays on for over 13 hours, with a natural and radiant finish that looks flawless. They appreciate its lightweight feel and smooth, buttery texture that creates a smooth, flawless finish. The color match receives mixed feedback, with some customers saying it matches their skin perfectly while others find it too dark. The blendability also gets mixed reviews.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 96,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 63,
+          "status": "positive"
+        },
+        {
+          "aspect": "Finish",
+          "count": 54,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 54,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 44,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 38,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 100,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 36,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/6182KjAp6SL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61VJZPHyxxL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61R-Dgn6bLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71twzSLBNBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61GC7GxYozL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71XIqur81PL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BdaJ0fJrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pPaY7ZwEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51c1sG+aGOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71cHxh1hU7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71UeE2RgwtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71SpTo8g5qL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "One Hundred Stars \u2014 Absolutely Flawless!",
+          "reviewText": "I am blown away by the TIRTIR Mask Fit Red Foundation. This foundation delivers long-lasting, flawless coverage without feeling heavy \u2014 it truly lives up to its promise. The texture is lightweight and breathable, yet it provides excellent coverage that evens skin tone and conceals imperfections beautifully. The finish looks natural and radiant, giving skin an energized, healthy glow. Application is effortless: it blends smoothly and layers well without caking. The \"Energy Essence\" feels hydrating and keeps my skin comfortable all day. I wore it through a full day of activities and my makeup stayed put with no touch-ups needed. Shade matching is accurate, and the formula is suitable for both everyday wear and special occasions when you want long-lasting coverage. Packaging is sleek and premium-feeling. If you\u2019re looking for a foundation that combines long wear, lightweight comfort, and a flawless finish, I highly recommend TIRTIR Mask Fit Red Foundation \u2014 it\u2019s a game-changer. One hundred stars!",
+          "reviewDate": "Reviewed in the United States on January 22, 2026",
+          "customer": "Fabiola Rodriguez",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGETU5PXCS4GZ4FFVFBN7QNROKUA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "21N Ivory"
+          },
+          "helpfulVotes": "14 people found this helpful"
+        },
+        {
+          "reviewTitle": "Very natural and comfortable to wear.",
+          "reviewText": "Beautiful foundation. It really looks like skin. Medium coverage but it can be nicely layered. Very moisturizing and good for mature skin. The color choice can be tricky. I purchased 2 different shades for a perfect match. Highly recommended. I didn't find it sticky and is crease resistant. Great foundation at a good price point.",
+          "reviewDate": "Reviewed in the United States on March 23, 2026",
+          "customer": "MC",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5LDAX4ONDVSVQNKQODCXMLCKXA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "27C Cool Beige"
+          }
+        },
+        {
+          "reviewTitle": "A Pale Girl's Honest Review",
+          "reviewText": "Got it to refill my red TIRTIR Cushion since it seemed wasteful to keep purchasing a new cushion as often as I was. So far this foundation seems to wear and be the same formulation as the cushion form. The packaging feels sturdy and the pump is actually functional and makes refilling the cushion easy. The coverage is medium-buildable with a natural finish, looks skin like and gives you a lit from within look without looking too dewy or greasy. You can make it more matte with a matte setting powder. It is definitely not transfer proof, and can feel sticky with a heavier primer/moisturizer without a light dusting of powder. I have get to find a foundation that is transfer proof and the finish is worth it in my opinion. It still lasts 10hrs or so hours and imo looks even better as the day goes on and the natural oils start to come through. When I do have a high transfer day (side eyes boyfriend), it's so easy to touch up with the cushion and doesn't do the weird pilling or removing some foundations do with re-application. I do need a good moisturizer and hydrating primer during the colder months otherwise it can look weird on my combo skin (dry patches in between my eyebrows and forehead of all places). Depending on what skincare actives I'm using it can also look weird and heavy around my mouth as the day goes on, but that could be due to a lot of things or just age. I do prefer the cushion applicator over a beauty blender or brush, I swear their cushion sponge applicator is made with magic. It's easier to control coverage with less product and build coverage when needed with their cushion applicator, and when I've used other application types the foundation looks heavy and weird. My biggest complaint with this foundation, the cushion, and every other foundation I try is the shade range (I hope they continue to extend). I'm a pale girl (my sisters call me Casper) with neutral-slight olive undertones so it's so frustrating finding shades in foundations that work for me. The 13N Fair Ivory is the right tone, but just a smidge dark so I mix in a white base (LA Girl Pro in White is my go-to). The 10C Shell is too light and pink for me, the 11C Cool Rosy is comically pink on me. It's still my go-to foundation for every day and even events with more product.",
+          "reviewDate": "Reviewed in the United States on December 11, 2025",
+          "customer": "Colleen",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE5F2BG3QGP5B4KVZBMECQQVLFRA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "13N Fair Ivory"
+          },
+          "helpfulVotes": "25 people found this helpful"
+        },
+        {
+          "reviewTitle": "Incredible!",
+          "reviewText": "This foundation slaps. I\u2019ve been a loyal Est\u00e9e Lauder double wear girly for 10+ years, but this one is even better. Full coverage but doesn\u2019t get weird and dry/cracky. This does however dry completely down so no transfer but it more of a satin finish which I love. I\u2019m also the shade of a ghost and their lightest shade is perfect because it leans more pale pink than pale yellow.",
+          "reviewDate": "Reviewed in the United States on January 31, 2026",
+          "customer": "Raquel Cianci",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHBNJM2KWVYFRJ3DX5RMTFIBNYUQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "11C Cool Rosy"
+          },
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Tones classification are way off from reality",
+          "reviewText": "Ok so my 1st order was the tone 28N it was straight orange, decided to try 24N and guess what? it's still orange! It does feel nice on the skin and looks smooth but the clasification for tones are way off. I have melasma and definitely it's not full coverage. Update Decided to order one of the lighter shades (21N Ivory) but is too light. Has to mix 2 of them for a better match and did 3 layers in order to get the melasma almost completely covered. Usually I do 2 thin layers of the IT CC cream and if the spots are still visible (some days they are darker \ud83d\ude14) I use a concealer (for tone reference I use Med (N) on the cc or sometimes Light Med (W) ). After comparing the 3 IMO 21N is light with peachy undertone, 24N is med with warm yellow undertone and 28N is med with almost like an olive undertone. If I could find my perfect match I'll keep it, even when I used 3 layers it feels nice on the skin and it doesn't look cakey or accentuate my pores on my mature skin, it actually have a nice glow that make the face look healthy.",
+          "reviewDate": "Reviewed in the United States on November 24, 2025",
+          "customer": "Talhianny",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHT2DG4FAMITWI7XY3O74YGSDGDA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "24N Latte"
+          },
+          "helpfulVotes": "44 people found this helpful"
+        },
+        {
+          "reviewTitle": "Fabulous!",
+          "reviewText": "Fabulous! I am using the Tir Tir liquid foundation for the first time, after using their sponge makeup. I absolutely love it. I bought it in W24, which is Soft Beige, and it suits my skin tone. Very easy to apply with a brush. It glides on nicely. I only used one drop, so a little goes a long way. I have mature skin now that I am in my late 50s, and it feels moisturizing, yet it doesn't look cakey or overdone. It is light but with excellent coverage. Make sure you apply moisturizer or sunscreen before applying the foundation so you have a nice base. I am impressed by the quality and the price.",
+          "reviewDate": "Reviewed in the United States on October 27, 2025",
+          "customer": "Angie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFSQ5CINCYAKKIIGZRRGYWGR5M2A",
+          "customerStarsRating": 5,
+          "helpfulVotes": "18 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect in every way just wrong color",
+          "reviewText": "The foundation is awesome. I love it! Just be careful when choosing a shade. I got 24 w and it had a yellow undertone so I\u2019m going lighter next time. Great coverage nice glow",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Faye Izzard",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMPGGYD6HN7YUCQ6O4MWATLFODQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Nice",
+          "reviewText": "I loved the original cushion and the shade the official app matched perfectly, so I wanted to try this one out as well, and can confirm it\u2019s very good. Coverage is medium but buildable and it\u2019s very comfortable and light on the skin, it doesn\u2019t feel like you\u2019re wearing foundation. Would recommend fixing it with the same brand spray. The finish is beautiful, but I still have to test how long it lasts compared to my favourite foundation. I only wore it for few hours in the afternoon initially.",
+          "reviewDate": "Reviewed in the United Kingdom on February 16, 2026",
+          "customer": "Anamaria Prr",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "21C Cool Ivory"
+          }
+        }
+      ]
+    }
+  }
+}

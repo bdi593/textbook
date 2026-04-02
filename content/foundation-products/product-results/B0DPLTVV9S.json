@@ -1,0 +1,372 @@
+{
+  "requestMetadata": {
+    "id": "79bb4ec7-e2af-4279-a2e7-ceb77db1a916",
+    "status": "ok",
+    "html": "https://files.hasdata.com/79bb4ec7-e2af-4279-a2e7-ceb77db1a916.html",
+    "json": "https://files.hasdata.com/79bb4ec7-e2af-4279-a2e7-ceb77db1a916.json",
+    "url": "https://www.amazon.com/dp/B0DPLTVV9S"
+  },
+  "product": {
+    "asin": "B0DPLTVV9S",
+    "url": "https://www.amazon.com/dp/B0DPLTVV9S",
+    "title": "Physicians Formula Butter Glow & Go Multiuse Stick, Ultra-Creamy Radiant Finish Formula with Murumuru Butter, Vegan & Cruelty-Free- Beachy Pink",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Beachy Pink"
+    },
+    "featureBullets": [
+      "Multiuse: This buttery smooth formula replaces your contour, bronzer, blush, eyeshadow, lip color and more in one convenient stick!",
+      "Luxurious Ingredients: Made with a blend of Murumuru Butter, Cupua\u00e7u Butter, and Tucuma Butter from the nutrient-rich Amazon, the ingredients are packed with essential fatty acids and pro-vitamins known to soften, condition, and moisturize the skin.",
+      "Smooth Application: This ultra-creamy makeup glides on with ease and seamlessly blends into the skin for a beautiful, radiant finish.",
+      "Made For Sensitive Skin: Physicians Formula makeup is specifically formulated with your skin and comfort in mind. That's why we use high-quality ingredients, leaving you looking and feeling beautiful from the inside out.",
+      "Cruelty-Free: We do not test our products on animals."
+    ],
+    "description": "Swipe, blend and glow! Dual-ended and dual-finish buttery-smooth formula comes with two complementary shades for cheeks, eyes, and lips. Richly pigmented velvet finish on one end and buildable glowy finish on the other. Use one shade for a monochromatic look or both for a gorgeous lit-from-within glow. This convenient multiuse stick will have you packing light for your next getaway.",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Eyes",
+      "Eyeshadow"
+    ],
+    "variants": [
+      {
+        "asin": "B0DPLTGJS6",
+        "title": "Beach Bum Plum",
+        "url": "https://www.amazon.com/dp/B0DPLTGJS6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71veuayeRIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DPLRMBF1",
+        "title": "Berry Tan",
+        "url": "https://www.amazon.com/dp/B0DPLRMBF1",
+        "imageUrl": "https://m.media-amazon.com/images/I/71xX8FvkTrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DPLSQJ3B",
+        "title": "Sunkissed Rose",
+        "url": "https://www.amazon.com/dp/B0DPLSQJ3B",
+        "imageUrl": "https://m.media-amazon.com/images/I/7107wGM0UKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DPLTVV9S",
+        "title": "Beachy Pink",
+        "url": "https://www.amazon.com/dp/B0DPLTVV9S",
+        "imageUrl": "https://m.media-amazon.com/images/I/71sC30th8JL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 14.97,
+      "beforePrice": 16.99,
+      "discount": "-12%",
+      "priceFrom": 14.97,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 11,
+    "primaryImage": "https://m.media-amazon.com/images/I/71sC30th8JL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71sC30th8JL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81br7cKm5lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91kCrg+0d7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91nNFxIJVgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zHIq+3c6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613jAu9Wf9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6158Y8VfBQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Biobq0PtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7107bPMTpaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bJThmoYzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613gv1jyNJL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/01cb5249-0d62-4165-9f78-56dbcc965f7d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/886c81fe-0d6a-4c26-80ee-09cbed226b46.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92bf434a-4433-4f7a-8170-57bf5292a591.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/67ac9d93-390d-4f2c-bc48-6fcc26234962.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/67ac9d93-390d-4f2c-bc48-6fcc26234962.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/af81f17a-4f1a-42b8-b164-f09dba525306.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b47aee34-f8f3-4a6b-a6f9-82c643209e53.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ebea2372-7947-4632-bf2a-ba8775b35705.mov/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Beachy Pink"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Combination, Dry, Oily, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Cheeks, Eyes, Lips"
+      },
+      {
+        "key": "Container Type",
+        "value": "Stick"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Physicians Formula"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Contouring and Highlighting"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "All"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "Mexico"
+      },
+      {
+        "key": "UPC",
+        "value": "044386119987"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Markwins Beauty Brands"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#5,717 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #86 in Eyeshadow"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DPLTVV9S"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Double Head"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Luminous"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.35 Ounces"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "All Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1841,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "15%",
+        "threeStars": "7%",
+        "twoStars": "3%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers love the foundation's beautiful colors, particularly for light skin tones, and appreciate its perfect pink flush and sunkissed look. Moreover, the product receives positive feedback for its creamy texture, divine scent, and ease of application, with one customer noting it blends well with a brush. However, the longevity receives mixed reviews, with several customers reporting that the caps come off the ends easily.",
+      "aspects": [
+        {
+          "aspect": "Color",
+          "count": 153,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 116,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 96,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 87,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 78,
+          "status": "positive"
+        },
+        {
+          "aspect": "Fragrance",
+          "count": 70,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 69,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 115,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71MXK32AQnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Y3qIR1YzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61uJqxiLp8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Q8eWg55ML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61to5mJM6AL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61K-z6kouYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61crG7s4jXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/31Wt8-9A3+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71IPH87YuqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61p+Rz12+VL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61n7r7AbwRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71lvQHCDZVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Game Changer for My 50-Year-Old Skin!",
+          "reviewText": "This is the best cosmetic I never knew I needed!!! I\u2019m 50 years old with a light complexion and dry skin. After years of tanning in my younger days, I have plenty of fine lines and sun damage, so I usually rely on full-coverage foundation and concealer. I\u2019ve struggled forever to find a base that was light enough for my complexion but not so pale that I looked washed out. I finally found a perfect match with IT Cosmetics CC Cream in Fair, but even then, I still looked a bit ghostly\u2014even with blush. I\u2019ve never been into contouring (honestly, I never even tried it), but this Butter Glow & Go Stick caught my eye. The shade looked wearable, the formula sounded easy, and the price was affordable enough that I figured if I hated it, no big loss. SO glad I gave it a chance. This little stick has completely transformed my makeup routine! I swipe the bronzer across my forehead, nose, and jawline, then use the blush on my cheekbones and temples. I blend with my fingers and it literally melts into my skin\u2014no streaks, no patchiness, just a smooth, beautiful finish. It gives me the healthy glow I\u2019ve been missing and has genuinely boosted my confidence. It takes seconds to apply and makes me look refreshed instead of washed out. Absolute must-have for mature, dry, or fair skin. I\u2019m obsessed!",
+          "reviewDate": "Reviewed in the United States on November 28, 2025",
+          "customer": "Susan D",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEMBFVEQJXMQYRNJLBLN2UP2QWTA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Beachy Pink"
+          },
+          "helpfulVotes": "56 people found this helpful"
+        },
+        {
+          "reviewTitle": "Simple, Versatile, and Beautiful on Skin",
+          "reviewText": "I recently bought the Butter Glow & Go Multiuse Stick and I really like how it performs! The texture is super creamy and easy to blend, so it glides onto my skin effortlessly. I\u2019ve been using it on my cheeks and eyes, and it gives such a natural, soft glow that looks flattering in everyday light. I love that it\u2019s multi-purpose \u2014 just one stick for blush, bronzer, and even a bit of soft eye color. It\u2019s become a staple in my makeup bag, especially for quick looks or when I\u2019m on the go. The finish feels comfortable on the skin and not heavy or greasy. The shade Sunkissed Rose gives a warm, radiant look without being too bright. Overall, I think this stick is a great everyday product \u2014 easy to use, gorgeous finish, and perfect for a simple makeup routine!",
+          "reviewDate": "Reviewed in the United States on February 2, 2026",
+          "customer": "Southern Bell",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGYN2ZJCY6OI7A425CTNYYZT7NWQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sunkissed Rose"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Creamy, easy to blend, great value",
+          "reviewText": "I really love this contour/blush stick. It goes on very smoothly and blends out easily, with a creamy texture that works well on my skin and doesn\u2019t feel dry or patchy. The contour side gives a nice natural warmth, and the blush applies softly. I do wish the blush had a bit more pigment on the first swipe, but it is buildable, which makes it easy to control how much color you want. Overall, this is a great product for the price and perfect if you like a more natural, glowy look that you can build up as needed. Pros: \u2022 Smooth, creamy formula \u2022 Blends easily \u2022 Buildable color \u2022 Great value Cons: \u2022 Blush is lighter on initial application I\u2019d definitely recommend this for everyday makeup or quick, on-the-go application.",
+          "reviewDate": "Reviewed in the United States on January 1, 2026",
+          "customer": "The Magic Haul",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHHWQIXV2SG2WDJWUVVHV3E5EUEQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Sunkissed Rose"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "ONE and DONE!",
+          "reviewText": "I am LOVING this \"ONE AND DONE\" product. I'd watched a few videos about how wonderful having this dual ended item was, blush on one side, bronzer on the other. I needed something easy for travel, and I love creamy textures, so I thought I'd try them. WOW, I'm in love. I got both the pink and the rose, the pink is so pretty, great for fair skin and a pop of pink. And the bronze end is cool toned (not orange). But then, the rose stick is fun too, I love the option of the more rich rose tone and the bronzer is more sun-kissed (orange but toned down, very nice and wearable). And they ARE creamy! Glide across the skin, blend out preferably and look very natural. The value is fantastic compared to other dual ended makeup sticks. The smell is light and a touch tropical. How long it stays on depends on if you set with powder or spray (I don't use either for a more glowy look). SO I am HAPPILY surprised and highly recommend this stick. GREAT for travel as both ends have a clear plastic cover. By the way, \"one and done\", can be used on cheeks, lips, eyelids, contours, nose, etc. AND these are NOT messy like those pots of color (messy fingers), these are nicely in stick form, so you can easily go straight on the face. UPDATE: I just bought my THIRD one, the beach plum one as I wanted the rich plum color.. and I love it too, just carefully dab for a most natural color.",
+          "reviewDate": "Reviewed in the United States on March 1, 2025",
+          "customer": "Vanessa Sykes",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEU6HRIGWBZTPPY6G2EX3HXIUQDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Beachy Pink"
+          },
+          "helpfulVotes": "85 people found this helpful"
+        },
+        {
+          "reviewTitle": "Totally worth it!! looks amazingt for a sun kissed glow and all day makeup",
+          "reviewText": "love it my new go to. I'm in my 50's era and love the ease of use and color. I am stocking up on this. The color glides on and looks amazing, the bronzer isn't sparkley but glows. Moisterizing and you can layer it with powder blush or highliter. last all day!",
+          "reviewDate": "Reviewed in the United States on March 3, 2026",
+          "customer": "Julie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AECDNP4NBILJUOJYN52TQK6XU3JA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Beachy Pink"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Innovative, convenient and gorgeous bronzer/blush duo!",
+          "reviewText": "This is a really neat product! I originally bought it to give to my college aged daughter, but I ended up keeping it for myself for vacation and I\u2019m so happy that I did! I love both ends of this stick. The bronzing side I use on my cheekbones, a little on the top of my forehead and a little bit along my jawline and on either side of my nose and then I blend with a blending sponge. The blush side of the stick I use on the apples of my cheeks and cheek bones going up to almost the corner of my eye, and also blend with a beauty sponge as well. Both of the colors are absolutely perfect on my skin! I like how convenient the size is because I was able to take it in a small clutch with me when we went out for a long night out and I could do quick touchups and just use my fingertips to blend. There is absolutely no stickiness or scent. It has a very natural look, and I think that it\u2019s an excellent value for the money!",
+          "reviewDate": "Reviewed in the United States on March 5, 2026",
+          "customer": "Devon McCollum",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFZR5P77D2FWI4V4PUEZBYIXFH4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sunkissed Rose"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Sunkissed Rose for the win!!",
+          "reviewText": "Two beautiful shades in one stick. Perfect for livening up my pale chemo face. It blends well with other products and has very light coconut scent. Definitely a great product, for a quick made up look. I use the bronzer as eyeshadow and contour. It's a perfect shade! You can use it on your lips also.",
+          "reviewDate": "Reviewed in the United States on February 9, 2026",
+          "customer": "High quality shopper",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AETKLJQLVST3DXCBJ4VVAGFCKTQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sunkissed Rose"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "The blush is darker than it shows",
+          "reviewText": "I love the physicians formula brand and love using their multi stick! It is easy to put on, feels great in your skin, blends easily, great value for your money, and looks natural. I\u2019ve been using the same stick for 5 months now and still haven\u2019t used all of it! The darker shade of red is not a true color match to the advertisement. The red is much darker than the picture displays",
+          "reviewDate": "Reviewed in the United States on December 12, 2025",
+          "customer": "Leslie Calderwood",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEZHWVX6DZUFRYFIARQQOBJO4BAQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Beach Bum Plum"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Effortless Glow On-the-Go",
+          "reviewText": "The Physicians Formula Butter Glow & Go Multi is a total game-changer if you want an easy, beautiful glow. The texture is super creamy and glides on smooth\u2014absolutely no streaks or patchiness. It blends out in seconds with just your fingers, a brush, or a sponge. I love how lightweight it feels, you barely notice it\u2019s there, but the healthy, luminous finish really stands out. It\u2019s so versatile, too\u2014works as a highlighter, blush, or even a little shimmer on your eyelids. Plus, the stick packaging makes it perfect to throw in your bag for touch-ups on the go. If you\u2019re after effortless radiance, this little multitasker is seriously worth checking out!",
+          "reviewDate": "Reviewed in Canada on July 17, 2025",
+          "customer": "STEFANIE",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Sunkissed Rose"
+          }
+        }
+      ]
+    }
+  }
+}

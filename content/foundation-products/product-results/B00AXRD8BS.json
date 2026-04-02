@@ -1,0 +1,390 @@
+{
+  "requestMetadata": {
+    "id": "4bc29a57-4be8-49e2-bbc0-917a4f411b7e",
+    "status": "ok",
+    "html": "https://files.hasdata.com/4bc29a57-4be8-49e2-bbc0-917a4f411b7e.html",
+    "json": "https://files.hasdata.com/4bc29a57-4be8-49e2-bbc0-917a4f411b7e.json",
+    "url": "https://www.amazon.com/dp/B00AXRD8BS"
+  },
+  "product": {
+    "asin": "B00AXRD8BS",
+    "url": "https://www.amazon.com/dp/B00AXRD8BS",
+    "title": "Physicians Formula Super BB Cream. All in 1 Tinted Beauty Balm Foundation Cream, Sheer Moisturizing Coverage, Cruelty Free Light/Medium",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Light/Medium"
+    },
+    "featureBullets": [
+      "Replaces moisturizer, foundation and SPF",
+      "10 plus beauty benefits: smoothing, moisturizing, protecting, firming, priming and filling, perfecting, concealing, brightening, line- softening, long wearing",
+      "Hypoallergenic, paraben-free, gluten free, fragrance free, Non-Comedogenic, dermatologist approved"
+    ],
+    "description": "All-in-1 Miracle Cream Ultra-blendable and lightweight cream effortlessly glides on, instantly infusing moisture, refining skin's surface and providing protection from the environment. Skin looks and feels smooth, glowing and naturally flawless. Ultra-versatile beauty balm simplifies your morning beauty routine by delivering the benefits of moisturizer and foundation in one easy to use product. Why is Super BB Super? Our high-tech multi-tasking formulas combine UVA/UVB protection, brightening antioxidants, moisturizing and firming botanicals and perfecting optical diffusers for super-powerful skin care plus makeup benefits.",
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "BB Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B00EIDUBV8",
+        "title": "Light",
+        "url": "https://www.amazon.com/dp/B00EIDUBV8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61emTgmIkXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00AXRD8BS",
+        "title": "Light\\/Medium",
+        "url": "https://www.amazon.com/dp/B00AXRD8BS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bMRl5YsbL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 16.99,
+      "beforePrice": 16.99,
+      "discount": "-5%",
+      "priceFrom": 16.81,
+      "otherOfferQuantity": 4
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 10,
+    "primaryImage": "https://m.media-amazon.com/images/I/61bMRl5YsbL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61bMRl5YsbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/517tuqgAiqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71zYzh0zMKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91W+NgFs74L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81DCzGLObmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61m5pLI12GL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71d8JwEcurL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bAxl8DbPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xJpuI-UJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MryFVkDZL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/660108ad-0ba0-4244-880d-0e99e6f11b4f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d1b1ef7d-aba8-4f36-b691-5af77ac17a6b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9880ddc9-d4d7-40a0-9695-f903452b19b0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/09f7d80c-6aef-4bd9-ab77-dc5716bb661e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0a1738e4-e376-45cb-a7ad-a6d4d6f50ba8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4dc7641c-e59b-4f54-992b-7fa51b0cde7e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/73d55839-377a-4770-bcc5-aac5dba76b51.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Light/Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Firming"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Physicians Formula"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Refining"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Sensitive skin"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00044386078673"
+      },
+      {
+        "key": "UPC",
+        "value": "044386078673"
+      },
+      {
+        "key": "Model Number",
+        "value": "44386078673"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "044386078673"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Physicians Formula"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#24,109 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #17 in BB Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00AXRD8BS"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "30 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Hypoallergenic, Lightweight"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Sheer"
+      },
+      {
+        "key": "Coverage",
+        "value": "Sheer Coverage"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1.2 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.36 x 1.88 x 5.63 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.2 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free,Gluten Free,Paraben-free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3706,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "63%",
+        "fourStars": "17%",
+        "threeStars": "10%",
+        "twoStars": "4%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this BB cream provides excellent medium to full coverage while keeping skin moisturized and looking clear and smooth throughout the day. They appreciate its lightweight feel, smooth texture, and easy application, with one customer noting it works well for oily combination skin. The color match receives mixed feedback, with some customers finding it perfect while others say it's too dark for light/fair skin tones.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 187,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 186,
+          "status": "positive"
+        },
+        {
+          "aspect": "Product quality",
+          "count": 139,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 95,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 91,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 91,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 71,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 211,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/6186iisVf1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61oDRjSk7ZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ndUnhJdCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/619ZBqAxo0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71cz5HUDz4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61hhpCXbhTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61b6A51vhaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61An2MVRA6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61CJwLekZIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71DDMNkV6vL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71JV0rhE8kL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71klJMfeOOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Very impressed",
+          "reviewText": "This is the first BB cream I ever tried, but I'm really happy with it. I have a lot of acne scars and discoloration and so have tended to wear a lot of foundation and concealer, but I was tired of caking on makeup and wanted something lighter to just put on even when I didn't feel like getting all dolled up. I decided to give this a try, and I'm really glad I did. It gives you a decent amount of coverage, though I still have to apply concealer, but it definitely does even out your skin tone. It's also very smooth and has a great finish, even when I just spread it with my fingers and not with a brush or beauty blender. It looks very natural, not like you're wearing a ton of makeup, plus it has SPF and other good things in there, and Physician's Formula doesn't use dangerous chemicals or test on animals, which was a necessity for me. It stays in place pretty well and blends nicely, and helps keep my face matte. My only complaint is that it is dark. I have a light/medium skin tone so I thought this would be good for me, but it's too dark. I have to apply bronzer to my neck to make it match. Next time I will definitely get the light shade, so keep that in mind when ordering. The size of the product is great for the price and I know this will last a long time, as a little goes a long way. Overall, I'm really happy with this and will definitely order again.",
+          "reviewDate": "Reviewed in the United States on February 11, 2016",
+          "customer": "M. Hughes",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHP4RPDZXSVIOWNGNTYIK2V2WF5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light/Medium"
+          },
+          "helpfulVotes": "79 people found this helpful"
+        },
+        {
+          "reviewTitle": "BEST by far...",
+          "reviewText": "Clinique got rid of their BB Dramatically Different Gel and I have been searching and buying other products to find a replacement. This not an exact match, but definitely the next best thing. Moisture as normal and it just takes a very small amount on fingers. Dab on face all over and work in. It dries quickly with out giving you the sticky oily heavy feel. It covers great with out looking unnatural. I have combination skin and so far at at the end of the day, there isn't a lot of shine which is something that works for me. Great for the skin that is getting older.",
+          "reviewDate": "Reviewed in the United States on January 18, 2025",
+          "customer": "My Opinion",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEYMW7DN7ZSWIAQZX374ISEMBG6A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "28 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent product, limited shade range",
+          "reviewText": "I'm so happy I tried this BB cream! I have sensitive skin and have a difficult time finding foundations that don't irritate. I find this to be an excellent medium to full coverage bb cream. I didn't experience any skin issues after wearing and it was easy to remove with makeup remover. The formula is long-wearing just as promised. While not transfer-resistant, it did last longer than 8 hours. I was a little disappointed in the finish. I was hoping for a satin finish... The finish is very matte so I applied Lumi Glotion over the top for a little glow. This BB cream is one of my favorite foundations even though it has a limited shade range. I had to mix in my No7 foundation drops to get it close to the right shade. I would like to see more shades in the deep and fair range.",
+          "reviewDate": "Reviewed in the United States on June 27, 2020",
+          "customer": "A. Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFOE4DZVN74J72SN43VJ5IMPJEXA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good coverage!",
+          "reviewText": "Light weight and coverage that lasted longer than my previous brand!",
+          "reviewDate": "Reviewed in the United States on January 17, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEGRO7YDF24NJR7M7QDQEN5MTLVQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          }
+        },
+        {
+          "reviewTitle": "OK Quality",
+          "reviewText": "This product was a bit thicker than I expected and was also a much lighter tone. It does moisturize well and provide coverage but not the smooth, light texture I was looking for.",
+          "reviewDate": "Reviewed in the United States on May 24, 2024",
+          "customer": "Domoni L Alexander",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHA4HGY4OVFG4YEFZSKGSZWLAH4A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Smooth application and not heavy on your skin",
+          "reviewText": "I use this cream regularly. It is lightweight and makes your skin feel soft. It looks very natural. I like that it is better for your skin so you feel better using it.",
+          "reviewDate": "Reviewed in the United States on April 28, 2025",
+          "customer": "Carol",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGPLZRIJZ7ZKWHIYYVY65LIG77HA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light/Medium"
+          }
+        },
+        {
+          "reviewTitle": "My Holy Grail Product",
+          "reviewText": "This is my favorite beauty product that I own. Let me count the reasons why: (1) It is cheap! BB creams from Sephora or a department store would cost nearly twice as much as this! (2) It is good for your skin. It has an SPF rating of 30, which means that it not only contains sunscreen, but actually contains it in high enough amounts for it to legitimately protect your skin. It's also moisturizing, and it definitely works in that regard. My skin's not super-dry, but dry enough that I sometimes get flaky patches of skin in the winter, and it actually feels soothing to put this on in the morning. (3) It has tremendous coverage for a bb cream. A lot of bb creams are sheer, with maybe a hint of color. Depending on your skin, this could replace your foundation. My cheeks can get red sometimes, and depending on how red they are on a particular day, I sometimes forego foundation and just wear this. (4) When I'm in a rush to go somewhere and want to improve my appearance quickly, this stuff is PERFECT. I once got home from an airplane flight (you know how haggard a person looks after that!) and was desperately hungry for dinner, so I just slathered some of this on my face and nothing else. I was astonished at how this single product transformed me from a tired and dirty-looking passenger to a fresh-faced young woman. No single makeup product can transform my looks as well as this thing can. A note on the color: My skin's light, but not super-light (III on the Fitzpatrick scale). Not sure this color will work well on those with super-light skin.",
+          "reviewDate": "Reviewed in the United States on November 27, 2013",
+          "customer": "Aurora Grace",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG7EYQFYPOL2CKLSPIYBPPT22BVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light/Medium"
+          },
+          "helpfulVotes": "50 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not For Sensitive Skin",
+          "reviewText": "Be careful using this product. It has strong chemicals in it that burned my skin. It has taken a couple of days for my skin to fully heal. Not recommended for sensitive skin.",
+          "reviewDate": "Reviewed in the United States on January 2, 2026",
+          "customer": "Star Girl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGFCFA3L3463REPQHJZA3WMBZPOA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Five Stars",
+          "reviewText": "The best bb cream I've used",
+          "reviewDate": "Reviewed in the United Kingdom on February 11, 2016",
+          "customer": "Jem",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          }
+        },
+        {
+          "reviewTitle": "Colour more medium than light.",
+          "reviewText": "Smooth easy application. Good light coverage.",
+          "reviewDate": "Reviewed in the United Kingdom on November 1, 2025",
+          "customer": "slyv",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light/Medium"
+          }
+        }
+      ]
+    }
+  }
+}

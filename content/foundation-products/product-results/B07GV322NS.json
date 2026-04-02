@@ -1,0 +1,475 @@
+{
+  "requestMetadata": {
+    "id": "c92ad56e-9206-427b-99f8-9fa5af04c842",
+    "status": "ok",
+    "html": "https://files.hasdata.com/c92ad56e-9206-427b-99f8-9fa5af04c842.html",
+    "json": "https://files.hasdata.com/c92ad56e-9206-427b-99f8-9fa5af04c842.json",
+    "url": "https://www.amazon.com/dp/B07GV322NS"
+  },
+  "product": {
+    "asin": "B07GV322NS",
+    "url": "https://www.amazon.com/dp/B07GV322NS",
+    "title": "IT Cosmetics CC+ Cream Illumination - Radiant Full Coverage Foundation With SPF 50+, Color Corrector & Hydrating Anti-Aging Serum, Hydrolyzed Collagen + Peptides, Normal to Dry Skin - 1.08 fl oz",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "04 Light Medium (pink beige shade with cool undertones)"
+    },
+    "featureBullets": [
+      "WHY YOU\u2019LL LOVE IT \u2013 CC+ Cream Illumination Foundation with SPF 50 is a full coverage foundation, hydrating anti-aging serum, and SPF 50+ physical sunscreen. Micronized light-reflecting pigments deliver a natural, glowing finish without the shimmer",
+      "ANTI-AGING BENEFITS \u2013 This best-selling color corrector cream offers clinically tested hydration and reduces skin imperfections with coverage that won\u2019t crease or crack. Its hydrating texture makes it perfect for mature skin, dull skin, and normal to dry skin types",
+      "IT REALLY WORKS \u2013 Our all-in-one foundation with SPF gives sun protection and flawless coverage. CC+ Cream Illumination reduces the appearance of acne scarring, wrinkles, redness on skin, dark circles under eyes and large pores\u2014and leaves your complexion with a radiant, supple, flawless-looking finish",
+      "INGREDIENTS \u2013 Infused with collagen to enhance visible elasticity for a youthful, smooth apperance. Peptides to help reduce the appearance of wrinkles and support natural collagen for smoother, firmer-looking skin. Niacin (B Vitamin) supports skin barrier function and combats the appearance of blemishes and hyperpigmentation. Free of sulfates, SLS, SLES, parabens and phthalates",
+      "DISCOVER IT \u2013 Apply 1-2 pumps on clean skin. Build coverage as desired with Complexion Perfection #7 makeup brush for buffing and blending. Find your favorite multi-tasking foundation : CC+ Original (full coverage, natural finish), CC+ Nude Glow (medium coverage skin tint, glowy finish), CC+ Illumination (full coverage, radiant finish), CC+ Natural Matte (full coverage, pore-less matte finish)"
+    ],
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "CC Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B07HNSH5XH",
+        "title": "11 Rich Honey (caramel brown shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B07HNSH5XH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71FcTDhrEsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0757ZLXYX",
+        "title": "10 Rich (golden brown shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B0757ZLXYX",
+        "imageUrl": "https://m.media-amazon.com/images/I/713cz3oOOLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VGTL896",
+        "title": "05 Medium (soft beige shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B00VGTL896",
+        "imageUrl": "https://m.media-amazon.com/images/I/61v4-pzUPeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B06ZXZG66L",
+        "title": "09 Medium Tan (golden beige shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B06ZXZG66L",
+        "imageUrl": "https://m.media-amazon.com/images/I/71CNig+6rxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VGTL8FK",
+        "title": "07 Tan (light brown shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B00VGTL8FK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Lm4EBMmXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VGTL8BY",
+        "title": "03 Light (taupe shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B00VGTL8BY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yGEllE3dL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GV322NS",
+        "title": "04 Light Medium (pink beige shade with cool undertones)",
+        "url": "https://www.amazon.com/dp/B07GV322NS",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BR55O9atL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07461WDY5",
+        "title": "12 Deep (rich ebony shade with neutral undertones)",
+        "url": "https://www.amazon.com/dp/B07461WDY5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KCi341WKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GV2W5B4",
+        "title": "02 Fair Light (ivory pink shade with cool undertones)",
+        "url": "https://www.amazon.com/dp/B07GV2W5B4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61v9srchhWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VGTL87I",
+        "title": "01 Fair (ivory shade with warm undertones)",
+        "url": "https://www.amazon.com/dp/B00VGTL87I",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RB9mKfI7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GYP4HQN",
+        "title": "08 Neutral Tan (light brown shade with neutral undertones)",
+        "url": "https://www.amazon.com/dp/B07GYP4HQN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71DO4mryYmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07GV3259J",
+        "title": "06 Neutral Medium (natural beige shade with neutral undertones)",
+        "url": "https://www.amazon.com/dp/B07GV3259J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZdTwIZgQL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 31.2,
+      "beforePrice": 39,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 6 hrs 5 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "IT Cosmetics",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AH5UK1NMFV20Y",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61p8tSqEwRL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61p8tSqEwRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813kIfWHFYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81GX0mSFOOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91fcgMQMP8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81kfp0mQo+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61INZBwIvZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71--KoJPMhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MhPwDGaGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/710HR4IjHFL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef90d84d-f33d-4a7d-98d8-859a75ba7086.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6bcd4caa-736e-421a-9c83-2b95eb8b1ea3.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5e606fee-3b8e-41d8-be6d-ba0691998e40.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04e57163-8b78-4e4f-a2b9-b0413a108d26.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c58d2974-653a-4b3f-b736-de6adc5f8915.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40b8a758-b81f-4c95-996b-d0d96c19111a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a2ef95c-2a73-48da-9341-8d47bdcc35d8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2330bc6c-7916-4c95-af2b-f0a83ce48a0f.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3bb1588c-517b-46a0-9e09-6981b1eae1c0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3bb1588c-517b-46a0-9e09-6981b1eae1c0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4dc7641c-e59b-4f54-992b-7fa51b0cde7e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Brand Name",
+        "value": "IT Cosmetics"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Senior"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Target Use Body Part",
+        "value": "Skin"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Reduces the look of acne scarring, wrinkles, redness, dark circles & pores for a radiant, flawless complexion."
+      },
+      {
+        "key": "Specific Uses For Product",
+        "value": "Apply to clean skin for flawless-looking coverage that won\u2019t crease or crack. Provides clinically tested hydration & diffuses the look of imperfections."
+      },
+      {
+        "key": "Model Name",
+        "value": "CC+ Cream Illumination"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "3605971907609"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "IT Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,219 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #3 in CC Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07GV322NS"
+      },
+      {
+        "key": "Item Volume",
+        "value": "32 Milliliters"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "1.04 x 1.28 x 6.3 inches"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.08 Fluid Ounces"
+      },
+      {
+        "key": "Item Weight",
+        "value": "2.2 Ounces"
+      },
+      {
+        "key": "Active Ingredients",
+        "value": "hyaluronic_acid"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty free, Paraben free, Fragrance Free"
+      },
+      {
+        "key": "Other Special Features of the Product",
+        "value": "Hydrating,Radiant"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Scent Name",
+        "value": "Unscented"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 12763,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "76%",
+        "fourStars": "13%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find the CC cream provides good coverage and is wonderfully light on the face, making skin look even-toned and 20 years younger with a healthy glow. The product is easy to apply evenly with a makeup brush, and customers appreciate its moisturizing properties and natural-looking finish. The color match receives mixed feedback - while some find it matches their fair skin well, others report it doesn't match their skin tone.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 395,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 265,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin appearance",
+          "count": 250,
+          "status": "positive"
+        },
+        {
+          "aspect": "Product quality",
+          "count": 244,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 212,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 179,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 130,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 170,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71pg+oNlvKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71SBwAqR+hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/710KcACCvlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mQNOsLttL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61gShsFrKnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61HnTp7iiAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/618atqXf8CL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61NWG1ppARL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-kCtBMPJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Q3FclcSML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61IB+pzk9YL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/715NLuPiuPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "The Magic of a Flawless Finish",
+          "reviewText": "If you are looking for a product that truly does it all, this is it. The IT Cosmetics CC+ Cream Illumination has become a permanent staple in my makeup routine for one simple reason: it makes my skin look absolutely flawless. Unlike traditional full-coverage foundations that can look flat or \"cakey,\" this CC cream uses light-filtering pigments to blur imperfections. It hides redness, pigmentation, and pores effortlessly while leaving a beautiful, radiant glow that makes my skin look healthy and hydrated. Why I Love It: The Glow Factor: It provides a soft-focus luminosity that brightens the complexion without any chunky glitter. True Skincare Benefits: It\u2019s infused with hydrolyzed collagen, peptides, and niacinamide, so it actually feels like it\u2019s treating my skin while I wear it. Impressive Coverage: For a CC cream, the coverage is incredible. A little goes a long way in evening out my skin tone. Built-in Protection: Having SPF 50+ physical sunscreen built-in is a huge win for daily skin protection. This is the perfect product for anyone who wants that \"perfect skin\" look with minimal effort. It provides the coverage of a foundation with the finish of a high-end moisturizer. If you want to look radiant, polished, and flawless all day long, this is definitely the one to grab! Pro Tip: Since this version is quite hydrating, if you have oily skin, try setting your T-zone with a light translucent powder to keep the glow exactly where you want it.",
+          "reviewDate": "Reviewed in the United States on January 9, 2026",
+          "customer": "Carolyn Veccia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHZO2BBRPGH3XMKDIP2OIR44HWJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Light (taupe shade with warm undertones)"
+          },
+          "helpfulVotes": "23 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light coverage with a natural glow!",
+          "reviewText": "Great and natural compliment to skin. Love the illumination! Goes on easy with just the right. amount of moisture and gives you a natural glow!",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Slightly Seasoned",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXRJERSKHKJYQDGLPS7K4XBMMJQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Light (taupe shade with warm undertones)"
+          }
+        },
+        {
+          "reviewTitle": "Flawless Coverage with a Beautiful, Healthy Glow",
+          "reviewText": "The \"Illumination\" foundation gives the perfect balance of coverage and radiance, leaving my skin looking smooth, even, and naturally glowing. The illumination isn\u2019t glittery or over-the-top, it\u2019s a soft, luminous finish that makes my skin look healthy and refreshed. The formula blends effortlessly and provides impressive coverage for redness and uneven tone while still feeling lightweight and comfortable on the skin. It wears beautifully throughout the day without settling into fine lines, and my skin stays hydrated and radiant for hours. I also love that it includes skincare benefits and SPF, making it a true all-in-one product. It layers well with other makeup but also looks fantastic on its own for an easy, polished look.",
+          "reviewDate": "Reviewed in the United States on December 22, 2025",
+          "customer": "Literature.n.Lattes",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGPD52MYCXNOI5OXFMIONCAGGO6A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "01 Fair (ivory shade with warm undertones)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Undecided",
+          "reviewText": "I just received this product and couldn\u2019t wait to try it! I\u2019m 60 years young and have sensitive skin, and had high hopes for this to be great. I instantly noticed that the packaging kept calling it a sunscreen and gave directions to use it as so? I didn\u2019t see that online? Well that\u2019s not why I bought it, so I was concerned and put it on immediately. At first glance it did not seem like the finish was at all dewy or illuminating, which is what I like. It did have good coverage, smelled nice, and seemed to be the right color choice. The size was larger than I thought it would be and the pump worked well. It seemed to cover my age spots well, and did not settle in the creases. And- it was surprisingly hydrating and did give off a sight dewy glow on my skin. I was happy! Unfortunately about an hour later, the foundation did separate and fall into the creases. Not a huge deal. Just a tap tap here and a tap tap there and it was all good again. And it didn\u2019t cause my sensitive skin any grief. Still I had to deduct one star, but I still like the product and will try it again to see if it continues to happen. Other than that it\u2019s a nice product and a good value for the price.",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXNDKX4XXFUHE2Z33ODZXHGXT4A",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "04 Light Medium (pink beige shade with cool undertones)"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "High SPF & makes you pretty",
+          "reviewText": "This helps make your face look prettier by covering up discoloration & brightening your skin like a highlighter would, except it's all over your face. You will still need a little bit of concealer for extra dark sunspots or acne. If you live in a dry climate apply moisturizer 1st. It's very easy to apply with fingertips. The tube is expensive & not large so I wait until there is a sale & use it on special days.",
+          "reviewDate": "Reviewed in the United States on February 17, 2026",
+          "customer": "JD",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTBYIMLX7NCC4EWACMDXZWACE4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 Light Medium (pink beige shade with cool undertones)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Obsessed. Love it for My not so young skin.",
+          "reviewText": "I hate that I am over 40 but I love finding products that remind me of how my skin used to look haha. I found this to have great coverage with not a lot of weight to the product. I like the extra glow it gives. Doesn\u2019t dry into your fine lines. Great quality product. A small amount goes a long way.",
+          "reviewDate": "Reviewed in the United States on January 2, 2026",
+          "customer": "Lindsay S | LindsayEdit",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTJDYAHCWXOXEUKZRIF77EQTS7A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05 Medium (soft beige shade with warm undertones)"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Makeup",
+          "reviewText": "Smooth to put on Helps blend skin tone and used as a sunscreen. Easily washes off",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Donna B",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGJYA42YVYGJSI6K5Z33A5TGZ7LQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair Light (ivory pink shade with cool undertones)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Small amount goes a long way",
+          "reviewText": "The application of this foundation is light weight and smooth. I don\u2019t think that it\u2019s true full coverage but pretty close to it. The only thing I don\u2019t like is the scent of it. Sometimes I get a whiff of cow manure lol. I like this foundation but not enough to use it again. I think I\u2019m going to switch to another sun screen foundation after this.",
+          "reviewDate": "Reviewed in the United States on December 31, 2025",
+          "customer": "Rebekah",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFTU7ZODSXZGWNIHWUMYQHJLNP7A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "01 Fair (ivory shade with warm undertones)"
+          }
+        },
+        {
+          "reviewTitle": "Light and coverage is good!",
+          "reviewText": "Amazing product. I always get compli When wearing this. Has a nice sheen to it and is fairly light but buildable.",
+          "reviewDate": "Reviewed in Canada on February 17, 2026",
+          "customer": "S McKean",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair Light (ivory pink shade with cool undertones)"
+          }
+        },
+        {
+          "reviewTitle": "Excellent",
+          "reviewText": "My favourite",
+          "reviewDate": "Reviewed in the United Arab Emirates on February 5, 2022",
+          "customer": "Sadaf",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair Light (ivory pink shade with cool undertones)"
+          }
+        },
+        {
+          "reviewTitle": "Very prompt service",
+          "reviewText": "Love this product but it is extremely hard to find it this shade currently. Very prompt service,arrived within 2 days.",
+          "reviewDate": "Reviewed in the United Kingdom on May 19, 2022",
+          "customer": "edel meenan",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Light (taupe shade with warm undertones)"
+          }
+        },
+        {
+          "reviewTitle": "Good shade match & easy to use",
+          "reviewText": "Shade: Fair Light. Coverage good, not heavy as its a CC cream, & application was easy. My skin colour is fair and I have rosacia on my cheeks, nose & chin. First time in ages I've bought something where I've not needed to buy 2 different shades to suit my skin tone. Pricey as everywhere I looked it was sold out. Early days, but still happy with purchase as I'm liking results.",
+          "reviewDate": "Reviewed in the United Kingdom on March 15, 2023",
+          "customer": "Kindle Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair Light (ivory pink shade with cool undertones)"
+          }
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "I really love It cosmetics they are so good for your skin , the only thing i dont like is the price . This product is expensive but it does what they say it does .",
+          "reviewDate": "Reviewed in the United Kingdom on June 29, 2023",
+          "customer": "Charlie brown",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05 Medium (soft beige shade with warm undertones)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "requestMetadata": {
+    "id": "5ab96ad6-b8ec-4c3e-b3f4-50dfbd6c9dca",
+    "status": "ok",
+    "html": "https://files.hasdata.com/5ab96ad6-b8ec-4c3e-b3f4-50dfbd6c9dca.html",
+    "json": "https://files.hasdata.com/5ab96ad6-b8ec-4c3e-b3f4-50dfbd6c9dca.json",
+    "url": "https://www.amazon.com/dp/B0G915B7VC"
+  },
+  "product": {
+    "asin": "B0G915B7VC",
+    "url": "https://www.amazon.com/dp/B0G915B7VC",
+    "title": "Blanc Cover Cream Stick V - Color Changing Foundation Stick with Volufiline - Hydrating Concealer Base Makeup, Dual-Ended with Built-in Brush, Portable for Daily Use (Natural)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Natural"
+    },
+    "featureBullets": [
+      "Meet Your New Beauty Essential \u2014 Starting with a soft white balm, this color changing makeup stick is transformed into a silky, refreshing, non cakey look",
+      "Gentle & Skin-Loving Formula \u2014 Designed for all skin types, along with providing beautiful coverage, this face stick foundation has your skin covered also, keeps your skin comfortable and moisturized",
+      "Color-Adapting Formula for Natural Coverage - This innovative cream foundation stick starts as a soft white balm and transforms into a skin-tone matching tint, delivering buildable medium to full coverage that blends seamlessly",
+      "Hydrating & Skin-Loving Ingredients - Infused with niacinamide, collagen, and nourishing extracts to help keep skin moisturized, smooth, and comfortable while enhancing a radiant, healthy-looking complexion",
+      "Dewy Finish, No Grease or Caking - Achieve a luminous glow without heaviness. The lightweight formula resists creasing, flaking, or greasy residue\u2014leaving skin fresh and breathable all day",
+      "Dual Ended For Double Duty \u2014 This clever double-duty face contour stick combines foundation and applicator in one sleek design. One end holds a balm foundation, the other a soft brush for a smooth, brush easy to clean and perfectly sized for precise application"
+    ],
+    "boughtInPastMonth": "500+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0GQB5RV55",
+        "title": "Dark Skin",
+        "url": "https://www.amazon.com/dp/B0GQB5RV55",
+        "imageUrl": "https://m.media-amazon.com/images/I/61YFvJJhoBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GQB813PV",
+        "title": "Ivory White",
+        "url": "https://www.amazon.com/dp/B0GQB813PV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jusgzZXXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G915B7VC",
+        "title": "Natural",
+        "url": "https://www.amazon.com/dp/B0G915B7VC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61u9ZR4c7pL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 20.99
+    },
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 12 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "ROVLET",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AVQ3INR1MQ0KL",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61u9ZR4c7pL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61u9ZR4c7pL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81bAyD-dwwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61gaIDF81NL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ksHpzHMyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71HLoApDOBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61RpeoBza2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71aYtLmImpL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b972e6e-e9ba-4933-a00a-d43efdcdde9c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc75bfa7-4bf4-4089-acdb-3950e53fa538.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/107babe7-2577-420f-a56a-245e440c5d52.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20a22309-588f-4fe6-b8ee-31ff0476a098.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream Stick"
+      },
+      {
+        "key": "Color",
+        "value": "Natural"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Color Correction"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "ROVLET"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Buildable coverage, hydrating, skin tone adaptation"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Natural"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "RT-EP3A-8QTR"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "ROVLET12"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#44,759 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #390 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0G915B7VC"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 59,
+      "rating": 3.1,
+      "starRates": {
+        "fiveStars": "33%",
+        "fourStars": "15%",
+        "threeStars": "12%",
+        "twoStars": "10%",
+        "oneStars": "30%"
+      },
+      "customersSay": "Customers have mixed experiences with the foundation's coverage, with some finding it effective at hiding dark circles while others report it doesn't work at all. Similarly, the color match receives mixed feedback, with some customers finding it matches their skin tone perfectly while others say it doesn't change color at all.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 13,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color match",
+          "count": 12,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81c7YJqyfsL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61o-eiwg3pL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mdzVAEFaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81u+r5bZXZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51SciowaIAL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mM9Bh3DjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "I love!!",
+          "reviewText": "\u2b50\u2b50\u2b50\u2b50\u2b50 I absolutely loved this foundation stick. It adapts really well to my skin tone and leaves a very natural finish. It\u2019s easy to apply thanks to the built-in brush and blends effortlessly. The texture is smooth, it doesn\u2019t feel heavy, and it covers imperfections very well. Perfect for everyday use. I would definitely buy it again!",
+          "reviewDate": "Reviewed in the United States on February 14, 2026",
+          "customer": "Emma",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHU6C2PEHGV5CV6LPM4T7BYCOGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Won\u2019t buy again",
+          "reviewText": "If I could give zero stars I would. No coverage, it\u2019s oily, it claims to color match but you just rub it off on your brush. No color comes off on makeup wipe. If it wasn\u2019t such a hassle to return items I\u2019d return it and get my money back.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Caitlin Geldien",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG3XFSBIQODY5WFQ4RKDMJAQSR6Q",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Natural"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing at hiding my dark circles!",
+          "reviewText": "This stuff really is the best. It is more of a contour than a full blow foundation though. I use it under my eyes and it does fantastic at brightening and hiding my dark circles.",
+          "reviewDate": "Reviewed in the United States on February 22, 2026",
+          "customer": "Haylee Jenkins",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEAW626L4235OYGGNDDFESSPOUJQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Natural"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Coloring of the skin",
+          "reviewText": "A little disappointed in the coverage. Kinda blotchy and doesn\u2019t have the same color as my skin. Too white of a finish . Maybe should try a different name brand.",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Jacque Sieren",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQJ6QH56ZM6FYSM42LQTISUUPWQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Natural"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Not full coverage very heavy on the face",
+          "reviewText": "This is not something you want for full coverage it's heavy and makes your face feel oily not to mention it's not anything like what the product says the product is poor quality I use it for a small cover up not full face coverage unless you like a heavy feeling face",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Patricia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFJTQRQHOB4P5WFSG7CUEMLGIYMA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Natural"
+          }
+        },
+        {
+          "reviewTitle": "Won\u2019t Buy Again",
+          "reviewText": "I love this product!! However, the container is very sub parr. In fact, the mechanism that pushes the product up is broken. I twisted it up, put the foundation on my face, and it won\u2019t twist back down. Once I use what\u2019s left of that twist up(I use very little), I\u2019m going to need to scoop it out of the cylinder. This same issue happened with another foundation, just like it. Except that the twist mechanism was broken on day one. Also, for this product, the brush at the end popped off. So all in all, the foundation is great but the container sucks! I won\u2019t buy it again. If they can make a different container, like a tube or something where you don\u2019t have to twist, I would buy it. But until then, absolutely not!",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Bonnie",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHOIOQSSFRF2I7U5BAA4KTAILN2Q",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "Natural"
+          }
+        },
+        {
+          "reviewTitle": "Im happy with it",
+          "reviewText": "Very well satisfied thank you",
+          "reviewDate": "Reviewed in the United States on March 11, 2026",
+          "customer": "Veronica",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEU3WTY4FM2T35UA6GKOI4AUFAYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural"
+          },
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

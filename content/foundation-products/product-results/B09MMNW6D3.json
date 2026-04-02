@@ -1,0 +1,610 @@
+{
+  "requestMetadata": {
+    "id": "d49ce46f-008d-4648-980f-2add13840038",
+    "status": "ok",
+    "html": "https://files.hasdata.com/d49ce46f-008d-4648-980f-2add13840038.html",
+    "json": "https://files.hasdata.com/d49ce46f-008d-4648-980f-2add13840038.json",
+    "url": "https://www.amazon.com/dp/B09MMNW6D3"
+  },
+  "product": {
+    "asin": "B09MMNW6D3",
+    "url": "https://www.amazon.com/dp/B09MMNW6D3",
+    "title": "tarte Amazonian clay 16-hour full coverage foundation \u2013 Matte Finish Foundation with Amazonian Clay & Vitamin E for Hydration & Smooth Looking Skin, Vegan & Cruelty Free",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "light-medium neutral"
+    },
+    "featureBullets": [
+      "full-coverage foundation with soft matte finish",
+      "featherlight full coverage wears for 16 hours, poreless technology erases the look of pores, fine lines & wrinkles for an airbrushed finish",
+      "whipped mousse glides on like silk, wears like iron",
+      "CLINICAL RESULTS*: 100% agreed it reduces the appearance of pores, 100% agreed it reduces the appearance of fine lines, 100% agreed it doesn't look or feel cakey, 100% agreed it makes skin look smooth & flawless, 100% agreed it covers redness & imperfections, 100% agreed it improves the look of skin\u2019s texture, 100% would recommend to a friend,16-hour longwear *based on a clinical & consumer panel study of 32 subjects",
+      "SKINVIGORATING INGREDIENTS: Amazonian clay for better, longer, truer wear, vitamin E natural preservative that acts as an emollient & antioxidant, mineral pigments soothe & soften skin's appearance"
+    ],
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B09HWZLGNZ",
+        "title": "fair-light neutral",
+        "url": "https://www.amazon.com/dp/B09HWZLGNZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/617R1iUHEuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMN2XC9",
+        "title": "light-medium beige",
+        "url": "https://www.amazon.com/dp/B09MMN2XC9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61nN5W42uLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HWMWJP4",
+        "title": "light-medium sand",
+        "url": "https://www.amazon.com/dp/B09HWMWJP4",
+        "imageUrl": "https://m.media-amazon.com/images/I/6183qGXDbDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNYHQR",
+        "title": "porcelain beige",
+        "url": "https://www.amazon.com/dp/B09MMNYHQR",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ZL3guvQVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HZ9NGW9",
+        "title": "fair sand",
+        "url": "https://www.amazon.com/dp/B09HZ9NGW9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZGx98VRPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMP52C9",
+        "title": "tan-deep honey",
+        "url": "https://www.amazon.com/dp/B09MMP52C9",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gA8vOioUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNG27R",
+        "title": "deep sand",
+        "url": "https://www.amazon.com/dp/B09MMNG27R",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RD3gR8bPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNC56F",
+        "title": "medium beige",
+        "url": "https://www.amazon.com/dp/B09MMNC56F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61nJSqf7eOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMPHS97",
+        "title": "medium neutral",
+        "url": "https://www.amazon.com/dp/B09MMPHS97",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Lrgy-PgxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNVKQ4",
+        "title": "medium-tan sand",
+        "url": "https://www.amazon.com/dp/B09MMNVKQ4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61b6wC+8t1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNC44Q",
+        "title": "rich sand",
+        "url": "https://www.amazon.com/dp/B09MMNC44Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61E-1GUJAHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMP4677",
+        "title": "light honey",
+        "url": "https://www.amazon.com/dp/B09MMP4677",
+        "imageUrl": "https://m.media-amazon.com/images/I/61VxCscXKTL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMP4DZ1",
+        "title": "medium honey",
+        "url": "https://www.amazon.com/dp/B09MMP4DZ1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61io4diSFnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HWRZCKL",
+        "title": "fair-light sand",
+        "url": "https://www.amazon.com/dp/B09HWRZCKL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tMSfL08EL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMP5YLH",
+        "title": "light-medium honey",
+        "url": "https://www.amazon.com/dp/B09MMP5YLH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Lfywd12lL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HX2HR33",
+        "title": "fair-light honey",
+        "url": "https://www.amazon.com/dp/B09HX2HR33",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wx3YKk0QL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNVQ6M",
+        "title": "deep honey",
+        "url": "https://www.amazon.com/dp/B09MMNVQ6M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61v79UKvmIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMPPM7K",
+        "title": "deep neutral",
+        "url": "https://www.amazon.com/dp/B09MMPPM7K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61s8RmCzSML._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNS5KQ",
+        "title": "deep golden",
+        "url": "https://www.amazon.com/dp/B09MMNS5KQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ERQrV9mCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMP5N2B",
+        "title": "tan sand",
+        "url": "https://www.amazon.com/dp/B09MMP5N2B",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-AS4DtUWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMN1BGV",
+        "title": "light-medium golden",
+        "url": "https://www.amazon.com/dp/B09MMN1BGV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BLc9LINXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CCPK6GS3",
+        "title": "tan-deep neutral",
+        "url": "https://www.amazon.com/dp/B0CCPK6GS3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IVilFoeyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNW6D3",
+        "title": "light-medium neutral",
+        "url": "https://www.amazon.com/dp/B09MMNW6D3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uYUgYfjrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMMTR5J",
+        "title": "fair neutral",
+        "url": "https://www.amazon.com/dp/B09MMMTR5J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61diNwwfYML._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HXFBKYN",
+        "title": "ivory",
+        "url": "https://www.amazon.com/dp/B09HXFBKYN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61w5nLfc0LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HWWCB26",
+        "title": "light sand",
+        "url": "https://www.amazon.com/dp/B09HWWCB26",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wztjsCJbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMM3ZXN",
+        "title": "tan-deep sand",
+        "url": "https://www.amazon.com/dp/B09MMM3ZXN",
+        "imageUrl": "https://m.media-amazon.com/images/I/6176kXvt0TL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNPP4T",
+        "title": "medium-tan neutral",
+        "url": "https://www.amazon.com/dp/B09MMNPP4T",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LqiZcqRhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNHPFJ",
+        "title": "rich honey",
+        "url": "https://www.amazon.com/dp/B09MMNHPFJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jPJThoQYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HX4HLBR",
+        "title": "fair-light beige",
+        "url": "https://www.amazon.com/dp/B09HX4HLBR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ppS6-wqgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMP3HWF",
+        "title": "mahogany neutral",
+        "url": "https://www.amazon.com/dp/B09MMP3HWF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61hjEFapgSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMP76LB",
+        "title": "mahogany honey",
+        "url": "https://www.amazon.com/dp/B09MMP76LB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Y4mIq22KL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMP95R4",
+        "title": "tan golden",
+        "url": "https://www.amazon.com/dp/B09MMP95R4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61tP9IDjP5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMPB25H",
+        "title": "light golden",
+        "url": "https://www.amazon.com/dp/B09MMPB25H",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AiH54fv8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMPJ23M",
+        "title": "fair beige",
+        "url": "https://www.amazon.com/dp/B09MMPJ23M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61U8Z4u5rVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNHPFH",
+        "title": "medium sand",
+        "url": "https://www.amazon.com/dp/B09MMNHPFH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kA0X3bBgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HWSRFWQ",
+        "title": "light neutral",
+        "url": "https://www.amazon.com/dp/B09HWSRFWQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bAjfnRwJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNMZJB",
+        "title": "espresso neutral",
+        "url": "https://www.amazon.com/dp/B09MMNMZJB",
+        "imageUrl": "https://m.media-amazon.com/images/I/615vCuGfjXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMQFSHR",
+        "title": "espresso honey",
+        "url": "https://www.amazon.com/dp/B09MMQFSHR",
+        "imageUrl": "https://m.media-amazon.com/images/I/6169koTZAlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMPP69R",
+        "title": "rich neutral",
+        "url": "https://www.amazon.com/dp/B09MMPP69R",
+        "imageUrl": "https://m.media-amazon.com/images/I/61rfhSw1VML._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HX4J6KT",
+        "title": "medium-tan honey",
+        "url": "https://www.amazon.com/dp/B09HX4J6KT",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+lNu0vCVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNY63L",
+        "title": "tan honey",
+        "url": "https://www.amazon.com/dp/B09MMNY63L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EUqe+nobL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMPDKSQ",
+        "title": "tan neutral",
+        "url": "https://www.amazon.com/dp/B09MMPDKSQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61EUqe+nobL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMNDS6Y",
+        "title": "tan-deep golden",
+        "url": "https://www.amazon.com/dp/B09MMNDS6Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61OnXbOhv6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09HWRWB96",
+        "title": "light beige",
+        "url": "https://www.amazon.com/dp/B09HWRWB96",
+        "imageUrl": "https://m.media-amazon.com/images/I/616YD0HEaiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09MMMK2JR",
+        "title": "medium-tan beige",
+        "url": "https://www.amazon.com/dp/B09MMMK2JR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bxSWsoSmL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 42,
+      "beforePrice": 42,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61uYUgYfjrL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61uYUgYfjrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81lZ9CKcwFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81UYa7fq5FL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LRXeX5X8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81fEqDcfxeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+IOkiAhrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81IXNL0M5DL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51AfdnztuuL.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3c2004d-30fc-42bf-b91e-8a5412dab318.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/173d296f-463e-4a8b-820f-bfaebf82a3db.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b1ab9955-d67d-4d05-afb4-c50392eeb2e7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ffeaa32-b34a-44e3-b790-bf220cead1ae.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90ce6575-d9d6-4d73-82a1-ede1da50707e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 4,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/033ed902-4271-4827-81e7-62674668de36.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/033ed902-4271-4827-81e7-62674668de36.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f77b36c5-9fb8-45dd-aa7e-29e4c1b4f61f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/141aec82-0ff1-44ac-8af0-0dfa6d931dd1.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "light-medium neutral"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Foundation, Full Coverage, Skin"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "tarte"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Provides full coverage foundation for a flawless complexion."
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "846733045549"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "tarte inc."
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#8,559 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #95 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B09MMNW6D3"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Oil Free"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.07 Kilograms"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.7 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Formaldehyde Free, Oxybenzone Free, Paraben Free, Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1863,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "76%",
+        "fourStars": "8%",
+        "threeStars": "6%",
+        "twoStars": "4%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this foundation provides full all-day coverage and makes skin look flawless, with a smooth mousse-like texture that feels soft on the skin and lasts all day. The color match receives mixed feedback - while some say it's the best match to their true color, others find it too pale for their skin tone. Customers disagree on the foundation's weight and value for money.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 146,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 104,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blemish-free",
+          "count": 87,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 79,
+          "status": "positive"
+        },
+        {
+          "aspect": "Consistency",
+          "count": 64,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 94,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 43,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 33,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71guBXxmqJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71QPIyE3KVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61UQSoEhTjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71LWpaT5D4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71JMPUYkAlL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61gGQ8NJtaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YTNDhQmHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Eg04Rm69L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/615MiMU5xgL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61FkBGZaTpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71hPlhmAq4L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61lHfNlbsaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Matte",
+          "reviewText": "This foundation is a powerhouse for those seeking long-lasting, full coverage. The Amazonian clay formula helps balance oily and dry areas, making it great for combination skin. It blends smoothly, covers imperfections without feeling heavy, and stays put through heat, humidity, and long days. The finish is matte but not flat\u2014just natural and polished. Ideal for events, workdays, or anytime you want flawless skin that lasts.",
+          "reviewDate": "Reviewed in the United States on September 2, 2025",
+          "customer": "Casey Anderson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHU6AVEUYSCXXZOJNEA5PMNWJMEQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "light-medium sand"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Perfect product for older skin",
+          "reviewText": "I was looking for a foundation for older skin. This goes on beautifully and lasts all day! It does not set into fine lines. A great size that lasts a long time. It doesn\u2019t take much produce for great coverage. If you use a moisturizer or serum, it glides on. Not at all oily. Looks dewey over foundation. The color will be great for winter. I could use a shade warmer now. But it does blend extremely well and looks natural!",
+          "reviewDate": "Reviewed in the United States on September 13, 2025",
+          "customer": "Patricia L. Daum",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFZ6BFTYVASAADDDE7W2XSINFQ5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "light neutral"
+          },
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "Truly waterproof!",
+          "reviewText": "It seems like fantastic coverage & goes on easily. It\u2019s a nice matte finish but still feels like it\u2019s moisturizing, not drying out your face. The deal I got it on was great, hope to be able to restock on the next great deal! Good value! The packaging was study and not broken or crushed.",
+          "reviewDate": "Reviewed in the United States on November 29, 2025",
+          "customer": "Sarah Sartwell",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG57HG77L5CECAQE72F5BK4ZKSRQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "light neutral"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Really love it so far!!",
+          "reviewText": "This foundation is great! I've been looking for one that stays on for a long long time and this one is good for that. I have very oily skin and typically foundation gets shiny on me and I notice my foundation always starts to come off. This one plus the L'oreal setting spray and I'm good.",
+          "reviewDate": "Reviewed in the United States on January 8, 2026",
+          "customer": "Jessica Fuschak",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFHZUPDFJZUIGVVUSRAR33GH4LJA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "medium-tan sand"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "tarte Amazonian clay 16-hour full coverage foundation",
+          "reviewText": "Wars well. Stays on good. Dries quick. Texture is good. Color varies",
+          "reviewDate": "Reviewed in the United States on January 20, 2026",
+          "customer": "Just me",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZXVTJBH2LCI5FIXX2SSWA2HLAA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "light-medium neutral"
+          }
+        },
+        {
+          "reviewTitle": "Great Coverage",
+          "reviewText": "I really love this foundation. Very good coverage, especially for redness - without feeling thick or cakey. I have oily skin and this foundation stays on all day. There is a perfume/fragrance smell, but I only notice it when applying and it seems to go away after that. I would highly recommend trying!",
+          "reviewDate": "Reviewed in the United States on December 3, 2025",
+          "customer": "Samantha Schmidt",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEPNLU2MJWGUMIF4AZA2N7I2ARQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "fair neutral"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Recommend",
+          "reviewText": "Good daytime full coverage foundation",
+          "reviewDate": "Reviewed in the United States on January 31, 2026",
+          "customer": "Ivy levy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHKFRSQ2O72F37APHD6DB5L3ZGA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "light-medium sand"
+          }
+        },
+        {
+          "reviewTitle": "Based on oily aging skin type",
+          "reviewText": "This review was done based on oily & beginning aging skin. I had high hopes, but this product made me really sad! I know a lot of people that love it, I agree the consistency and the smell are great and it goes on wonderfully! However, for my skin it only looked good for about an hour! The photos I am posting were taken four hours into work where I had been the entire time in a nicely, air-conditioned office environment. The makeup settled and caked up in a way that I have never experienced before! It was so bad. I literally wanted to cry! It even caused my skin to flake, which has never happened to me since I have oily skin! My oils came right through the make up and ran it all over my face in a terrible way. For me and my skin this product was not good. I feel like it aged me almost 10 years after just four hours!",
+          "reviewDate": "Reviewed in the United States on August 17, 2025",
+          "customer": "MDS.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGZOYWP6T4UWEPQMNU2NCFWTCSNA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "fair-light honey"
+          },
+          "helpfulVotes": "25 people found this helpful"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "requestMetadata": {
+    "id": "784a82b2-8acd-4d04-b27e-172544c68a44",
+    "status": "ok",
+    "html": "https://files.hasdata.com/784a82b2-8acd-4d04-b27e-172544c68a44.html",
+    "json": "https://files.hasdata.com/784a82b2-8acd-4d04-b27e-172544c68a44.json",
+    "url": "https://www.amazon.com/dp/B0FX88S85Q"
+  },
+  "product": {
+    "asin": "B0FX88S85Q",
+    "url": "https://www.amazon.com/dp/B0FX88S85Q",
+    "title": "Cover Glow Perfect Cushion Foundation \u2013 Natural Radiant Finish, Medium-to-High Buildable Coverage, Hydrating Peptide Complex, Lightweight for Dry & Combination Skin,#02 Ivory",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "02 Ivory"
+    },
+    "featureBullets": [
+      "Natural Radiant Glow, Skin-Like Finish: Creates a fresh, luminous glow designed to enhance natural complexion and deliver a smooth, healthy-looking skin appearance without a heavy makeup feel.",
+      "Buildable Medium-to-High Coverage: Flexible cushion formula helps blur imperfections, redness and uneven skin tone while allowing easy layering for customized coverage without thick or cakey buildup.",
+      "Hydrating Peptide Complex Skin Comfort: Formulated with WKPep Wateren hydrating peptide complex and botanical moisturizing ingredients to help maintain skin hydration and support comfortable makeup wear.",
+      "Lightweight Breathable Cushion Texture: Soft cushion base blends seamlessly into skin and helps maintain fresh-looking makeup while minimizing the appearance of heaviness or patchiness.",
+      "Portable Cushion Compact for Easy Application: Convenient tap-on cushion design allows quick makeup application and easy touch-ups during travel, work or daily routines."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0G8YX2HF3",
+        "title": "03G Golden Almond",
+        "url": "https://www.amazon.com/dp/B0G8YX2HF3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71vZ1ffMszL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8Z3CW6G",
+        "title": "08N Rich Toffee",
+        "url": "https://www.amazon.com/dp/B0G8Z3CW6G",
+        "imageUrl": "https://m.media-amazon.com/images/I/71LmBQTrAKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FX8C7H38",
+        "title": "04 Beige",
+        "url": "https://www.amazon.com/dp/B0FX8C7H38",
+        "imageUrl": "https://m.media-amazon.com/images/I/7174VFMITtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FX8D9H37",
+        "title": "03 Petal",
+        "url": "https://www.amazon.com/dp/B0FX8D9H37",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pXg4EJ+cL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8YXJ2CY",
+        "title": "1CN Cool Vanilla",
+        "url": "https://www.amazon.com/dp/B0G8YXJ2CY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71MTuvfDf-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8YZW5BW",
+        "title": "2CN Cool Ivory",
+        "url": "https://www.amazon.com/dp/B0G8YZW5BW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71w+uoYsGXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8Z19PR3",
+        "title": "06W Warm Honey",
+        "url": "https://www.amazon.com/dp/B0G8Z19PR3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JrfXOJWZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8YJ578S",
+        "title": "0CN Cool Porcelain",
+        "url": "https://www.amazon.com/dp/B0G8YJ578S",
+        "imageUrl": "https://m.media-amazon.com/images/I/71qG3nKC5dL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FX88S85Q",
+        "title": "02 Ivory",
+        "url": "https://www.amazon.com/dp/B0FX88S85Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/71G1mtTrTSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8YYGVL5",
+        "title": "03C Cool Petal",
+        "url": "https://www.amazon.com/dp/B0G8YYGVL5",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NdnUC9C1L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8YK3JWW",
+        "title": "07N Soft Caramel",
+        "url": "https://www.amazon.com/dp/B0G8YK3JWW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71PGPF7l3RL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8XX93CC",
+        "title": "01C Rose Ivory",
+        "url": "https://www.amazon.com/dp/B0G8XX93CC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71MTuvfDf-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8Y6CBL2",
+        "title": "05W Warm Sand",
+        "url": "https://www.amazon.com/dp/B0G8Y6CBL2",
+        "imageUrl": "https://m.media-amazon.com/images/I/713mxMYWmPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8Z2SZCR",
+        "title": "10N Natural Espresso",
+        "url": "https://www.amazon.com/dp/B0G8Z2SZCR",
+        "imageUrl": "https://m.media-amazon.com/images/I/713yUbvihfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FX87NGYV",
+        "title": "00 Porcelain",
+        "url": "https://www.amazon.com/dp/B0FX87NGYV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lAbaDiEwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZK1WMN",
+        "title": "09N Natural Cocoa",
+        "url": "https://www.amazon.com/dp/B0G8ZK1WMN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71oeieLr2wL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8ZBHP7W",
+        "title": "05 Sand",
+        "url": "https://www.amazon.com/dp/B0G8ZBHP7W",
+        "imageUrl": "https://m.media-amazon.com/images/I/519SCNQfkiL.jpg"
+      },
+      {
+        "asin": "B0G8Z2W9VN",
+        "title": "5CN Cool Walnut",
+        "url": "https://www.amazon.com/dp/B0G8Z2W9VN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71yfnNJTkmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G8Z99X3K",
+        "title": "7NC Neutral Caramel",
+        "url": "https://www.amazon.com/dp/B0G8Z99X3K",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IJyeivFKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FX8DN9FF",
+        "title": "01 Vanilla",
+        "url": "https://www.amazon.com/dp/B0FX8DN9FF",
+        "imageUrl": "https://m.media-amazon.com/images/I/71NYrU4jEQL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 14.16,
+      "beforePrice": 21.9,
+      "discount": "-35%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "SKINTIFIC US STORE",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1OU6PDK6RC3HA",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/71G1mtTrTSL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71G1mtTrTSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81bWHU45VCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tpXQCbYfL.jpg",
+      "https://m.media-amazon.com/images/I/81cqwQ6XBWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DUz2vUieL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71LV8ZZ1YfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Goid3IMNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xoudrj8OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71N6AZLUNkL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/64c72970-311e-4e77-a0df-836b080aca5e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ebe1a766-abc2-42a6-a9f2-c11413ee9a3b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e3bc0b24-4bea-40e8-8504-9c134779d71e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e416580b-78da-4702-9379-f51c5581cbb3.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/61de7736-077b-47a7-bc11-da34515067ac.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/73bdbaca-946d-4507-8366-e0ab8b372a86.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/45f8eac9-75de-4dd1-8b45-c04bbfbd8f0e.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0965f9d2-340d-4ccd-abbf-8c5504e43b94.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fcc5b5ab-b941-4ebb-8a0d-1fcc44be5e3a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c0b94b7b-6a0e-4007-9709-96d7fee76162.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e032695-785d-4de9-a168-58e2e1c8c722.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a8a1a0c8-bcd9-416c-a927-915e9f367f66.__CR0,0,400,450_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/95709d9e-118c-4e5f-b7da-cd21d6ea0db6.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d2047d1e-47ec-47c7-943d-a11108e9d742.__AC_SR200,225___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a2dc8609-a9b1-4a52-916e-af9d79c91313.__AC_SR200,225___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7c119f51-16f5-48ac-9e77-e003b1c3973e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a32192bf-3451-452d-8df0-1c2762da0908.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e3e29024-b1d2-4bb3-b640-cd572799eb1e.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e5e42e82-e557-4edc-acb3-9b78bc4550bc.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "02 Ivory"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Combination, Dry, Normal, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Box"
+      },
+      {
+        "key": "Brand Name",
+        "value": "SKINTIFIC"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing, Radiant Finish"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "SKINTIFIC"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#5,696 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #66 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0FX88S85Q"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Antioxidant, Lightweight, Long Lasting"
+      },
+      {
+        "key": "Contour Shade Undertone",
+        "value": "Neutral"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3.11 x 3.11 x 0.98 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 184,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "73%",
+        "fourStars": "11%",
+        "threeStars": "4%",
+        "twoStars": "2%",
+        "oneStars": "10%"
+      },
+      "customersSay": "Customers find the foundation's coverage excellent, with one noting it covers blemishes and pores evenly, and they appreciate its glowing, natural look. The product is lightweight, easy to apply, and has good texture, with one customer mentioning it doesn't feel sticky. While some customers find it wears well, others report it doesn't last, and several note it's not suitable for sensitive skin.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 37,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 28,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 17,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 8,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 6,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 17,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 6,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71xR1gSVGkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71qk5i3gjEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dsduoSHRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71er3aIZMNL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Eg2cP5eKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51gCDRR9UUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71OJxxjaGWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71yBI8IjEfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71DcQbC3TyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61oBxtzyJiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rluQVDyVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6199JFuOPqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Found my perfect foundation!",
+          "reviewText": "This is a perfect foundation for me. Perfect shade, very light not thick and caking, very natural look because it just blend in woth my skin, and easy to apply. The container is very cute, the size, color and miorr is just perfect. I'll bring it with me wherever I go!",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "ronald H.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMSOL5NZLROPK6VSOQQSPFM7VMA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Petal"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best foundation ever",
+          "reviewText": "I saw this foundation in a Jeffrey Star video where he reviewed it. He wasn't lying or hyping it up. It covers perfectly, blurs pores and leaves a glowing looking. It is also so light weight that it doesn't feel like you are wearing makeup. I love this so much!",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Lurissa Cochrane",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEO7UMR4ODS6IR3WRXYX2LRBWYGQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Ivory"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "A cushion that offers mature skin a dewy glow!!",
+          "reviewText": "I bought two shades Ivory and Petal one is more my winter shade and one is more my spring/summer shade but either way it\u2019s dewy glowy and easy to apply and carry with you anywhere including a plane! Doesn\u2019t spill because it\u2019s a cushion (we need more cushions in our lives) great for dry mature skin. See my before and after pics.",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "K. M. Schap",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFDCRXDADUMLMZ3WRRS42N3MULYA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Petal"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Convenient Makeup for Everyday Use",
+          "reviewText": "It is nice, but make sure to use a primer and setting powder. The first day I used it, I did not use a primer or setting powder and my face was soooo shiny and there were imprints on my phone. The color was a perfect match and I did not have to return for a different color. This is a super convenient makeup for everyday use but it is only medium coverage and does not have as much Color Correcting as I would like.",
+          "reviewDate": "Reviewed in the United States on February 25, 2026",
+          "customer": "Ginny",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFNWLZBENIANN6Y5QOFM5CGT4VYA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "01 Vanilla"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great for older skin",
+          "reviewText": "If you haven\u2019t tried this you need to! This cushion is great for older skin. I am 62 and I love the ease of the cushion and the pat pat pat and I am done. It feels great on my skin. Like I\u2019m not wearing a foundation. Stays on well in dry air, but tends to disappear after a few in high humidity. I have given it to a few of my friends and they all wished they would have tried it sooner.",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Karen naida",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHXKMPJCRS7R6AMPDHLKZGCQND5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Petal"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Slippery slimy",
+          "reviewText": "This foundation doesn\u2019t ever set, not even with setting spray. It just slips around. It feels like I\u2019m melting\u2026",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Mitch Quintanilla",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJHRAWYRTKNZ4RS7IHURBR2H4QQ",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "01 Vanilla"
+          }
+        },
+        {
+          "reviewTitle": "Great Foundation",
+          "reviewText": "I love this foundation. It is very lightweight and buildable. Every prestige brand I have used builds up in my pores, this foundation does not. It is long-lasting and wears well in the hot/dry climate that I live in. I have sensitive skin, and this foundation did not make me break out or develop a rash. I will buy this again.",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "i. gonzales",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEEKBFN3JWZBBYXOBWDWBMH5ZH5A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05 Sand"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Trust the process",
+          "reviewText": "Blends into my face just right. I thought it\u2019s going to be cakey at first but trust the process. I just put a small amount to test it. Nice coverage. Doesn\u2019t feel heavy on face.",
+          "reviewDate": "Reviewed in the United States on March 11, 2026",
+          "customer": "Tricia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF6ZSZBJW6YUXPF33QYKNSWBMTXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "01 Vanilla"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        }
+      ]
+    }
+  }
+}

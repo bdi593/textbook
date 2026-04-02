@@ -1,0 +1,320 @@
+{
+  "requestMetadata": {
+    "id": "3760d075-edf3-4f4b-8a42-1232fb57ff6d",
+    "status": "ok",
+    "html": "https://files.hasdata.com/3760d075-edf3-4f4b-8a42-1232fb57ff6d.html",
+    "json": "https://files.hasdata.com/3760d075-edf3-4f4b-8a42-1232fb57ff6d.json",
+    "url": "https://www.amazon.com/dp/B0G651K9S5"
+  },
+  "product": {
+    "asin": "B0G651K9S5",
+    "url": "https://www.amazon.com/dp/B0G651K9S5",
+    "title": "Hush Glow\u2122 Foundation Cushion SPF 30 \u2013 Skincare-Infused Lightweight Foundation with Mushroom Applicator for Mature Skin, Hyaluronic Acid & Peptides, Buildable Natural Coverage, Non-Cakey Finish-Warm",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Warm"
+    },
+    "featureBullets": [
+      "Made for Mature Skin (55\u201390+) Designed specifically for older women, this lightweight cushion foundation provides smooth, natural-looking coverage without settling into fine lines, mouth wrinkles, or textured skin.",
+      "Warm - Shade designed to blend seamlessly into light to medium or slightly tanned skin tones, providing a balanced, natural-looking result on mature skin.",
+      "Skincare-Infused Hydration - Formulated with hyaluronic acid to help attract and retain moisture, keeping mature and dry skin feeling soft, comfortable, and hydrated throughout the day.",
+      "Real-Life Filter Effect-Soft-focus pigments help blur the look of pores, uneven tone, and fine lines for a fresh, radiant finish that looks natural in real life\u2014not heavy or mask-like.. Peptide Comfort Formula No Cakey Feel-Peptides help support smoother, firmer-looking skin while the breathable formula remains lightweight, flexible, and comfortable with no cracking or creasing.",
+      "SPF 30 + Easy Cushion Application-Provides daily SPF 30 sun protection. The mess-free cushion compact with soft mushroom applicator allows quick, even application\u2014no brushes, no primer needed."
+    ],
+    "boughtInPastMonth": "800+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0G5Z7BDS1",
+        "title": "Ivory",
+        "url": "https://www.amazon.com/dp/B0G5Z7BDS1",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zc5BrJv-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G5ZBXP5W",
+        "title": "Brunet Brown",
+        "url": "https://www.amazon.com/dp/B0G5ZBXP5W",
+        "imageUrl": "https://m.media-amazon.com/images/I/614kSey1uJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G5ZPSBTB",
+        "title": "Deep Mocha",
+        "url": "https://www.amazon.com/dp/B0G5ZPSBTB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zCIAl8+nL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G651K9S5",
+        "title": "Warm",
+        "url": "https://www.amazon.com/dp/B0G651K9S5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61oMLRoDubL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "CAD",
+      "currentPrice": 59.93
+    },
+    "deliveryRawDate": "Saturday, April 4",
+    "deliveryIsoDate": "2026-04-04T00:00:00.000Z",
+    "deliveryPriceMessage": "CAD\u00a09.72",
+    "returns": "30-day refund / replacement",
+    "seller": "Hush Glow12",
+    "sellerUrl": "https://www.amazon.com/sp?seller=APXEQMXQFLGV5",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61oMLRoDubL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61oMLRoDubL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/713PO622b0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81FZoEDwl3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Jn4ODGBLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mnavN5N2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81dakv7X2GL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813a0WUlLFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71VTPtC2VJL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cd8644e6-db80-4700-a864-208622c7d38b.__CR0,30,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b35d44bb-efb6-4cef-b22e-52e1aa44d276.__CR0,30,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2f5af899-eaa5-4f27-93ff-3be21011fbf3.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad77037b-d940-474c-8dc0-e42e866942f3.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2d9d55e7-faca-4f4a-ac78-08483331541a.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1cb8ad23-1bec-4d3f-8ec7-e200317e2bb0.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0cb4d54b-5304-4143-ac3c-81d2c5f33717.__CR0,30,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/10de5bc9-4e09-4f02-8321-a60c690ad5d9.__CR0,30,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb787a38-11e7-469c-ae35-8d035ddd63c7.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb787a38-11e7-469c-ae35-8d035ddd63c7.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2627907e-d16c-4dc3-bd2f-bd13e2a4f091.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a32192bf-3451-452d-8df0-1c2762da0908.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/25db872e-bebd-42e7-9a95-e743b2f28978.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e3e29024-b1d2-4bb3-b640-cd572799eb1e.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Mousse"
+      },
+      {
+        "key": "Color",
+        "value": "Warm"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Color Correction, Evening Skin Tone, Face, Spot Concealing"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Hush Glow"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Color Correction, Flawless, Hydrating, Radiant Finish, Ultraviolet Protection"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light, Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "UPC",
+        "value": "860014414718"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Hush Glow"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#9,268 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #102 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0G651K9S5"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "30 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable, Lightweight, Long Lasting, Transfer Resistant, Travel Size"
+      },
+      {
+        "key": "Contour Shade Undertone",
+        "value": "Cool, Neutral, Warm"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 39,
+      "rating": 3.4,
+      "starRates": {
+        "fiveStars": "45%",
+        "fourStars": "9%",
+        "threeStars": "13%",
+        "twoStars": "13%",
+        "oneStars": "20%"
+      },
+      "customersSay": "Customers find the foundation's quality good and appreciate its smoothness, with one mentioning it blurs wrinkles without caking in eye fine lines. However, the coverage receives mixed feedback, with one customer noting it doesn't work well on their skin. The application process also gets mixed reviews, with one customer finding it easy to use while another describes it as difficult to apply.",
+      "aspects": [
+        {
+          "aspect": "Smoothness",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 5,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 7,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 5,
+          "status": "mixed"
+        }
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "At 76 yrs old, I\u2019ve finally found the perfect makeup.",
+          "reviewText": "I\u2019ve been waiting to write a review until I was 100% sure of the product. I\u2019ve written many reviews for products I have bought & use from Amazon & I write reviews sometimes because I buy products on Amazon based on reviews. For anyone wondering about Hush Glow Foundation I can honestly say it is the absolute BEST foundation makeup I have ever used & I\u2019m 76 years old so I\u2019ve tried a lot! I have been so, so pleased with everything about it\u2026from the way it\u2019s designed to be applied, to the lightweight coverage, to how it blurs wrinkles & at 76 I have wrinkles, but this minimizes mine. I will never be without this foundation & have now thrown away the 4 different foundations I have bought in the last 1 1/2 years. I am thrilled with Hush Glow & have finally stopped looking for the \u201cperfect foundation\u201d, I FOUND IT!!!",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "JN",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG7UO4EC2CABZQ3Z7Q4IE4M6345Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Ivory"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Not worth the money!",
+          "reviewText": "Still shows lines on my Face. I bought a concealer for $4 from Temu and it is sooo perfect. Yes it took like 3-4 weeks to come but I ordered 5 of them. They worked perfectly n do not sink in lines on my face!",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "Diane",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFFQHMHZUZKP3OWDH6SVVECMNZEA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Warm"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great for mature skin!",
+          "reviewText": "I LOVE LOVE LOVE this foundation. I put on serum and moisturizer every day and when I put on this foundation I finally get that dewy look! My skin is very dry so this has been a game changer and so easy to apply! Only negative is that the paper filter thing that has the holes in it so you can just tap the applicator and put on your face - it came loose and now there's a ripple in the paper so it comes out in small blobs in that area. I would post a photo but I'm not good with technology.",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Pedro",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGIY3EXCJZI6UASPODHVJ5ZOUSTQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Warm"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Defective Packaging",
+          "reviewText": "After first use, the membrane cover separated and then the plastic cover came apart. The product itself is good. Color was a match, but difficult to use due to the defective packaging. For the price, I would hesitate to repurchase.",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "John K.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG47IYG7KWTZWKLM7MBHQ5NVG27Q",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "Warm"
+          }
+        },
+        {
+          "reviewTitle": "Disappointed",
+          "reviewText": "I was really excited to try this foundation because of all the good reviews, but unfortunately it didn\u2019t work well on my skin. I found it caked up on me and didn\u2019t look smooth at all, even when applied lightly. It does smell nice but just not right for me.",
+          "reviewDate": "Reviewed in the United States on March 7, 2026",
+          "customer": "Big Yanni fan",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFLMQXXZL5AL6TZV3BRIC7QALGYA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Warm"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good coverage for fast application",
+          "reviewText": "I like the product but not the sponge. Hard to get into tight areas of the face & blend.",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Lynn P",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFT3SH2H73KDBDJW357GXXFCYCBQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Brunet Brown"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great lightweight coverage.",
+          "reviewText": "Great coverage. Feels silky smooth without greasy build up. Looks smooth without caking in eye fine line. It's so lightweight but has complete coverage. I recommend this product.",
+          "reviewDate": "Reviewed in the United States on March 25, 2026",
+          "customer": "Cindy Proctor",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE5I43BHVPFKUOETLAHWIAZSAANA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Ivory"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Face looks clean and rejuvenated. i guess the wrinkles gotta stay",
+          "reviewText": "I felt like a geisha girl. And 3 hours later worse than before. Anyone who has serious wrinkle problem, this is not the miracle in the jar! So disappointed",
+          "reviewDate": "Reviewed in the United States on March 1, 2026",
+          "customer": "daniarizona",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEKIOUWDEYS4FTDHWYP5LAOTQDCA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Brunet Brown"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        }
+      ]
+    }
+  }
+}

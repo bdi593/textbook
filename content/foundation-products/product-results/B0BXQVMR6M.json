@@ -1,0 +1,457 @@
+{
+  "requestMetadata": {
+    "id": "381ef6d8-e9d1-49e2-9dc2-662e333972c0",
+    "status": "ok",
+    "html": "https://files.hasdata.com/381ef6d8-e9d1-49e2-9dc2-662e333972c0.html",
+    "json": "https://files.hasdata.com/381ef6d8-e9d1-49e2-9dc2-662e333972c0.json",
+    "url": "https://www.amazon.com/dp/B0BXQVMR6M"
+  },
+  "product": {
+    "asin": "B0BXQVMR6M",
+    "url": "https://www.amazon.com/dp/B0BXQVMR6M",
+    "title": "7-Day Set, Erase All Makeup with Just Water, Including Waterproof Mascara, Eyeliner, Foundation, Lipstick, Sunscreen, and More! 7ct",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Dewy Glow",
+      "size": "7 Count (Pack of 1)"
+    },
+    "featureBullets": [
+      "MAKEUP REMOVER CLOTH - Say goodbye to skin drying alcohol and astringent makeup removers and say hello to a fresh, clean face with the help of the MakeUp Eraser 7 day face pad set!",
+      "JUST WATER! - Erase ALL makeup with JUST water! Including waterproof mascara, eyeliner, foundation, lipstick, & more! This MakeUp Eraser is an effective and eco-friendly alternative to disposable makeup wipes, which can be harmful to the environment.",
+      "DUAL SIDED - Double-sided to erase makeup with the short fiber side & exfoliate your skin with the long fiber side (side with tag). This dual-purpose design makes the MakeUp Eraser a versatile tool for your skincare routine.",
+      "SKIN CARE MAGIC - Ultra soft and non-drying! This MakeUp Eraser cleansing mini set is made of soft and gentle materials that are safe for all skin types, even sensitive skin.",
+      "GENTLE MICROFIBER - Free of alcohol, oils, astringents, parabens, fragrances, & sulfates. This MakeUp Eraser is free of ingredients that can irritate or damage your skin, making it a safe and effective choice for makeup removal."
+    ],
+    "boughtInPastMonth": "600+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Makeup Remover",
+      "Makeup Cleansing Wipes"
+    ],
+    "variants": [
+      {
+        "asin": "B0CDNHHB2Z",
+        "title": "Cool Gal Neutrals 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CDNHHB2Z",
+        "imageUrl": "https://m.media-amazon.com/images/I/71hLwTr2WDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BXQVMR6M",
+        "title": "Dewy Glow 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BXQVMR6M",
+        "imageUrl": "https://m.media-amazon.com/images/I/71ZFqIk+ZuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DXW48JW3",
+        "title": "Farmers Market 7ct",
+        "url": "https://www.amazon.com/dp/B0DXW48JW3",
+        "imageUrl": "https://m.media-amazon.com/images/I/711Y-VJKn7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CDNT7Z36",
+        "title": "Eat Your Greens Neutrals 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CDNT7Z36",
+        "imageUrl": "https://m.media-amazon.com/images/I/71utmsOusML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C881HBD4",
+        "title": "Sip Happens 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0C881HBD4",
+        "imageUrl": "https://m.media-amazon.com/images/I/81aQLvTKGGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D7QTQD91",
+        "title": "Mocha 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0D7QTQD91",
+        "imageUrl": "https://m.media-amazon.com/images/I/717VkqEdlCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DF41WX57",
+        "title": "Sweet Cream 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DF41WX57",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+MpJ0GtkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DCLH22QY",
+        "title": "Hot Cocoa 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DCLH22QY",
+        "imageUrl": "https://m.media-amazon.com/images/I/81bBlGdksqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09GFXV538",
+        "title": "Original Pink 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09GFXV538",
+        "imageUrl": "https://m.media-amazon.com/images/I/81XuDuAJbqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DCL51HCH",
+        "title": "Silver Infused 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0DCL51HCH",
+        "imageUrl": "https://m.media-amazon.com/images/I/71q51h2UUDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BXQYHP81",
+        "title": "Sunset Boulevard 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0BXQYHP81",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ertZXcQaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CDNBRYXQ",
+        "title": "Sweet Cheeks Neutrals 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CDNBRYXQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71osNH5j-6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09KDW6TZN",
+        "title": "Neutrals 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B09KDW6TZN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Vf5WxGsKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08KB3DVWN",
+        "title": "Chic Black 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B08KB3DVWN",
+        "imageUrl": "https://m.media-amazon.com/images/I/71HpAVo4UlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0GHDCTXQY",
+        "title": "Chic Black 7 Count (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0GHDCTXQY",
+        "imageUrl": "https://m.media-amazon.com/images/I/71G45mPvXhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CZW6H4N6",
+        "title": "Recycled Green 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CZW6H4N6",
+        "imageUrl": "https://m.media-amazon.com/images/I/81iQkj98+lL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0B359Q54V",
+        "title": "Queen Purple 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0B359Q54V",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Pc-CxPj5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CKTJLQS7",
+        "title": "Plant Power 7 Count (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CKTJLQS7",
+        "imageUrl": "https://m.media-amazon.com/images/I/6130+eqiN+L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 25,
+      "beforePrice": 25
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Original MakeUp Eraser",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AWJNLL76KUMFX",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/71ZFqIk+ZuL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71ZFqIk+ZuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ryhNip5GL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/814+94eerXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91FQfn5+4OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81RnmO7TRGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81hjg0TEVWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81te7KY1hnL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac7c36fc-2fb7-460a-9338-08fbdd653a3f.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a1c80c12-a8e8-4e11-92e2-03f7b7f9ab48.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/62aeb25d-e607-49ec-b756-5d49ae6c8bf1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6af4b32f-d981-4c7f-906d-222a213b6552.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/97f08488-9f43-4656-ad06-d441859b0882.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e933aea-68bc-4935-84c5-5f9d70c0b310.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e9d96280-62a1-4be0-94d9-d1f2ca401639.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ead7c4e9-2355-4163-b1a4-90ef5dac843d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/05ce3406-e81f-4eab-9b74-c8641ce2001f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9551051f-6c07-4d98-a424-ad9891444a23.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7ebf641-08a0-4482-a1d6-3d1f3e270dc1.__CR0,75,1200,1350_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38f1dbe0-2279-4af6-af56-11f9fa0a84f6.__CR67,0,1067,1200_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/78fc7456-062f-49b5-bb3f-051bbb63d2cc.__CR275,0,4406,4957_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3513ff3e-af3c-4bf3-b510-d27044266485.__CR0,75,1200,1350_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a07b02a-cd4c-475b-8c29-92e5c568676b.__CR111,0,1778,2000_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b534b91-e250-4870-bd71-ef5c08d9c7b5.__CR111,0,1778,2000_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3bb1588c-517b-46a0-9e09-6981b1eae1c0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3bb1588c-517b-46a0-9e09-6981b1eae1c0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4c121241-8908-4f51-89b8-1686d4fe99e1.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/54e86d7f-e73a-48ce-b0b1-a7bd1057b6e3.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7843d8c3-49cd-4347-9793-e7e92aaf297c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e5d0ca8d-b923-4cc5-b38f-44806092d976.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Color",
+        "value": "Dewy Glow"
+      },
+      {
+        "key": "Product Style",
+        "value": "Dewy Glow"
+      },
+      {
+        "key": "Pattern",
+        "value": "Striped"
+      },
+      {
+        "key": "Shape",
+        "value": "Round"
+      },
+      {
+        "key": "Brand Name",
+        "value": "MakeUp Eraser"
+      },
+      {
+        "key": "Number of Items",
+        "value": "7"
+      },
+      {
+        "key": "UPC",
+        "value": "840237601959"
+      },
+      {
+        "key": "Model Name",
+        "value": "SKIN CLEANING WIPE"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Makeup Eraser"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "RT7DDWYG01"
+      },
+      {
+        "key": "Model Number",
+        "value": "RT7DDWYG01"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "Makeup Eraser"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,508 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #9 in Makeup Cleansing Wipes"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BXQVMR6M"
+      },
+      {
+        "key": "Material Type",
+        "value": "Soft, Unique Fabric"
+      },
+      {
+        "key": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "key": "Fabric Type",
+        "value": "Polyester"
+      },
+      {
+        "key": "Item Dimensions L x W",
+        "value": "7.09\"L x 3.62\"W"
+      },
+      {
+        "key": "Size",
+        "value": "7 Count (Pack of 1)"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Count"
+      },
+      {
+        "key": "Towel Form Type",
+        "value": "Washcloth"
+      },
+      {
+        "key": "Other Special Features of the Product",
+        "value": "Waterproof"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 3310,
+      "rating": 4.6,
+      "starRates": {
+        "fiveStars": "80%",
+        "fourStars": "11%",
+        "threeStars": "5%",
+        "twoStars": "2%",
+        "oneStars": "2%"
+      },
+      "customersSay": "Customers find these makeup erasers effective at removing makeup with just water, particularly eye makeup, and appreciate that they work well even on waterproof mascara. The towels are soft, gentle on skin, especially around sensitive areas, and can be easily washed and dried. Customers consider them worth the price, noting they save money compared to disposable pads. While customers like the size for travel, some mention they're too small to remove a full face of makeup.",
+      "aspects": [
+        {
+          "aspect": "Makeup removal",
+          "count": 340,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 202,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 149,
+          "status": "positive"
+        },
+        {
+          "aspect": "Softness",
+          "count": 132,
+          "status": "positive"
+        },
+        {
+          "aspect": "Gentle",
+          "count": 96,
+          "status": "positive"
+        },
+        {
+          "aspect": "Washability",
+          "count": 96,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 72,
+          "status": "positive"
+        },
+        {
+          "aspect": "Size",
+          "count": 108,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/818b+qxKC7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71By1Ck6ysL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81X8dBxM6QL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81YDNF8xmcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71c+ZYPqw-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71kjQ0JhXZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71kUtNI2G-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71vdvm6kC-L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71QUx-ZrrBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81mI-F0DcWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BFqfVJgDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Ri3GyuEbL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "An essential!",
+          "reviewText": "I love my makeup erasers! I keep a full set of these in my bathroom as well as some stashed in my toiletry bag that goes on all my trips, my duffle bag, suitcase, and travel backpack, and plan to hide one in my purse as soon as I get a small waterproof case for it! Onto the goodness! These babies are absolutely rad! I\u2019m allergic to a ton of products, which means a lot of makeup removing wipes and products are no-goes for me. These guys are soft and non-abrasive and with just water are able to remove even my waterproof mascaras and eyeliners! And while they work great with water, they also do work great combined with the gentle cleansers I am able to use as well! These come with a mesh laundry bag, and with a quick trip through the washer they have always been as good as new again for me. I have only ever had one of my make up erasers stain, and that is one that I have used fairly exclusively to clean up foundation and other product off of my bottles as well as to clean up bigger makeup spills (and in its defense, it cleaned my bottles up well as well as hotel counters and is only a bit stained, and may have cleaned up better if I washed it immediately instead of leaving it to sit and dry.) These are a pack of the mini makeup erasers. I have only ever owned one full size eraser, and continued to buy the minis after that. I have never felt I personally needed the full sized erasers, and the minis work well for my needs. That said, I typically only wear a light face of makeup, and the mini size removes that well. If you wear a full, heavy face of makeup, you may find that you do want the larger size as you will be removing and getting more product onto it. (I do have family that wear more makeup than I do, and they use the minis as well, though ymmv.) I like to pop mine back into the original box after laundering, and in the mesh bag once they\u2019re wet and need to dry and go into the laundry. A friend buys extra mesh bags and keeps one clean bag and one for laundry and I\u2019m thinking of trying that method and thought I\u2019d share! All in all, these are top tier. I literally use these even just to wash my face with on days I don\u2019t wear makeup. And as said, these literally live both in my bathroom, my toiletry bag, and in all my travel bags (and are such a convenient size for tucking into all those bags) and I plan to stash one in my purse too! They are literally the best. I not only recommend them to others, I have bought them for friends and family alike as gifts!",
+          "reviewDate": "Reviewed in the United States on January 28, 2026",
+          "customer": "Amazon Reviewer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHV3W4HE4LG7QFOUOLRFMAKAUJDA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dewy Glow",
+            "size": "7 Count (Pack of 1)"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great Quality",
+          "reviewText": "These work great. I hated using the \"oil\" type removers on my eyes. I always felt like my vision was a little blurry after. These take off everything. Eyeliner, mascara, etc. They are soft and when I travel, easy to pack away. I have washed them many times with no stains remaining from previous use.",
+          "reviewDate": "Reviewed in the United States on January 26, 2026",
+          "customer": "Christine",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEITJJL4VV6PXBOFOHIVFLVAYDRQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Dewy Glow",
+            "size": "7 Count (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Magic Makeup Eraser",
+          "reviewText": "Love this product! All you need is the eraser and water. It really does remove the makeup. Easily! I have gone these as gifts! They are soft- does NOT scratch your skin or eyelids. They last a long time and are machine washable.",
+          "reviewDate": "Reviewed in the United States on February 27, 2026",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEYB3TDDXJC2DGIC5BUUNZ4XWMRA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Chic Black",
+            "size": "7 Count (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Can't believe it but these ACTUALLY work and eliminate plastic waste!",
+          "reviewText": "I was so skeptical that a cute little rectangle of fabric - luxuriously soft, velvety fabric - would remove my 3-coat mascara application with just hot water and a bit of gentle rubbing. BUT IT DID! I'm super impressed by these little make-up remover cloths. I first tried one with a full face of makeup, and they are a bit too small for that purpose, but they did remove nearly all of my mascara. I had a little smudge under the eye afterwards, but I think I might just not have gone back over that area well enough. My goal over the last few years has been to eliminate as many single-use items - especially plastics - that I can. I had replaced disposable cotton face pads for eye make-up remover with washable bamboo ones, but they irritated the skin of my eyes after a few days in a row and were a bit of a pain to wash, honestly. I also had to use an eye make-up remover, and my favorite one comes in a plastic bottle. So I wanted to try these cloths with water in an effort to eliminate one more product with plastic from my life and also the hassle of cleaning white reusable face pads each week. (One can imagine - they aren't white anymore! I bought the black make-up eraser cloths, so they won't show!) I always wash my face with cleanser after removing eye make-up, so these are the perfect size and shape for that function. When I used one to start taking make-up off of my full face, I did find these to be too small for that purpose. I was able to rotate the cloth around, but once you've used one area, it really won't do as well to try to re-use it. The whole surface is one-time-only use and then wash. Since I only wear a full face of make-up usually once/week, I probably can get away with using two clothes that day, and one for each day where I wear only mascara. YMMV, but I recommend trying the larger (original) size if your goal is to remove a full face of make-up each time. Super soft, fragrance free, no cleanser needed, and absolutely effective - what more can I ask for??",
+          "reviewDate": "Reviewed in the United States on August 9, 2023",
+          "customer": "Frugal Momma & Coder",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFEHKOUCLQYT5PDQLKGGXGK5RRKQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Chic Black",
+            "size": "7 Count (Pack of 1)"
+          },
+          "helpfulVotes": "122 people found this helpful"
+        },
+        {
+          "reviewTitle": "Pamper your face and environmentally contribute to less waste!",
+          "reviewText": "I like the erasers but wish they were a bit larger. They are soft, clean my face well but sometimes I wish there was more cloth to clean my neck. I have only washed them once, so not sure how they will fair as time goes on but I'm hoping they last awhile. I love that I'm saving on disposable face wipes and not filling the dumps with more waste! My skin has been pleased too!",
+          "reviewDate": "Reviewed in the United States on November 21, 2025",
+          "customer": "Savvy Shopper",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFK6FEK4GXTOLGAJXRET4GECBBYQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Sweet Cheeks Neutrals",
+            "size": "7 Count (Pack of 1)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wonderful alternative to face cloths for me and my houseguests.",
+          "reviewText": "Far superior than washcloths for the face. And the size is much more appropriate than the standard washcloth size normally used on the face. One is a soft side and the other more of an exfoliant. They go through the laundry real well and come out fresh, free of mascara/liner and seem to last for years. I now take them on trips rather than use some of the standard hotel facecloths. I found them when they were placed for guest use at a nice guesthouse.",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "L Dove",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHC3OPWQ2UEKDH6OUDG3TDXWV27Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Neutrals",
+            "size": "7 Count (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great to remove eye makeup",
+          "reviewText": "This is great to remove eye makeup easily and completely without any leftovers",
+          "reviewDate": "Reviewed in the Netherlands on March 4, 2026",
+          "customer": "J",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Original Pink",
+            "size": "7 Count (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}

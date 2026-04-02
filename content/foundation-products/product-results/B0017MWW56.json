@@ -1,0 +1,198 @@
+{
+  "requestMetadata": {
+    "id": "df7b3dee-0b99-4eb2-b2b9-3c32b7e37de5",
+    "status": "ok",
+    "html": "https://files.hasdata.com/df7b3dee-0b99-4eb2-b2b9-3c32b7e37de5.html",
+    "json": "https://files.hasdata.com/df7b3dee-0b99-4eb2-b2b9-3c32b7e37de5.json",
+    "url": "https://www.amazon.com/dp/B0017MWW56"
+  },
+  "product": {
+    "asin": "B0017MWW56",
+    "url": "https://www.amazon.com/dp/B0017MWW56",
+    "title": "Dermablend Cover Cr\u00e8me Full Coverage Foundation Makeup, Hydrating Cream Concealer for Dark Circles and Blemishes, Maximum Coverage with Mineral Sunscreen SPF 30, 1 OZ",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "25N Natural Beige: For light skin with warm/yellow undertones"
+    },
+    "featureBullets": [
+      "Full coverage, natural finish",
+      "Creamy texture, never cakey or masky",
+      "Smudge and transfer-resistant wear for up to 16 hours when set with Dermablend Setting Powder",
+      "Repairs & strengthens the skin barrier"
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0017MWW56",
+        "title": "25N Natural Beige: For light skin with warm\\/yellow undertones",
+        "url": "https://www.amazon.com/dp/B0017MWW56",
+        "imageUrl": "https://m.media-amazon.com/images/I/714jwUquzUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0017MZ0T6",
+        "title": "30W Yellow Beige",
+        "url": "https://www.amazon.com/dp/B0017MZ0T6",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Bzuj9XCjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001UGAFZI",
+        "title": "40W Caramel Beige: For medium skin tones with a neutral undertone",
+        "url": "https://www.amazon.com/dp/B001UGAFZI",
+        "imageUrl": "https://m.media-amazon.com/images/I/71VchXJCsrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0017N2EBC",
+        "title": "80W Chocolate Brown: For deep skin with warm undertones with a hint of red brown",
+        "url": "https://www.amazon.com/dp/B0017N2EBC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61XbJn9jAUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0017N2DRC",
+        "title": "10N Warm Ivory: For fair skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0017N2DRC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71TEauGoGbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07VWVN5JX",
+        "title": "15C Cool Beige: For fair skin with cool undertones",
+        "url": "https://www.amazon.com/dp/B07VWVN5JX",
+        "imageUrl": "https://m.media-amazon.com/images/I/7154auppmZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0017N0P8Q",
+        "title": "90N Deep Brown: For very deep skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B0017N0P8Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/71gd-YdAHGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0017MWW24",
+        "title": "30N Sand Beige: For light skin with neutral undertones with a hint of yellow",
+        "url": "https://www.amazon.com/dp/B0017MWW24",
+        "imageUrl": "https://m.media-amazon.com/images/I/71pmpyYkmwL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0017N2EA8",
+        "title": "70N Toasted Brown: For deep skin with neutral undertones wih a hint of bronze",
+        "url": "https://www.amazon.com/dp/B0017N2EA8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bcqxiNnPL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00014GT78",
+        "title": "10C Rose Beige: For fair skin with cool\\/pink undertones",
+        "url": "https://www.amazon.com/dp/B00014GT78",
+        "imageUrl": "https://m.media-amazon.com/images/I/71O0jKo44KL._SL1500_.jpg"
+      },
+      {
+        "asin": "B001AC1UTW",
+        "title": "70W Olive Brown: For tan to deep skin with warm undertones and a hint of bronze",
+        "url": "https://www.amazon.com/dp/B001AC1UTW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61cAeOYxdWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0017MZ190",
+        "title": "75W Golden Brown: For deep skin with warm undertones",
+        "url": "https://www.amazon.com/dp/B0017MZ190",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bDMP1HWlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00178T4EW",
+        "title": "0C Pale Ivory: For fair skin with cool undertones",
+        "url": "https://www.amazon.com/dp/B00178T4EW",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Tzga8clUL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00014GT8W",
+        "title": "35C Medium Beige: For medium skin with very cool undertones",
+        "url": "https://www.amazon.com/dp/B00014GT8W",
+        "imageUrl": "https://m.media-amazon.com/images/I/71px6lT5tuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0014UCSVY",
+        "title": "50C Honey Beige: For tan skin with cool undertones",
+        "url": "https://www.amazon.com/dp/B0014UCSVY",
+        "imageUrl": "https://m.media-amazon.com/images/I/710L1eiJEmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0017N2E12",
+        "title": "40N Golden Beige: For medium skin tones with warm undertones with a hint of yellow",
+        "url": "https://www.amazon.com/dp/B0017N2E12",
+        "imageUrl": "https://m.media-amazon.com/images/I/71+XpB+pnpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07VXV41QX",
+        "title": "35W Tawny Beige: For medium skin tones with warm undertones",
+        "url": "https://www.amazon.com/dp/B07VXV41QX",
+        "imageUrl": "https://m.media-amazon.com/images/I/71hRH27Y8nL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07VYY1RHM",
+        "title": "45W Hazelnut Beige: For medium-tan bronzed skin tones with warm undertones",
+        "url": "https://www.amazon.com/dp/B07VYY1RHM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71a7jLyEc8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B001AC1UNS",
+        "title": "60N Caf\u00e9 Brown: For tan skin with neutral undertones",
+        "url": "https://www.amazon.com/dp/B001AC1UNS",
+        "imageUrl": "https://m.media-amazon.com/images/I/71vDIx0OvuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00014GTPK",
+        "title": "65W Golden Bronze: For tan skin with warm undertones and a hint of bronze",
+        "url": "https://www.amazon.com/dp/B00014GTPK",
+        "imageUrl": "https://m.media-amazon.com/images/I/71QwKJouYnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07VXV5MQ9",
+        "title": "20W Cashew Beige: For fair skin with warm undertones",
+        "url": "https://www.amazon.com/dp/B07VXV5MQ9",
+        "imageUrl": "https://m.media-amazon.com/images/I/71QMAmqna6L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 35.7,
+      "beforePrice": 42,
+      "discount": "-15%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 1 hr 34 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/714jwUquzUL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/714jwUquzUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91L5KVCKtjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81r-d2YR63L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/915RpF7EI1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Z0oj6kUHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+R6BwbkeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91W2rR4XLKL._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 10262,
+      "rating": 4.3
+    }
+  }
+}

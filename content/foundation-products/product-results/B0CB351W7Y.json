@@ -1,0 +1,389 @@
+{
+  "requestMetadata": {
+    "id": "701b8765-e71c-40ba-8644-38311a22fe55",
+    "status": "ok",
+    "html": "https://files.hasdata.com/701b8765-e71c-40ba-8644-38311a22fe55.html",
+    "json": "https://files.hasdata.com/701b8765-e71c-40ba-8644-38311a22fe55.json",
+    "url": "https://www.amazon.com/dp/B0CB351W7Y"
+  },
+  "product": {
+    "asin": "B0CB351W7Y",
+    "url": "https://www.amazon.com/dp/B0CB351W7Y",
+    "title": "KIMUSE Baked Foundation - Brighten Color Correcting Powder Foundation for Mature Skin, Buildable Coverage, Radiant Natural Finish",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Natural Color"
+    },
+    "featureBullets": [
+      "BAKED FACE POWDER FOUNDATION-This baked balance-n-brighten color correcting foundation is hand-baked to provide natural color and ideal coverage to help you create the perfect canvas and natural, semi-matte finish.",
+      "BUILDABLE MEDIUM COVERAGE EFFECT-Medium coverage powder foundation has a lightweight, buildable formula that provides neutral warmth in varying intensities, and the buildable coverage allows you to customize your glow.",
+      "SELF-ADJUSTING MATCHING SKIN TONE PIGMENTS-Natural mineral baked foundation has a smooth texture that feels comfortable on the skin, applies smoothly and blends easily without breaking down, caking or clogging pores. Medium coverage and long-lasting formula maintains true color for hours for an even wear.",
+      "HOW TO USE-Use a sponge or brush to apply and blend the formula onto the skin, layering where needed until the desired level of coverage is achieved for a healthy glow creating a flawless finish in seconds.",
+      "VEGAN MAKEUP-This lightweight, buildable, multi-functional baked foundation for mature skin can be used as a foundation on its own or applied over liquid skin tone products to highlight, contour, bronze, and complete the perfect look."
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0FS1S9NYT",
+        "title": "Natural Color-Brush",
+        "url": "https://www.amazon.com/dp/B0FS1S9NYT",
+        "imageUrl": "https://m.media-amazon.com/images/I/81DukV+-YSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CB351W7Y",
+        "title": "Natural Color",
+        "url": "https://www.amazon.com/dp/B0CB351W7Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71km+Ygs0jL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.99,
+      "beforePrice": 9.99,
+      "discount": "-10%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Monday, April 6",
+    "deliveryIsoDate": "2026-04-06T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "TaiMei",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A111430OZE1DIO",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/71km+Ygs0jL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71km+Ygs0jL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Yx-Bn0e6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AWaIC7FVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81D3TkmKlML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cw9rUazjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81PgkmFSLGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Vx3ORbYKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819X-jBepsL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eca26f5f-6989-4304-a6f8-fefe9bce8cb8.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/35415e9b-17cc-4c40-95e8-33df0d07fd11.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3c26c634-b1c0-4115-acba-da17aeb8ad15.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a3401601-c268-455b-9e1c-bab831097b82.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6da7f07b-9943-4070-b1f4-bcabc8369091.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "Natural Color"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Oily, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Indoor & Outdoor"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "KIMUSE"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Tan"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Lightweight"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "KIMUSE"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#31,936 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #294 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CB351W7Y"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Not Tested On Animals"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Semi-Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.21 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.4 x 2.4 x 0.8 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 1492,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "54%",
+        "fourStars": "18%",
+        "threeStars": "12%",
+        "twoStars": "7%",
+        "oneStars": "9%"
+      },
+      "customersSay": "Customers find the foundation effective and appreciate its matte finish with a beautiful golden glow that blends perfectly with skin tone. The product is easy to apply, goes on smoothly, and customers consider it good value for money. While some customers report nice coverage, others mention little to no coverage, and the crease-free aspect receives mixed feedback - some say it makes skin look smooth while others disagree.",
+      "aspects": [
+        {
+          "aspect": "Effectiveness",
+          "count": 111,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin tone match",
+          "count": 85,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 65,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 55,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 52,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 47,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 122,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Crease-free",
+          "count": 52,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61kSEyGJjtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61gLmk5mmXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81TyxoNTm0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71OnaBAoJzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71VDMNxpWfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/618ttcoirwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/7145m+VUKrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81Ox9L9vRwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71RTpo5U-KL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71VUn2+b79L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61D9QK0s7cL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71c0Ky+OIZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Love this foundation!",
+          "reviewText": "This powder makes my skin look so smooth and bright! It feels super light and not cakey at all. The color blends nicely and gives a soft glow that looks natural, not heavy. I use it every day and it still looks great after a few hours. Totally worth it. I\u2019ll buy again for sure!",
+          "reviewDate": "Reviewed in the United States on November 12, 2025",
+          "customer": "Amy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEKHYGVI5YC6ANOSR3Q7A4RXAKQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color"
+          },
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "Still you.( just with a little \u201cveil\u201d over your skin.)",
+          "reviewText": "I needed a new foundation to better suit my skin. I like this brand and wanted to try to see if I liked the feel/look. I have worn the loose powder bare minerals. Loved it until it started to settle into lines. That was the only reference i had to compare powder foundation wise. This foundation feels nice. It\u2019s soft textured. Not an \u201cunrecognizable\u201d look foundation for those who expect that. Not a cover, more like a veil to smooth and even. I love that. Small amount but it\u2019s appropriate for price. Will probably not last long. Did not feel dry or too wet on. I wear the color sticks by same brand and they went on well. Helped cut the smearing that all liquid and no powder was giving my skin. I will buy again. Love for everyday. I however will probably buy a similar product that gives more cover for special occasion /events.",
+          "reviewDate": "Reviewed in the United States on June 2, 2025",
+          "customer": "Dwayn R.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHUL5N63O4B4B5UA5DZFDQUATKSQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Natural Color"
+          },
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Nice product at a reasonable price.",
+          "reviewText": "I like it. Surprisingly it goes on easy and looks good. Not a heavy coverage, but you can continue to add more to cover up spots. However, it didn\u2019t cover my spots totally, but it made them lighter. It has a little sparkle in it and I would prefer none. But I\u2019m still going to use. Would recommend.",
+          "reviewDate": "Reviewed in the United States on August 24, 2025",
+          "customer": "Sandra",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFVGAHJTQ5VB3ZH33FN2BEENVGQA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color"
+          },
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Dubious of coverage or claims",
+          "reviewText": "I am skeptical about this powder foundation. I simply cannot see a difference in my skin tone or appearance after I use it. I have many dark spots from overexposure to the sun during my 53 years on this planet, and I can still see them quite clearly through the foundation. I'm unsure if it's only supposed to blur and even tone -- which again, I cannot see that is happening -- or if it's supposed to provide coverage of those unwanted areas. Maybe someone can tell me how to better use it?",
+          "reviewDate": "Reviewed in the United States on June 19, 2025",
+          "customer": "Tina G.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFWZ2OXQQ7O4XM6KDQ3TRLLF24RQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Natural Color"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Great blend",
+          "reviewText": "I was honestly surprised by this foundation! It feels silky, not chalky, and gives a nice natural glow without settling into lines. Coverage is light to medium, perfect for mature skin or everyday wear. I just make sure to use a good moisturizer first so it blends smoothly. Great affordable find!",
+          "reviewDate": "Reviewed in the United States on October 28, 2025",
+          "customer": "Karessa Randall",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH4QX6NZL7CBHMQLGDRSK6NXHTEA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color"
+          },
+          "helpfulVotes": "13 people found this helpful"
+        },
+        {
+          "reviewTitle": "Natural look.",
+          "reviewText": "I have pretty sensitive and a bit oily skin. This works amazingly! Light weight so I don\u2019t feel like my face has been painted. It just gives me a nice even color in a very natural way. I\u2019m quite pail but this blend works well. It hold up all day. Certainly a keeper and something I will continue to buy. I wish they would bring the blush back because I love that too!",
+          "reviewDate": "Reviewed in the United States on December 11, 2025",
+          "customer": "Weston J. Jones",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4QN3YDW4CKF7QVXP57BYOIO2NQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color"
+          },
+          "helpfulVotes": "7 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not that great.",
+          "reviewText": "It doesn\u2019t really cover anything. Not that great. I had my hopes up.",
+          "reviewDate": "Reviewed in the United States on February 25, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFWKQWO2JFSRYJH5U77JAVFDY63A",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "color": "Natural Color-Brush"
+          }
+        },
+        {
+          "reviewTitle": "Good product",
+          "reviewText": "Coverage is nice and natural looking",
+          "reviewDate": "Reviewed in the United States on February 25, 2026",
+          "customer": "Melanie S.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH35PPCGLOSXA22PKJY6OV4GGOFQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Natural Color"
+          }
+        },
+        {
+          "reviewTitle": "Great product",
+          "reviewText": "Lovely on mature skin and perfect match to skin. No dryness and didn't sit in fine lines. Definitely recommend as an alternative to liquid foundation and high end products.",
+          "reviewDate": "Reviewed in the United Kingdom on November 4, 2025",
+          "customer": "elizabeth mann",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color"
+          }
+        },
+        {
+          "reviewTitle": "Value for money",
+          "reviewText": "I am really happy with this product. It stays on all day even though I sweat a lot in the heat. I would definitely buy it again.",
+          "reviewDate": "Reviewed in Spain on August 29, 2025",
+          "customer": "Cliente Amazon",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color"
+          }
+        },
+        {
+          "reviewTitle": "Great option for when you don\u2019t want to apply foundation",
+          "reviewText": "This product was very inexpensive so I thought I\u2019d try it instead of spending 50$ on another ( I see you Laura Geller) brand. I moisture with a cream that has spf 30, apply concealer under eyes then apply this powder with a makeup brush. Then I apply a shimmery cream blush and honestly it looks great. I\u2019m of a certain age and it doesn\u2019t set into small lines. Nice light natural looking coverage, perfect for day wear. The amount you receive isn\u2019t a lot but I\u2019ve been using it for about 6 months and I\u2019ve barely made a dent in the container. Product has No odour and no irritation to my skin",
+          "reviewDate": "Reviewed in Canada on August 23, 2024",
+          "customer": "Ozzie the Malshi",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color"
+          }
+        },
+        {
+          "reviewTitle": "Fantastic product wonderful on older skin",
+          "reviewText": "Does what it says lovely light natural coverage not cakey.",
+          "reviewDate": "Reviewed in France on September 1, 2025",
+          "customer": "Lilian",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Natural Color"
+          }
+        }
+      ]
+    }
+  }
+}

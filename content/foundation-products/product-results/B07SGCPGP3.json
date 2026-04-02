@@ -1,0 +1,69 @@
+{
+  "requestMetadata": {
+    "id": "c99188ab-7deb-4dcb-bbd6-4e6da5a9c5e1",
+    "status": "ok",
+    "html": "https://files.hasdata.com/c99188ab-7deb-4dcb-bbd6-4e6da5a9c5e1.html",
+    "json": "https://files.hasdata.com/c99188ab-7deb-4dcb-bbd6-4e6da5a9c5e1.json",
+    "url": "https://www.amazon.com/dp/B07SGCPGP3"
+  },
+  "product": {
+    "asin": "B07SGCPGP3",
+    "url": "https://www.amazon.com/dp/B07SGCPGP3",
+    "title": "KOSIMI 30ml TLM Color Changing Foundation Liquid Base Makeup Change To Your Skin Tone By Just Blending, white",
+    "isAvailable": true,
+    "featureBullets": [
+      "\u3010Unique Formula\u3011Our unique color-matching formula protects and moisturises the skin as it works to even out your complexion. It lightweight and quickly absorbs onto the skin without any dryness or caking",
+      "\u3010 Contain SPF 15 sun protection\u3011This foundation contain SPF 15 sun protection to shield your skin from harmful UVA and UVB rays. It is designed for daily use and will give your skin that illuminating silky finish other foundations just don\u2019t provide",
+      "\u3010Match your EXACT skin tone\u3011Flawlessly Colour Changing Foundation is a revolutionary new liquid foundation that goes on white and instantly self-adjusts to match dull faces tone,exact skin tone,natural looking color in your perfect shade",
+      "\u3010For Daily Use\u3011It is designed for daily use and will give your skin that illuminating silky finish other foundations just don\u2019t provide.It is suitable for groups with more loosed facial skin",
+      "\u3010Quality After-Sales Service\u3011Each person's skin is different, use the effect may have a small difference.But please don\u2019t worry we have excellent customer service team.If you have any questions about our products, please feel free to contact us"
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 8.99,
+      "beforePrice": 8.99,
+      "discount": "-5%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "KOSIMI",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A18Q8OWUP0UIBX",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/71J8kO-IcDL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71J8kO-IcDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61sRaoJylrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51VzA53lQeL.jpg",
+      "https://m.media-amazon.com/images/I/51KiaM0L75L.jpg",
+      "https://m.media-amazon.com/images/I/310gVuTBk6L.jpg",
+      "https://m.media-amazon.com/images/I/51+Fk9KC5-L.jpg",
+      "https://m.media-amazon.com/images/I/61rO+DMYRbL._SL1000_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 4900,
+      "rating": 3.9
+    }
+  }
+}

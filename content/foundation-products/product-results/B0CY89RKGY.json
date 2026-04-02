@@ -1,0 +1,350 @@
+{
+  "requestMetadata": {
+    "id": "0b0f0965-7cfe-4a45-8c14-099592a9e5a9",
+    "status": "ok",
+    "html": "https://files.hasdata.com/0b0f0965-7cfe-4a45-8c14-099592a9e5a9.html",
+    "json": "https://files.hasdata.com/0b0f0965-7cfe-4a45-8c14-099592a9e5a9.json",
+    "url": "https://www.amazon.com/dp/B0CY89RKGY"
+  },
+  "product": {
+    "asin": "B0CY89RKGY",
+    "url": "https://www.amazon.com/dp/B0CY89RKGY",
+    "title": "CLIO Kill Cover Mesh Glow Cushion Foundation ([Refill Included] 15g*2, 23N GINGER), Glass Skin, Long-Lasting, Lightweight, Buildable Coverage, Glowy Skin Makeup",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "23N GINGER",
+      "size": "0.52 Fl Oz (Pack of 1)"
+    },
+    "featureBullets": [
+      "[FRESH, GLOWING COVERAGE] This creamy cushion delivers dewy, lightweight coverage that lasts the day. Our innovative formula applies smoothly and adheres weightlessly to skin\u2014your complexion will look flawless and feel featherlight.",
+      "[SKINCARE-INFUSED FORMULA] Our multitasking cushion is packed with ultra-hydrating skincare essence that helps moisturize, calm, and soothe the skin. Rose water, chamomile, and 8 kinds of hyaluronic acid work hard to keep your skin looking and feeling its best.",
+      "[54-HOUR STAYING POWER] Plant-powered natural polymer ensures reliable, long-lasting wear. You skin will look radiant and naturally beautiful from morning to night\u2014no fading, cracking, or caking.",
+      "[WATERDROP-SHAPED PUFF] The included waterdrop-shaped puff is thoughtfully designed to reach all areas of the face, even the most difficult parts to reach, such as around the nose.",
+      "[GLOW-GETTER APPROVED] This hypoallergenic formula is suitable for all skin types and is recommended for those who prefer a radiant finish as opposed to a semi-matte finish that our Kill Cover New Founwear Cushion offers."
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0CY88DWS3",
+        "title": "0.52 Fl Oz (Pack of 1) 21C LINGERIE",
+        "url": "https://www.amazon.com/dp/B0CY88DWS3",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ntK1PLOfL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0CY86MTLK",
+        "title": "0.52 Fl Oz (Pack of 1) 21N LINEN",
+        "url": "https://www.amazon.com/dp/B0CY86MTLK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IBBHWRg1L._SL1200_.jpg"
+      },
+      {
+        "asin": "B0CY89RKGY",
+        "title": "0.52 Fl Oz (Pack of 1) 23N GINGER",
+        "url": "https://www.amazon.com/dp/B0CY89RKGY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Tuep85A4L._SL1200_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 19.49,
+      "beforePrice": 29.99,
+      "discount": "-35%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 15 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "CLUBCLIO",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A2E0HNCQBOCXG2",
+    "shipper": "Amazon",
+    "totalImages": 8,
+    "primaryImage": "https://m.media-amazon.com/images/I/61Tuep85A4L._SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61Tuep85A4L._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61VwsabuhrL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61CbUT9pYjL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61OSwnpwtTL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61rIQnnwJsL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/615CIJEBdvL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/617vLkZxM9L._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/41m8o6pdUoL.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5a0858da-f400-48fb-a221-23de7fbd77d0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e326b1d-2674-4a0c-8968-f3c7abc98e9d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/70980f89-44f8-4ade-9a3e-6c3c723120d1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4ada07e1-9083-4543-829c-470e9352ec40.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/64659007-ce4d-450b-8811-82fd70ddb77d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f3764d6f-4dc7-4d75-b71f-39cc624cb314.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/969300a3-321d-43d7-ad2c-151c7f4153c1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e092623c-77dc-482e-9385-c3389c955bb1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db41dd25-d612-4fb1-b680-09997fb6ac0f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9912251d-3246-4bc9-8129-66b7357fc73a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a65668b2-a7cd-4211-badc-3dba6c315569.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9d4003f-2d79-4cd3-a402-f9041888bbad.__CR0,0,488,700_PT0_SX488_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5d7cebd7-c1ff-4ce0-b687-cb6317a168c1.__CR0,0,488,700_PT0_SX488_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/70d8f936-f1d4-45ae-8fd5-aa137d7d5c0a.__CR0,0,488,700_PT0_SX488_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/281286aa-680b-4eeb-8e56-9a5f7456b44f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/45ab7ffd-4eaa-454f-b6e8-6ee5f6fd1fa8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e565b685-a302-44ae-bb02-69de43066695.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "23N GINGER"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Foundation Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Cushion"
+      },
+      {
+        "key": "Brand Name",
+        "value": "CLIO PROFESSIONAL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless, Long Lasting, Corrects Imperfections, Glowing, Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "08809970751767"
+      },
+      {
+        "key": "Model Number",
+        "value": "CLIO_Mesh Glow"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "CLIO_Mesh Glow"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "CLIO"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#11,417 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #127 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0CY89RKGY"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable, Fade Resistant, Lightweight"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "30 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "5.71 x 2.95 x 0.91 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 131,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "72%",
+        "fourStars": "10%",
+        "threeStars": "8%",
+        "twoStars": "4%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find the foundation provides a nice glow and matches their skin tone perfectly. The coverage receives mixed feedback - while some say it's great, others find it very light. The skin-like quality and blendability also get mixed reviews.",
+      "aspects": [
+        {
+          "aspect": "Natural appearance",
+          "count": 7,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 6,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin-like",
+          "count": 11,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 9,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 5,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71uEbKZiaoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71eVtZgHNWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/614WgPBeqaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61VQvbRhLPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Vbw4z7s5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71QW3DzqdJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71JJiYa-dkL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71TnpvY2DjL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71b5iM0aaqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71z-R7-DTGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81DEIwHMxrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "my every day makeup",
+          "reviewText": "I absolutely love this cushion. I was looking for a replacement for my CU Skin since the shade I need is hard to find here and has to be ordered from Korea. Everything about this cushion is great. It gives a balanced glow \u2014 not too shiny. If you don\u2019t like looking glowy in the sun, you can always set your T-zone with a translucent powder, but I personally love the finish as it is. It has light to medium coverage, which I prefer. If I have any breakouts, I\u2019d rather spot-conceal them than wear heavy, full coverage that makes my skin look like drywall texture. It also works beautifully with the Clio primer from the same brand. Highly recommend.",
+          "reviewDate": "Reviewed in the United States on March 1, 2026",
+          "customer": "Nadiia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFROIMISEPT2MMCLEQT22LOX2SA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Fl Oz (Pack of 1)",
+            "color": "23N GINGER"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Natural looking foundation for dry skin",
+          "reviewText": "Living in the northeast US this is the only makeup I use for my dry skin. Plus it gives you a nice glow that blends in well with your skin which looks natural.",
+          "reviewDate": "Reviewed in the United States on January 9, 2026",
+          "customer": "Sooper",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFYYCL6LB7HKXTH5YLMDPUQ4CJ3A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Fl Oz (Pack of 1)",
+            "color": "23N GINGER"
+          }
+        },
+        {
+          "reviewTitle": "good",
+          "reviewText": "like",
+          "reviewDate": "Reviewed in the United States on March 24, 2026",
+          "customer": "Jacob",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEWW7PBKGTU2WBCTINVRC3JOVZXQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Fl Oz (Pack of 1)",
+            "color": "23N GINGER"
+          }
+        },
+        {
+          "reviewTitle": "Amazing formulation, but now missing sunscreen",
+          "reviewText": "I love this formulation--it's low coverage, but buildable, and very very dewy and skin-like. Perfect for a no makeup look. If you find it oily or greasy, I recommend giving it a minute or two to dry down before continuing the rest of your makeup. One unfortunate con (but this isn't specific to this product, so I'm not docking my rating) is that this version does NOT contain SPF. I've previously purchased this product in Korea and it always had SPF, so I'm assuming this may be a result of the new US regulations governing foreign sunscreens.",
+          "reviewDate": "Reviewed in the United States on December 30, 2024",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHO4B5GP2BZX2OI4CM5IJDILRESQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Fl Oz (Pack of 1)",
+            "color": "23N GINGER"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Cute",
+          "reviewText": "I don\u2019t love the smell but the product itself is amazing!! So skin-like and creamy. Not the craziest coverage but it looks like your skin\u2026but glowy!",
+          "reviewDate": "Reviewed in the United States on December 3, 2025",
+          "customer": "Val A.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHENINO3H2VBHMAH6E6BWFUQQC6Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.52 Fl Oz (Pack of 1)",
+            "color": "23N GINGER"
+          }
+        },
+        {
+          "reviewTitle": "Styles into fine lines",
+          "reviewText": "Color match is great and coverage is great. Easy to apply. Except where there are lines, it settles in lines.",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "Lauran Shaner",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGU2NEK3DMIIRE56DXYUUKRWPMNA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "0.52 Fl Oz (Pack of 1)",
+            "color": "23N GINGER"
+          }
+        },
+        {
+          "reviewTitle": "Excellent cushion compact",
+          "reviewText": "This is the BEST cushion compact I\u2019ve EVER HAD. The coverage is beautiful and the color match is perfect. It gives this great sheen without looking sticky or wet. Love.\u2764\ufe0f",
+          "reviewDate": "Reviewed in the United States on April 4, 2025",
+          "customer": "AmazonianWarrior",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHJ5W2LUNAMFDGQOLY5XIUYWXX4A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.52 Fl Oz (Pack of 1)",
+            "color": "23N GINGER"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        }
+      ]
+    }
+  }
+}

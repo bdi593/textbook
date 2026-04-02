@@ -1,0 +1,357 @@
+{
+  "requestMetadata": {
+    "id": "1663bb68-71ea-4fac-a57e-562efa92ebe4",
+    "status": "ok",
+    "html": "https://files.hasdata.com/1663bb68-71ea-4fac-a57e-562efa92ebe4.html",
+    "json": "https://files.hasdata.com/1663bb68-71ea-4fac-a57e-562efa92ebe4.json",
+    "url": "https://www.amazon.com/dp/B0868G5TSM"
+  },
+  "product": {
+    "asin": "B0868G5TSM",
+    "url": "https://www.amazon.com/dp/B0868G5TSM",
+    "title": "Bio Mimic Foundation Medium Spectrum by Forever Bloom, Protecting from Sun with SPF50, for Gym, Sports, Dancing",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Medium"
+    },
+    "featureBullets": [
+      "\ud83c\udf1f BEST FULL COVERAGE FOUNDATION MAKEUP, This WATERPROOF moisturizing light foundation Instantly mimics your skin tone and creates a uniform complexion without masking skin creating a GLOWING and illuminating silky finish.",
+      "\ud83c\udf1f FLAWLESS LIQUID COLOR MATCHING FOUNDATION, Advanced Luxury FORMULA with Essential anti-aging MOISTURIZING, Nourishing effect. It is lightweight and is quickly absorbed without dryness",
+      "\ud83c\udf1f FAST TIME-SAVING 4 IN 1FOUNDATION: A great replacement for foundation and CONCEALER because it mimics your NATURAL SKIN TONES. This foundation cuts out so many steps and looks polished after 30 seconds of applying it. Feels incredible on the skin and it LASTS ALL DAY without creasing, literally HIDES EVERY BLEMISH without that thick heaviness.",
+      "\ud83c\udf1f LIFESTYLE FOUNDATION: SWEAT PROOF FOUNDATION for daily application or for gym, workouts and dancing class formulated without Parabens, Phthalates, Artificial Fragrances and Safe for ALL SKIN TYPES",
+      "\ud83c\udf1f OUR 100% GUARANTEE, At Forever Bloom your satisfaction is our highest priority, Our premium Foundation was formulated with highest quality ingredients with highest standards to deliver the desired results your skin needs, If you don\u2019t like your results using our Foundation, you will be fully refunded, no questions asked, Click the yellow \u201cAdd to Cart\u201d button today, and Love your \"Flawless\" glowing skin"
+    ],
+    "description": "A newly developed COLOR MAKEUP FOUNDATION that is moisturizing, evens skin tones, contains color mimicking technology. Stable Essential Nutrition, Neutralizes free radicals and acts as ANTIOXIDANT, anti-aging MOISTURIZING, nourishing, LIGHTWEIGHT and is quickly absorbed without dryness. Glowing and ILLUMINATING SILKY SKIN Instantly MIMICS YOUR SKIN TONE and creates a uniform complexion without masking skin SWEAT PROOF foundation for GYM, WORKOUTS and DANCING class Safe for ALL SKIN TYPES Made In USA This product designed with advanced formula SUNSCREEN SERUM SPF 50 WITHOUT using FRAGRANCE & PARABEN. WHAT OTHERS SAY: \u201cI have ACNE PRONE SKIN so I am very SENSITIVE to most products including sunscreen but I use this product every day and it is great for my skin! \u201c \u201cNO BREAKOUTS! It covers all my old blemish marks and under eye circles! And it STAYS ON ALL DAY!!\u201d \u201cDOESN\u2019T MAKE me look more OILY than I am or CAKEY.\u201d \u201cLove the concept, designs and TEXTURE of the product. My skin is VERY SENSITIVE and your product is PERFECT for it. It DOESN\u2019T EVEN FEEL LIKE A FOUNDATION but it does the job tho and on top of that offers SUN PROTECTION.\u201d \u201cI always had problems with it becoming greasy later in the day. This one Is LIGHT, COVERS UP and makes me LOOK SMOOTH AND HEALTHY.\u201d HOW TO USE: Apply evenly on clean skin before sun exposure. Rub in a circular motion with your fingers until it matches your skin tone.",
+    "boughtInPastMonth": "2K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B088GS31N6",
+        "title": "Light",
+        "url": "https://www.amazon.com/dp/B088GS31N6",
+        "imageUrl": "https://m.media-amazon.com/images/I/41FnOfzT8hL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0868G5TSM",
+        "title": "Medium",
+        "url": "https://www.amazon.com/dp/B0868G5TSM",
+        "imageUrl": "https://m.media-amazon.com/images/I/51IVOltKGaL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 42.49,
+      "beforePrice": 42.49,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Forever Bloom",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1AB7GJJVLO9C6",
+    "shipper": "Amazon",
+    "totalImages": 6,
+    "primaryImage": "https://m.media-amazon.com/images/I/51IVOltKGaL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51IVOltKGaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81dsOT4h7ML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51N6+ir9PHS._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81GIttp46fL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81CIYyUW3FL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614tmIb86tL._SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/310dc767-120f-4304-a2f5-f8ecbbe0b824.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup,Mimic"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Forever Bloom"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Fragrance Free, Paraben Free wiecsil"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "UPC",
+        "value": "850013965014"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "F1007"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Forever Bloom"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#6,622 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #75 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0868G5TSM"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Natural Ingredients"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Silky"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1 Ounces"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.0 Fluid Ounces"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "paraben Free,phthalate free,fragrance free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2899,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "10%",
+        "threeStars": "8%",
+        "twoStars": "4%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find this foundation to be better than other products, praising its lightweight formula that's not heavy or greasy, and appreciate its natural appearance with a matte finish. The coverage is good, with one customer noting it works well on age spots, and the texture feels nice on the skin. The longevity receives mixed feedback - while some say it stays on all day, others report it doesn't wear well throughout the day. The skin tone match is also mixed, with some customers saying it really matches their skin color while others find it too orange for their complexion.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 141,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 102,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 68,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 67,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 59,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 57,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin tone match",
+          "count": 161,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 70,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/81GVczqlguL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ETWpaCYKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Edetd+5hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61sD-nEBckL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61OJT+TKAXL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61kz4QM8s5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/619L3A-vAQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51U4sUz0ZYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61mXFTyEU2L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61BpSEoOcdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Uk13wELRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Jqo0GKRTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Best foundation I have found",
+          "reviewText": "I love this foundation! Easy to apply and looks so natural!! And lasts all day! It doesn\u2019t feel heavy, no buildup in wrinkle area, it just works great!",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE4AZCSCH6HJ42CIYZUG2VLSBESA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Bio Mimic foundation",
+          "reviewText": "This product is wonderful, choose right shade . No worries . Stays on skin all day . Looks good on your skin . It is very real looking . Not so much makeup on your skin. I think it makes your skin look younger . Stays on even when you sweat or are extremely busy with your day . I would recommend you trying this if you need a new makeup . This was a bonus for me . You will not regret it . It is lightweight the texture of the makeup helps your skin look smooth . This makeup has no stickiness . The color match is super mole to select .",
+          "reviewDate": "Reviewed in the United States on November 17, 2025",
+          "customer": "Willow",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFOVKIMPML3WVKFMYGPLCIWJNSAA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "17 people found this helpful"
+        },
+        {
+          "reviewTitle": "Possibly not for mature skin.",
+          "reviewText": "I don\u2019t particularly like this foundation, but I don\u2019t believe my own personal preference means I should low-rate my review. I have no doubt many people would like it, for me, I don\u2019t believe it\u2019s good for mature skin. I look young for my age of 62. I\u2019ve always taken care of my skin and taught my daughter to do the same. Foundation is still needed for me to smooth out my skin tone, red in some areas, but this foundation sinks into my pours making my skin look more uneven. This being said, it\u2019s more suitable for my daughter\u2019s age and below, she\u2019s 35. It does feel lightweight though, which was a nice feeling on my face.",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6PHKZTKEYTZMPWX6MU2ZLGVLNQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best Foundation I've Used in Forever!",
+          "reviewText": "This is excellent makeup! I wasn't expecting much from it but it has proven to be some of the best I've tried (believe me I've tried so many from Ulta). I use it on top of argon oil as my moisturizer and then a bronzing powder over it. The finished product is glowy, lasts all day with my setting spray, doesn't settle into fine lines and makes my skin look the best I've seen it in a long time. I find the application fast and easy using my fingers and does need building in areas I need more coverage. The lighter shade matches perfect with my \"winter\" coloring (yet to try the darker shade for summer). It even made my mom's pale and hard to match skin really beautiful. I have contact dermatitis and was super happy this didn't cause me any reactions. The reason for 4 stars is for the container it comes in. You can't tell how much product is left, it's not recyclable (surprising as it's made here in Southern California) and the spout doesn't come out far enough from the neck, causing makeup to get on it and makes it hard to catch on the palm of my hand. The container also has a cheap plastic feel (reminds me of a toy I had as a child) to it which is a shame considering the quality of the foundation.",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Jen D.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFLPR5LVHJHHSOTJBCA72XBS4HQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Light and natural Rese\u00f1a: Nice foundation for everyday",
+          "reviewText": "Nice foundation for everyday use. It feels light on the skin and blends well, leaving a natural and smooth finish.",
+          "reviewDate": "Reviewed in the United States on March 14, 2026",
+          "customer": "Angeles alas",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE3COIUCES5K2F7Y4UOR7IY3FVIA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "NOT Same as Previous Formula!",
+          "reviewText": "This product comes out as a thin, off-white, bubbly liquid and those small bubbles surface and break. If you have ever put hydrogen peroxide on a cut or skin lesion and it bubbled up, that is what this reminds me of right out of the bottle. I tried shaking it because I thought maybe it was not well mixed up, but nothing changed. The previous Forever Bloom foundations came out as a creamy makeup in my experience (and friends concur). Also, this one burned a little when it got into the corners of my eyes. I am afraid to use this product. It makes me wonder if another manufacturer purchased the rights to the name \"Forever Bloom\" because this product in no way compares to their previous product, except that it does change color from white to close to my own skin tone, but it has a heavier look on my skin than the old Forever Bloom formulation did also. I'm sad that it wasn't the same and I hope this review helps others so they don't make the same mistake I did.",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "faireviews",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEPKLG55DH767U43WBZP23AAD62Q",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Just not for me",
+          "reviewText": "I\u2019m not a fan. I\u2019ve tried the product twice, applied with and without a brush. The product is a bit chalky and sits on top my skin, even though I moisturized first. The color does blend nicely though.",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Rochelle Lengquist",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGB46PTGOE7VSGFM5ZI6LUFPXBPQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Light"
+          }
+        },
+        {
+          "reviewTitle": "Amazing",
+          "reviewText": "Amazing product. I\u2019ve ordered a couple of these and they work wonders.",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Michael",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHPBDAYDG6JD26DWLFZFBIM2TUYQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "requestMetadata": {
+    "id": "865a3ae6-36d3-4dc6-a1e4-ed278295bf44",
+    "status": "ok",
+    "html": "https://files.hasdata.com/865a3ae6-36d3-4dc6-a1e4-ed278295bf44.html",
+    "json": "https://files.hasdata.com/865a3ae6-36d3-4dc6-a1e4-ed278295bf44.json",
+    "url": "https://www.amazon.com/dp/B003IF37TK"
+  },
+  "product": {
+    "asin": "B003IF37TK",
+    "url": "https://www.amazon.com/dp/B003IF37TK",
+    "title": "Foundation",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "format": "if (typeof uet == 'function') {\n            uet('bb', 'audibleMediaMatrixScope', {wb: 1});  //timestamp body-begin\n        }\n    \n                      \n                           \n                        \n         Audiobook              \n\n    \n    .adblVerticalAlignCenter {\n        padding-top: 0 !important;\n        display: flex !important;\n        flex-direction: row;\n        justify-content: center;\n        height: 100%;\n        align-items: center;\n    }\n    .adblVerticalAlignTop {\n        padding-top: 4px !important;\n        display: flex !important;\n        flex-direction: row;\n        justify-content: flex-start;\n        height: 100%;\n        align-items: flex-start;\n    }\n    .adblShowExtraMessageWithoutPriceTitle {\n        position: inherit;\n        top: 12px;\n    }\n    .adblShowPriceWithoutExtraMessage {\n        margin-top: 9px;\n    }"
+    },
+    "features": {
+      "book1Of7": "Foundation",
+      "listeningLength": "8 hours and 38 minutes",
+      "author": "Isaac Asimov",
+      "narrator": "Scott Brick",
+      "publicationDate": "April 20, 2010",
+      "language": "English",
+      "publisher": "Random House Audio",
+      "asin": "B003IF37TK",
+      "version": "Unabridged",
+      "programType": "Audiobook"
+    },
+    "description": "The first novel in Isaac Asimov\u2019s classic science-fiction masterpiece, the Foundation seriesTHE EPIC SAGA THAT INSPIRED THE APPLE TV+ SERIES FOUNDATION Nominated as one of America\u2019s best-loved novels by PBS\u2019s The Great American Read For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future\u2014to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save humankind, Seldon gathers the best minds in the Empire\u2014both scientists and scholars\u2014and brings them to a bleak planet at the edge of the galaxy to serve as a beacon of hope for future generations. He calls his sanctuary the Foundation. The Foundation novels of Isaac Asimov are among the most influential in the history of science fiction, celebrated for their unique blend of breathtaking action, daring ideas, and extensive worldbuilding. In Foundation, Asimov has written a timely and timeless novel of the best\u2014and worst\u2014that lies in humanity, and the power of even a few courageous souls to shine a light in a universe of darkness.",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Books",
+      "Science Fiction & Fantasy",
+      "Science Fiction",
+      "Hard Science Fiction"
+    ],
+    "variants": [
+      {
+        "asin": "B000FC1PWA",
+        "title": "Kindle",
+        "price": "$7.99",
+        "url": "https://www.amazon.com/dp/B000FC1PWA"
+      },
+      {
+        "asin": "B003IF37TK",
+        "title": "Audiobook",
+        "price": "$0.00",
+        "url": "https://www.amazon.com/dp/B003IF37TK"
+      },
+      {
+        "asin": "0553803719",
+        "title": "Hardcover",
+        "price": "$24.00",
+        "url": "https://www.amazon.com/dp/0553803719"
+      },
+      {
+        "asin": "0553382578",
+        "title": "Paperback",
+        "price": "$9.99",
+        "url": "https://www.amazon.com/dp/0553382578"
+      }
+    ],
+    "totalImages": 1,
+    "primaryImage": "https://m.media-amazon.com/images/I/91lB9bNl2IL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/91lB9bNl2IL._SL1500_.jpg"
+    ],
+    "reviewsInfo": {
+      "totalReviews": 35822,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "60%",
+        "fourStars": "27%",
+        "threeStars": "10%",
+        "twoStars": "2%",
+        "oneStars": "1%"
+      },
+      "customersSay": "Customers find this science fiction book to be a must-read for SciFi fans, praising its well-crafted stories with fun plot twists and interesting themes. The writing style receives positive feedback, with one customer noting how it changed the face of modern science fiction. Customers consider it a classic that stands the test of time, though opinions about character development are mixed - while some find the characters interesting, others note there are too many characters and storylines to hold their interest.",
+      "aspects": [
+        {
+          "aspect": "Readability",
+          "count": 424,
+          "status": "positive"
+        },
+        {
+          "aspect": "Content",
+          "count": 381,
+          "status": "positive"
+        },
+        {
+          "aspect": "Story",
+          "count": 229,
+          "status": "positive"
+        },
+        {
+          "aspect": "Science fiction",
+          "count": 203,
+          "status": "positive"
+        },
+        {
+          "aspect": "Writing style",
+          "count": 129,
+          "status": "positive"
+        },
+        {
+          "aspect": "Timeless",
+          "count": 114,
+          "status": "positive"
+        },
+        {
+          "aspect": "Concept",
+          "count": 68,
+          "status": "positive"
+        },
+        {
+          "aspect": "Character development",
+          "count": 123,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/C1Sv7QeZYVS._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/31ZyJrBCIQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61orRfgtPYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51K58gKOlFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/719yTPSgEGL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81iGjEB4YpL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71KtZ9bbnUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81vjS7Rt3SL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81vc-gPPlyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71-HGB9imDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71pWZzZ5eLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/719rR+pgv8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Foundation Trilogy: Essential, superb science fiction",
+          "reviewText": "<a data-hook=\"product-link-linked\" href=\"/dp/B000FC1PWA\">Foundation</a> by Isaac Asimov is the first book in the Foundation trilogy, set about 50,000 years in the future. The second and third volumes in the trilogy are <a data-hook=\"product-link-linked\" href=\"/dp/0553293370\">Foundation and Empire</a> and <a data-hook=\"product-link-linked\" href=\"/dp/B000FC1PWU\">Second Foundation</a>. With many, many reviews describing the books, there is little need for a description of the plot here. Instead, I'll give a few incidental notes on the SciFi ideas embedded in Foundation trilogy and my recommendations for potential readers. \"Foundation\" is from the 1940's, when some of the ubiquitous ideas of modern science fiction were born. In the 1940's, it was already clear that the universe was a very large and complex place (though it is even larger and more complex now than was known then!). So, writers, including Asimov, invented the devices of transport and communication faster than the speed of light. This brought the stars within \"reach\" and opened wide horizons for imagining how the future might develop if such technologies existed. \"Foundation\" and its original trilogy brought forth one of Asimov's unique contributions to the imagined future of science: \"psychohistory.\" The concept of psychohistory is that large-scale social and political events can be mathematically forecast in the form of event probabilities. Asimov's various writings use these assumptions to write stories dealing with social, political, and individual challenges of an imagined future. Asimov adroitly mixes the large- and small-scale human events into richly entertaining stories. \"Foundation\" and other novels of the trilogy are composed of related vignettes, reflecting their original publication in serialized form. I find this style works well for these and other Asimov books, with small-scale stories adding together to convey a sweep of events. The whole adds up to more than the sum of the parts. For readers who have little experience with SciFi novels, I think \"Foundation\" would be an excellent place to start. The writing is direct, crisp, and clear, and is fine for YA or adult readers. The original Foundation trilogy is almost completely free of profanity and sexual themes. Violence is limited to the occasional murder and wars at a distance. If you are already a SciFi fan, and have not read some of Isaac Asimov's work, this is an excellent place to start, although it is not the \"beginning\". A semi-rational path for readers new to Asimov would be \"Foundation\", followed, if you like it by the two other members of the original trilogy, \"Foundation and Empire,\" and \"Second Foundation\". From here, if you want a little more, try either the Robot series or the expanded 7-book Foundation series. If you are game for a lot more, and want to see Asimov's \"future history\" in a roughly (future) chronological order, I'd suggest looking at Asimov's main set of future history works that comprise the Empire series, the Robot series, and the expanded Foundation series. I'd rate \"Foundation\" as Must Read for all except those who are severely SciFi-phobic!!",
+          "reviewDate": "Reviewed in the United States on January 11, 2015",
+          "customer": "William Mead",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHIRLUUVMTIL4L3IZRW4KHKBIYVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          },
+          "helpfulVotes": "56 people found this helpful"
+        },
+        {
+          "reviewTitle": "A True Classic",
+          "reviewText": "Breathes there a teenager of the md-20th century with a love of science fiction who was not weaned on the Foundation series? All that sweeping drama, testosterone-laden but basically non-violent (all the violence is simply swept into summarizing references to ships destroyed and cities ransacked) marching through decades without concentrating on anything really boring, like character development, emotional entanglements or the trappings of society. Not a single reference to such trash as classical music, or stage shows, or pop music, or romance, just sweeping views of a distant future (or could it have been the distant past?) with the means of traveling between stars in the galaxy in the flash of a gnat's eyelash. And yet . . . revisiting the beloved Foundation, reading through the filter of a lifetime of experience, cracks appear in the plaster, and beneath them one finds that the lath is too widely spaced, the bricks behind that lath are often without mortar, and one can see the trees where bricks are missing. We live already in an age where technology has bypassed this particular Universe. Computers have become infinitely more pervasive than Asimov might have dreamed in his wildest fantasy, for at the time of the writing they were mere collators of stacks of punched cards, the transistor had yet to be introduced or shrunk to the size of a grain of sand, much less a sub-microscopic speck imprinted by the millions on a tiny wafer of silicon. Asimov had enormous faith in the future of Humanity, but he had no idea of how rapidly that future would approach - or how slowly humans would react and adapt to the challenges posed. No Empire can be established when information is instantaneously available to three-quarters of the population. Will an army composed of humans indefinitely repress an entire population composed of their friends, family, relatives? We see the answer in Libya, in Egypt, in Syria, in Africa - where the mobile phone has allowed guerrilla tactics to be employed by any group, whether terrorist or freedom-fighter or mall-invasion gangs or \"mothers against the death camps of dog pounds.\" Human society has been transformed by 24/7 information availability - but the universe of the Foundation proposes a populace of ciphers acting in ignorance of facts that would already be generally available in the 21st century. \"Just Google it\" or \"look it up in Wikipedia\" is nowhere to be found. There is a project of the First Foundation to write a \"Galactic Encyclopedia\" - yet it already exists in 2012. And yet that universe is immensely attractive, reduced to comic book simplicity, perfect for any adolescent (whether 14 or 74) to immerse himself - or very infrequently herself, as this universe is truly misogynist: the strongest female is just a papier mach\u00e9 accoutrement. The psychobabble of \"psychohistory\" which is the very premise of the Foundations is wholly implausible, of course. The introduction by Asimov of \"The Mule\" is his admission of the absurdity of such a concept, which he probably didn't consider when the first book was written. Man has mutated more rapidly in the past 10,000 years than Asimov's populace has in 50,000 - a highly unlikely probability in the event that man actually progresses to interstellar colonization. All that said - I downloaded the trilogy on Kindle whilst in America, read it through lovingly, and was again transported to that clean, technologically impossible universe, forgetting all the travails of real life at present, putting the horrors of terrorism, the Hunger Games, the beheadings of \"infidels\" and the lies of politicians to one side for too brief a span. It isn't great literature, not even great Science Fiction - yet it is riveting to any adolescent male who enjoys reading as opposed to or in parallel with the escapism of cinematic action films like the \"Matix\" or \"Terminator\" trilogies. For some reason, Europeans aren't allowed to download the books. No doubt the vagaries of copyright laws, tax authorities and those \u00a3%^&* politicians - as well as the accursed lawyers (who are blissfully absent from the trilogy, undoubtedly bred out of existence due to their total lack of humanity). Asimov was the supreme techie of his time - and it shows in his use of language - sparse, precise, technically impeccable, but occasionally impenetrable without a modicum of concentration. I heartily recommend it to you !",
+          "reviewDate": "Reviewed in the United States on August 19, 2012",
+          "customer": "jasonhad",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEZ5RDRTJ6SF474AHUA56YBTAL2Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "format": "Kindle"
+          },
+          "helpfulVotes": "37 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good book! Came as is",
+          "reviewText": "Boyfriend had been wanting this. Good buy",
+          "reviewDate": "Reviewed in Canada on January 22, 2026",
+          "customer": "Mackenzie",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Mass Market Paperback"
+          }
+        },
+        {
+          "reviewTitle": "An Essential Sci-Fi Classic",
+          "reviewText": "Asimov's Foundation books are rightly so seen as masters of the art of science fiction. The concepts, the ideas and the execution of the books is near flawless and the basic ideas have spread through many other Asimov books. Anyone interested in these books would presumably already have some idea of the central idea of psychohistory being used to model future human events and society. It was a revolutionary concept back in the 1950's and even today outside of fiction and in the real world of mathematics and human studies is debated. There are some who debunk the idea that humans and society can be modelled effectively to understand future events but there is a large body of research that does indicate it's at least partially the case that we can understand future patterns based upon historical evidence. And the truth of that is of course the Coronavirus which has various governments basing their strategy upon the predicted actions of society based upon mathematical models using past information. It's not quite the same but there are certainly parallels that make reading Foundation such an interesting thing. Now, inevitably having been written in the 1950's the language and some of the social mores are a little quaint compared to modern society. Essentially Asimov reflected the times he lived in and no matter how far thinking - which sci-fi is by it's very nature - it can only be written on the basis of current understanding. I do note another reviewer who takes to task Asimov for not creating more female protagonists which, I find surprising given that in many of his books the stronger lead characters are often women. Writing style is of course engaging and easy to enjoy which, is something one would expect from a writer of such renown and popularity. Overall, a masterpiece and one that is still relevant today 60 years on.",
+          "reviewDate": "Reviewed in the United Kingdom on March 18, 2020",
+          "customer": "Mark Chisholm",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Engrossing story on an epic timescale",
+          "reviewText": "Came back to this series again about 20 years after first reading. Some of the concepts feel like they\u2019ve aged better than others. There\u2019s a lot less emphasis on the science behind the technologies used compared to some of the recent 21st century sci-fi of Reynolds or Banks. But it still feels an incredible vision for a book first published in 1951. Some of the older social mores are cute, like the fact that everyone seems to smoke. Others less so - there is barely a single woman even appearing in the book, let alone performing a role - except for perhaps the Commdora of Korell. In fact, character development in general takes a very low priority. The concepts and narratives come so densely that each episode could probably be fleshed out into a novel of its own. But the majestic scope of this series makes it hard to put down, and the fast-moving pace gives it a quite unique atmosphere.",
+          "reviewDate": "Reviewed in Japan on September 26, 2021",
+          "customer": "Kishi_Matt",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "format": "Kindle"
+          }
+        }
+      ]
+    }
+  }
+}

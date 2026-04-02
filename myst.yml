@@ -57,6 +57,8 @@ project:
       children:
         - file: content/foundation-products/case-overview.md
         - file: content/foundation-products/parse-json.ipynb
+        - file: content/foundation-products/competitive-analysis.ipynb
+          hidden: true
 
     # - title: Instacart
     #   children:

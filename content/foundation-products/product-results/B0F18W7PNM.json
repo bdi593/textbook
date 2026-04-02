@@ -1,0 +1,393 @@
+{
+  "requestMetadata": {
+    "id": "d6ad5b91-2da6-46de-8aca-f5faea40ac33",
+    "status": "ok",
+    "html": "https://files.hasdata.com/d6ad5b91-2da6-46de-8aca-f5faea40ac33.html",
+    "json": "https://files.hasdata.com/d6ad5b91-2da6-46de-8aca-f5faea40ac33.json",
+    "url": "https://www.amazon.com/dp/B0F18W7PNM"
+  },
+  "product": {
+    "asin": "B0F18W7PNM",
+    "url": "https://www.amazon.com/dp/B0F18W7PNM",
+    "title": "Mushroom Head Air Cushion CC Cream - BB Cream Face Makeup Foundation for Mature Skin Moisturizing Concealer Brighten Long-Lasting, Even Skin Tone for All Skin Types (Buff Beige)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "3.21 Ounce (Pack of 1)",
+      "color": "Buff Beige"
+    },
+    "featureBullets": [
+      "\u3010Product Effect\u3011The BB Cream Foundation has moisturizing, oil control, long-lasting, texture is thin, breathable, hide pores, create a temperament makeup. Evenly concealing effectively covers the skin and creates a flawless look. Refreshing texture, clear and moist texture, refreshing and not oily.",
+      "\u3010Easy To Makeup\u3011The makeup sponges for foundation are as soft as the skin, foundation sponge head becomes bigger and softer when it meets water (small mushroom needs to be cleaned before use: as a skin care product, for your skin safety, it is recommended to wash it once or twice before use. Make-up will be more skin-friendly and fit oh).",
+      "\u3010Plant Skin Care Ingredients\u3011The foundation full coverage Contains a variety of natural skin care ingredients, such as Centella asiatica extract, Tremella extract, vitamin E, etc. While applying makeup, it also balances sebum levels, reduces acne, spots, fine lines, and nourishes the skin.",
+      "\u3010Long Lasting Concealer\u3011The cushion foundation uses a skin-friendly elastic bionic film. The soft bionic film presses out an even and smooth foundation makeup to create a full coverage foundation. Brightens skin tone, hides blemishes, pores, and acne marks. It has a 24-hour concealer effect, does not clog pores, and is delicate, comfortable and breathable.",
+      "\u3010It Must Be Seen Before Makeup\u3011If you want to make it look good and lasting. Do the following: 1. Please do a basic skin care job. 2. Please apply makeup in the form of \"stamp\" and quickly pat, so that the makeup will be more docile. 3. After the makeup, use the powder to make a makeup, then use the makeup spray and spray the makeup. This makeup can achieve a very long-lasting effect. This cushion CC is the perfect Valentine's Day gift for your loved one."
+    ],
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "CC Creams"
+    ],
+    "variants": [
+      {
+        "asin": "B0F9NMP254",
+        "title": "3.21 Ounce (Pack of 2) 2PCS Buff Beige",
+        "url": "https://www.amazon.com/dp/B0F9NMP254",
+        "imageUrl": "https://m.media-amazon.com/images/I/713mkO9rPmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F9NWW22Y",
+        "title": "3.21 Ounce (Pack of 2) 2PCS Nude",
+        "url": "https://www.amazon.com/dp/B0F9NWW22Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/71k3cCF8p5L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F58ZL8YL",
+        "title": "3.21 Ounce (Pack of 2) 2PCS Natural",
+        "url": "https://www.amazon.com/dp/B0F58ZL8YL",
+        "imageUrl": "https://m.media-amazon.com/images/I/71hY3bVPSML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DC6VM8MD",
+        "title": "3.21 Ounce (Pack of 1) Medium",
+        "url": "https://www.amazon.com/dp/B0DC6VM8MD",
+        "imageUrl": "https://m.media-amazon.com/images/I/717pEjNr0bL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F18W7PNM",
+        "title": "3.21 Ounce (Pack of 1) Buff Beige",
+        "url": "https://www.amazon.com/dp/B0F18W7PNM",
+        "imageUrl": "https://m.media-amazon.com/images/I/71AeiWooGAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DLZMBQ1L",
+        "title": "3.21 Ounce (Pack of 1) Ivory",
+        "url": "https://www.amazon.com/dp/B0DLZMBQ1L",
+        "imageUrl": "https://m.media-amazon.com/images/I/71XDe1wAT-L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09ZQGT4SZ",
+        "title": "3.21 Ounce (Pack of 1) Natural",
+        "url": "https://www.amazon.com/dp/B09ZQGT4SZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71iLJ+8RhKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DBL4HNKV",
+        "title": "3.21 Ounce (Pack of 1) Deep",
+        "url": "https://www.amazon.com/dp/B0DBL4HNKV",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JS38ZAanL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BN1FJLKL",
+        "title": "3.21 Ounce (Pack of 1) Nude",
+        "url": "https://www.amazon.com/dp/B0BN1FJLKL",
+        "imageUrl": "https://m.media-amazon.com/images/I/712z5c27mVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0F9NMTQR3",
+        "title": "3.21 Ounce (Pack of 2) 2PCS Medium Deep",
+        "url": "https://www.amazon.com/dp/B0F9NMTQR3",
+        "imageUrl": "https://m.media-amazon.com/images/I/71MUrZQd9vL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 7.99,
+      "beforePrice": 9.99,
+      "discount": "-20%"
+    },
+    "condition": "Regular Price",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "30-day refund / replacement",
+    "seller": "Albercn",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A1OL2OZ8YFQ1JY",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/71AeiWooGAL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71AeiWooGAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rZyPDKBuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Fbhc1GAwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Bmnb+E+JL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71gWfdMqtoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FzlN-i6wL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71W0lUpQwEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71hatr6vq7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Ms83kkzUL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1fa13830-51c2-4359-a1ac-e31754d643e2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bc495936-f202-4524-aea3-74f661c5bc5d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dc46a979-116c-4030-ac7f-580f17c98c85.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65db987b-1c8d-483c-89d6-28af7d9d6dd9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b20da8f-2e65-4f44-987e-1745b6878bdd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3abe4f41-ddc1-4efa-b10c-4b83c07e0f0c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa760ea2-dd02-4234-950b-ffc4640b4560.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/569e72ec-a657-464d-86f0-8c229d9d0c37.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/039609d4-cbcf-46a9-be04-b2760bb27ef9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/09eed664-5e0f-43f0-91ad-bc5f1521a51a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/310dc767-120f-4304-a2f5-f8ecbbe0b824.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Buff Beige"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Container Type",
+        "value": "Box"
+      },
+      {
+        "key": "Brand Name",
+        "value": "OETUIOW"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing, Long-Lasting, Even Tone, Pore-Hiding, Brightening"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "OETUIOW"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#12,782 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #13 in CC Facial Creams"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0F18W7PNM"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Travel Size"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "3.21 Ounce"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 4959,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "58%",
+        "fourStars": "14%",
+        "threeStars": "12%",
+        "twoStars": "6%",
+        "oneStars": "10%"
+      },
+      "customersSay": "Customers find this foundation provides flawless coverage and matches their skin perfectly, while being lightweight and easy to apply. The product feels silky smooth on the skin and creates a beautiful finish that doesn't look cakey. They appreciate its moisturizing properties, noting it doesn't dry or cake their face, and one customer mentions it leaves their skin feeling dewy.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 693,
+          "status": "positive"
+        },
+        {
+          "aspect": "Product quality",
+          "count": 375,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 333,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 332,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 259,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 248,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 196,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 183,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71Pc+qKzIhL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zJJhti8BL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61DqRqf1VZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Uq3J1fr+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61u7w318bOL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/718eHz1ziJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61WJMBRDfSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51t+xjVaoNL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61D9aXpYPEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61d2F1vNvmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YGQrja+YL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71skz72OSaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Awesome Concealer / Foundation",
+          "reviewText": "LOVE this product! Second time ordering it. I didn't read the instructions fully the first time & didn't wet the sponge applicator before I used it, so I went through it faster than I should have until I was almost out. Worked awesomely even after wetting the sponge thoroughly. It covered my age spots, red patches on my face, darkness under my eyes, & gave my face a smooth, flawless texture. It was light & wasn't cakey or heavy, so you could hardly tell I was wearing anything. It is great to use (even without makeup) and helps prevent my face from being shiny. It just looks natural. I ran out and bought a product from a local store for almost 3 times the cost. This product is better than what you can get from a store and it is definitely worth the money! I HIGHLY recommend this product and the seller ships it fast! I got mine the next day in a bubble-wrapped package. I will definitely buy it again.",
+          "reviewDate": "Reviewed in the United States on January 5, 2026",
+          "customer": "Theresa Austein",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRQQDGP7U643MVN364OZN3KO7XA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.21 Ounce (Pack of 1)",
+            "color": "Natural"
+          },
+          "helpfulVotes": "15 people found this helpful"
+        },
+        {
+          "reviewTitle": "Gives a really pretty finish",
+          "reviewText": "The majority of my career has been in the cosmetic industry and I love trying new/different/random products. I was in the market for a new CC cream and scrolling Amazon and thought, \"Why not?\" It was a gamble worth taking - I'm really enjoying the formula of this CC cream, especially for the price. It's not overly sticky, but also doesn't dry down too powdery, so it's the perfect balance for my combination skin. It doesn't feel heavy at all and gives a nice light coverage while evening out the skin. The only thing I don't care for is the mushroom head applicator, it's just not my vibe. It's not as cushiony as it appears and I just didn't love how it applied the product. I use a foundation brush instead and it's totally fine. Overall I would definitely recommend.",
+          "reviewDate": "Reviewed in the United States on January 24, 2026",
+          "customer": "Katie Brown",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBWYHAZBMGJMRIVHQG6NQWJKREQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.21 Ounce (Pack of 1)",
+            "color": "Natural"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        },
+        {
+          "reviewTitle": "Colors tough for me, otherwise good stuff",
+          "reviewText": "I struggle to find the right shade. I\u2019ve tried both Nude and Natural and on my face (which I stress my face) it tends to be a yellowish color especially if I try for more coverage. Otherwise I love the consistency, application and coverage. I don\u2019t know how long it lasts really because I use a spray after. Size is good for the money. 04 is nearest watch band, 02 is furthest, photo taken in natural light.",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "Sue D",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHHTZFMGP5UWFC5SGW57FQTVKBMA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "3.21 Ounce (Pack of 1)",
+            "color": "Natural"
+          },
+          "helpfulVotes": "10 people found this helpful"
+        },
+        {
+          "reviewTitle": "Packaging",
+          "reviewText": "Goes on kind of white but doesn't spread very easily! Didn't irritate my skin, smells a little weird but overall works ok!",
+          "reviewDate": "Reviewed in the United States on February 3, 2026",
+          "customer": "Rachael M. McNeal",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG5H5D4ENU3CP23VHQJMGZRDULGA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "3.21 Ounce (Pack of 1)",
+            "color": "Natural"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "My New Go To Foundation",
+          "reviewText": "Great product. The color match is good. It does not feel heavy on my face. It covers blemishes and discolorations without putting an abundance of layers on and I am not having to reapply it in the middle of the day. My favorite thing about this product is it does not transfer to my hands or my clothes after it is applied. I already made a re-order and shared my views with friends. My 64 year old skin is very pleased.",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Ms. W",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHFKRW5YZEAY2IGXXLLITUSGWWPA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.21 Ounce (Pack of 1)",
+            "color": "Deep"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Skeptical But This Is A Score!",
+          "reviewText": "Was skeptical about buying this and having to match my face shade online but it turned out to be a terrific purchase! I\u2019m 60, with dry skin, fair to medium shade skin and went back and forth a lot on the color choice but it\u2019s perfect for me. I love the mushroom head applicator (Pat Pat Pat your skin with it, don\u2019t brush or rub). The delivery system is really nice and unique and you really can\u2019t overapply: instead you can build coverage as you need. It looks very natural, not like you are wearing any makeup. It nicely blends over all those little things we want a CC cream to cover like redness, age spots etc. Not eliminate because it\u2019s Not as much coverage as a foundation but that\u2019s not what I wanted. It feels nice on my skin and blends well on my face. No noticeable smell to mine. I will absolutely be buying this again when this one is used up.",
+          "reviewDate": "Reviewed in the United States on January 8, 2026",
+          "customer": "zengeo",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH4QKVDJ52MUPOVWO5DB4DDFAQQQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.21 Ounce (Pack of 1)",
+            "color": "Natural"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "The Best Product Everrr!",
+          "reviewText": "This is amazing on the skin. It is so easy to apply and it blends in right away. I can't get enough of this product!",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Jenny Ahmed",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF7GUOYJCSVIZ7BXNNPDHCD66CSQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.21 Ounce (Pack of 1)",
+            "color": "Nude"
+          }
+        },
+        {
+          "reviewTitle": "I am planning on buying again!",
+          "reviewText": "I like the makeup covers. I'm going into my 50's so this seems to work well w coverage & a just a tiny bit of powder. I used the mushroom and it fell apart because I wasn't patting I was brushing. It doesn't have a smell. I got it on sale & tried it. I would buy it again. Doesn't give me wrinkles but takes the redness. It feels weird pushing down w the mushroom. I'm used to brushing it on or using fingers. This you have push down on the middle & foundation will come out. It's not to dry or shiney by the end of the day. I'm planning on buying again. It's not high end but it feels like it is. I use other things to blend as well. I have",
+          "reviewDate": "Reviewed in the United States on December 12, 2025",
+          "customer": "Heather K",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHRRJFL2UFUI4FBYIXAYQAAV4ZBQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "3.21 Ounce (Pack of 1)",
+            "color": "Natural"
+          },
+          "helpfulVotes": "11 people found this helpful"
+        }
+      ]
+    }
+  }
+}

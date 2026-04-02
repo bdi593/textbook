@@ -1,0 +1,430 @@
+{
+  "requestMetadata": {
+    "id": "51a41027-8ed9-4531-8e28-9d8791cadf39",
+    "status": "ok",
+    "html": "https://files.hasdata.com/51a41027-8ed9-4531-8e28-9d8791cadf39.html",
+    "json": "https://files.hasdata.com/51a41027-8ed9-4531-8e28-9d8791cadf39.json",
+    "url": "https://www.amazon.com/dp/B0DFYP7G3F"
+  },
+  "product": {
+    "asin": "B0DFYP7G3F",
+    "url": "https://www.amazon.com/dp/B0DFYP7G3F",
+    "title": "Ogee Complexion Perfecting Liquid Foundation - Lightweight Tinted Moisturizer For Face (Linden 1.25N - Light Beige, Neutral Undertone) - with Vitamin C & Jojoba Oil - Certified Organic & Made in USA",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Linden 1.25N - Light Beige, Neutral Undertones"
+    },
+    "featureBullets": [
+      "Radiant Complexion: Experience a lightweight tinted moisturizer that provides customizable coverage, blending seamlessly for a radiant, natural finish.",
+      "Plant-Based Skin Support: Daisy Flower Extract enhances the skin\u2019s natural glow and improves texture over time.",
+      "Superfruit Benefits: Infused with Raspberry Ketones and Gooseberry Juice to promote hydration and protect against environmental stressors.",
+      "Hydrating Jojoba Oil: Features American-grown Jojoba Oil, a non-comedogenic ingredient that nourishes skin without clogging pores.",
+      "Effortless Application: Designed for optimal results with Ogee\u2019s Base Brush. Explore more luxurious cosmetics by searching \"Ogee makeup.\""
+    ],
+    "description": "This skincare-infused tinted moisturizer provides breathable, buildable coverage for a radiant, second-skin finish. Powered by natural Daisy Flower and brightening Vitamin C, it supports skin\u2019s health and glow with every application. Hydrating Jojoba Oil ensures a smooth and nourishing experience. For best results, pair with Ogee\u2019s Base Brush to complete your flawless look.",
+    "boughtInPastMonth": "300+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Tinted Moisturizers"
+    ],
+    "variants": [
+      {
+        "asin": "B0DFYQ9ZRH",
+        "title": "Sequoia 13.0C - Deep Auburn, Copper Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYQ9ZRH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BQM9uLzvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYNGRHQ",
+        "title": "Oak 5.25N - Medium Beige, Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYNGRHQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dbT8pdPnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYNH1PJ",
+        "title": "Spruce 12.75N - Deep, Bronze Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYNH1PJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xVFkHMocL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYSXWT6",
+        "title": "Willow 3.00C - Medium Light, Peach-Beige Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYSXWT6",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eROJxgZNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYRZ3GC",
+        "title": "Mahogany 14.5N - Deep Cocoa Rich Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYRZ3GC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61JLwBDdYbL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYR6VRN",
+        "title": "Larch 2.25C - Light Medium, Beige Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYR6VRN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61bIsOGRrHL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYNYSRG",
+        "title": "Aspen 1.0W - Fair, Warm Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYNYSRG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ShG7wwGpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYQ4S3G",
+        "title": "Chestnut 13.75W - Deep Auburn, Rich-Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYQ4S3G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61C7EnCU9AL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYSW7ZD",
+        "title": "Hazel 2.00N - Light, Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYSW7ZD",
+        "imageUrl": "https://m.media-amazon.com/images/I/614xbiAOCAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYQH3ST",
+        "title": "Poplar 0.10C - Fair, White-Pink Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYQH3ST",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ZtnYbADmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYP7G3F",
+        "title": "Linden 1.25N - Light Beige, Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYP7G3F",
+        "imageUrl": "https://m.media-amazon.com/images/I/61CJ+CXHC2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYPJCXW",
+        "title": "Banyan 2.75W - Light Medium, Warm-Peach Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYPJCXW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wI5GHteBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYNRZYF",
+        "title": "Maple 8.25W - Medium Deep, Golden Bronze Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYNRZYF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61BSdR+5mJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYPZ8GQ",
+        "title": "Gingko 5.00N - Medium Tan, Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYPZ8GQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uUN1-9vJL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYPSFHL",
+        "title": "Juniper 3.25W - Medium Light Tan, Bright-Golden Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYPSFHL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GjzszG73L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DFYRR1CD",
+        "title": "Birch 0.25N - Fair, Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B0DFYRR1CD",
+        "imageUrl": "https://m.media-amazon.com/images/I/616wO2qunSL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 39.2,
+      "beforePrice": 49,
+      "discount": "-20%",
+      "priceFrom": 39.2,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Ogee Organic Skincare",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A26XWZ7M5YRWLR",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61CJ+CXHC2L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61CJ+CXHC2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51BCztWJVHL.jpg",
+      "https://m.media-amazon.com/images/I/81PiptQ95tL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71fiBLeL7eL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71nk5xOKm7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GMot98OkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/815zAe2uc2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71vjCeh7Z1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rwmI1dQoL._SL1500_.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d18520bc-45c8-4598-acde-10fd127a8fb0.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Color",
+        "value": "Linden 1.25N - Light Beige, Neutral Undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Oily, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Skincare, Tinted moisturizer, Light Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Ogee"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing, Skincare-Infused"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00850044842797"
+      },
+      {
+        "key": "UPC",
+        "value": "850044842797"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "756779"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Ogee"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#13,497 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #21 in Facial Tinted Moisturizers"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0DFYP7G3F"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Second-Skin Finish"
+      },
+      {
+        "key": "Coverage",
+        "value": "Medium"
+      },
+      {
+        "key": "Item Weight",
+        "value": "3 Ounces"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "5.12 Ounce"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Cruelty-Free, Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 355,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "57%",
+        "fourStars": "12%",
+        "threeStars": "15%",
+        "twoStars": "5%",
+        "oneStars": "11%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage that can be adjusted to personal preference, and appreciate its lightweight feel that doesn't feel heavy or cakey. The product receives positive feedback for its quality and appearance, with customers noting it stays on for a long time. The color match and dryness receive mixed reviews - while some praise the near-perfect natural skin tint, others find it doesn't match their shade, and while some say it feels clean on the skin, others report it looks dry. The fragrance receives negative feedback, with several customers describing it as bad-smelling.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 46,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 43,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 31,
+          "status": "positive"
+        },
+        {
+          "aspect": "Appearance",
+          "count": 24,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 41,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Dryness",
+          "count": 39,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 33,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Fragrance",
+          "count": 23,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71M20L3j85L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71raYvWo+oL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61JEiHyzWhL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71MKUnFqLIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71WrS956ftL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61ksV3NXD7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71jygsQOMRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71eYZeOE0ZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/6189oZODIdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71mCWW7FKHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61JIqmpMZCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71+kdUtOEdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Natural, Radiant, and Skin-Loving \u2013 Perfect Tinted Moisturizer",
+          "reviewText": "I am beyond impressed with the Ogee Complexion Perfecting Tinted Moisturizer! The lightweight formula feels amazing on my skin, providing just the right amount of coverage while still looking natural. The Birch shade is a perfect match for my fair skin with neutral undertones, blending seamlessly without any streaks. What truly sets this product apart is the nourishing formula. The added Vitamin C and jojoba oil leave my skin feeling hydrated and radiant all day. I also love that it\u2019s certified organic and made in the USA\u2014such a great bonus for a high-quality product. If you\u2019re looking for a tinted moisturizer that perfects your complexion while caring for your skin, this is the one. Highly recommend!",
+          "reviewDate": "Reviewed in the United States on November 18, 2024",
+          "customer": "Tati",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQBH36XIRC6S6W4ZV7SAQ6LTS7Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Birch 0.25N - Fair, Neutral Undertones"
+          },
+          "helpfulVotes": "27 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best organic makeup I\u2019ve tried",
+          "reviewText": "I didn\u2019t like this product at first but it really grew on me and now it\u2019s my favorite. At first I noticed an unusual smell and the product didn\u2019t mix when shaken. Then after a few times using it, those issues resolved. You just need to shake it every time you use it. It blends very well and actually works as skincare\u2014I noticed less acne and my skin looked more hydrated so that I didn\u2019t feel like I needed to wear any makeup after awhile. Overall this has given me healthier skin.",
+          "reviewDate": "Reviewed in the United States on March 2, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFUSVHWKFPZCKVBO7VYQJYHWLD3Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Aspen 1.0W - Fair, Warm Undertones"
+          }
+        },
+        {
+          "reviewTitle": "Color too intense, too yelowish",
+          "reviewText": "Nice quality but the color are too intense Could be more sheer",
+          "reviewDate": "Reviewed in the United States on March 10, 2026",
+          "customer": "Paul Rzeszutek",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHC4RK5FFKJPUVOIIJBH232F6XSQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Juniper 3.25W - Medium Light Tan, Bright-Golden Undertones"
+          }
+        },
+        {
+          "reviewTitle": "Beautiful, Clean Ingredient Foundation \u2013 Worth It for Healthy Skin!",
+          "reviewText": "I\u2019ve been searching for a clean, natural foundation and the Ogee Complexion Perfecting Liquid Foundation did not disappoint! It has organic, all-natural ingredients, which makes me feel so much better about what I\u2019m putting on my skin every day. The coverage is light to medium, very buildable, and gives a natural, radiant finish\u2014perfect for a healthy, \"your-skin-but-better\" look. I also love that it doesn\u2019t feel heavy or cakey at all. There is a slight scent\u2014probably from non-toxic ingredients that mask the smell with toxic fragrances \u2014but it fades quickly and honestly, I don\u2019t mind it. It\u2019s a small trade-off for something that\u2019s this gentle on the skin. Since switching, I\u2019ve noticed fewer breakouts and my skin feels more balanced overall. If you're looking for a foundation that\u2019s both clean and effective, this one is absolutely worth trying!",
+          "reviewDate": "Reviewed in the United States on July 31, 2025",
+          "customer": "Sharon W.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3LOWCWRO7ULVHEX2JR253HZRVA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Birch 0.25N - Fair, Neutral Undertones"
+          },
+          "helpfulVotes": "6 people found this helpful"
+        },
+        {
+          "reviewTitle": "Best foundation for my 40 year old skin",
+          "reviewText": "40 years old and this is the best foundation for my dry, dull skin that I have tried. I\u2019ve tried all the big brands, Ilia, IT, Tarte, Lanc\u00f4me, you name it. This one is by far my favorite. I fee glowy, dewy, and natural. I love the ingredients too. It does have a minty smell or something faint but goes away very quickly once on.",
+          "reviewDate": "Reviewed in the United States on February 6, 2026",
+          "customer": "Courtney A",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6ZOIBQKL5EAWCN5WPZCZQ2QT2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Linden 1.25N - Light Beige, Neutral Undertones"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not as expected",
+          "reviewText": "Not at all what I had hoped for. The color does match so I\u2019ll give it that. It goes on pretty thick even when applying the thinnest layer. It\u2019s definitely full coverage. There\u2019s a bit of a smell to it that I just can\u2019t get use to. I can literally smell it on my face all day. My eyes tend to burn a bit aswell. I\u2019m assuming it\u2019s smell. It even feels a bit heavy and sticky, even after applying my setting powder.",
+          "reviewDate": "Reviewed in the United States on October 29, 2025",
+          "customer": "Lory",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEBALQIRTFHFUPBEFC6N2NWD67KA",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "Willow 3.00C - Medium Light, Peach-Beige Undertones"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great foundation",
+          "reviewText": "I had moderate expectations for this as I have a hard time finding foundations I like. This is truly a beautiful product. The color matches my skin tone perfectly. It covers imperfections well and somehow manages to stay nice all day without reapplying. It does have a smell upon application as others have mentioned but it seems to go away after a few minutes. I am so happy to use something that works so well and also uses natural ingredients. Love this!",
+          "reviewDate": "Reviewed in the United States on November 29, 2025",
+          "customer": "Laura Kelly",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHODEEJYDEJZ5SUAV5L4D36CIDCA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Poplar 0.10C - Fair, White-Pink Undertones"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Natural looking/Good for skin",
+          "reviewText": "This is a very light to medium coverage foundation. It feels so lightweight and blends very easily. I\u2019ve found that it has fixed my hyper-pigmentation in less than 2 weeks and it keeps my skin hydrated. It\u2019s excellent! I don\u2019t use other foundations anymore.",
+          "reviewDate": "Reviewed in the United States on January 16, 2026",
+          "customer": "Lindsay",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSSUJYVJXTOJ257GSKHMXWBWEZA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Linden 1.25N - Light Beige, Neutral Undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        }
+      ]
+    }
+  }
+}

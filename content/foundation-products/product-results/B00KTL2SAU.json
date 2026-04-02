@@ -1,0 +1,353 @@
+{
+  "requestMetadata": {
+    "id": "dcf7ae7b-bf75-4736-bc77-4430448d2e43",
+    "status": "ok",
+    "html": "https://files.hasdata.com/dcf7ae7b-bf75-4736-bc77-4430448d2e43.html",
+    "json": "https://files.hasdata.com/dcf7ae7b-bf75-4736-bc77-4430448d2e43.json",
+    "url": "https://www.amazon.com/dp/B00KTL2SAU"
+  },
+  "product": {
+    "asin": "B00KTL2SAU",
+    "url": "https://www.amazon.com/dp/B00KTL2SAU",
+    "title": "COVERGIRL Smoothers AquaSmooth Makeup Foundation Ivory, .4 oz",
+    "isAvailable": true,
+    "featureBullets": [
+      "FULL COVERAGE POWDER - It's a full coverage powder to liquid foundation that feels weightless",
+      "LONG LASTING - Gives you long-lasting coverage that's smooth without being heavy",
+      "SPF 20 - Combats the sun's harmful rays for everyday protection against premature aging",
+      "NATURAL LOOKING & RADIANT FINISH - This vitamin-enriched moisturizing foundation hydrates the skin's surface",
+      "VERSATILE - Available in 12 different shades, from light to tan"
+    ],
+    "description": "The COVERGIRL Smoothers AquaSmooth Makeup Foundation is a moisturizing foundation that transforms into liquid during application, giving you long-lasting coverage that's smooth without being heavy. This lightweight foundation has a breathable formula, making your skin look visibly healthier with softer texture and more even tone. This foundation with SPF can combat the sun's harmful rays for everyday protection against premature aging.",
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 9.88,
+      "beforePrice": 12.99,
+      "discount": "-24%",
+      "priceFrom": 9.88,
+      "otherOfferQuantity": 3
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Amazon.com",
+    "shipper": "Amazon.com",
+    "totalImages": 4,
+    "primaryImage": "https://m.media-amazon.com/images/I/51fVxSBEcxL._SL1245_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51fVxSBEcxL._SL1245_.jpg",
+      "https://m.media-amazon.com/images/I/71sZmyFvsRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51u3dL34svL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81WBotK5FEL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/sota/d86eda1b-c3ef-4b16-a8a6-61580ef9efb8._CR47,0,439,439_PT0_SX300__.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b17c9558-8541-42fb-ac11-72a985f24c26.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6d763912-b8e2-40be-800c-dc59d9cc67ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/370d5fbd-e25b-4ae3-af56-1096828c0f59.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "705 Ivory"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Normal"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup,Makeup Foundation"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "COVERGIRL"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Softness,Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Hydrating, Full Coverage"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00022700458332"
+      },
+      {
+        "key": "UPC",
+        "value": "022700458332"
+      },
+      {
+        "key": "Model Number",
+        "value": "80261925"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "423009"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Coty Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#13,590 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #148 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B00KTL2SAU"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "20 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Aging,Breathable,Lightweight,Radiant"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Powder Light"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.02 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "3.63 x 0.8 x 6.63 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Phthalate Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2373,
+      "rating": 4.7,
+      "starRates": {
+        "fiveStars": "83%",
+        "fourStars": "9%",
+        "threeStars": "4%",
+        "twoStars": "1%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find the foundation provides good coverage, with one noting it works well for freckles and discolorations, and appreciate its smooth application that glides over skin like a dream. The product receives positive feedback for its quality, natural-looking finish, and lightweight feel that doesn't feel heavy or cakey. The color match receives mixed reviews - while some say it's a perfect match for their skin, others mention it tends to run dark. Longevity is also mixed, with some saying it lasts all day without needing reapplication while others find it drying.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 104,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 75,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 73,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 38,
+          "status": "positive"
+        },
+        {
+          "aspect": "Smooth application",
+          "count": 36,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 31,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 37,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 36,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71axp7dlCoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81LK625gNWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71Nrfg8jmyL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81j1OhWHKoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71rsStjPUVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41sk2LrbVKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71YBYJFBrSL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Ou6ohECNL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61S5IedWbLL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71BaR0JtvRL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71dG+Qji1LL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Surprisingly good! Shades run a tad dark - Ivory shade may not work for very pale folks",
+          "reviewText": "I\u2019ve used CG products for years, including Simply Powder Foundation in Ivory. I wanted to try out the AquaSmooth in Ivory since I\u2019m aging, and powder foundations look too dry sometimes. It\u2019s a surprisingly great cream makeup for the price! True to its \u201caqua\u201d name, it feels a bit wet/cool when first applied, but quickly dries to very light and natural finish. This stuff truly just feels like my own skin, no heavy cakey crap at all. Glides over fine lines, and lasts all day. Would work for oily skin, which mine still is sometimes. I would describe the coverage as light to medium, depending how much is applied. Note about CG foundations, they tend to run a bit dark. I have warm-toned skin and in other brands I usually wear the 3rd or 4th lightest shade (think \u201cbuff,\u201d \u201csand,\u201d \u201clight beige\u201d). However, with CG AquaSmooth, Ivory is the lightest shade available and it works for me. It is perhaps a *tad* too light, but just a tad. And I\u2019d rather have that, than a yellow or orange line on my neck where the foundation ends! I don\u2019t expect this 0.4-oz compact to last as long as a larger bottle of liquid foundation, but it\u2019s cheap enough and convenient enough that I don\u2019t mind. Makes my skin look beautiful!",
+          "reviewDate": "Reviewed in the United States on October 15, 2023",
+          "customer": "Frogopolis",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEIO2T64CSKT27F3ORHSFVAZNQWQ",
+          "customerStarsRating": 5,
+          "helpfulVotes": "28 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great even coverage. No cracking/creasing my skin as I have aged. Great for maturing skin.",
+          "reviewText": "This is one of the best coverage makeup options for young and maturing skin types. Covers evenly and is light. Doesn't bother my sensitive skin. This is my go to foundation for many years.",
+          "reviewDate": "Reviewed in the United States on December 18, 2025",
+          "customer": "KC",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFXYOKZTVEXGEJKPRWL3ROVOPU3Q",
+          "customerStarsRating": 5,
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup!",
+          "reviewText": "This is the only Cover Girl foundation I can wear, all of their liquid foundations oxidize and turn orange on my fair skin. This formula does not turn orange or break me out. This is my go to makeup. I only wear liquid foundation for special occasions and for those days Maybelline in porcelain is the best fit for me. Aqua Smooth compact foundation is a great product!",
+          "reviewDate": "Reviewed in the United States on December 31, 2025",
+          "customer": "TMarie21",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFKNGMDEY2LDBJXRNFQUPTRCDEWA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great makeup.",
+          "reviewText": "I\u2019ve been using this for a few years. I like that it\u2019s easily applied with the enclosed sponge and is not heavy. It does hide flaws and my face likes it. It provides sun protection. If it\u2019s on my forehead, it will get on the inside of my hats, but it\u2019s really not a problem.",
+          "reviewDate": "Reviewed in the United States on January 21, 2025",
+          "customer": "Wendy B",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHIZEGEN34BWOLH3NE5OHVDRNOGA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Quality product",
+          "reviewText": "Love it will reorder",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Dana L Patterson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGMSMEFLIYJBBHAT5YFYP4E326YQ",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Reliable Everyday Makeup with Some Limits",
+          "reviewText": "I\u2019ve been using this makeup for a long time, and it\u2019s been a go-to for me. It provides good coverage, applies smoothly, and leaves a nice, natural-looking finish. It\u2019s easy to blend and works well for everyday wear. That said, it\u2019s not waterproof or sweat-proof. If it gets wet, it can cake and leave white spots where water beads, so I wouldn\u2019t recommend it for hot, humid days or outdoor activities. Despite that, it\u2019s still a solid choice for normal daily use, and I keep coming back to it because of how easy it is to wear and the consistent coverage it provides.",
+          "reviewDate": "Reviewed in the United States on October 30, 2025",
+          "customer": "Mom",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH7CJ6DISIRFLJCIUTG4QPZPHA5Q",
+          "customerStarsRating": 4
+        },
+        {
+          "reviewTitle": "Works well",
+          "reviewText": "It\u2019s very nice and smooth and works wear and true to color",
+          "reviewDate": "Reviewed in the United States on November 23, 2025",
+          "customer": "Teresa cochran",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHBXAPCLFCB7NJFT3YYLOC3CPUYA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "BEST FOUNDATION FOR MATURE SKIN!",
+          "reviewText": "I did not have high hopes for this but I was BLOWN AWAY by how beautiful it looks on my skin! For reference I\u2019m 50 years old with dry skin with some fine lines around my eyes and a bit of hyperpigmentation here and there. I prepped my skin really well with serums, light but very moisturizing cream, and then patted some vitamin E oil on as a last step. I then applied the foundation with the included sponge and finished by pressing it all in with a damp beauty sponge. This foundation is SO lightweight on the skin but covers beautifully and looks like nothing on the skin. It lasted well on me without powder and kept my skin hydrated but not greasy. It just has this very refined appearance that makes you look like you have naturally perfect skin. I\u2019ve tried all kinds of foundations, drugstore and high end and this easily wins over them all. Truly a hidden gem!",
+          "reviewDate": "Reviewed in the United States on February 17, 2022",
+          "customer": "Stephanie H.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHZK7GJI7QL7Q5IFG2EZTMMGLVYA",
+          "customerStarsRating": 5,
+          "helpfulVotes": "36 people found this helpful"
+        },
+        {
+          "reviewTitle": "Five Stars",
+          "reviewText": "Love this stuff been using it for years!",
+          "reviewDate": "Reviewed in Canada on October 15, 2016",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "I can't buy it in my colour anywhere, not even here on Amazon. Are they not making it anymore?",
+          "reviewText": "It was my favourite foundation for years",
+          "reviewDate": "Reviewed in Australia on March 9, 2024",
+          "customer": "Angella",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Watched a video on YouTube called something like full coverage foundation routein to hide acne and this ...",
+          "reviewText": "Can't believe the corverage!! Watched a video on YouTube called something like full coverage foundation routein to hide acne and this is what they used so I took a gamble and I think it's my forever foundation! In love!",
+          "reviewDate": "Reviewed in the United Kingdom on September 10, 2015",
+          "customer": "Brooke",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "Very nice",
+          "reviewText": "Nice yar",
+          "reviewDate": "Reviewed in India on November 21, 2019",
+          "customer": "Pooja Dwivedi",
+          "customerStarsRating": 5
+        }
+      ]
+    }
+  }
+}

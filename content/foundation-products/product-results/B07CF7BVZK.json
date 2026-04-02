@@ -1,0 +1,414 @@
+{
+  "requestMetadata": {
+    "id": "0e370540-d2c9-4839-b2fb-ffca8dd45171",
+    "status": "ok",
+    "html": "https://files.hasdata.com/0e370540-d2c9-4839-b2fb-ffca8dd45171.html",
+    "json": "https://files.hasdata.com/0e370540-d2c9-4839-b2fb-ffca8dd45171.json",
+    "url": "https://www.amazon.com/dp/B07CF7BVZK"
+  },
+  "product": {
+    "asin": "B07CF7BVZK",
+    "url": "https://www.amazon.com/dp/B07CF7BVZK",
+    "title": "Westmore Beauty Body Coverage Perfector \u2013 Waterproof Leg & Body Makeup/Bronzer For Women - Best Tattoo Cover Up Makeup & Tattoo Concealer - 3.5 Oz Natural Radiance",
+    "isAvailable": false,
+    "primaryFeatures": {
+      "color": "3.5 Oz Natural Radiance"
+    },
+    "featureBullets": [
+      "EXCEPTIONAL BODY PERFECTOR: Available in 6 buildable shades, this innovative leg & body foundation instantly evens your skin tone and conceals everything from stretch marks, dark spots and scars to veins and tattoos for an illuminated, natural-looking glow, the versatile formula is also a great alternative to self tanner",
+      "24-HOUR WEAR: Unlike traditional leg and body makeup, Body Coverage Perfector is waterproof, sweatproof, transfer-resistant and lasts for more than 24 hours",
+      "NATURAL-LOOKING RADIANT FINISH: A combination of treated pigments and light-reflecting minerals suspended in a flexible matrix provide natural-looking coverage that moves with your skin, never feeling heavy or cakey",
+      "EXCLUSIVE TECHNOLOGY: Tri-Effects Technology delivers long-lasting coverage that looks and feels like skin, follow the usage instructions below for best results",
+      "HOW TO USE: Exfoliate, shave, & prime skin with oil-free products, then apply evenly to clean, dry skin and blend in upward & outward motions, buff to remove excess product and allow to dry for 10 minutes before layering or coming into contact with clothes or furniture, apply additional product for buildable coverage, for optimal results, apply with our Blend & Blur Body Makeup Brush"
+    ],
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": false,
+      "bestSeller": true,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Body",
+      "Concealer"
+    ],
+    "variants": [
+      {
+        "asin": "B07GPZTVLH",
+        "title": "7 Oz Natural Radiance",
+        "url": "https://www.amazon.com/dp/B07GPZTVLH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61LzqOirzaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CJZSXQ2J",
+        "title": "3.5 Oz Deep Radiance",
+        "url": "https://www.amazon.com/dp/B0CJZSXQ2J",
+        "imageUrl": "https://m.media-amazon.com/images/I/61btRht8OWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07R3D628G",
+        "title": "7 Oz Bronze Radiance",
+        "url": "https://www.amazon.com/dp/B07R3D628G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zQHKiOvXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CF7BVZK",
+        "title": "3.5 Oz Natural Radiance",
+        "url": "https://www.amazon.com/dp/B07CF7BVZK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DXG5HxGqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07R3CJRGB",
+        "title": "7 Oz Fair Radiance",
+        "url": "https://www.amazon.com/dp/B07R3CJRGB",
+        "imageUrl": "https://m.media-amazon.com/images/I/51RzkV6NT2L._SL1000_.jpg"
+      },
+      {
+        "asin": "B092NVV71L",
+        "title": "7 Oz Warm Radiance",
+        "url": "https://www.amazon.com/dp/B092NVV71L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HODvoEWpL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07CT3JSRV",
+        "title": "3.5 Oz Golden Radiance",
+        "url": "https://www.amazon.com/dp/B07CT3JSRV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gx5aDhu0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09XVNJRP4",
+        "title": "3.5 Oz Light Radiance",
+        "url": "https://www.amazon.com/dp/B09XVNJRP4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61I+KMyLnLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07R2FDBBD",
+        "title": "7 Oz Golden Radiance",
+        "url": "https://www.amazon.com/dp/B07R2FDBBD",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qu6mW-FhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08P53QKJW",
+        "title": "7 Oz Deep Radiance",
+        "url": "https://www.amazon.com/dp/B08P53QKJW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61QmElE9dEL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08P54DGNY",
+        "title": "7 Oz Light Radiance",
+        "url": "https://www.amazon.com/dp/B08P54DGNY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61STzq34psL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09XVNPN3R",
+        "title": "3.5 Oz Warm Radiance",
+        "url": "https://www.amazon.com/dp/B09XVNPN3R",
+        "imageUrl": "https://m.media-amazon.com/images/I/613Xjqeq5IL._SL1500_.jpg"
+      }
+    ],
+    "totalImages": 10,
+    "primaryImage": "https://m.media-amazon.com/images/I/61DXG5HxGqL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61DXG5HxGqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ZT+Frk8jL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71uNdhhGUSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816RJUZWpSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71WUbz369aL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71zA8OVXyRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8148vbBUHYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81DvKjf1xsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/814Ox80CkXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+2SCnXwtL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b6f08be7-282e-4f9d-b55a-07b8d096eb33.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/55b69878-ca9d-4bf0-a6df-83b0e823c4c7.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7f65f5d9-ba79-44f6-999c-e4539cf24cfe.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/132555f9-35f4-4875-a4b8-2ab22052e0d3.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/30e11298-c0af-4061-8d50-fa7fda53287b.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41836be5-0839-4320-a19c-8d135bcfc6d2.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/48ba9eb8-f93c-490a-ac5b-41e508f01166.__CR1,0,400,450_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/357b8e65-3b62-40de-bcee-49c85f66c924.__CR0,0,400,450_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cf283caf-5ad0-49d6-aee9-ea9dd3c48c47.__CR1,0,400,450_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e84dbebb-95be-47a2-97f2-57d1ef658afe.__CR1,0,400,450_PT0_SX200_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f54a99ce-8675-4e15-96d9-e339c8c7a205.__CR1,0,400,450_PT0_SX200_V1___.png"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9e5632fd-f69e-4b79-828a-f570f090bf75.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3a4d604-789c-4ff7-972f-fee710b53c7b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/20103438-5135-4775-ab72-fdc9d0ea1d7d.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "3.5 Oz Natural Radiance"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Color Correction, Leg, Spot Concealing"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Westmore Beauty"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Corrects Imperfections, Radiant Finish"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Natural"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00854331007791"
+      },
+      {
+        "key": "UPC",
+        "value": "858440004603 854331007791"
+      },
+      {
+        "key": "Model Number",
+        "value": "WY.BCP"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "WY.BCP"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Westmore Beauty"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#1,125 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #1 in Body Concealer"
+      },
+      {
+        "key": "ASIN",
+        "value": "B07CF7BVZK"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Lightweight,Waterproof,Radiant"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Radiant"
+      },
+      {
+        "key": "Coverage",
+        "value": "Buildable Coverage"
+      },
+      {
+        "key": "Item Weight",
+        "value": "2.5 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.1 x 0.9 x 6.7 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "3.5 Fluid Ounces"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 8533,
+      "rating": 4,
+      "starRates": {
+        "fiveStars": "58%",
+        "fourStars": "13%",
+        "threeStars": "11%",
+        "twoStars": "7%",
+        "oneStars": "11%"
+      },
+      "customersSay": "Customers find the body foundation easy to apply and appreciate its natural glow and flawless look. Moreover, the product receives positive feedback for its quality, with customers noting it's better than self-tanners. However, the coverage and longevity receive mixed reviews - while some say it covers well and stays all day, others report it doesn't cover tattoos and rubs off on clothes. Additionally, the color receives mixed feedback, with some saying it matches their skin tone well while others find it too dark. The effectiveness and value for money are also mixed, with some saying it works wonders while others find it doesn't work as advertised and consider it overpriced.",
+      "aspects": [
+        {
+          "aspect": "Natural appearance",
+          "count": 385,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 335,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 208,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 488,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Color",
+          "count": 428,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 263,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 215,
+          "status": "negative"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/51qUz3ODGqL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61W0DNCY7iL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61c4wA2qm5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613dxzTzAaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/717LaHMfYwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61wLE4tCKCL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71VI3YDT8bL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/811jsd+BogL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71efmilz3OL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71T+KGf-UiL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71IfhbQ7KIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/613HihGCjQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "I didn't expect a lot but I was pleasantly surprised",
+          "reviewText": "I purchased the body coverage perfector in Natural Radiance because I have horrible red and purple spots and bruising on my arms and legs. I also purchased the brush that is sold along with it. I learned that you need a decent brush to spread and buff out the product. So far, I have worn this on my arms and bottom part of my legs. It was very easy to put on my arms and buff it out, then I sprayed on some inexpensive setting spray that you can buy in Sephora, I waited about 10 minutes and then I got dressed and went out. I was pleasantly surprised at how natural it looked and it didn't come off until later in the day. I have no idea how it would do in the rain. It is much harder to brush onto my legs, it takes a long time and it is harder to get it all even, so I have to practice that. I am in my upper 60's and I have very thin skin that has awful red and purple marks on it, and they are hard to cover. For the darker marks, I put on dermablend corrector in the color Sand (30 N), you can just dab it on the really bad marks and then put Westmore body perfector over it. I do not like the dermablend product all over my arms, it looks fake and it is too heavy. That is why I bought the body perfector, it is lighter and looks far more natural. I'll see how this goes and maybe I'll continue to use it. So, two weeks later I have been using this body coverage perfector in Natural Radiance and I have been tweaking my routine. First off, a lot of reviewers feel that it doesn't have enough coverage, and indeed it is called \"natural radiance\" for a reason, it is supposed to look natural on your skin and not cakey and weird looking. That's why I like it. What I have been doing is to first use a crayon like concealer such as Dermablend quick fix full coverage stick in beige or Minimalist in Bisque, it is thick like a crayon. These are expensive but my dermablend crayon has lasted well over a year and I still have a lot left, so these are used to just dab onto your darkest spots and then use the natural radiance, just put a small amount onto your brush, it has to be a good buffer brush to blend everything in. I don't use Dermablend or Minimalist crayons all over my legs or arms because they are too thick and look unnatural. This is why I like Natural Radiance because it looks like my skin, only better! You should play around with the color of your crayon, you don't want it to be too light or dark, and then play around with how much natural radiance you need to cover up dark spots and veins. I am in my upper 60's and have ugly dark red and purple spots all over my legs and arms and veins, and I know I will never be able to cover up all of these and I'm OK with that. Westmore Natural Radiance makes me look better, not perfect. Try it and see. I have no commercial interest in these products, I make no money from these reviews, so you can trust this 60 something year old women who wants to be able to go out in a nice dress without dreaded stockings!",
+          "reviewDate": "Reviewed in the United States on June 11, 2024",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHJKPTZE437J5BKIIVFAUULWBCQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "3.5 Oz Natural Radiance"
+          },
+          "helpfulVotes": "454 people found this helpful"
+        },
+        {
+          "reviewTitle": "Well worth every Penny!!",
+          "reviewText": "I received my order in less time than estimated. That made me very happy. I tried the product the first time using a smaller kabuki body brush and , although I was ultimately very pleased with the result, I do not recommend using a smaller brush to apply the skin perfector. I wore the skin perfector at work the next day to give it the ultimate sweat test ( I work at a country club and my job requires alot of physical exertion). It stayed put all day! There was a very small amount of transfer, but I think it was due to not having buffed it out enough after I applied it. I showered that night and had no difficulty removing the product with body wash and a scrubbie. But it did stay on without any streaking at all with just plain water. I bought a larger kabuki body brush and reapplied the product tonight. It looks even better than the first time! I love the way my skin shimmers and feels so soft and smooth.. A few more details here.... I live in a tropical climate and it held up great, even with the humidity we've been experiencing lately. Natural Radiance is the shade closest to my skin color , but I purchased Golden Radiance because I love having beautifully tanned skin year round. And it looks really natural. I'm in my late 50s, I have scars, blue veins, and freckles all over from a life well lived, and they virtually disappeared once I applied this product. I've received so many compliments and my self confidence has been restored . I even feel a little healthier with a little spark in my step when I wear this product. Well worth every penny!! I purchased the 7oz tube. I'll definitely be purchasing again !!",
+          "reviewDate": "Reviewed in the United States on August 5, 2025",
+          "customer": "liz cornel",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGH4WD37MNA67VFLSYGWHS5TSJ2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "7 Oz Golden Radiance"
+          },
+          "helpfulVotes": "41 people found this helpful"
+        },
+        {
+          "reviewTitle": "Pretty, but doesn\u2019t fully cover",
+          "reviewText": "I wanted to write a realistic review of this product because I bought it with really high hopes of covering spider veins and blemishes on my legs. I got the Natural Radiance shade because I don\u2019t have a tan yet and didn\u2019t want my legs to look way darker than the rest of my body. The positives I can say are that I love the look of the product on my legs. The shade is really pretty and it gives my skin a shimmery glow. The downside is that it really didn\u2019t cover that well. I applied 2 layers and you could still see the spider veins and blemishes, although they were blurred a bit. So that was disappointing. The other thing is that in a couple of pictures my legs looked pretty orange. They didn\u2019t look like that in person. In the first picture I attached my legs look orange, and in the second picture they don\u2019t. So it probably has to do with the lighting. No filters were used. I do like this product and will continue to use it. If you want your legs to have a shimmery glow and not look so pale, I\u2019d definitely recommend. If you\u2019re expecting full coverage, I wouldn\u2019t buy it.",
+          "reviewDate": "Reviewed in the United States on May 12, 2025",
+          "customer": "Donna Millman",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF44O2YILJEHC2EHDTUS72SO3GGQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "3.5 Oz Natural Radiance"
+          },
+          "helpfulVotes": "182 people found this helpful"
+        },
+        {
+          "reviewTitle": "Body Coverage",
+          "reviewText": "Westmore Beauty Body Coverage is an amazing product. Yes, it\u2019s a little on the pricier side, but the portion you get is generous, and after using it, I completely understand the cost. The quality and coverage make it worth every penny. If you have tattoos, scars, or areas of hyperpigmentation that you want to cover up, this product does the job beautifully. It provides full, natural-looking coverage that doesn\u2019t transfer or smudge, which is a huge plus. I\u2019ve been really impressed with how long it lasts and how easy it is to apply. For anyone looking for reliable, high-quality body coverage, I highly recommend this\u2014especially for the girlies who want flawless, confident coverage.",
+          "reviewDate": "Reviewed in the United States on December 20, 2025",
+          "customer": "Amy Predelus",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEUG6AFK2AM2STHVNY5NJDIVJWSQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "7 Oz Deep Radiance"
+          },
+          "helpfulVotes": "19 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great coverage",
+          "reviewText": "Wow. This cream covered my scars and the marks on my legs. Now able to wear shorts and skirts with confidence. We will definitely try again when I run out of the of the cream.",
+          "reviewDate": "Reviewed in Canada on August 24, 2025",
+          "customer": "Marcia",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "7 Oz Deep Radiance"
+          }
+        },
+        {
+          "reviewTitle": "Dislike",
+          "reviewText": "The product is not at it should be",
+          "reviewDate": "Reviewed in Saudi Arabia on August 5, 2024",
+          "customer": "Fatima",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "3.5 Oz Warm Radiance"
+          }
+        },
+        {
+          "reviewTitle": "Not waterproof or sweat proof",
+          "reviewText": "Please don't get caught to false advertising. This is not waterproof or sweat proof. I destroyed my clothes and my bedsheets. After shower I applied on clean dry skin and waited 30 minutes before I put on my clothes. Trust me this product does not work. Disappointed",
+          "reviewDate": "Reviewed in the United Arab Emirates on June 4, 2025",
+          "customer": "I got it but it's not a cube and it's like thick paste. I took pictures and videos. I am a little scared to use because I feel like the product is not in a good condition.",
+          "customerStarsRating": 1
+        },
+        {
+          "reviewTitle": "POOR COVERAGE",
+          "reviewText": "This does NOT cover spider veins, freckles or anything else. It is quite nice for colour and reflection and goes on easily. It Does transfer onto clothing a bit.",
+          "reviewDate": "Reviewed in Australia on December 30, 2025",
+          "customer": "bookish",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "3.5 Oz Natural Radiance"
+          }
+        },
+        {
+          "reviewTitle": "Bad service",
+          "reviewText": "I got the wrong shade it was way darker plus it oxidizes and turn into orange shade I\u2019ve sent it back from over a month or more ago and never got any response or refund yet.",
+          "reviewDate": "Reviewed in the United Arab Emirates on June 8, 2025",
+          "customer": "Hind",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "color": "7 Oz Natural Radiance"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "requestMetadata": {
+    "id": "a03ca55a-a78d-4878-bf56-ffeb5bcaeb1d",
+    "status": "ok",
+    "html": "https://files.hasdata.com/a03ca55a-a78d-4878-bf56-ffeb5bcaeb1d.html",
+    "json": "https://files.hasdata.com/a03ca55a-a78d-4878-bf56-ffeb5bcaeb1d.json",
+    "url": "https://www.amazon.com/dp/B0D4WYNV8S"
+  },
+  "product": {
+    "asin": "B0D4WYNV8S",
+    "url": "https://www.amazon.com/dp/B0D4WYNV8S",
+    "title": "LAURA GELLER NEW YORK Better Than \u2018Block Skincare-Infused Serum Foundation with Broad Spectrum SPF 50+, Light",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "02 Light"
+    },
+    "featureBullets": [
+      "BETTER THAN 'BLOCK SKINCARE-INFUSED SERUM FOUNDATION: Sunblock and foundation go better together! This all-in-one serum foundation with Broad Spectrum SPF delivers light-to-medium coverage that glides on smoothly for a flawless, even skin tone.",
+      "SHADE LIGHT: Light is for light to medium skin tones.",
+      "SKINCARE + SPF 50 + FOUNDATION: It's powered by a blend of skincare actives like smoothing Niacinamide and revitalizing Vitamins B5 & E, plus antioxidant-rich botanical oils and extracts to help skin fight free radicals from daily environmental stressors like unprotected sun exposure and air pollution. Let this serum-based formula reveal your true radiance!",
+      "UVA/UVB PROTECTION: This do-it-all serum foundation protects from harmful UVA/UVB rays in one simple step while helping your skin look healthy, hydrated, and radiant.",
+      "HOW TO APPLY: Blend all over clean skin with fingers or a foundation brush for a protected complexion, even tone and a boost of skin-friendly nutrients."
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": true
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B09C5P8MDW",
+        "title": "06 Deep",
+        "url": "https://www.amazon.com/dp/B09C5P8MDW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61osZ-V1n2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D4WYNV8S",
+        "title": "02 Light",
+        "url": "https://www.amazon.com/dp/B0D4WYNV8S",
+        "imageUrl": "https://m.media-amazon.com/images/I/61irRFilSqL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09C5PG5NH",
+        "title": "03 Medium",
+        "url": "https://www.amazon.com/dp/B09C5PG5NH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-Sl1OTUYL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D4XDTCDJ",
+        "title": "04 Golden Medium",
+        "url": "https://www.amazon.com/dp/B0D4XDTCDJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ILM5u8BhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09C5PQZNW",
+        "title": "05 Sand",
+        "url": "https://www.amazon.com/dp/B09C5PQZNW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vz0aFXEWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09C5PHCWG",
+        "title": "01 Fair",
+        "url": "https://www.amazon.com/dp/B09C5PHCWG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-v7nR1olL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 23,
+      "beforePrice": 28.79,
+      "discount": "-20%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Laura Geller New York",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A107LV0WKN7KME",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61irRFilSqL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61irRFilSqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81QiWHQa7oL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7118-RUIGrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81lxOxsUQtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81aIzZs9TSL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71BSAXoy4wL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eHFhC5QIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41CYUMZwtsL.jpg",
+      "https://m.media-amazon.com/images/I/41jrwhUQdvL.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f2d43389-0701-405c-81ba-b7dc9852fb46.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3e3ca9d-e0d8-42b5-936a-526441c20899.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b0c8cd93-34de-41f9-9cd4-5d1ec81bfa46.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/50c4d254-c30a-4cb4-8ebb-c01427be7f79.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4aadbedc-da03-42c5-ba07-728a4ed07ddf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b032110-267c-44fa-bd80-82aef2cd93e0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef96ca68-1274-477d-81b9-7fa69162b856.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/281fab0e-634c-4cc6-9604-2def7dce5d1f.__CR114,0,1820,2048_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/24ccb28d-2bef-43f8-a690-a7ed948f9214.__CR114,0,1820,2048_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/718e854a-814b-460a-95da-a9f0365364c8.__CR114,0,1820,2048_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4147d220-1365-43eb-9d88-01bcff190f86.__CR114,0,1820,2048_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a792bb6-3591-42bd-9543-db993a379e92.__CR114,0,1820,2048_PT0_SX200_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5fe4162-070a-437d-8453-216429f2191d.__CR114,0,1820,2048_PT0_SX200_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c0adda8d-03ab-4449-a943-217dbc7c9838.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97f110fb-90ca-4204-b276-28a144d26b18.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c28646a0-fc94-41ef-867b-0d3b979c08fe.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "02 Light"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Combination, Dry, Mature, Normal, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "LAURA GELLER NEW YORK"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating, Ultraviolet Protection"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Light"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "UPC",
+        "value": "849154065684"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "LAURA GELLER NEW YORK"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#5,594 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #109 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0D4WYNV8S"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "50 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Satin"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light-to-Medium Coverage"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.48 Ounce"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Paraben Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 761,
+      "rating": 4.3,
+      "starRates": {
+        "fiveStars": "67%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "5%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find this foundation provides good coverage that's buildable, with a sheer tinted moisturizer that gives a natural glow. The product is excellent for mature skin, doesn't settle into wrinkles, and leaves skin soft and moisturized without being heavy. They appreciate its smooth application with a sponge, and one customer notes it works well with dry skin.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 55,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 41,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 41,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin type compatibility",
+          "count": 37,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 35,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 21,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 20,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71ZusGfdV8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71IzODcupKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71IY59nRxrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71fK9pPr6iL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71vyMeXddBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/619SgmK9jWL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71F4Cb3lfdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71U5oy8ZuDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61BLQ1t3RHL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71zESW273sL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61JIYRm-I0L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/612KI4prPtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Wonderful foundation!",
+          "reviewText": "I love this foundation with sunscreen. It is creamy yet light weight with a perfect amount of buildable coverage. It leaves my skin soft and looking beautiful.",
+          "reviewDate": "Reviewed in the United States on February 3, 2026",
+          "customer": "Lucy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGXS3OJOSTQIA3ZGGOCMUDD4MJHA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Medium"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great coverage",
+          "reviewText": "I love that this is an all-in-one product with SBF, but it also is beautiful on my mature weathered skin and it is not too heavy at all. Wears well all day long",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "Cathi nelson",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH2RTEIU35BD6NAAEW3JZDE777IA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "01 Fair"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Laura Geller",
+          "reviewText": "I like the feel of it and it goes on aged skin well but I don't see much in the coverage for imperfections. At least not yet.",
+          "reviewDate": "Reviewed in the United States on October 5, 2025",
+          "customer": "James A. Woomack",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHLKTFMSGQLAU5FKYV3B2IHHBOMQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "03 Medium"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Just the right coverage and has your skin covered",
+          "reviewText": "This is an excellent foundation with SPF. I used it for a cruise I went on, the coverage is just enough, however, it is buildable. Just like any other sunscreen, you need to reapply every few hours, and I used a powder SPF on top while out in the sun all day. My face stays put and protected from the sun. I usually use a light medium, and I purchased this in Medium. It is a great beige color to match my skin. The consistency is like regular foundation and melts into the skin without feeling heavy. I have dry skin, and I do not feel oily at all.",
+          "reviewDate": "Reviewed in the United States on May 22, 2025",
+          "customer": "ccproductions",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGRZ452S2UQHYEIGRUZQSPYZB2RQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Medium"
+          },
+          "helpfulVotes": "20 people found this helpful"
+        },
+        {
+          "reviewTitle": "Excellent for everyday",
+          "reviewText": "I love this light coverage perfect for everyday",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFEEBKZ6EHJY42QZXZ2C6U43AQWA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "01 Fair"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "great coverage.",
+          "reviewText": "So. I love the coverage, love the color, but i caused my face to breakout. I do very sensative skin and I am guessing the sunblock ingredients irritated my skin. I wanted to love this, but unfortunately cannot.",
+          "reviewDate": "Reviewed in the United States on March 16, 2026",
+          "customer": "Darlene Miller",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGPWINIRDA5DG5DKKCLBJ36QMKCA",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "02 Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "This didn't work for me",
+          "reviewText": "I have other Laura g products, but this one seemed to be too heavy and the color is too yellow.",
+          "reviewDate": "Reviewed in the United States on February 15, 2026",
+          "customer": "Sharon Angel",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFLXCGL4ISYQUVDSM6DOFGPRUP2A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Light"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "It's BACK & BETTER! YAY!",
+          "reviewText": "I love this SPF foundation from Laura Geller. It was gone for a while, and I had one heck of a time trying to find something I liked in its place. But now it's back and I can forget about all those lesser products. I use it as my all over face base, and then apply the rest of my makeup on top. It's very good quality, glides on well, and protects my fair skin from the sun. It doesn't make me greasy, it doesn't make me dry, it's just perfect. Thank you so much for bringing it back!",
+          "reviewDate": "Reviewed in the United States on August 14, 2024",
+          "customer": "Alyssa K.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQVARORQMWFLDV42JG4HP52CO4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "01 Fair"
+          },
+          "helpfulVotes": "12 people found this helpful"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "requestMetadata": {
+    "id": "da9feaab-afd4-4daf-a5b7-14936c66b7fc",
+    "status": "ok",
+    "html": "https://files.hasdata.com/da9feaab-afd4-4daf-a5b7-14936c66b7fc.html",
+    "json": "https://files.hasdata.com/da9feaab-afd4-4daf-a5b7-14936c66b7fc.json",
+    "url": "https://www.amazon.com/dp/B08TQMG68Q"
+  },
+  "product": {
+    "asin": "B08TQMG68Q",
+    "url": "https://www.amazon.com/dp/B08TQMG68Q",
+    "title": "e.l.f. Camo CC Cream, Color Correcting Medium-To-Full Coverage Foundation with SPF 30, Light 240 W, 1.05 Oz (30g)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "1.05 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "CAMO CC CREAM: Ditch your basic foundation! Camo CC Cream is a medium-to-full coverage color correcting foundation formulated with SPF 30 to protect against sun damage and hydrating, youth-boosting ingredients.",
+      "MULTITASKING DREAM CREAM: Camo CC Cream helps you achieve a flawless, airbrushed finish while key ingredients provide skin care benefits that improve skin texture and tone.",
+      "HYDRATING FORMULA: Infused with Hyaluronic Acid to help hydrate and lock in moisture for a plumped up complexion, while Peptides and Niacinamide help to even out skin tone and give you a more refreshed complexion.",
+      "SPF30 SUN PROTECTION: Formulated with SPF30 to protect against sun damage, while giving you a flawless, shine free finish.",
+      "SKIN-LOVING INGREDIENTS: All e.l.f. products are made from skin-loving ingredients you want, minus the toxins you don't\u2014all at good-for-you prices. All e.l.f. products are 100% cruelty-free and Vegan."
+    ],
+    "description": "Ditch your basic foundation! The e.l.f. Cosmetics Camo CC Cream is a color correcting cream that is the only product you need to achieve a natural looking complexion but with full coverage. A multitasking dream CC cream infused with collagen, peptides and niacinamide known to plump, hydrate and smooth the appearance of your skin while protecting with SPF 30. Apply it using our e.l.f. Complexion Duo Brush to achieve a flawless, airbrushed finish.",
+    "boughtInPastMonth": "700+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B09XMWPHRG",
+        "title": "1.05 Ounce (Pack of 1) Fair 125 C",
+        "url": "https://www.amazon.com/dp/B09XMWPHRG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61f+2WBHoKL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQMG68Q",
+        "title": "1.05 Ounce (Pack of 1) Light 240 W-Light With Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B08TQMG68Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eQvMtQXNL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TR985KF",
+        "title": "1.05 Ounce (Pack of 1) Medium 310 C-Medium With Cool Undertones",
+        "url": "https://www.amazon.com/dp/B08TR985KF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61C4L36TJkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQY31Z4",
+        "title": "1.05 Ounce (Pack of 1) Fair 150 C-Fair With Cool Undertones",
+        "url": "https://www.amazon.com/dp/B08TQY31Z4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-AAMA8l7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09XMWJHDQ",
+        "title": "1.05 Ounce (Pack of 1) Medium 370 N",
+        "url": "https://www.amazon.com/dp/B09XMWJHDQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/617zVg9JyvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0999LSP29",
+        "title": "1.05 Ounce (Pack of 1) Light 210 N",
+        "url": "https://www.amazon.com/dp/B0999LSP29",
+        "imageUrl": "https://m.media-amazon.com/images/I/61R7S+c9VSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09XMY115T",
+        "title": "1.05 Ounce (Pack of 1) Fair 100 W",
+        "url": "https://www.amazon.com/dp/B09XMY115T",
+        "imageUrl": "https://m.media-amazon.com/images/I/61zBfhljT4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TR8344X",
+        "title": "1.05 Ounce (Pack of 1) Tan 415 C-Tan With Cool Undertones",
+        "url": "https://www.amazon.com/dp/B08TR8344X",
+        "imageUrl": "https://m.media-amazon.com/images/I/61FxHp0IHmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TRCQYH2",
+        "title": "1.05 Ounce (Pack of 1) Deep 560 C-Deep With Cool Undertones",
+        "url": "https://www.amazon.com/dp/B08TRCQYH2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61o711LSn4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQPCX9K",
+        "title": "1.05 Fl Oz (Pack of 1) Light 210 N",
+        "url": "https://www.amazon.com/dp/B08TQPCX9K",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ZskEd-hGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQZDDV8",
+        "title": "1.05 Ounce (Pack of 1) Medium 355 W-Medium With Warm Undertones",
+        "url": "https://www.amazon.com/dp/B08TQZDDV8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dv7-kKEOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQWY52M",
+        "title": "1.05 Ounce (Pack of 1) Rich 640 W-Rich With Warm Undertones",
+        "url": "https://www.amazon.com/dp/B08TQWY52M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GrKUEsJ2L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09XMVYZCM",
+        "title": "1.05 Ounce (Pack of 1) Light 205 C",
+        "url": "https://www.amazon.com/dp/B09XMVYZCM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RP2F7S6uL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQQ4TCP",
+        "title": "1 Ounce (Pack of 1) Deep 540 N-Deep With Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B08TQQ4TCP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61wJ6qJUrIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQYWNG4",
+        "title": "1.05 Ounce (Pack of 1) Fair 140 W-Fair With Warm Undertones",
+        "url": "https://www.amazon.com/dp/B08TQYWNG4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WAtxPUZSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQNYHVW",
+        "title": "1 Ounce (Pack of 1) Light 280 N-Light With Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B08TQNYHVW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61B6FzTObnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQQ1YCG",
+        "title": "1.05 Ounce (Pack of 1) Deep 510 C-Deep With Cool Undertones",
+        "url": "https://www.amazon.com/dp/B08TQQ1YCG",
+        "imageUrl": "https://m.media-amazon.com/images/I/61uY2NaFX7L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TR2CZDK",
+        "title": "1.05 Ounce (Pack of 1) Deep 500 W-Deep With Warm Undertones",
+        "url": "https://www.amazon.com/dp/B08TR2CZDK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xUl-DezIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TR2SFTF",
+        "title": "1.05 Ounce (Pack of 1) Rich 660 N",
+        "url": "https://www.amazon.com/dp/B08TR2SFTF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ST8wd043L._SL1500_.jpg"
+      },
+      {
+        "asin": "B09XMVP3MQ",
+        "title": "1.05 Ounce (Pack of 1) Tan 460 W",
+        "url": "https://www.amazon.com/dp/B09XMVP3MQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/510Yah7wKDL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TR82HTF",
+        "title": "1.05 Ounce (Pack of 1) Fair 120 N-Fair With Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B08TR82HTF",
+        "imageUrl": "https://m.media-amazon.com/images/I/612LGkhM3nL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09XMV9HZR",
+        "title": "1.05 Ounce (Pack of 1) Deep 530 W",
+        "url": "https://www.amazon.com/dp/B09XMV9HZR",
+        "imageUrl": "https://m.media-amazon.com/images/I/51W5B0i-BdL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TRGHVL3",
+        "title": "1.05 Ounce (Pack of 1) Medium 330 W-Medium With Warm Undertones",
+        "url": "https://www.amazon.com/dp/B08TRGHVL3",
+        "imageUrl": "https://m.media-amazon.com/images/I/615OHOlAF3L._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQVGBS8",
+        "title": "1.05 Ounce (Pack of 1) Tan 450 N-Tan With Neutral Undertones",
+        "url": "https://www.amazon.com/dp/B08TQVGBS8",
+        "imageUrl": "https://m.media-amazon.com/images/I/617eOMAOUgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B09XMXG726",
+        "title": "1.05 Ounce (Pack of 1) Light 250 C",
+        "url": "https://www.amazon.com/dp/B09XMXG726",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cOwjPhSiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08TQN9JFM",
+        "title": "1.05 Ounce (Pack of 1) Rich 620 W-Rich With Warm Undertones",
+        "url": "https://www.amazon.com/dp/B08TQN9JFM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61xjZSiOINL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 13.24,
+      "beforePrice": 16,
+      "discount": "-17%",
+      "priceFrom": 12,
+      "otherOfferQuantity": 5
+    },
+    "condition": "Get it faster",
+    "deliveryRawDate": "Monday, April 6",
+    "deliveryIsoDate": "2026-04-06T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Saturday, April 4",
+    "primeMemberDeliveryIsoDate": "2026-04-04T00:00:00.000Z",
+    "primeMemberMessage": "Order within 5 hrs 35 mins",
+    "primeMemberDeliveryPriceMessage": "fastest",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "Dealz&Stealz4You",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AJT16U13TI70A",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/61eQvMtQXNL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61eQvMtQXNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/5110ZzSzURL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Wg3c1gBZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71igTsDbbzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Ij1jhmLGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61dZGHK+MTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71oGSo7GKYL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/e970fb11-5f71-4b01-a7bf-dac61319b636.__CR0,0,2021,625_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/06eeca51-fb52-43a9-a556-0e53f72f041d.__CR0,0,970,300_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8081369c-879e-4044-a8cb-1af3a9d16a7c.__CR0,0,2022,1251_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/73008312-cb37-40ba-b5f6-6b75914bd79c.__CR0,0,2021,1250_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/79c8f640-d720-4cf9-becb-786f26750e9c.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/10d64dc5-e280-4bfd-b278-1ece777e6df0.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/844f2956-57fd-4720-8774-5f90bf3c9c4f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e3217492-3a91-4007-b236-2e52dbecb518.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3768cfb-86f7-4686-abef-8eea1355112a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/73d55839-377a-4770-bcc5-aac5dba76b51.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Light 240 W-Light With Neutral Undertones"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Color Correction"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "e.l.f."
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Hydrating,Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00609332849143"
+      },
+      {
+        "key": "UPC",
+        "value": "609332849143"
+      },
+      {
+        "key": "Model Number",
+        "value": "84914"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "84914"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "e.l.f. Cosmetics"
+      },
+      {
+        "key": "Item Type Name",
+        "value": "e.l.f. Camo CC Cream, Color Correcting Medium-To-Full Coverage Foundation with SPF 30, Light 240 W, 1.05 Oz (30g)"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#6,421 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #70 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B08TQMG68Q"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "30 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Medium-to-full coverage color correcting foundation with SPF 30 protection, Multi-tasking that provides skin care benefits, Infused hydrating and youth-boosting ingredients known to improve texture tone"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Semi-Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "1.05 Ounces"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.94 x 1.57 x 6.89 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.05 Ounce"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Fragrance Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 7394,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "62%",
+        "fourStars": "15%",
+        "threeStars": "10%",
+        "twoStars": "5%",
+        "oneStars": "8%"
+      },
+      "customersSay": "Customers find the CC cream provides good coverage and appreciate its quality. The color receives mixed feedback - while some find it matches their skin perfectly, others say it's too orange for cool skin tones. Moreover, customers disagree on the texture, with some describing it as smooth while others find it feels cakey. Additionally, the application experience is mixed, with some saying it goes on smoothly while others find it hard to spread. The finish also gets mixed reviews, with some praising its natural-dewy look while others report a cakey appearance.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 259,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 136,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "count": 195,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Dryness",
+          "count": 167,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Consistency",
+          "count": 116,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Texture",
+          "count": 103,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Application",
+          "count": 102,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Finish",
+          "count": 98,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61O8EQIUVPL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61U3iWHxj7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/819042dKXYL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61qERP148HL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71q9reafcDL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/5127OUXwu1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71A+pnj54wL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71GPnlESTQL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/519wOzLdMwL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61CCNgOb5ML._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61q++cACTNL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/B1tcxZ6rKWS._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great Affordable Alternative to IT Cosmetics",
+          "reviewText": "I usually use IT Cosmetics CC Cream, but I decided to try the e.l.f. Camo CC Cream (SPF 30) because it\u2019s much more affordable. It does go on a little thicker than what I\u2019m used to, but once it\u2019s applied it looks great and it stayed on all day. I was also pleasantly surprised by the shade match. Using the Amazon app to match my shade worked really well and the color was very accurate. I\u2019ve only used it for one day so far, but I\u2019m feeling really hopeful about it. It\u2019s saving me a good amount of money since it\u2019s more than half the price of the brand I used before, and so far it\u2019s performing really well. Definitely worth trying!",
+          "reviewDate": "Reviewed in the United States on January 25, 2026",
+          "customer": "Kathleen Clark",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFCOGAJED3FIPSNYZUKVNMIXJL2Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Ounce (Pack of 1)",
+            "color": "Light 205 C"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Probably the BEST 'Your Skin But Better' product!",
+          "reviewText": "I have to say, I remember when E.L.F. first debuted as a cosmetic brand, and they've come an INCREDIBLY long way. I have never been displeased with anything they've come out with in the last two or three years, and there are even a few products of theirs that were so good I either replaced my usual luxury products with it or simply cannot tell the difference. I've never tried a CC Cream before, but have been dying to give it a go, so when I saw this come out I simply HAD to order some. I will say, the package is about on par with what you would normally get from a drugstore brand- it's plastic tubing, and it's not anything especially gorgeous to look at, BUT!!! 1.05 oz is pretty good for the price and quality- my FENTY foundation that I normally use is like $30 or $40 and you still only get 1.08 oz. Now let's talk about coverage, baby! I am a very pasty lady, and because of this ANY hyperpigmentation is super noticeable, especially on my face. I have very rosy cheeks, I have very visible pores on my cheeks and nose, and of course I have some acne scarring from my teenage years. This product covers them smoothly, gracefully, and without any visible caking or creasing. I will say that this is a product you won't want to use for a REALLY full-coverage makeup look, but for my lovelies who like going for a softer, more natural look, this might just be perfect. It's nice and lightweight, and you don't really feel greasy even though it's got a more dewy, natural finish. I am very confident that I could wear this to work and nobody would notice that I had foundation on- which is exactly what I'm going for! And as someone who has difficulty finding foundation that is actually MY shade and not just 'the lightest shade of foundation this brand happens to carry', I do also have to say that they did a fantastic job with their shade matching. So again, I am VERY satisfied with this product, it works very well with products from other brands (I apply a cream blush instead of a powder, and I also tend to use brushes over beauty blenders which do have a way of sometimes scraping makeup off rather than applying more- I have not had a problem with that while using the E.L.F. CC Cream foundation). I highly recommend this to anyone wanting to give a new product a chance.",
+          "reviewDate": "Reviewed in the United States on September 10, 2022",
+          "customer": "Shelby P.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF4GT2IFVO6Z5HXIGHQ5MIJPUH2Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Ounce (Pack of 1)",
+            "color": "Fair 120 N-Fair With Neutral Undertones"
+          },
+          "helpfulVotes": "189 people found this helpful"
+        },
+        {
+          "reviewTitle": "Takes some getting used to, but I'm hooked",
+          "reviewText": "I first bought this among several other drugstore products whilst on a search to replace a high-end foundation that had become too expensive for me to continue buying. The e.l.f. Camo CC Cream had been suggested as something people who liked the other foundation also liked. I tried it, and I absolutely hated it at first -- it goes on very patchy, doesn't last well on my oily skin, and my primer (Smashbox Photo Finish) only made the problems worse. But, I was stuck with the bottle and I figured, \"Well, I don't want it to go to waste. I'll keep it around in case I need a more moisturizing foundation.\" The turning point was actually when the Renaissance Fair came up a few months later. This CC Cream has a SPF 30 which is atypically high for foundation, so in that regard it was perfect for being out all day in the sun. I just had to find a way to make it stay. Since my Renfair makeup is a production that takes weeks or months of test runs there was ample time to devise a system, and ultimately using it in combination with Mehron Barrier Spray kept it on all day in 90 degree heat. Moreover, I learned in the course of my testing that, although the CC Cream tends to come off easier than my preferred foundation, it also repairs more easily than that foundation. Meaning: if I have to do something like wipe my nose and all the makeup comes off, it's simple to retouch with more makeup and not end up with a patchy effect. So, given the realities of wintertime I switched to the Camo CC Cream as my everyday makeup. I also went ahead and bought the e.l.f. Liquid Poreless Putty Primer and that also made a big difference in the wear of this makeup: with the putty primer it's not anywhere near as patchy, and it stays on much better, as well as getting a more flattering matte finish. The necessity of wearing it with the primer does add to the cost per application, but, it's still cheaper than that high-end stuff I was replacing.",
+          "reviewDate": "Reviewed in the United States on October 28, 2024",
+          "customer": "Talia",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEB3NN5F3HJY3X5HAN4NF6XXJVRA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "1.05 Ounce (Pack of 1)",
+            "color": "Fair 120 N-Fair With Neutral Undertones"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Coverage",
+          "reviewText": "Great coverage, natural looking and stays all day!",
+          "reviewDate": "Reviewed in the United States on February 26, 2026",
+          "customer": "b white",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFZMTIQY2EJN5NJPI74UOGNT7NWA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Ounce (Pack of 1)",
+            "color": "Fair 120 N-Fair With Neutral Undertones"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Another Great Elf Product",
+          "reviewText": "This is full coverage with sunscreen and the first of its kind that doesn't bother or irritate my skin.",
+          "reviewDate": "Reviewed in Canada on January 20, 2025",
+          "customer": "Erin Leanne",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Ounce (Pack of 1)",
+            "color": "Fair 125 C"
+          }
+        },
+        {
+          "reviewTitle": "Uncertain of the product",
+          "reviewText": "I feel that this is not at par with the usual CC cream i have bought from Elle. when i apply its not smooth at worst it solidifies hard to apply on the face.",
+          "reviewDate": "Reviewed in Singapore on January 18, 2025",
+          "customer": "Curvy Asian",
+          "customerStarsRating": 2,
+          "productSpecs": {
+            "size": "1.05 Ounce (Pack of 1)",
+            "color": "Light 240 W-Light With Neutral Undertones"
+          }
+        },
+        {
+          "reviewTitle": "Buena cobertura",
+          "reviewText": "Excelente",
+          "reviewDate": "Reviewed in Mexico on January 18, 2026",
+          "customer": "SofiaAC",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "1.05 Ounce (Pack of 1)",
+            "color": "Fair 140 W-Fair With Warm Undertones"
+          }
+        }
+      ]
+    }
+  }
+}

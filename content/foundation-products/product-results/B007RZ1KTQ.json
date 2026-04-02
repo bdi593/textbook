@@ -1,0 +1,550 @@
+{
+  "requestMetadata": {
+    "id": "0c469596-3391-4f4d-8c40-a7068e999f07",
+    "status": "ok",
+    "html": "https://files.hasdata.com/0c469596-3391-4f4d-8c40-a7068e999f07.html",
+    "json": "https://files.hasdata.com/0c469596-3391-4f4d-8c40-a7068e999f07.json",
+    "url": "https://www.amazon.com/dp/B007RZ1KTQ"
+  },
+  "product": {
+    "asin": "B007RZ1KTQ",
+    "url": "https://www.amazon.com/dp/B007RZ1KTQ",
+    "title": "bareMinerals Original Matte Loose Powder Foundation SPF 15, Clean Mineral Powder Face Makeup, Sheer-to-Full Coverage, Reduces Shine, Dermatologist-Tested, Skin-improving Makeup For Sensitive Skin",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Medium Beige 12"
+    },
+    "featureBullets": [
+      "Gives a shine-free coverage",
+      "Infused with extraordinary skin-renewing properties",
+      "Reduces enlarged pores & smoothens out skin",
+      "This super lightweight loose powder foundation",
+      "Perfects your complexion with buildable, sheer to full coverage and a silky matte finish",
+      "It helps control excess oil and protects your skin with non chemical mineral sunscreen"
+    ],
+    "boughtInPastMonth": "1K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B003658QH0",
+        "title": "20 Golden Tan",
+        "url": "https://www.amazon.com/dp/B003658QH0",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ANQK1mLhL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0089LGZMO",
+        "title": "10 Medium",
+        "url": "https://www.amazon.com/dp/B0089LGZMO",
+        "imageUrl": "https://m.media-amazon.com/images/I/61k98GgtR-L._SL1000_.jpg"
+      },
+      {
+        "asin": "B00365A8NK",
+        "title": "27 Warm Deep",
+        "url": "https://www.amazon.com/dp/B00365A8NK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gq1sFsiKL._SL1000_.jpg"
+      },
+      {
+        "asin": "B002DP36RE",
+        "title": "22 Warm Tan",
+        "url": "https://www.amazon.com/dp/B002DP36RE",
+        "imageUrl": "https://m.media-amazon.com/images/I/618A5cfYxmL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0089LH1Y0",
+        "title": "26 Warm Dark",
+        "url": "https://www.amazon.com/dp/B0089LH1Y0",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Gb--FKbBL._SL1000_.jpg"
+      },
+      {
+        "asin": "B004GVR386",
+        "title": "04 Golden Fair",
+        "url": "https://www.amazon.com/dp/B004GVR386",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Eead5TymL._SL1000_.jpg"
+      },
+      {
+        "asin": "B007XT3076",
+        "title": "30 Deepest Deep",
+        "url": "https://www.amazon.com/dp/B007XT3076",
+        "imageUrl": "https://m.media-amazon.com/images/I/61+AdtFOIhL._SL1000_.jpg"
+      },
+      {
+        "asin": "B01N6XUS87",
+        "title": "06 Neutral Ivory",
+        "url": "https://www.amazon.com/dp/B01N6XUS87",
+        "imageUrl": "https://m.media-amazon.com/images/I/61TiN2Z389L._SL1000_.jpg"
+      },
+      {
+        "asin": "B07173N5BY",
+        "title": "16 Golden Nude",
+        "url": "https://www.amazon.com/dp/B07173N5BY",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GULRFTw0L._SL1000_.jpg"
+      },
+      {
+        "asin": "B002O0C462",
+        "title": "Golden Medium 14",
+        "url": "https://www.amazon.com/dp/B002O0C462",
+        "imageUrl": "https://m.media-amazon.com/images/I/611H5Riw-EL._SL1000_.jpg"
+      },
+      {
+        "asin": "B01N9YL487",
+        "title": "02 Fair Ivory",
+        "url": "https://www.amazon.com/dp/B01N9YL487",
+        "imageUrl": "https://m.media-amazon.com/images/I/611mPARQ4QL._SL1000_.jpg"
+      },
+      {
+        "asin": "B071ZDGR36",
+        "title": "07 Golden Ivory",
+        "url": "https://www.amazon.com/dp/B071ZDGR36",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Fy32dmL7L._SL1000_.jpg"
+      },
+      {
+        "asin": "B071ZDGSSZ",
+        "title": "29 Neutral Deep",
+        "url": "https://www.amazon.com/dp/B071ZDGSSZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61o9wH-xWrL._SL1000_.jpg"
+      },
+      {
+        "asin": "B007RZ1KTQ",
+        "title": "Medium Beige 12",
+        "url": "https://www.amazon.com/dp/B007RZ1KTQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Qx6SS-9oL._SL1000_.jpg"
+      },
+      {
+        "asin": "B002O0FV1C",
+        "title": "Golden Tan 20",
+        "url": "https://www.amazon.com/dp/B002O0FV1C",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-MGNcYp0L._SL1000_.jpg"
+      },
+      {
+        "asin": "B0713YZFCV",
+        "title": "24 Neutral Dark",
+        "url": "https://www.amazon.com/dp/B0713YZFCV",
+        "imageUrl": "https://m.media-amazon.com/images/I/61gXEOFM3PL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0728GC78S",
+        "title": "15 Neutral Medium",
+        "url": "https://www.amazon.com/dp/B0728GC78S",
+        "imageUrl": "https://m.media-amazon.com/images/I/610fVg46u9L._SL1000_.jpg"
+      },
+      {
+        "asin": "B01N3AT21W",
+        "title": "13 Golden Beige",
+        "url": "https://www.amazon.com/dp/B01N3AT21W",
+        "imageUrl": "https://m.media-amazon.com/images/I/61DKPSowwZL._SL1000_.jpg"
+      },
+      {
+        "asin": "B003654RSW",
+        "title": "05 Fairly Medium",
+        "url": "https://www.amazon.com/dp/B003654RSW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61P8DvxXdBL._SL1000_.jpg"
+      },
+      {
+        "asin": "B008IEK7X0",
+        "title": "23 Medium Dark",
+        "url": "https://www.amazon.com/dp/B008IEK7X0",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AYliLCucL._SL1000_.jpg"
+      },
+      {
+        "asin": "B071P6D7W8",
+        "title": "17 Tan Nude",
+        "url": "https://www.amazon.com/dp/B071P6D7W8",
+        "imageUrl": "https://m.media-amazon.com/images/I/61fe3fyTZ8L._SL1000_.jpg"
+      },
+      {
+        "asin": "B0089LGWPE",
+        "title": "03 Fairly Light",
+        "url": "https://www.amazon.com/dp/B0089LGWPE",
+        "imageUrl": "https://m.media-amazon.com/images/I/61lwmNJN24L._SL1000_.jpg"
+      },
+      {
+        "asin": "B0038BIQMM",
+        "title": "18 Medium Tan",
+        "url": "https://www.amazon.com/dp/B0038BIQMM",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Q0cVmS50L._SL1000_.jpg"
+      },
+      {
+        "asin": "B072FMWDBN",
+        "title": "21 Neutral Tan",
+        "url": "https://www.amazon.com/dp/B072FMWDBN",
+        "imageUrl": "https://m.media-amazon.com/images/I/618HcUJktfL._SL1000_.jpg"
+      },
+      {
+        "asin": "B071P6CX9M",
+        "title": "09 Light Beige",
+        "url": "https://www.amazon.com/dp/B071P6CX9M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ry6qHGSPL._SL1000_.jpg"
+      },
+      {
+        "asin": "B01L01O6NO",
+        "title": "25 Golden Dark",
+        "url": "https://www.amazon.com/dp/B01L01O6NO",
+        "imageUrl": "https://m.media-amazon.com/images/I/61cxrJrz+-L._SL1000_.jpg"
+      },
+      {
+        "asin": "B0038BDEH4",
+        "title": "28 Golden Deep",
+        "url": "https://www.amazon.com/dp/B0038BDEH4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61w8BtQ99+L._SL1000_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 39,
+      "beforePrice": 39,
+      "discount": "-10%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Tomorrow, April 1",
+    "primeMemberDeliveryIsoDate": "2026-04-01T00:00:00.000Z",
+    "primeMemberMessage": "Order within 10 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "bareminerals",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AE0P6T09OS79V",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61Qx6SS-9oL._SL1000_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61Qx6SS-9oL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81IOxB8KuIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810dozepWjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DfgqmTEUL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816ljtrEr8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81mjtnnq6LL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81xg0++mMpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ehQp6VxDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81MH2hCZ+tL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f5427f20-9848-4ae2-9f67-099cff0d3ddc.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f1dc12d9-158d-49d2-a44d-873870d12f7f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/33c73851-1655-4e90-8ae1-207f7ac976ca.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15bdeda8-a503-40d1-bd91-74ce51b17042.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "totalVideos": 4,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/757b5f6c-c739-432c-8162-d68f0a5001c9.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97f110fb-90ca-4204-b276-28a144d26b18.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a370fad7-e7a0-4cbc-bcec-a318d72edd14.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Powder"
+      },
+      {
+        "key": "Color",
+        "value": "Medium Beige 12"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "bareMinerals"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Flawless"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Medium"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "fragrance-free, natural, not-tested-on-animals"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00098132236718"
+      },
+      {
+        "key": "UPC",
+        "value": "098132236718"
+      },
+      {
+        "key": "Model Number",
+        "value": "BARE-236718"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "98132128136"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Mainspring America, Inc. DBA Direct Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#3,936 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #45 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B007RZ1KTQ"
+      },
+      {
+        "key": "Sun Protection",
+        "value": "15 Sun Protection Factor (SPF)"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Control,Lightweight,Matte,Silky"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Light"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.21 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.2 x 2.2 x 1.2 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Non,Talc Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 10770,
+      "rating": 4.7,
+      "starRates": {
+        "fiveStars": "82%",
+        "fourStars": "10%",
+        "threeStars": "4%",
+        "twoStars": "1%",
+        "oneStars": "3%"
+      },
+      "customersSay": "Customers find this foundation to be the best they've used, noting it works well for oily and acne-prone skin while providing all-day coverage. They appreciate its natural look, matte finish, and value for money, with one customer mentioning it's suitable for overnight wear. While many customers say the color matches their skin tone well, some find it darker than expected.",
+      "aspects": [
+        {
+          "aspect": "Quality",
+          "count": 481,
+          "status": "positive"
+        },
+        {
+          "aspect": "Skin compatibility",
+          "count": 318,
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "count": 274,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 181,
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 175,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 160,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 158,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 241,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71UJMDj6bcL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61eOmdPW5mL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81bxS+UAQJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81Xu-325NdL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/719mBzElvKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81HbFvpAW6L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71CPF9ApXzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/815CP2rTMzL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91-73TeB+hL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/91Xy54YEvKL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/A1jMFWAzVTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71xBnWE5C+L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Finest face powder!",
+          "reviewText": "Great product. I have used it for over 25 years. Young or old skin, it's great. Very light weight, no issues with clumping.",
+          "reviewDate": "Reviewed in the United States on March 1, 2026",
+          "customer": "Sumner",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEQSPZSYQPIA4XSX7ELGV2RXQPBQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Fairly Light"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "I had to buy 3 of these to get the right color.",
+          "reviewText": "I'd suggest getting color matched at an Ulta or the mall because the names of the colors have changed. I thought I could get away with a slight warm (03 I think) because its summer but it was way too yellow and I ended up just going with the lightest color available. I actually use less now that I've gone with the lighter color which is the point of using mineral foundation anyways. They DO NOT list their colors from lightest to darkest, there are variants between the cools, neutrals and warms that can be drastically darker even tho it's a lower number, or drastically lighter even tho it's a higher number. It'd be great if they sold the starter kits with 3 or so shades so you could take a guess and at least get one that matches without having to guess you're shade online. If you don't know your color ahead of time I strongly encourage you to get color matched in store until they have a more cohesive color line up. Other than that, this is the mineral makeup I have loved and used for over 15 years. I do have to touch up every few hours because I have oily skin, even tho I use acne medication. If I scratch or rub my face I just dab a little where it's missing and put another layer of mineral Veil on top. One of the big benefits of this makeup is that you can touch it up easily and flawlessly without having to take everything off and start over. If you sweat a lot or have very oily skin you know how big of a deal that is and is basically a make or break for me because most other foundations if I smudge it I basically have to take off my entire face of foundation and start over because there's no possible way to reapply or touch up one spot. Also if you go a shade lighter as opposed to darker and don't over apply you can really make it look like you're wearing nothing at all. If you feel like you have to use a lot more than instructed you probably aren't using the right shade. When I was using a shade that was slightly too yellow I felt like I have to use a ton, but once I found a better match I barely had to use any. I start around my eyes and nose and once I'm happy with the coverage there I blend it out work what's left on the brush. I've used tons of other foundations and this is still my favorite. It's also the only foundation that doesn't make me break out, even if I forget to wash it off.",
+          "reviewDate": "Reviewed in the United States on August 9, 2024",
+          "customer": "Lauren",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHSRLKR6UL2BRQIIRK34QHLWDR5Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "02 Fair Ivory"
+          },
+          "helpfulVotes": "40 people found this helpful"
+        },
+        {
+          "reviewTitle": "Loved it for years!",
+          "reviewText": "I've been using this stuff for years (10? 15?). I used to get it at Ulta. Or their store in the Mall. I wouldn't use anything else. It covers well and evens out my splotchy complexion. I'm getting these angry red rosacea spots (Ohh, no! The return of pimples at my age?), and I have some old skin cancer scars, and it does a great job of covering everything, without looking gunky.. It's cleaner and easier to use than liquid foundation, and I think it's healthier for my skin. (Sometimes I've even slept with it on, and in the morning my skin feels really soft and smooth.) It doesnt look all \"melty\" in the Summer. (And to be honest, I think liquid foundation used to clog up my sink. But I haven't noticed that with Bare Minerals.) And, BTW, I'm not getting compensated for this. I've just been using it forever and I love it. ( And what else are you going to do at 2 in the morning? Just lidding!)",
+          "reviewDate": "Reviewed in the United States on October 6, 2025",
+          "customer": "daisysmom",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFOX7XVCGROIKNTW2E2P4UDDVDZQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Fairly Light"
+          },
+          "helpfulVotes": "8 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good quality",
+          "reviewText": "Very consistent",
+          "reviewDate": "Reviewed in the United States on March 21, 2026",
+          "customer": "Tula Haynes",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHIW2Q3NYGKJPBRYBACPMHMYIAPQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Medium Beige 12"
+          }
+        },
+        {
+          "reviewTitle": "Great coverage, leaves a slight shine",
+          "reviewText": "The ingredients has changed because it leaves a bit of a shine on my face when it didn't use to. Is buildable although not needed as it has great coverage. Just wish it didn't leave a shine.",
+          "reviewDate": "Reviewed in the United States on November 7, 2025",
+          "customer": "beans",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AE6NVRZR4QUALBTBALN3C7NU4P4Q",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "15 Neutral Medium"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Mineral powder",
+          "reviewText": "Great product",
+          "reviewDate": "Reviewed in the United States on March 26, 2026",
+          "customer": "karla snover",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHDRUPE4OPUEPLG5DEQUN6HS3DFQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "17 Tan Nude"
+          }
+        },
+        {
+          "reviewTitle": "Lightweight, natural-looking coverage that lasts",
+          "reviewText": "This powder gives a beautiful, natural finish without looking heavy or cakey. It blends easily, evens out skin tone, and feels weightless all day. Great for sensitive skin\u2014no irritation or breakouts. A little goes a long way, and it works perfectly for both everyday wear and touch-",
+          "reviewDate": "Reviewed in the United States on January 1, 2026",
+          "customer": "NL",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEGRBEXMV2US5VGRQLJJVFLCHTAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Fairly Light"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Worth your money",
+          "reviewText": "Great product. Did not feel cacky and did not Crack. IT was smooth and left a soft feeling in my skin. Leaving a natural look. I recommend it",
+          "reviewDate": "Reviewed in the United States on January 10, 2026",
+          "customer": "Elizabeth",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AH3WS3TXR5OWRHQVEZHHZP5VXBOA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "10 Medium"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Best foundation I've found yet for oil control and troubled ...",
+          "reviewText": "Expensive but definitely worth it. Best foundation I've found yet for oil control and troubled skin.",
+          "reviewDate": "Reviewed in Canada on August 16, 2017",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05 Fairly Medium"
+          }
+        },
+        {
+          "reviewTitle": "Ivy",
+          "reviewText": "Very good product",
+          "reviewDate": "Reviewed in Saudi Arabia on March 28, 2024",
+          "customer": "user-MF9YFU",
+          "customerStarsRating": 5
+        },
+        {
+          "reviewTitle": "NOT light",
+          "reviewText": "I bought the colour light as im very light in my skin tone, so i naturally thought that it had to be the right one for me. Unfortunately when trying it on, its very yellow and does not fit my skin tone at all. But the covering and feel to the skin seems good.",
+          "reviewDate": "Reviewed in the United Kingdom on February 19, 2013",
+          "customer": "ZarahZ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Golden Tan 20"
+          }
+        }
+      ]
+    }
+  }
+}

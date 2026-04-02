@@ -1,0 +1,432 @@
+{
+  "requestMetadata": {
+    "id": "61a2c746-6f8e-47b8-bd0c-c5fefb5a62f8",
+    "status": "ok",
+    "html": "https://files.hasdata.com/61a2c746-6f8e-47b8-bd0c-c5fefb5a62f8.html",
+    "json": "https://files.hasdata.com/61a2c746-6f8e-47b8-bd0c-c5fefb5a62f8.json",
+    "url": "https://www.amazon.com/dp/B0BLXP964Y"
+  },
+  "product": {
+    "asin": "B0BLXP964Y",
+    "url": "https://www.amazon.com/dp/B0BLXP964Y",
+    "title": "SHEGLAM Hydrating Cream Full Coverage Foundation Balm Long Lasting Concealer Face Foundation for Dry Skin - Shell",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "Shell",
+      "size": "0.81 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "HIGH COVERAGE: Get a flawless high-coverage finish in an instant",
+      "NON-GREASY FORMULA: Using an alkyl silicone treatment, this powder transforms after contact with the skin for a matte high-pigment coverage",
+      "LONG-LASTING ANTIOXIDANT FORMULA: 10-25 micron pre-mixed powder using amino acid wrapping technology to resist oil and sweat for makeup that stays without dulling",
+      "SUITABLE FOR SENSITIVE SKIN: Talc-free, alcohol-free, non-allergenic ingredients",
+      "CRUELTY-FREE: Leaping Bunny Certified"
+    ],
+    "boughtInPastMonth": "400+",
+    "badges": {
+      "amazonChoice": false,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B0C7PWRB3M",
+        "title": "0.81 Ounce (Pack of 1) Truffle",
+        "url": "https://www.amazon.com/dp/B0C7PWRB3M",
+        "imageUrl": "https://m.media-amazon.com/images/I/514ULEfH7WL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BRHPVSP8",
+        "title": "0.81 Ounce (Pack of 1) Wheat",
+        "url": "https://www.amazon.com/dp/B0BRHPVSP8",
+        "imageUrl": "https://m.media-amazon.com/images/I/51q98ygbpCL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FPQ63JZZ",
+        "title": "0.81 Ounce (Pack of 1) Butterscotch",
+        "url": "https://www.amazon.com/dp/B0FPQ63JZZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51P-U26-MSL._SL1200_.jpg"
+      },
+      {
+        "asin": "B0C7PV6XRW",
+        "title": "0.81 Ounce (Pack of 1) Earth",
+        "url": "https://www.amazon.com/dp/B0C7PV6XRW",
+        "imageUrl": "https://m.media-amazon.com/images/I/51P9LA4hEgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BXQ23LQX",
+        "title": "0.81 Ounce (Pack of 1) Fair",
+        "url": "https://www.amazon.com/dp/B0BXQ23LQX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pqPMz8m9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BLXP964Y",
+        "title": "0.81 Ounce (Pack of 1) Shell",
+        "url": "https://www.amazon.com/dp/B0BLXP964Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ASS-9kE4L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0C7PWSZRC",
+        "title": "0.81 Ounce (Pack of 1) Chestnut",
+        "url": "https://www.amazon.com/dp/B0C7PWSZRC",
+        "imageUrl": "https://m.media-amazon.com/images/I/51bRgT4oXnL._SL1200_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 12.19,
+      "beforePrice": 12.19
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "SHEGLAM",
+    "sellerUrl": "https://www.amazon.com/sp?seller=AJ18BP1ECP9Y4",
+    "shipper": "Amazon",
+    "totalImages": 7,
+    "primaryImage": "https://m.media-amazon.com/images/I/51ASS-9kE4L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51ASS-9kE4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Hy33vvvHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61PV5EZ8lqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mToFnt2IL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61nnzECl6gL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AKJkbUGeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61jne690YfL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac27deec-44e4-424e-bf33-22c4f63098d4.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f9657d7-2e8e-49f9-abe2-964e868d179e.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/879dd885-9a32-4327-8dd9-ff4788f84a7c.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df8cef6d-988e-4cb7-88d2-f7dcd48a37c5.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f6c1619a-0a7d-4f39-abdf-995a406359d4.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e2d344d0-c7bf-439f-aa94-90f4a64f35f0.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d8fbaa4-18ed-401c-a5a0-31677edc001c.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/daa38d41-e8d3-45a9-b3ea-39480a7694a2.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ddffa8f6-632c-419a-97f7-30f38a4907b8.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/50f80093-1d56-4e40-bdca-4e0fb59796c9.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b77d2dc-bb9f-43fa-9153-8a5594b64a32.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae7f5402-5356-4468-93e3-10e16ce4f24b.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c4afbbb8-91f0-4b87-a7ec-9e7633abe192.__AC_SR150,300___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d8863db8-9c3e-4c91-9da4-2d1df9ba463f.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d8863db8-9c3e-4c91-9da4-2d1df9ba463f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6cac55e7-b966-478b-a4d1-8ec89fad0772.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7039ec59-8b36-4cea-9317-eb669bbaca6a.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dccd8b8d-d17a-4a49-9586-a6caca9ee1ba.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ae6745cc-188c-4c18-b3b5-b63df2975f51.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Shell"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Oily"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Face Makeup"
+      },
+      {
+        "key": "Container Type",
+        "value": "Jar"
+      },
+      {
+        "key": "Brand Name",
+        "value": "SHEGLAM"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Moisturizing"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "Alcohol Free, Antioxidant, Cruelt"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Box"
+      },
+      {
+        "key": "Model Number",
+        "value": "6973474680341"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "6973474680341"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "SHEGLAM"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#24,068 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #236 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B0BLXP964Y"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Alcohol-free,Antioxidant,Cruelty-free,Hydrating,Matte"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "20 Grams"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "2.26 x 2.26 x 0.76 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol Free,Alcohol-free,Talc-free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 699,
+      "rating": 4.2,
+      "starRates": {
+        "fiveStars": "64%",
+        "fourStars": "16%",
+        "threeStars": "9%",
+        "twoStars": "5%",
+        "oneStars": "6%"
+      },
+      "customersSay": "Customers find the foundation provides great even coverage and blends easily, with one noting it's perfect for covering age spots. The product has a creamy texture that feels great on the face and creates a matte finish that looks extremely natural. Customers appreciate the color match, with one noting it doesn't have a yellow or orange cast, and find it long-lasting with no wear issues. While some customers find it great for dry skin, others report it feels greasy.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 64,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 40,
+          "status": "positive"
+        },
+        {
+          "aspect": "Effectiveness",
+          "count": 39,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 35,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 30,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 27,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 19,
+          "status": "positive"
+        },
+        {
+          "aspect": "Moisturizing",
+          "count": 23,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61G1m4ur1IL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51Im2nAAYFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61FzEdiwrZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61TMTeszxfL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61gFoPFu8vL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41HOhPjk3BL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51daJiyX4EL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71g3V2O-yJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61M7UIO+EtL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51oOHzr3nvL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81ObI9a4a7L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71P9pW2EqVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "No makeup makeup",
+          "reviewText": "Sheglam is underrated. All products I have tried by this brand exceed my expectations and I just want to keep trying more. This foundation is at the top of my list. I have FINALLY gotten the foundation and shade of my dreams. The perfect no makeup makeup at a reasonable price. I bought a fluffy foundation brush separately to apply the product which gave me the look I was hoping to achieve with a small amount of product used. The product is thick, but with the brush and a small amount used, the product goes on easily. The foundation gives a matte finish with full coverage, perfect for on the go days when you don\u2019t feel like doing a full face look. I will definitely repurchase and keep buying more Sheglam!",
+          "reviewDate": "Reviewed in the United States on March 4, 2026",
+          "customer": "Amazon Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGIS2RZ27R4C5KRKGEEZGC4KT2QQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Shell"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good color and consistency",
+          "reviewText": "So far so good ! I like this! Full coverage but able to blend it down to sheer. The color is good for me. I usually pick foundation in shade porcelain. I have had good luck with Revlon colorstay 130 and Maybelline fit me mattte 110. This sheglam fair is a good match for my very fair skin! I will try more products from Sheglam!",
+          "reviewDate": "Reviewed in the United States on February 24, 2026",
+          "customer": "Dreamer1997",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AER7BZ6T2C6PWCTFBF4PVXP5ISMQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Fair"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Nice but not perfect",
+          "reviewText": "I purchased the SHEGLAM Hydrating Cream Full Coverage Foundation Balm in the color Fair. The color is very forgiving and does not have a yellow or orange cast, nor does it seem to oxidize. It is definitely full coverage but can be sheared out if desired. It is lightweight and comfortable. The only con is that the formula in the packaging is dry and not quite so easy to blend but this does not take away from the beautiful coverage or almost flawless skin finish. Just makes it a little more difficult to work with. If you can get past the blending part, it is quite a beautiful foundation balm. Does not make the skin feel dry at all and is not cakey. Long lasting formula.",
+          "reviewDate": "Reviewed in the United States on September 1, 2024",
+          "customer": "LEE C.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHGPPPC5K77I34A73K7W6HPTV4EQ",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Fair"
+          },
+          "helpfulVotes": "16 people found this helpful"
+        },
+        {
+          "reviewTitle": "Good!!!",
+          "reviewText": "I'm pleasantly surprised by this foundation. It has a nice skinlike finish that isn't cakey or overly thick. It blends so nicely into your neck for a seamless transition, and works well with brush application. It doesn't feel overly heavy either. I usually use it with a matte primer and transparent powder to set it, and it lasts all day.",
+          "reviewDate": "Reviewed in the United States on February 10, 2026",
+          "customer": "bee",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQBCZNVNGCW4LJBY7F6OREN724Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Fair"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Amazing Full Coverage Make up",
+          "reviewText": "Creamy and easy to apply. This makeup is full coverage and goes on my skin smoothly and keeps my skin looking flawless for over 6 hours. It won\u2019t run or cake. No allergies no break outs. It\u2019s a very good make up.",
+          "reviewDate": "Reviewed in the United States on January 25, 2026",
+          "customer": "Cindy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFZ65J3DB7PTDRAAXTVZGR45CCVA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Chestnut"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not a good foundation for mature skin",
+          "reviewText": "I wasn't expecting much when I ordered this. I'm 57 and my skin has changed, so I'm always on the lookout for a good foundation. Powder types are horrible for mature skin, I haven't found a serum type I like. Liquid foundations are hit or miss. I thought for the price if it didn't work out I could give it to my daughter, who is a makeup hoarder lol Well, she got this one as well. Looks great on her younger skin, but not on mature skin. I will say the color match was very good(fair/medium, neutral skin tone). It is buildable, but settled into all the fine lines and even with setting spray didn't last long. Again, it works great for my daughter who's in her 30's, but for it definitely wasn't for my mature skin.",
+          "reviewDate": "Reviewed in the United States on April 7, 2025",
+          "customer": "Summer Girl",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGONFSFLEBHTI3LS5DMQ4YQDB25A",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Wheat"
+          },
+          "helpfulVotes": "9 people found this helpful"
+        },
+        {
+          "reviewTitle": "Beautiful finish!",
+          "reviewText": "Honestly, my bar was set low. The price was too good to be true. I was tremendously pleased to see how easy it was to apply. It was smooth and even. The finish was lovely and held up all day. It did not look crepey on my mid fifties face. I love it!",
+          "reviewDate": "Reviewed in the United States on February 23, 2026",
+          "customer": "lisa sikich",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AELQS7F54THTPFTEI57B6ZIXF36A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Fair"
+          },
+          "helpfulVotes": "2 people found this helpful"
+        },
+        {
+          "reviewTitle": "Not as expected",
+          "reviewText": "Was not sealed I\u2019m not sure if this was used previously, but not very happy",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Natnat",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF5KQVA4Z5UUJ5UPQNH3NV35QN5Q",
+          "customerStarsRating": 1,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Fair"
+          }
+        },
+        {
+          "reviewTitle": "This works for me",
+          "reviewText": "This product is perfect for me. I use it more like a concealer and use it around my eyes and several areas on my face. It blends in beautifully and does not settle into the creases around my eyes nor does it go on heavy or cakey. It's very creamy and easy to work with. I will buy this product again",
+          "reviewDate": "Reviewed in Canada on February 23, 2025",
+          "customer": "Lois Mckinnon",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Fair"
+          }
+        },
+        {
+          "reviewTitle": "Makeup artist review",
+          "reviewText": "Packaging and presentation are lovely. Texture has a LOT of slip, and is great for dry skin. Coverage is fairly sheer to moderate, but buildable. I recommend apply with your fingers first, then blend with your brush or sponge. It is very creamy, and easy to work with. No offensive smell either.",
+          "reviewDate": "Reviewed in Canada on September 17, 2024",
+          "customer": "Tunned Turbo",
+          "customerStarsRating": 4
+        },
+        {
+          "reviewTitle": "Got compliments",
+          "reviewText": "So I have never heard of this brand until it show up on my Amazon . I am 47 years old I was looking for something comfortable that would cover my redness and stay comfortably with out looking cakey. I was also looking for a good quality affordable makeup. This was great i use it today . I got nice compliments from my church\u2019s goers and feels light and so far has not settle in my pores. I am happy with this purchase .",
+          "reviewDate": "Reviewed in Canada on June 2, 2024",
+          "customer": "A.CB",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "size": "0.81 Ounce (Pack of 1)",
+            "color": "Shell"
+          }
+        }
+      ]
+    }
+  }
+}

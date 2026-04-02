@@ -1,0 +1,516 @@
+{
+  "requestMetadata": {
+    "id": "9adb517d-5b13-4515-ab32-05f9482f2bb5",
+    "status": "ok",
+    "html": "https://files.hasdata.com/9adb517d-5b13-4515-ab32-05f9482f2bb5.html",
+    "json": "https://files.hasdata.com/9adb517d-5b13-4515-ab32-05f9482f2bb5.json",
+    "url": "https://www.amazon.com/dp/B08KH347FJ"
+  },
+  "product": {
+    "asin": "B08KH347FJ",
+    "url": "https://www.amazon.com/dp/B08KH347FJ",
+    "title": "Jerome Alexander MagicMinerals AirBrush Foundation, Spray Makeup with Skincare Active Ingredients, Ultra-Light, Buildable, Full Coverage Formula (Light Medium)",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "color": "04 Light Medium",
+      "size": "1.8 Fl Oz (70 ml)"
+    },
+    "featureBullets": [
+      "Effortless Beauty: Experience the allure of Jerome Alexander Airbrush Foundation. This makeup foundation offers an ultra-light, buildable, full-coverage formula that creates a flawless and silky-smooth finish, making you feel effortlessly beautiful every day.",
+      "Microfine Mist Technology: Embrace picture-perfect, natural matte skin with our spray on makeup airbrush makeup foundation. The microfine mist technology of this airbrush flawless foundation ensures even, non-streaky coverage that lasts all day, giving you a radiant and flawless look in just seconds.",
+      "Skincare-Infused: Unlock the secret to glowing, healthy skin with our MagicMinerals Airbrush Foundation Spray enriched with a proprietary blend of skincare actives. Hyaluronic Acid, Argireline, and Matrixyl 3000 work their magic, nourishing, hydrating, and reducing the appearance of fine lines and wrinkles.",
+      "Sweat-Proof and Humidity Resistant: Don't let the day's challenges dull your radiance. Our sweat-proof, humidity-resistant, and breathable foundation spray makeup foundation keeps you looking fresh and radiant, no matter what the weather brings.",
+      "Flawless Coverage, Weightless Feel: Revel in the beauty of full coverage without the weight. Our foundation full coverage allows you to control your desired coverage without excess oil, revealing a naturally radiant and youthful complexion that feels as light as air."
+    ],
+    "boughtInPastMonth": "700+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Foundation"
+    ],
+    "variants": [
+      {
+        "asin": "B095Z5198K",
+        "title": "02 Bright Light 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B095Z5198K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GqQR85dZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08KH5645G",
+        "title": "09 Medium Dark 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B08KH5645G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61nq5GkKIlL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DQQRDVPQ",
+        "title": "08 Warm Medium 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQQRDVPQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Hghm-KycL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08KH44RBM",
+        "title": "03 Light 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B08KH44RBM",
+        "imageUrl": "https://m.media-amazon.com/images/I/617-jjlMrQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08ZHH9YXB",
+        "title": "05 Warm Beige 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B08ZHH9YXB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kuJ9PorhL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DQQWQYX5",
+        "title": "07 Medium 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQQWQYX5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61sraGiBdIL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DQQVC9JL",
+        "title": "01 Fair 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQQVC9JL",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+h77Qu+JL._SL1000_.jpg"
+      },
+      {
+        "asin": "B08KH4PLSX",
+        "title": "07 Medium 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B08KH4PLSX",
+        "imageUrl": "https://m.media-amazon.com/images/I/61khBx0byAL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DQR2C7B5",
+        "title": "05 Warm Beige 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQR2C7B5",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Hghm-KycL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08KH598MP",
+        "title": "08 Warm Medium 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B08KH598MP",
+        "imageUrl": "https://m.media-amazon.com/images/I/61NuHQYkZSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DQR2JRBW",
+        "title": "09 Medium Dark 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQR2JRBW",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+h77Qu+JL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0DQR2LKFK",
+        "title": "11 Dark Espresso 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQR2LKFK",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+h77Qu+JL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0DQR5GV5M",
+        "title": "03 Light 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQR5GV5M",
+        "imageUrl": "https://m.media-amazon.com/images/I/61GLjQ1XqnL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DQQZZ6PK",
+        "title": "04 Light Medium 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQQZZ6PK",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AF5edTowL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08KH347FJ",
+        "title": "04 Light Medium 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B08KH347FJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mRDlYtDoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B095Z1XB3Y",
+        "title": "06 Bright Medium 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B095Z1XB3Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/61HcWVRE89L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DQQR8CYW",
+        "title": "12 Cognac 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQQR8CYW",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+h77Qu+JL._SL1000_.jpg"
+      },
+      {
+        "asin": "B0DQQNRWX8",
+        "title": "10 Dark 1 Fl Oz (30 ml)",
+        "url": "https://www.amazon.com/dp/B0DQQNRWX8",
+        "imageUrl": "https://m.media-amazon.com/images/I/41+h77Qu+JL._SL1000_.jpg"
+      },
+      {
+        "asin": "B095Z5SPFF",
+        "title": "12 Cognac 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B095Z5SPFF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ELsY5QRZL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08KGZ7QCL",
+        "title": "10 Dark 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B08KGZ7QCL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Sy3SZRtjL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08KH38F5G",
+        "title": "11 Dark Espresso 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B08KH38F5G",
+        "imageUrl": "https://m.media-amazon.com/images/I/61AMYUK5-LL._SL1500_.jpg"
+      },
+      {
+        "asin": "B08KH4LMNB",
+        "title": "01 Fair 1.8 Fl Oz (70 ml)",
+        "url": "https://www.amazon.com/dp/B08KH4LMNB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61eBVgOHY1L._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 17.99,
+      "beforePrice": 19.99,
+      "discount": "-10%",
+      "priceFrom": 17.99,
+      "otherOfferQuantity": 2
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 19 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "Non-returnable. Transportation of this item is subject to hazardous materials regulation",
+    "seller": "Jerome Alexander",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A7MG853N4L1Y0",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/61mRDlYtDoL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61mRDlYtDoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71aIY2zvcsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qEyRdEqPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BKT41cmqL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/81-7f0nnLrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71xfYiBsQ1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pZkmZdEML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81W30W9JXtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ZYcDX1YWL._SL1500_.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1585d3fa-d119-4761-a902-9ac14a6265ed.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/162814a2-986c-4f2b-b54c-49c5f98b8e3f.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5e30e3d4-3243-4dd1-bd07-89731e18c494.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77950f28-5079-47b1-b0fe-36227f405603.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2899375c-048f-42c2-8e6d-01fc01f0b779.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ae8b186-0080-40bf-8319-693b4d0cfb76.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/311167f2-6c38-416c-a698-e3b0dcdc019c.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a1887a0b-91e3-4db1-8777-d778074099fd.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/43b8d39b-09ff-4412-b9fd-cad25a5bf92b.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/91484529-5a32-417f-b871-e2e5b871fb1a.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Aerosol"
+      },
+      {
+        "key": "Color",
+        "value": "04 Light Medium"
+      },
+      {
+        "key": "Skin Type",
+        "value": "Combination, Dry, Normal, Oily, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "key": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand Name",
+        "value": "Jerome Alexander"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Color Correction"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "Tan"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Bottle"
+      },
+      {
+        "key": "UPC",
+        "value": "812458000064"
+      },
+      {
+        "key": "Model Number",
+        "value": "MMAirBrushSingleParent"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "MMAirBrushSingleParent"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "Jerome Alexander"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#13,391 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #144 in Foundation Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B08KH347FJ"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Breathable, Lightweight"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Matte"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "51 Grams"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Unit Count",
+        "value": "1.8 Ounce"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 2457,
+      "rating": 4.5,
+      "starRates": {
+        "fiveStars": "75%",
+        "fourStars": "13%",
+        "threeStars": "6%",
+        "twoStars": "2%",
+        "oneStars": "4%"
+      },
+      "customersSay": "Customers find this foundation provides good buildable coverage that's easy to apply, with a natural finish that makes their face look flawless from a distance. The product is lightweight, feels smooth on the skin, and matches skin tones perfectly. They appreciate its longevity, noting it stays on all day, and one customer mentions it doesn't get oily.",
+      "aspects": [
+        {
+          "aspect": "Coverage",
+          "count": 146,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 80,
+          "status": "positive"
+        },
+        {
+          "aspect": "Quality",
+          "count": 77,
+          "status": "positive"
+        },
+        {
+          "aspect": "Natural appearance",
+          "count": 63,
+          "status": "positive"
+        },
+        {
+          "aspect": "Lightweight",
+          "count": 59,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color match",
+          "count": 52,
+          "status": "positive"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 42,
+          "status": "positive"
+        },
+        {
+          "aspect": "Texture",
+          "count": 35,
+          "status": "positive"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/61cizvYcovL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61HZkNBm5BL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71WKgyYKZVL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/618E4YaGtnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/610JS3UkQFL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61HhiZZgSoL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61g6LXPZUnL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51r5RtGt+5L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71EoOJmpGEL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61Xj31+lyaL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71A63qwRVUL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-HT6aGtJL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Doesn\u2019t get the credit it deserves! Will only use this!",
+          "reviewText": "Love love love this! Best foundation I have used! I have mature skin, oily Tzone/ combination skin. I swear I have tried everything. Est\u00e9e Lauder, Dior, Haus labs, elf, L\u2019Or\u00e9al, Maybelline, two faced, Fenty, Mac, Nix, unnamed brands. From expensive to not expensive and nothing really seemed to work. It would either pill on my face, oxidize, look oily, and after hours it looked like a mess. This is with toner, moisturizer, and a primer all put on. I thought I would just try this airbrush makeup since I never tried anything airbrush before and it\u2019s the holy grail of foundation! So easy to apply, stays on for hours, doesn\u2019t get oily, and actually covers your face. Plus you can build it up and it still looks flawless and lightweight. Other expensive brands you build up and you can tell you have a ton of makeup on. Not with this! I wish I would have tried this earlier! Would have saved me a crap load of money! I\u2019m just amazed at how long the wear of it is on my face. Even kept it on going to the gym and through a workout and I still looked great afterwards. Highly recommend!",
+          "reviewDate": "Reviewed in the United States on March 20, 2025",
+          "customer": "Becky verfuerth",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEP2LANTWUQJJJWT6T2LANPNG4QQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 Light Medium",
+            "size": "1.8 Fl Oz (70 ml)"
+          },
+          "helpfulVotes": "64 people found this helpful"
+        },
+        {
+          "reviewTitle": "Functionality",
+          "reviewText": "Im 47 and love this foundation. It works well for mature skin. It also blends in nicely and is a great color match. This foundation creates a natural look which I love. I have tried tons of foundations throughout the years and this is the only one I buy!",
+          "reviewDate": "Reviewed in the United States on March 8, 2026",
+          "customer": "Natalie c.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AF2VJEIHPPUNEQ3JO6W2S34QP6RA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "09 Medium Dark",
+            "size": "1.8 Fl Oz (70 ml)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great lightweight foundation with good coverage!",
+          "reviewText": "This makeup was delivered just as promised and is exactly the shade and 2 I ordered. And by the way this make is wonderful for mature skin, gliding without caking and covers blemishes and age spots so well! It\u2019s the only foundation I have used for several years now!",
+          "reviewDate": "Reviewed in the United States on March 27, 2026",
+          "customer": "Kindle Customer",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGHZWBRBKLLJKVGFL4ZFYA7X2DLQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "01 Fair",
+            "size": "1.8 Fl Oz (70 ml)"
+          }
+        },
+        {
+          "reviewTitle": "I buy this over and over!!",
+          "reviewText": "This is my hands down quick out the door foundation. Applies super easy and so quick to perfect. Matches easily. Good for all skin types, texture is great too! I recommend this especially great for those new to 'airbrush' makeup",
+          "reviewDate": "Reviewed in the United States on December 7, 2025",
+          "customer": "Mindy Cole",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFFE4HHJCFLNFMJHT73JNNSRYVKA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "03 Light",
+            "size": "1.8 Fl Oz (70 ml)"
+          },
+          "helpfulVotes": "3 people found this helpful"
+        },
+        {
+          "reviewTitle": "Found my shade",
+          "reviewText": "I\u2019ve bought this five or six times and received compliments on my skin looking glowy or tanned. I had 3 different shades and never felt like it was exactly right. Finally tried a fourth shade because I loved the formula and feel of the makeup. Dead on match. I sometimes mix the shades one on top of the other depending on season. Fantastic makeup. Lasts a long time because you only need a couple of sprays for good coverage. It gives much better results than the more expensive ones. I have also purchased half a dozen other foundations this past year including giving in to the relentless ads for il makiage. I keep going back to Jerome Alexander.",
+          "reviewDate": "Reviewed in the United States on March 13, 2026",
+          "customer": "LC",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFWX4QQGNJMVLQYEXK57N7VIWV7A",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "01 Fair",
+            "size": "1.8 Fl Oz (70 ml)"
+          }
+        },
+        {
+          "reviewTitle": "Great for mature skin. Goes on evenly and smoothly.",
+          "reviewText": "I have used this for about five years now and will not be switching back to the old stuff. This goes on with such a smooth finish and makes my mature skin look flawless.",
+          "reviewDate": "Reviewed in the United States on February 22, 2026",
+          "customer": "Beth",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFLECMTAHBABVAP23TM7HHEC2QAQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "03 Light",
+            "size": "1.8 Fl Oz (70 ml)"
+          },
+          "helpfulVotes": "5 people found this helpful"
+        },
+        {
+          "reviewTitle": "Great option",
+          "reviewText": "I used to use the designer brand E.L. and their prices kept increasing exponentially, I figured why not give this a try, and I\u2019m SO glad I did! For a fraction of the price this is a beautiful, creamy, buildable foundation that lasts a nice long time. Highly recommend!",
+          "reviewDate": "Reviewed in the United States on March 15, 2026",
+          "customer": "Debi Benton",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AFQ245PY6OWUTYA5XTFFOHKINF4Q",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "05 Warm Beige",
+            "size": "1.8 Fl Oz (70 ml)"
+          }
+        },
+        {
+          "reviewTitle": "Evidently the brush is not with it",
+          "reviewText": "I bought this twice and did not get the brush",
+          "reviewDate": "Reviewed in the United States on February 28, 2026",
+          "customer": "Willie W.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGFE5GDHIU7FEGP22RNX7SAYSBRQ",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "09 Medium Dark",
+            "size": "1.8 Fl Oz (70 ml)"
+          }
+        },
+        {
+          "reviewTitle": "Air brush foundation",
+          "reviewText": "This foundation is so great. It goes on as smooth as butter. Nice coverage. My skin actually feels smoother after using it. Loving this foundation!",
+          "reviewDate": "Reviewed in Canada on July 13, 2023",
+          "customer": "kimster",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 Light Medium",
+            "size": "1.8 Fl Oz (70 ml)"
+          }
+        },
+        {
+          "reviewTitle": "Perfect foundation",
+          "reviewText": "Amazing lovely natural finish",
+          "reviewDate": "Reviewed in Canada on August 6, 2025",
+          "customer": "Anne",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "08 Warm Medium",
+            "size": "1.8 Fl Oz (70 ml)"
+          }
+        },
+        {
+          "reviewTitle": "This product covers all the redness I struggle with in a foundation.",
+          "reviewText": "I\u2019ve always had difficulty finding a product to cover the redness I struggle with and this product does that. It also looks very natural.",
+          "reviewDate": "Reviewed in Canada on February 26, 2023",
+          "customer": "Seb Hrabok",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "04 Light Medium",
+            "size": "1.8 Fl Oz (70 ml)"
+          }
+        }
+      ]
+    }
+  }
+}

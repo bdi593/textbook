@@ -1,0 +1,807 @@
+{
+  "requestMetadata": {
+    "id": "ed0eb150-457b-448f-a7d3-e4325f7db406",
+    "status": "ok",
+    "html": "https://files.hasdata.com/ed0eb150-457b-448f-a7d3-e4325f7db406.html",
+    "json": "https://files.hasdata.com/ed0eb150-457b-448f-a7d3-e4325f7db406.json",
+    "url": "https://www.amazon.com/dp/B01LXJHM36"
+  },
+  "product": {
+    "asin": "B01LXJHM36",
+    "url": "https://www.amazon.com/dp/B01LXJHM36",
+    "title": "L.A. Girl HD Pro.Conceal, Peach Corrector GC994",
+    "isAvailable": true,
+    "primaryFeatures": {
+      "size": "0.28 Ounce (Pack of 1)"
+    },
+    "featureBullets": [
+      "Lightweight, creamy texture",
+      "Long-wearing, crease-resistant formula",
+      "Correct, conceal, contour, & highlight",
+      "Ideal for all skin types",
+      "Cruelty-free & fragrance-free"
+    ],
+    "description": "A concealer that needs no introduction. The L.A. Girl HD PRO.conceal is the holy grail of concealers. The creamy, yet lightweight texture provides complete, natural-looking coverage with a \u2018barely there\u2019 feel and all-day wear. Our top selling color correctors camouflage darkness under the eyes, reduce redness, and eliminate hyperpigmentation so you can stress less and slay more. A brush tip applicator makes placement easier than ever \u2013 gently squeeze the product into the brush and apply as needed. Although PRO.conceal provides flawless coverage for its day job, as a side hustle you can use it to contour and highlight, snatching your features \u2013 just like the PROs.",
+    "boughtInPastMonth": "4K+",
+    "badges": {
+      "amazonChoice": true,
+      "amazonExclusive": false,
+      "amazonPrime": true,
+      "bestSeller": false,
+      "limitedTimeDeal": false
+    },
+    "breadcrumbs": [
+      "Beauty & Personal Care",
+      "Makeup",
+      "Face",
+      "Concealers & Neutralizers"
+    ],
+    "variants": [
+      {
+        "asin": "B07HR27XXF",
+        "title": "Truffle 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR27XXF",
+        "imageUrl": "https://m.media-amazon.com/images/I/61X4EEirhGL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BW3HNGPN",
+        "title": "Dark Cocoa 0.28 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BW3HNGPN",
+        "imageUrl": "https://m.media-amazon.com/images/I/51cjoJqw6TL._SL1106_.jpg"
+      },
+      {
+        "asin": "B0DS59KNYC",
+        "title": "Almond 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0DS59KNYC",
+        "imageUrl": "https://m.media-amazon.com/images/I/71JtRV2f59L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DK83QCKL",
+        "title": "Pink 0.28 Ounce (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0DK83QCKL",
+        "imageUrl": "https://m.media-amazon.com/images/I/71w+zub23XL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CW7D9FCJ",
+        "title": "Cool Tan 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CW7D9FCJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/51anYDl5XKL.jpg"
+      },
+      {
+        "asin": "B01LY6VMLY",
+        "title": "Light Yellow Corrector 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01LY6VMLY",
+        "imageUrl": "https://m.media-amazon.com/images/I/51HKNM7XxiL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CJ2VZ27R",
+        "title": "Beautiful Bronze 0.28 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CJ2VZ27R",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WGVanefcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR2NGRC",
+        "title": "Suede 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR2NGRC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jAW1ERJrL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01LXJHM36",
+        "title": "Peach Corrector 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01LXJHM36",
+        "imageUrl": "https://m.media-amazon.com/images/I/614Y26kEytL._SL1500_.jpg"
+      },
+      {
+        "asin": "B009WHZXW2",
+        "title": "Classic Ivory 0.28 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B009WHZXW2",
+        "imageUrl": "https://m.media-amazon.com/images/I/610uCpY1hkL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR34T15",
+        "title": "Buff 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR34T15",
+        "imageUrl": "https://m.media-amazon.com/images/I/61kFT5sS7eL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR4QY1R",
+        "title": "Flat White Corrector 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR4QY1R",
+        "imageUrl": "https://m.media-amazon.com/images/I/61qea6y4VaL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CB6C3DDR",
+        "title": "Lavender Corrector 0.28 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CB6C3DDR",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KGt78U6WL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007MJKHVO",
+        "title": "Pure Beige 0.28 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B007MJKHVO",
+        "imageUrl": "https://m.media-amazon.com/images/I/51ehzLqyEZL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0CB6CQVHY",
+        "title": "Creamy Beige 0.28 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CB6CQVHY",
+        "imageUrl": "https://m.media-amazon.com/images/I/518eBXlpXDL.jpg"
+      },
+      {
+        "asin": "B0BW3XY589",
+        "title": "Pure Beige 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BW3XY589",
+        "imageUrl": "https://m.media-amazon.com/images/I/51AkotT6eXL.jpg"
+      },
+      {
+        "asin": "B009WI073Q",
+        "title": "Espresso 0.28 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B009WI073Q",
+        "imageUrl": "https://m.media-amazon.com/images/I/61o6oGrSDWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007MJKHN2",
+        "title": "Natural 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B007MJKHN2",
+        "imageUrl": "https://m.media-amazon.com/images/I/61dqmGWBWzL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CJM76MD9",
+        "title": "Nude 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CJM76MD9",
+        "imageUrl": "https://m.media-amazon.com/images/I/71jKmngPwoL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR3Q941",
+        "title": "Fairest 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR3Q941",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yHVv-+9IL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0FYKDK9Z8",
+        "title": "Light Tan 0.28 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0FYKDK9Z8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71KQAJ0UO9L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VKKJ01Y",
+        "title": "Yellow Corrector 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00VKKJ01Y",
+        "imageUrl": "https://m.media-amazon.com/images/I/618C4U+suWL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR251MW",
+        "title": "Bisque 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR251MW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61E0YlFCqXL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BK1VP8QW",
+        "title": "Light Yellow Corrector 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BK1VP8QW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61L1RkIb0VL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR429Y7",
+        "title": "Champagne Highlighter 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR429Y7",
+        "imageUrl": "https://m.media-amazon.com/images/I/71X4uP8RAyL._SL1500_.jpg"
+      },
+      {
+        "asin": "B009WI08QW",
+        "title": "Beautiful Bronze 0.28 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B009WI08QW",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-Mn3XgVvL._SL1500_.jpg"
+      },
+      {
+        "asin": "B009WI05BU",
+        "title": "Fawn 0.28 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B009WI05BU",
+        "imageUrl": "https://m.media-amazon.com/images/I/51FCMf0qyuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007MJKHPA",
+        "title": "Creamy Beige 0.28 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B007MJKHPA",
+        "imageUrl": "https://m.media-amazon.com/images/I/51bK8oiKusL._SL1080_.jpg"
+      },
+      {
+        "asin": "B0DS585RRV",
+        "title": "Medium Beige 0.28 Ounce (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0DS585RRV",
+        "imageUrl": "https://m.media-amazon.com/images/I/715lXXkJalL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR2XWXQ",
+        "title": "Cool Nude 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR2XWXQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/618lKdy5K8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CW73P8ZP",
+        "title": "Flat White Corrector 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CW73P8ZP",
+        "imageUrl": "https://m.media-amazon.com/images/I/71rwMns3lsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00HZIFOZQ",
+        "title": "Nude 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00HZIFOZQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/615koAajQsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007MJKHTQ",
+        "title": "Medium Bisque 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B007MJKHTQ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61jJ3wzx8+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR44QT4",
+        "title": "Tawny 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR44QT4",
+        "imageUrl": "https://m.media-amazon.com/images/I/61pa2Ws2l+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B009WI07U4",
+        "title": "Chestnut 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B009WI07U4",
+        "imageUrl": "https://m.media-amazon.com/images/I/51OMFuHktML._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CB6GT6C8",
+        "title": "Espresso 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CB6GT6C8",
+        "imageUrl": "https://m.media-amazon.com/images/I/71SFkOKMN6L._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VKIJPNE",
+        "title": "Light Ivory 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00VKIJPNE",
+        "imageUrl": "https://m.media-amazon.com/images/I/512bnkMnGBL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BGQTHKT6",
+        "title": "Chestnut 0.28 Ounce (Pack of 5)",
+        "url": "https://www.amazon.com/dp/B0BGQTHKT6",
+        "imageUrl": "https://m.media-amazon.com/images/I/41X-2bK0quL.jpg"
+      },
+      {
+        "asin": "B07HR4CGQH",
+        "title": "Iridescent Highlighter 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR4CGQH",
+        "imageUrl": "https://m.media-amazon.com/images/I/61RDAHe7MxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR3TGTN",
+        "title": "Pink 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR3TGTN",
+        "imageUrl": "https://m.media-amazon.com/images/I/61nIN1UXLxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DRG29X97",
+        "title": "Buff 0.28 Ounce (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0DRG29X97",
+        "imageUrl": "https://m.media-amazon.com/images/I/51S3QMHzzWL._SL1001_.jpg"
+      },
+      {
+        "asin": "B0CB6CSWKZ",
+        "title": "Medium Bisque 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CB6CSWKZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71jYe6tmiLL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CW7LQTZX",
+        "title": "Toast 0.28 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CW7LQTZX",
+        "imageUrl": "https://m.media-amazon.com/images/I/71IPAAh7z0L._SL1500_.jpg"
+      },
+      {
+        "asin": "B009WI04PM",
+        "title": "Warm Honey 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B009WI04PM",
+        "imageUrl": "https://m.media-amazon.com/images/I/51chJNNExTL._SL1024_.jpg"
+      },
+      {
+        "asin": "B007MJKHWI",
+        "title": "Warm Sand 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B007MJKHWI",
+        "imageUrl": "https://m.media-amazon.com/images/I/61Xhu64vLQL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01LWKARXV",
+        "title": "Highlighter 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01LWKARXV",
+        "imageUrl": "https://m.media-amazon.com/images/I/51g5WEl5WVL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR5BV5L",
+        "title": "Vanilla 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR5BV5L",
+        "imageUrl": "https://m.media-amazon.com/images/I/61mXLFPB53L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0BW2YYRST",
+        "title": "Mahogany 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0BW2YYRST",
+        "imageUrl": "https://m.media-amazon.com/images/I/71CGBq+VIcL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR2SSWZ",
+        "title": "Mint Corrector 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR2SSWZ",
+        "imageUrl": "https://m.media-amazon.com/images/I/61vtevABLeL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CB6CYW23",
+        "title": "Light Ivory 0.28 Ounce (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CB6CYW23",
+        "imageUrl": "https://m.media-amazon.com/images/I/6167UYcZp8L._SL1500_.jpg"
+      },
+      {
+        "asin": "B0G452JZN8",
+        "title": "Champagne Highlighter 0.28 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0G452JZN8",
+        "imageUrl": "https://m.media-amazon.com/images/I/81uUV73IzFL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DNLH33H8",
+        "title": "Fairest 0.28 Ounce (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0DNLH33H8",
+        "imageUrl": "https://m.media-amazon.com/images/I/41oFGb85AYL._SL1001_.jpg"
+      },
+      {
+        "asin": "B007MJKI22",
+        "title": "Almond 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B007MJKI22",
+        "imageUrl": "https://m.media-amazon.com/images/I/61K+RjSwE+L._SL1500_.jpg"
+      },
+      {
+        "asin": "B007MJKI54",
+        "title": "Cool Tan 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B007MJKI54",
+        "imageUrl": "https://m.media-amazon.com/images/I/51fxWbCG-RL._SL1080_.jpg"
+      },
+      {
+        "asin": "B00T85AFAS",
+        "title": "Dark Cocoa 0.28 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00T85AFAS",
+        "imageUrl": "https://m.media-amazon.com/images/I/51qLNmkqv9L._SL1024_.jpg"
+      },
+      {
+        "asin": "B00VKIJI1I",
+        "title": "Mahogany 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00VKIJI1I",
+        "imageUrl": "https://m.media-amazon.com/images/I/61-rv9hQjSL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0D1FZSMQJ",
+        "title": "Vanilla 0.28 Ounce (Pack of 4)",
+        "url": "https://www.amazon.com/dp/B0D1FZSMQJ",
+        "imageUrl": "https://m.media-amazon.com/images/I/71VZ83R6BsL._SL1500_.jpg"
+      },
+      {
+        "asin": "B00VKKJ2I0",
+        "title": "Green Corrector 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B00VKKJ2I0",
+        "imageUrl": "https://m.media-amazon.com/images/I/51rN+eIcadL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR56VGR",
+        "title": "Light Tan 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR56VGR",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ELpYDxkfL._SL1500_.jpg"
+      },
+      {
+        "asin": "B007MJKHZ0",
+        "title": "Medium Beige 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B007MJKHZ0",
+        "imageUrl": "https://m.media-amazon.com/images/I/61S1hO78VOL._SL1500_.jpg"
+      },
+      {
+        "asin": "B01M1H3RSB",
+        "title": "Lavender Corrector 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B01M1H3RSB",
+        "imageUrl": "https://m.media-amazon.com/images/I/61N0xotinmL._SL1500_.jpg"
+      },
+      {
+        "asin": "B07HR4LN4P",
+        "title": "Reddish Corrector 0.28 Fl Oz (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B07HR4LN4P",
+        "imageUrl": "https://m.media-amazon.com/images/I/616rJWnucgL._SL1500_.jpg"
+      },
+      {
+        "asin": "B009WI06DC",
+        "title": "Toffee 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B009WI06DC",
+        "imageUrl": "https://m.media-amazon.com/images/I/61ixgqmcXxL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CNQ6GTPL",
+        "title": "Blue 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B0CNQ6GTPL",
+        "imageUrl": "https://m.media-amazon.com/images/I/61X0VOfzKuL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0DRFYXGC2",
+        "title": "Tawny 0.28 Fl Oz (Pack of 3)",
+        "url": "https://www.amazon.com/dp/B0DRFYXGC2",
+        "imageUrl": "https://m.media-amazon.com/images/I/71lnnalFdtL._SL1500_.jpg"
+      },
+      {
+        "asin": "B0CB6FC8TT",
+        "title": "Warm Honey 0.28 Fl Oz (Pack of 2)",
+        "url": "https://www.amazon.com/dp/B0CB6FC8TT",
+        "imageUrl": "https://m.media-amazon.com/images/I/513jrpIcW3L._SL1096_.jpg"
+      },
+      {
+        "asin": "B009WI042K",
+        "title": "Toast 0.28 Ounce (Pack of 1)",
+        "url": "https://www.amazon.com/dp/B009WI042K",
+        "imageUrl": "https://m.media-amazon.com/images/I/61UakbybOgL._SL1500_.jpg"
+      }
+    ],
+    "price": {
+      "symbol": "$",
+      "currentPrice": 5.49,
+      "beforePrice": 6,
+      "discount": "-9%"
+    },
+    "condition": "One-time purchase",
+    "deliveryRawDate": "Sunday, April 5",
+    "deliveryIsoDate": "2026-04-05T00:00:00.000Z",
+    "deliveryPriceMessage": "FREE",
+    "primeMemberDeliveryRawDate": "Thursday, April 2",
+    "primeMemberDeliveryIsoDate": "2026-04-02T00:00:00.000Z",
+    "primeMemberMessage": "Order within 9 hrs 20 mins",
+    "primeMemberDeliveryPriceMessage": "FREE",
+    "returns": "FREE 30-day refund/replacement",
+    "seller": "rigle",
+    "sellerUrl": "https://www.amazon.com/sp?seller=A3HQNF3RWD6VPQ",
+    "shipper": "Amazon",
+    "totalImages": 9,
+    "primaryImage": "https://m.media-amazon.com/images/I/614Y26kEytL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/614Y26kEytL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/612DmKP97aL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81IhqPRhb4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cj-J1tFsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81igliW01CL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81n0AZ7YnHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716H7r51lKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uPQKu6mkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51xuAhXHA7L.jpg"
+    ],
+    "descriptionImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c92b592c-4e0b-4746-9806-9e5a8be96da5.__CR0,88,2625,812_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a93949a2-4df4-4ba0-957b-10bb766d7092.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a34bf779-fe0e-401b-9cef-da128612c0a4.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1352d5cd-ffe0-491f-88fb-044e815ba099.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2daeed44-4572-4eac-98be-7d50169edf0b.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/743c0265-5a7b-4547-94ca-2ceee21ce6a0.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/26a91c05-c4d0-4c8d-b928-b42003a03f48.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5acae58-31bb-4cab-a4ff-af56f46dff4b.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e5e24465-816e-4fae-9ede-3bcd6db50c97.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28048479-a0bb-43cc-9dd7-519ccdd015fc.__CR0,0,970,300_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa42fef5-36a6-4954-bdad-e205122010d4.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b95c61e3-1627-4897-b6aa-1301165af357.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/75c0fca3-8a1c-4a99-99f1-2e14afdbd2ed.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a8f98d09-61bc-4f51-b096-14877573d01d.__AC_SR150,300___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5de922c8-7d22-4528-8fab-065a13f1e413.__AC_SR150,300___.jpg"
+    ],
+    "totalVideos": 5,
+    "primaryVideo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+    "videos": [
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15ab878f-5c45-41e1-8ec6-bbad23f41ad8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5b625ab3-7057-46b6-8275-94f5ef253b3f.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9e5632fd-f69e-4b79-828a-f570f090bf75.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/861d9125-f09c-4db2-9e72-7f1b0c65def8.mp4/productVideoOptimized.mp4",
+      "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f88016e1-1342-4b01-95e7-85036eecbd58.mp4/productVideoOptimized.mp4"
+    ],
+    "specification": [
+      {
+        "key": "Item Form",
+        "value": "Cream"
+      },
+      {
+        "key": "Color",
+        "value": "Peach Corrector"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All, Combination, Normal, Sensitive"
+      },
+      {
+        "key": "Recommended Uses For Product",
+        "value": "All, Concealer, Peach Corrector, Contouring, Skin, Skin Imperfections"
+      },
+      {
+        "key": "Container Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Brand Name",
+        "value": "L.A. Girl"
+      },
+      {
+        "key": "Product Benefits",
+        "value": "Blemishes Treatment, Color Correction, Dark Circles Treatment, Smoothing, Softening"
+      },
+      {
+        "key": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "key": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "key": "Specialty",
+        "value": "crease-resistant, opaque coverage, long-wearing formula, blendable and buildable formula, ultimate, customizable coverage"
+      },
+      {
+        "key": "Country as Labeled",
+        "value": "China"
+      },
+      {
+        "key": "Package Type Name",
+        "value": "Tube"
+      },
+      {
+        "key": "Global Trade Identification Number",
+        "value": "00081555969943, 00748690341552, 00804482372019"
+      },
+      {
+        "key": "UPC",
+        "value": "804482372019 748690341552"
+      },
+      {
+        "key": "Model Number",
+        "value": "GC994"
+      },
+      {
+        "key": "Manufacturer Part Number",
+        "value": "GC994"
+      },
+      {
+        "key": "Manufacturer",
+        "value": "L.A. Girl Cosmetics"
+      },
+      {
+        "key": "Best Sellers Rank",
+        "value": "#948 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #9 in Concealers & Neutralizing Makeup"
+      },
+      {
+        "key": "ASIN",
+        "value": "B01LXJHM36"
+      },
+      {
+        "key": "Additional Features",
+        "value": "Cruelty Free, Travel Size"
+      },
+      {
+        "key": "Finish Types",
+        "value": "Natural"
+      },
+      {
+        "key": "Coverage",
+        "value": "Full"
+      },
+      {
+        "key": "Item Weight",
+        "value": "0.02 Pounds"
+      },
+      {
+        "key": "Item Dimensions",
+        "value": "0.94 x 0.63 x 4.44 inches"
+      },
+      {
+        "key": "Number of Items",
+        "value": "1"
+      },
+      {
+        "key": "Material Type Free",
+        "value": "Alcohol Free, Aluminum Free, Dye Free, Oil Free"
+      }
+    ],
+    "reviewsInfo": {
+      "totalReviews": 62173,
+      "rating": 4.4,
+      "starRates": {
+        "fiveStars": "70%",
+        "fourStars": "14%",
+        "threeStars": "8%",
+        "twoStars": "3%",
+        "oneStars": "5%"
+      },
+      "customersSay": "Customers find the concealer effective and appreciate its coverage, particularly for dark circles, and consider it good value for money. Moreover, the product applies smoothly without being cakey and blends well with skin. However, the color receives mixed feedback, with some finding it perfect while others note it's darker than expected. Additionally, the consistency and longevity get mixed reviews - while some love the consistency and say it stays throughout the day, others find it runny and say it comes off quickly.",
+      "aspects": [
+        {
+          "aspect": "Effectiveness",
+          "status": "positive"
+        },
+        {
+          "aspect": "Coverage",
+          "status": "positive"
+        },
+        {
+          "aspect": "Value for money",
+          "count": 689,
+          "status": "positive"
+        },
+        {
+          "aspect": "Blendability",
+          "count": 470,
+          "status": "positive"
+        },
+        {
+          "aspect": "Application",
+          "count": 333,
+          "status": "positive"
+        },
+        {
+          "aspect": "Color",
+          "status": "mixed"
+        },
+        {
+          "aspect": "Consistency",
+          "count": 540,
+          "status": "mixed"
+        },
+        {
+          "aspect": "Longevity",
+          "count": 466,
+          "status": "mixed"
+        }
+      ],
+      "customersImageUrls": [
+        "https://m.media-amazon.com/images/I/71Tm7XQI8PL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61-IDiT8KZL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61PzuDaj-1L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71yMQ1eCijL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/716dkKrgBIL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/51TRWkQV00L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/71R77e3yRBL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61bnMz6tuTL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61tBgRM5zmL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/41yNrcjy1TL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/61LajiVCN8L._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews",
+        "https://m.media-amazon.com/images/I/81bpbetqMrL._AC_UC308,308_CACC,308,308_QL80_.jpg?aicid=community-reviews"
+      ],
+      "reviews": [
+        {
+          "reviewTitle": "Great to neutralize dark circles",
+          "reviewText": "Great stuff and color to neutralize the dark circles under my eyes. I move it with my fingertip under the eye and even the upper inner 1/3 eye lid to counter the purplish of the blood vessel in those areas. It's sheer (after a fingertip application, I blend the edges with a sponge) so I use another great concealer (thicker, more matched to my skin tone on top) Fiera Luxury Concealer on top. Also the price is terrific!",
+          "reviewDate": "Reviewed in the United States on February 16, 2026",
+          "customer": "Mar",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHDTXRYNE2DSSVRWY53M3BV6CBSA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Yellow Corrector",
+            "size": "0.28 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "4 people found this helpful"
+        },
+        {
+          "reviewTitle": "My FAVORITE Concealer!!",
+          "reviewText": "I will forever be a L.A. Girl Pro Concealer girly. Out of all the concealers I\u2019ve used (even expensive brands) this product never disappoints. I like that you can build on it. It doesn\u2019t cake up after hours of wear. You can blend it right away to get a great coverage. One of my favorite products!!",
+          "reviewDate": "Reviewed in the United States on March 28, 2026",
+          "customer": "DeeAsiah",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHOBBJ6KFVZ2I2CHUDTDNW722BGA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Cool Tan",
+            "size": "0.28 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Not As Pigmented as Expected",
+          "reviewText": "You need multiple layers (apply, let dry, apply, let dry, etc) to make it fully pigmented. The brush tip applicator is not my favorite. Very difficult to use and the product goops up the tip when you squeeze it.",
+          "reviewDate": "Reviewed in the United States on March 20, 2026",
+          "customer": "Piper A.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AG7K73RGJBHCEQZOHSKIVEUR7NMA",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Flat White Corrector",
+            "size": "0.28 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Perfect for pale skin and actually covers dark spots.",
+          "reviewText": "I can't believe this concealer is still around! I used it way back in high school, but I remember the quality was pretty bad, so I stopped using it. I'm now in my 30s, and I have been noticing dark spots under my eye bag area, so I've been on the hunt for a color corrector. Concealer is no longer enough, so I need something to neutralize these spots. The thing is that I'm super pale, so the standard pink is way too dark for me. I did my research and found that light pink is my best bet. L.A. Girl is one of the few brands that carries a light pink color corrector. And because I've never used a color corrector before, I figured that it made sense to start with this brand since it's cheap, so I don't have to worry about wasting product while I play around with it to see what application technique and product amount work best for me. To my surprise, it works really well! I applied it over my foundation and under concealer. At first, I thought it looked a bit dry and slightly patchy, but it looked amazing after using my setting spray. I even used a tiny bit under my eyes just because I wanted to see if it made a difference, and it did. My undereye area looks vibrant and brightened, but most important of all, it covers those pesky dark spots. I put it to the test over the weekend because I had events to go to and had my makeup on for 12+ hours at a time. It was extremely hot on one day, and I did sweat a little, but the color corrector did not budge. Everything remained intact and covered, so I'm officially sold. I love that it works well with high-end products (my primer is Tatcha, foundation is Dior, concealer is Giorgio Armani, and setting powder is Givenchy). I don't know if L.A. Girl changed their formula, but it seems that it significantly improved. What hasn't improved is the packaging. I don't mind the squeeze tube, but I feel like the applicator tip has got to go. I personally don't find the brush tip helpful or hygienic. I would prefer that it come with a plastic tip applicator so it's easy to keep it clean. I've been squeezing a bit on the back of my hand and then applying it with my fingers because applying it directly with the skinny little brush tip just doesn't make any sense to me. But other than that, it's a great product. I'm glad I decided to give L.A. Girl another chance.",
+          "reviewDate": "Reviewed in the United States on July 21, 2024",
+          "customer": "Leona",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEFUR3WZ3OOYDRJCPMTKSLIATAPQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Pink",
+            "size": "0.28 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "80 people found this helpful"
+        },
+        {
+          "reviewTitle": "Really well performing for the price!",
+          "reviewText": "I happen to like this better than some of the higher end concealers and keep coming back to it. It\u2019s kind of hard to match your color on here though. I don\u2019t think the color chart they have is very accurate. Some of the lighter colors appear quite dark on the reference. For example, I\u2019m quite fair but I use the color \u201cbisque\u201d. On the chart though it appears quite dark. I\u2019ve bought this previously in a store, so I happened to already know what color I use.. so if you\u2019re not sure and between colors, I would go with the slightly darker shade than you would usually, since the colors show darker on the chart? I recommend using this after your skin care and a hydrating eye cream, maybe one with hyaluronic acid over one that\u2019s oil based, because it can look a little dry if your skin isn\u2019t prepped well. So hydrate your skin first. It\u2019s quite a full coverage concealer so a little goes a long way. I personally like to set it with a light dusting of a translucent loose powder on a fluffy brush. Elf makes a pretty decent powder and affordable one. If your skin is more mature, after you\u2019ve done the rest of your makeup, minus your mascara, use a hydrating setting spray and let it dry before you do your mascara as your last step. (my favorite setting spray is \u201cAlgenist splash\u201d but it\u2019s a little pricy. Heard elf makes a decent and affordable one too) also if you find it creases a little under your eyes, use a q-tip and gently swipe where it has settled and looks good as new! Hope this helps a little",
+          "reviewDate": "Reviewed in the United States on May 11, 2025",
+          "customer": "PJM",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AEGAH2EN3FD6NP3ILV6ZLKSJCUOQ",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Bisque",
+            "size": "0.28 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "50 people found this helpful"
+        },
+        {
+          "reviewTitle": "Wrong color for my skin. The pink is better.",
+          "reviewText": "Great product. Not a great color on my skin v",
+          "reviewDate": "Reviewed in the United States on March 22, 2026",
+          "customer": "Nancy I.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AGQHUMMRJZBEXOD3Z74CKMGP625Q",
+          "customerStarsRating": 3,
+          "productSpecs": {
+            "color": "Lavender Corrector",
+            "size": "0.28 Fl Oz (Pack of 2)"
+          }
+        },
+        {
+          "reviewTitle": "Blends very good with other L.A. concealer",
+          "reviewText": "Very good, so glad I got it and I like how I can blend it with my other shades of L.A.GirlConcealers",
+          "reviewDate": "Reviewed in the United States on March 18, 2026",
+          "customer": "BG.",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AETJJX3BBQFU5SK7E7NWZLEV4EIA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Chestnut",
+            "size": "0.28 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great for red patches",
+          "reviewText": "I love this product. I'm not one who likes Foundation or concealers. I don't believe in putting this under my eyes especially as I age. I bought this because I have red patchy skin and broken blood vessels. It really helps balance the redness and brightens my skin tone. I wish it were a bit more creamy but it's a product that I absolutely love it's a great price. I have warm but light skin. I purchased the green and light yellow. I like both but the green is almost too much correction. Must blend more.",
+          "reviewDate": "Reviewed in the United States on March 12, 2026",
+          "customer": "scwroxy",
+          "customerProfileUrl": "https://www.amazon.com/gp/profile/amzn1.account.AHYKYZRUDB7VINMKQWMAT4OP5GAA",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Yellow Corrector",
+            "size": "0.28 Ounce (Pack of 1)"
+          },
+          "helpfulVotes": "One person found this helpful"
+        },
+        {
+          "reviewTitle": "Green is great for redness",
+          "reviewText": "I'm fair skinned with rosacea so got the green one to cover my redness. This product is thick and highly pigmented. It took me a few tries to get it right without looking like Shrek lol but now I just use the tiniest amount as a spot concealer or mixed in with my tinted sunscreen or liquid foundation. It's affordable and doesn't irritate my sensitive skin- I highly recommend it.",
+          "reviewDate": "Reviewed in Australia on October 9, 2025",
+          "customer": "Amazon Customer",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Green Corrector",
+            "size": "0.28 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Brilliant!",
+          "reviewText": "Just what I wanted. Great coverage.",
+          "reviewDate": "Reviewed in the United Kingdom on February 14, 2026",
+          "customer": "Tracey Rowland-Kaye",
+          "customerStarsRating": 5,
+          "productSpecs": {
+            "color": "Yellow Corrector",
+            "size": "0.28 Ounce (Pack of 1)"
+          }
+        },
+        {
+          "reviewTitle": "Great Concealer",
+          "reviewText": "Im searcing for a white concealer because all of of the concealers are to dark for me where I'm from so I can mix the 2 it dose exactly want I want it to do and it blends into my skin well I have dry skin ! the shipping dose take long but I think its definitely worth it thank you to LA girl for thinking of people that have very light skin ! &lt,3 I can recomemed it",
+          "reviewDate": "Reviewed in Germany on June 14, 2022",
+          "customer": "Lauren64",
+          "customerStarsRating": 4,
+          "productSpecs": {
+            "color": "Flat White Corrector",
+            "size": "0.28 Ounce (Pack of 1)"
+          }
+        }
+      ]
+    }
+  }
+}
