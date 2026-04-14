@@ -1,0 +1,740 @@
+{
+    "username": "marvel",
+    "fullName": "Marvel Entertainment",
+    "biography": "The official Instagram for Marvel comics, movies, games, and more.",
+    "businessCategory": "None",
+    "businessCategoryName": "Brand",
+    "bioLinks": [
+        "http://marvel.com"
+    ],
+    "externalUrls": "http://marvel.com/",
+    "followersCount": 64491205,
+    "followsCount": 197,
+    "highlightsCount": 23,
+    "igtvVideoCount": 769,
+    "postsCount": 11102,
+    "isBusinessAccount": true,
+    "isProfessionalAccount": true,
+    "fbid": "17841400751083197",
+    "latestIgtvVideos": [
+        {
+            "shortcode": "Ck1VKKeBaq3",
+            "caption": "In celebration of Marvel Studios\u2019 Black Panther: Wakanda Forever, @Disney is hosting community screenings of the film across the country and awarding $1 million in grants to support youth in STEM and the arts. Learn more about the Disney Future Storytellers initiative on Marvel.com.",
+            "type": "Video",
+            "mentions": [
+                "@Disney"
+            ],
+            "url": "https://www.instagram.com/p/Ck1VKKeBaq3/",
+            "commentsCount": 136,
+            "likesCount": 119143,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-11-11T20:00:44.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "CkzWO5SBHQg",
+            "caption": "An iconic cast.\n \nWatch to see who knows their castmate best and see Marvel Studios\u2019 Black Panther: Wakanda Forever in theaters tonight. Get tickets now: Link in Bio",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/CkzWO5SBHQg/",
+            "commentsCount": 190,
+            "likesCount": 103570,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-11-11T01:31:36.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "CkzPURPpxoO",
+            "caption": "Which characters would make a dream team? Hear from the cast and director of Marvel Studios\u2019 Black Panther: Wakanda Forever.\n\nExperience the film in theaters tonight.",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/CkzPURPpxoO/",
+            "commentsCount": 315,
+            "likesCount": 219901,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-11-11T00:31:21.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "Ckv3CO7v_me",
+            "caption": "When a new threat keeps the citizens of Dashville from achieving their dreams, The Dashers answer the call to save the day. Find out if good prevails in our new comic story with @doordash!",
+            "type": "Video",
+            "mentions": [
+                "@doordash"
+            ],
+            "url": "https://www.instagram.com/p/Ckv3CO7v_me/",
+            "commentsCount": 50,
+            "likesCount": 65314,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-11-09T17:03:21.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "Ckq7Hf7NOeU",
+            "caption": "Marvel Studios\u2019 Black Panther: Wakanda Forever is almost here! Get ready for the film\u2019s debut with the soundtrack, @ProximityMedia\u2019s Black Panther podcast, and more! It\u2019s time for your #MarvelMinute with host @JoshSaleh.",
+            "type": "Video",
+            "hashtags": [
+                "#MarvelMinute"
+            ],
+            "mentions": [
+                "@ProximityMedia",
+                "@JoshSaleh"
+            ],
+            "url": "https://www.instagram.com/p/Ckq7Hf7NOeU/",
+            "commentsCount": 38,
+            "likesCount": 73794,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-11-07T19:00:44.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "Ckqtb7wpNWf",
+            "caption": "A true visionary.\n \nGo behind the making-of Ryan Coogler\u2019s Marvel Studios\u2019 Black Panther: Wakanda Forever, only in theaters this Friday. Get tickets now: Link in Bio.",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/Ckqtb7wpNWf/",
+            "commentsCount": 249,
+            "likesCount": 155196,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-11-07T17:01:11.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "CkjT2bHha_6",
+            "caption": "Discover @m_giacchino\u2019s dream behind the making of Marvel Studios\u2019 Special Presentation: Werewolf by Night.\n \nMarvel Studios\u2019 Special Presentation: Director by Night is now streaming only on @DisneyPlus.",
+            "type": "Video",
+            "mentions": [
+                "@m_giacchino",
+                "@DisneyPlus"
+            ],
+            "url": "https://www.instagram.com/p/CkjT2bHha_6/",
+            "commentsCount": 235,
+            "likesCount": 247258,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-11-04T20:02:50.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "Cki0wF2tv4P",
+            "caption": "In one week, Wakanda returns. Witness Marvel Studios\u2019 Black Panther: #WakandaForever, only in theaters November 11.\n\nGet tickets now: Link in Bio.",
+            "type": "Video",
+            "hashtags": [
+                "#WakandaForever"
+            ],
+            "url": "https://www.instagram.com/p/Cki0wF2tv4P/",
+            "commentsCount": 734,
+            "likesCount": 480485,
+            "dimensionsWidth": 612,
+            "dimensionsHeight": 952,
+            "timestamp": "2022-11-04T15:31:11.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "CkghH_jP8QZ",
+            "caption": "Witness the making of #SheHulk: Attorney at Law. \ud83d\udc9a\ud83d\udcaa\n \nMarvel Studios' Assembled: The Making of She-Hulk: Attorney at Law, an Original special, is now streaming on @DisneyPlus.",
+            "type": "Video",
+            "hashtags": [
+                "#SheHulk"
+            ],
+            "mentions": [
+                "@DisneyPlus"
+            ],
+            "url": "https://www.instagram.com/p/CkghH_jP8QZ/",
+            "commentsCount": 588,
+            "likesCount": 154301,
+            "dimensionsWidth": 612,
+            "dimensionsHeight": 952,
+            "timestamp": "2022-11-03T18:01:12.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "CkbeBwDBFkL",
+            "caption": "\u201cHe\u2019s coming for the surface world.\u201d\n \nIn 10 days, experience Namor in Marvel Studios\u2019 Black Panther: Wakanda Forever. Get tickets now: Link in Bio.",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/CkbeBwDBFkL/",
+            "commentsCount": 943,
+            "likesCount": 437448,
+            "dimensionsWidth": 612,
+            "dimensionsHeight": 952,
+            "timestamp": "2022-11-01T18:58:19.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "CkTv_8Nvq6Q",
+            "caption": "What does it take to rule an underwater kingdom? \ud83c\udf0a Witness @TenochHuerta as Namor in Marvel Studios\u2019 Black Panther: #WakandaForever.",
+            "type": "Video",
+            "hashtags": [
+                "#WakandaForever"
+            ],
+            "mentions": [
+                "@TenochHuerta"
+            ],
+            "url": "https://www.instagram.com/p/CkTv_8Nvq6Q/",
+            "commentsCount": 132,
+            "likesCount": 118735,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-10-29T19:01:20.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "CkTiRSmoVyx",
+            "caption": "How did She-Hulk smash her way to the screen? \ud83d\udc4a Go behind the scenes of Marvel Studios' #SheHulk: Attorney at Law with VFX Supervisors Shannon Justison and Dadi Einarsson.",
+            "type": "Video",
+            "hashtags": [
+                "#SheHulk"
+            ],
+            "url": "https://www.instagram.com/p/CkTiRSmoVyx/",
+            "commentsCount": 1675,
+            "likesCount": 248716,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-10-29T17:01:29.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        }
+    ],
+    "latestPosts": [
+        {
+            "shortcode": "DW6rooFj1h7",
+            "caption": "Hey Frank.\n\nA Marvel Television Special Presentation: The Punisher: One Last Kill premieres May 12, only on Disney+.",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/DW6rooFj1h7/",
+            "commentsCount": 6460,
+            "likesCount": 894666,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-09T16:03:11.000Z",
+            "ownerUsername": "marvelstudios",
+            "taggedUsers": [
+                {
+                    "username": "marvel",
+                    "fullName": "Marvel Entertainment"
+                },
+                {
+                    "username": "disneyplus",
+                    "fullName": "Disney+"
+                },
+                {
+                    "username": "thepunisher",
+                    "fullName": "The Punisher"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWzRHzZDy3O",
+            "caption": "All hell breaks loose. \n \nStream Marvel Television\u2019s #DaredevilBornAgain Season 2 now, only on Disney+. And don\u2019t miss A Marvel Television Special Presentation: The Punisher: One Last Kill, streaming May 12 on Disney+.",
+            "type": "Video",
+            "hashtags": [
+                "#DaredevilBornAgain"
+            ],
+            "url": "https://www.instagram.com/p/DWzRHzZDy3O/",
+            "commentsCount": 1215,
+            "likesCount": 260211,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-06T19:00:03.000Z",
+            "ownerUsername": "marvelstudios",
+            "taggedUsers": [
+                {
+                    "username": "marvel",
+                    "fullName": "Marvel Entertainment"
+                },
+                {
+                    "username": "disneyplus",
+                    "fullName": "Disney+"
+                },
+                {
+                    "username": "krystenritter",
+                    "fullName": "Krysten Ritter"
+                },
+                {
+                    "username": "daredevil",
+                    "fullName": "Matt Murdock"
+                },
+                {
+                    "username": "thepunisher",
+                    "fullName": "The Punisher"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DSm9IhOFL4k",
+            "caption": "Doomsday is coming. December 18, 2026. #AvengersDoomsday",
+            "type": "Image",
+            "hashtags": [
+                "#AvengersDoomsday"
+            ],
+            "url": "https://www.instagram.com/p/DSm9IhOFL4k/",
+            "commentsCount": 6635,
+            "likesCount": 2381386,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1350,
+            "alt": "Photo shared by Marvel Studios on December 23, 2025 tagging @marvel, and @avengers.",
+            "timestamp": "2025-12-23T14:05:07.000Z",
+            "ownerUsername": "marvelstudios",
+            "taggedUsers": [
+                {
+                    "username": "marvel",
+                    "fullName": "Marvel Entertainment"
+                },
+                {
+                    "username": "avengers",
+                    "fullName": "Avengers"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW7Gz_HD-NM",
+            "caption": "This week in Hell\u2019s Kitchen...\ud83c\udf73\ud83c\udfaf\ud83e\udd4a\n\u00a0\nStream a new episode of Marvel Television\u2019s #DaredevilBornAgain Season 2 now on Disney+.",
+            "type": "Carousel",
+            "hashtags": [
+                "#DaredevilBornAgain"
+            ],
+            "url": "https://www.instagram.com/p/DW7Gz_HD-NM/",
+            "commentsCount": 415,
+            "likesCount": 93579,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1440,
+            "alt": "Photo shared by Marvel Studios on April 09, 2026 tagging @marvel, and @daredevil. May be a meme of one or more people, people smoking, poster, magazine and text that says 'DAREDEVIL MATNEL \u0e40\u0e19\u0e40\u0e15\u0e25\u0e19 SEASON2 Disney+ X @Just_Brones I don't care what anyone says. This man right here is such an incredible actor. Bringing to life such twisted character and making you root for him every step of the way is just insane. #daredevilbornagain VAPE CERTIFIED FRESH Rotten Retten Tomatees'.",
+            "timestamp": "2026-04-09T20:00:00.000Z",
+            "ownerUsername": "marvelstudios",
+            "taggedUsers": [
+                {
+                    "username": "marvel",
+                    "fullName": "Marvel Entertainment"
+                },
+                {
+                    "username": "daredevil",
+                    "fullName": "Matt Murdock"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW6r6xdEoRR",
+            "caption": "A Marvel Television Special Presentation: The Punisher: One Last Kill premieres May 12, only on Disney+.",
+            "type": "Image",
+            "url": "https://www.instagram.com/p/DW6r6xdEoRR/",
+            "commentsCount": 1287,
+            "likesCount": 455772,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1350,
+            "alt": "Photo shared by The Punisher on April 09, 2026 tagging @marvel, @jonnybernthal, @marvelstudios, and @disneyplus. May be an image of one or more people, beard, people playing baseball, poster and text that says 'MIPVE PVE E\u3060\u96c6\u9152 \u65b0\u80a4 PUNISHER : C \u0418\u03a4\u039f\u039d THE ONELASTKILL KILL O.NE LAST May 12 Disney'.",
+            "timestamp": "2026-04-09T16:05:13.000Z",
+            "ownerUsername": "thepunisher",
+            "taggedUsers": [
+                {
+                    "username": "marvel",
+                    "fullName": "Marvel Entertainment"
+                },
+                {
+                    "username": "marvelstudios",
+                    "fullName": "Marvel Studios"
+                },
+                {
+                    "username": "disneyplus",
+                    "fullName": "Disney+"
+                },
+                {
+                    "username": "jonnybernthal",
+                    "fullName": "Jon Bernthal"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW4LxTPgTQl",
+            "caption": "Reed and Sue's pet names \ud83d\udc99\n\n\ud83d\udcfa: #TheFantasticFour: First Steps \u2014 stream it on Disney+",
+            "type": "Video",
+            "hashtags": [
+                "#TheFantasticFour"
+            ],
+            "url": "https://www.instagram.com/p/DW4LxTPgTQl/",
+            "commentsCount": 137,
+            "likesCount": 71555,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-08T18:00:04.000Z",
+            "ownerUsername": "marvel",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW4GjqyE6rj",
+            "caption": "We're gonna take this city back.\n\nDon't miss Marvel Television's #DaredevilBornAgain Season 2 now streaming on Disney+.",
+            "type": "Video",
+            "hashtags": [
+                "#DaredevilBornAgain"
+            ],
+            "url": "https://www.instagram.com/p/DW4GjqyE6rj/",
+            "commentsCount": 144,
+            "likesCount": 52976,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-08T16:00:36.000Z",
+            "ownerUsername": "marvelstudios",
+            "taggedUsers": [
+                {
+                    "username": "marvel",
+                    "fullName": "Marvel Entertainment"
+                },
+                {
+                    "username": "disneyplus",
+                    "fullName": "Disney+"
+                },
+                {
+                    "username": "daredevil",
+                    "fullName": "Matt Murdock"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW1stFbDNIo",
+            "caption": "For the first time ever\u2026all FOUR members of the Fantastic Four signed ONE card! Look for it in 2026 Topps Finest Fantastic Four, available April 15.",
+            "type": "Carousel",
+            "url": "https://www.instagram.com/p/DW1stFbDNIo/",
+            "commentsCount": 264,
+            "likesCount": 199380,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1350,
+            "alt": "Photo by Marvel Entertainment on April 08, 2026. May be an image of poster, costume, turtleneck and text.",
+            "timestamp": "2026-04-08T14:00:01.000Z",
+            "ownerUsername": "marvel",
+            "taggedUsers": [
+                {
+                    "username": "topps",
+                    "fullName": "Topps"
+                },
+                {
+                    "username": "toppspop",
+                    "fullName": "Topps Pop"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW2LB_FCM-S",
+            "caption": "that carrot was a paid actor\n\n\ud83d\udcfa: #BlackPanther \u2014 stream it on Disney+.",
+            "type": "Video",
+            "hashtags": [
+                "#BlackPanther"
+            ],
+            "url": "https://www.instagram.com/p/DW2LB_FCM-S/",
+            "commentsCount": 817,
+            "likesCount": 215283,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-07T22:01:12.000Z",
+            "ownerUsername": "marvel",
+            "taggedUsers": [
+                {
+                    "username": "disneyplus",
+                    "fullName": "Disney+"
+                },
+                {
+                    "username": "winstoncduke",
+                    "fullName": "Winston Duke"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW1h3H7ghJU",
+            "caption": "One banana milkshake. \n\nWatch this official clip from Marvel Television\u2019s #DaredevilBornAgain Season 2 and stream a new episode tonight at 6PM PT on Disney+.",
+            "type": "Video",
+            "hashtags": [
+                "#DaredevilBornAgain"
+            ],
+            "url": "https://www.instagram.com/p/DW1h3H7ghJU/",
+            "commentsCount": 1140,
+            "likesCount": 199434,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-07T16:02:12.000Z",
+            "ownerUsername": "marvelstudios",
+            "taggedUsers": [
+                {
+                    "username": "marvel",
+                    "fullName": "Marvel Entertainment"
+                },
+                {
+                    "username": "disneyplus",
+                    "fullName": "Disney+"
+                },
+                {
+                    "username": "daredevil",
+                    "fullName": "Matt Murdock"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW1VcwcifoE",
+            "caption": "New episode TONIGHT! Stream Marvel Television's #DaredevilBornAgain Season 2 at 6PM PT/9PM ET only on Disney+.",
+            "type": "Video",
+            "hashtags": [
+                "#DaredevilBornAgain"
+            ],
+            "url": "https://www.instagram.com/p/DW1VcwcifoE/",
+            "commentsCount": 206,
+            "likesCount": 59378,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-07T15:00:04.000Z",
+            "ownerUsername": "marvelstudios",
+            "taggedUsers": [
+                {
+                    "username": "marvel",
+                    "fullName": "Marvel Entertainment"
+                },
+                {
+                    "username": "disneyplus",
+                    "fullName": "Disney+"
+                },
+                {
+                    "username": "daredevil",
+                    "fullName": "Matt Murdock"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWzizgPD-3l",
+            "caption": "It could all happen in a snap.\n \nStream the #MCU on Disney+.",
+            "type": "Video",
+            "hashtags": [
+                "#MCU"
+            ],
+            "url": "https://www.instagram.com/p/DWzizgPD-3l/",
+            "commentsCount": 349,
+            "likesCount": 263972,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 480,
+            "timestamp": "2026-04-06T21:31:33.000Z",
+            "ownerUsername": "marvel",
+            "taggedUsers": [
+                {
+                    "username": "disneyplus",
+                    "fullName": "Disney+"
+                }
+            ],
+            "imagesCount": 5
+        }
+    ],
+    "relatedProfiles": [
+        {
+            "username": "marvelstudios",
+            "fullName": "Marvel Studios"
+        },
+        {
+            "username": "amcthewalkingdead",
+            "fullName": "The Walking Dead"
+        },
+        {
+            "username": "jurassicworld",
+            "fullName": "Jurassic World"
+        },
+        {
+            "username": "sonypictures",
+            "fullName": "Sony Pictures"
+        },
+        {
+            "username": "therussobrothers",
+            "fullName": "The Russo Brothers"
+        },
+        {
+            "username": "sonypicturesin",
+            "fullName": "Sony Pictures IN"
+        },
+        {
+            "username": "vancityreynolds",
+            "fullName": "Ryan Reynolds"
+        },
+        {
+            "username": "jeremyrenner",
+            "fullName": "Jeremy Renner"
+        },
+        {
+            "username": "spiderman",
+            "fullName": "Spider-Man"
+        },
+        {
+            "username": "playstation",
+            "fullName": "PlayStation"
+        },
+        {
+            "username": "prattprattpratt",
+            "fullName": "Chris Pratt"
+        },
+        {
+            "username": "primevideo",
+            "fullName": "Prime Video"
+        },
+        {
+            "username": "sony",
+            "fullName": "Sony"
+        },
+        {
+            "username": "rockstargames",
+            "fullName": "Rockstar Games"
+        },
+        {
+            "username": "20thcenturystudios",
+            "fullName": "20th Century Studios"
+        },
+        {
+            "username": "warnerbrostv",
+            "fullName": "Warner Bros. TV"
+        },
+        {
+            "username": "dreamworks",
+            "fullName": "DreamWorks"
+        },
+        {
+            "username": "marvelstyle",
+            "fullName": "Marvel Style"
+        },
+        {
+            "username": "robertdowneyjr",
+            "fullName": "Robert Downey Jr."
+        },
+        {
+            "username": "imdb",
+            "fullName": "IMDb"
+        },
+        {
+            "username": "imsebastianstan",
+            "fullName": "Sebastian Stan"
+        },
+        {
+            "username": "20thcenturyuk",
+            "fullName": "20th Century Studios UK"
+        },
+        {
+            "username": "warnerbrosentertainment",
+            "fullName": "Warner Bros. Entertainment"
+        },
+        {
+            "username": "andrew_garfield83",
+            "fullName": "Andrew Garfield"
+        },
+        {
+            "username": "spotify",
+            "fullName": "Spotify"
+        },
+        {
+            "username": "tomholland2013",
+            "fullName": "Tom Holland"
+        },
+        {
+            "username": "marvellatam",
+            "fullName": "Marvel Latinoame\u0301rica"
+        },
+        {
+            "username": "batman",
+            "fullName": "Batman"
+        },
+        {
+            "username": "thorofficial",
+            "fullName": "Thor"
+        },
+        {
+            "username": "hbo",
+            "fullName": "HBO"
+        },
+        {
+            "username": "appletv",
+            "fullName": "Apple TV"
+        },
+        {
+            "username": "xmenofficial",
+            "fullName": "X-Men"
+        },
+        {
+            "username": "theboystv",
+            "fullName": "THE BOYS"
+        },
+        {
+            "username": "netflixfilm",
+            "fullName": "Netflix Film"
+        },
+        {
+            "username": "deadpoolmovie"
+        },
+        {
+            "username": "avengers",
+            "fullName": "Avengers"
+        },
+        {
+            "username": "disneyanimation",
+            "fullName": "Walt Disney Animation Studios"
+        },
+        {
+            "username": "marvel_uk",
+            "fullName": "Marvel UK & Ireland"
+        },
+        {
+            "username": "primemovies",
+            "fullName": "Prime Movies"
+        },
+        {
+            "username": "strangerthings.things",
+            "fullName": "Stranger Things Things"
+        },
+        {
+            "username": "warnerbros",
+            "fullName": "Warner Bros."
+        },
+        {
+            "username": "avatar",
+            "fullName": "Avatar"
+        },
+        {
+            "username": "updates4marvel",
+            "fullName": "Marvel Updates"
+        },
+        {
+            "username": "dcofficial",
+            "fullName": "DC"
+        },
+        {
+            "username": "marvelstudioscanada",
+            "fullName": "Marvel Studios Canada \ud83c\udde8\ud83c\udde6"
+        },
+        {
+            "username": "spidernoirprime",
+            "fullName": "Spider-Noir"
+        },
+        {
+            "username": "hbomax",
+            "fullName": "HBO Max"
+        },
+        {
+            "username": "markruffalo",
+            "fullName": "Mark Ruffalo"
+        },
+        {
+            "username": "thehughjackman",
+            "fullName": "Hugh Jackman"
+        }
+    ]
+}

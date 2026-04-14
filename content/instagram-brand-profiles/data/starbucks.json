@@ -1,0 +1,517 @@
+{
+    "username": "starbucks",
+    "fullName": "Starbucks",
+    "biography": "*shakes iced coffee*",
+    "businessCategory": "None",
+    "businessCategoryName": "Brand",
+    "bioLinks": [
+        "http://starbucks.app.link/featuredmenu",
+        "https://sbux.co/protein",
+        "https://starbucks.app.link/CBDIG"
+    ],
+    "externalUrls": "http://starbucks.app.link/featuredmenu",
+    "followersCount": 17769714,
+    "followsCount": 5203,
+    "highlightsCount": 2,
+    "igtvVideoCount": 2,
+    "postsCount": 1206,
+    "isBusinessAccount": true,
+    "isProfessionalAccount": true,
+    "fbid": "17841400313980016",
+    "latestIgtvVideos": [
+        {
+            "shortcode": "CXbvM6eAbIH",
+            "caption": "When your @ubereats driver turns out to be @joejonas. \ud83e\udd17",
+            "type": "Video",
+            "mentions": [
+                "@ubereats",
+                "@joejonas"
+            ],
+            "url": "https://www.instagram.com/p/CXbvM6eAbIH/",
+            "commentsCount": 261,
+            "likesCount": 25552,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2021-12-13T18:44:09.000Z",
+            "ownerUsername": "starbucks",
+            "taggedUsers": [
+                {
+                    "username": "joejonas",
+                    "fullName": "J O E J O N A S"
+                },
+                {
+                    "username": "ubereats",
+                    "fullName": "Uber Eats"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "B0f_W2unxqD",
+            "caption": "Why is Nitro Cold Brew so whoa? Bill Nye explains.",
+            "type": "Video",
+            "title": "Bill Nye Presents Nitro Cold Brew",
+            "url": "https://www.instagram.com/p/B0f_W2unxqD/",
+            "commentsCount": 4613,
+            "likesCount": 276030,
+            "dimensionsWidth": 750,
+            "dimensionsHeight": 1333,
+            "timestamp": "2019-07-29T12:00:17.000Z",
+            "ownerUsername": "starbucks",
+            "imagesCount": 5
+        }
+    ],
+    "latestPosts": [
+        {
+            "shortcode": "DW6lmpRNDYT",
+            "caption": "omw!\n\n\ud83e\udd84\u2728 Unicorn Frappuccino\u00ae Blended Beverage exclusively at @coachella April 10-12 and April 17-19",
+            "type": "Video",
+            "mentions": [
+                "@coachella"
+            ],
+            "url": "https://www.instagram.com/p/DW6lmpRNDYT/",
+            "commentsCount": 213,
+            "likesCount": 7601,
+            "dimensionsWidth": 320,
+            "dimensionsHeight": 572,
+            "timestamp": "2026-04-09T15:11:03.000Z",
+            "ownerUsername": "starbucks",
+            "taggedUsers": [
+                {
+                    "username": "coachella",
+                    "fullName": "Coachella"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW4sLp6Ssrc",
+            "caption": "anytime, anywhere energy",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/DW4sLp6Ssrc/",
+            "commentsCount": 148,
+            "likesCount": 2868,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-08T21:29:36.000Z",
+            "ownerUsername": "starbucks",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW2B2qAScx5",
+            "caption": "the energy we\u2019re bringing today",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/DW2B2qAScx5/",
+            "commentsCount": 611,
+            "likesCount": 5990,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-07T20:41:23.000Z",
+            "ownerUsername": "starbucks",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW1O3gLtTcr",
+            "caption": "@adriangrenier is officially here to tell you it\u2019s all good energy. NEW Energy Refreshers are now at Starbucks. That\u2019s all.\n\nSee #TheDevilWearsPrada2 in theaters May 1.",
+            "type": "Video",
+            "hashtags": [
+                "#TheDevilWearsPrada2"
+            ],
+            "mentions": [
+                "@adriangrenier"
+            ],
+            "url": "https://www.instagram.com/p/DW1O3gLtTcr/",
+            "commentsCount": 2200,
+            "likesCount": 78883,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1137,
+            "timestamp": "2026-04-07T13:15:48.000Z",
+            "ownerUsername": "starbucks",
+            "taggedUsers": [
+                {
+                    "username": "20thcenturystudios",
+                    "fullName": "20th Century Studios"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWzcwNJydrc",
+            "caption": "serving good energy tomorrow.",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/DWzcwNJydrc/",
+            "commentsCount": 542,
+            "likesCount": 26344,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-06T20:39:22.000Z",
+            "ownerUsername": "starbucks",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWnBe4zDc0y",
+            "caption": "this is not a prank.\nthe Unicorn Frappuccino\u00ae Blended Beverage is BACK for a limited time at Coachella only. stay tuned for the drop schedule.",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/DWnBe4zDc0y/",
+            "commentsCount": 1043,
+            "likesCount": 30261,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1935,
+            "timestamp": "2026-04-02T00:49:04.000Z",
+            "ownerUsername": "starbucks",
+            "taggedUsers": [
+                {
+                    "username": "coachella",
+                    "fullName": "Coachella"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWhelFVEnQI",
+            "caption": "pride is not the word i\u2019m looking for",
+            "type": "Carousel",
+            "url": "https://www.instagram.com/p/DWhelFVEnQI/",
+            "commentsCount": 556,
+            "likesCount": 54140,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1440,
+            "alt": "Photo by Starbucks on March 30, 2026. May be an image of frog, lollipop and text.",
+            "timestamp": "2026-03-30T21:07:31.000Z",
+            "ownerUsername": "starbucks",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWPWfWdknJx",
+            "caption": "For the fans who remember the raspberry saga, this one\u2019s for you\u2026 Hannah\u2019s Secret Popstar Refresher is on the secret menu now. And don\u2019t miss the Hannah Montana 20th Anniversary Special premiering March 24 on @disneyplus and @hulu.",
+            "type": "Carousel",
+            "mentions": [
+                "@disneyplus",
+                "@hulu"
+            ],
+            "url": "https://www.instagram.com/p/DWPWfWdknJx/",
+            "commentsCount": 871,
+            "likesCount": 37196,
+            "dimensionsWidth": 750,
+            "dimensionsHeight": 937,
+            "timestamp": "2026-03-23T20:10:30.000Z",
+            "ownerUsername": "starbucks",
+            "taggedUsers": [
+                {
+                    "username": "disneyplus",
+                    "fullName": "Disney+"
+                },
+                {
+                    "username": "hulu",
+                    "fullName": "Hulu"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWMqWNdEmSc",
+            "caption": "yes, we\u2019re busy on march 24th",
+            "type": "Carousel",
+            "url": "https://www.instagram.com/p/DWMqWNdEmSc/",
+            "commentsCount": 815,
+            "likesCount": 182987,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1348,
+            "alt": "Photo by Starbucks on March 22, 2026. May be an image of phone, digital audio player, portable cassette player, tablet, stethoscope, water bottle, telephone and text.",
+            "timestamp": "2026-03-22T19:06:17.000Z",
+            "ownerUsername": "starbucks",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWK0QyIt4Nl",
+            "caption": "pink drink before @sephora is a must, what\u2019s your order?",
+            "type": "Video",
+            "mentions": [
+                "@sephora"
+            ],
+            "url": "https://www.instagram.com/p/DWK0QyIt4Nl/",
+            "commentsCount": 701,
+            "likesCount": 97794,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1919,
+            "timestamp": "2026-03-22T01:55:36.000Z",
+            "ownerUsername": "starbucks",
+            "taggedUsers": [
+                {
+                    "username": "salishmatter",
+                    "fullName": "Salish Matter"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWKijw1Erxx",
+            "caption": "which tray are you picking \ud83d\udc40 #SEPHORiA",
+            "type": "Carousel",
+            "hashtags": [
+                "#SEPHORiA"
+            ],
+            "url": "https://www.instagram.com/p/DWKijw1Erxx/",
+            "commentsCount": 512,
+            "likesCount": 30914,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1350,
+            "alt": "Photo shared by Starbucks on March 21, 2026 tagging @sephora. May be an image of one or more people, makeup, hand cream, perfume, water bottle and text.",
+            "timestamp": "2026-03-21T23:19:45.000Z",
+            "ownerUsername": "starbucks",
+            "taggedUsers": [
+                {
+                    "username": "sephora",
+                    "fullName": "Sephora"
+                },
+                {
+                    "username": "jenatkinhair",
+                    "fullName": "Founder/CCO/Hairstylist"
+                },
+                {
+                    "username": "salishmatter",
+                    "fullName": "Salish Matter"
+                },
+                {
+                    "username": "glowrecipe",
+                    "fullName": "Glow Recipe"
+                },
+                {
+                    "username": "mane_____",
+                    "fullName": "Mane by Jen Atkin"
+                },
+                {
+                    "username": "sincerelyyours",
+                    "fullName": "sincerely yours"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DWIEmk6FUr6",
+            "caption": "brb going on a Starbies and @sephora run.\n\n#SEPHORiA",
+            "type": "Carousel",
+            "hashtags": [
+                "#SEPHORiA"
+            ],
+            "mentions": [
+                "@sephora"
+            ],
+            "url": "https://www.instagram.com/p/DWIEmk6FUr6/",
+            "commentsCount": 777,
+            "likesCount": 74334,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1350,
+            "alt": "Photo shared by Starbucks on March 20, 2026 tagging @sephora. May be an image of text that says 'STARBE m STARBIES StrawberryA\u00e7ai Refresher Cold Brew SEPHORIA ORIA HOR EAUL IcedMatcha N2-2HX - not my normal starbucks'.",
+            "timestamp": "2026-03-21T00:19:31.000Z",
+            "ownerUsername": "starbucks",
+            "taggedUsers": [
+                {
+                    "username": "sephora",
+                    "fullName": "Sephora"
+                }
+            ],
+            "imagesCount": 5
+        }
+    ],
+    "relatedProfiles": [
+        {
+            "username": "snickers",
+            "fullName": "SNICKERS"
+        },
+        {
+            "username": "mmschocolate",
+            "fullName": "M&M\u2019S"
+        },
+        {
+            "username": "hersheyschocolateworld",
+            "fullName": "Hershey's Chocolate World"
+        },
+        {
+            "username": "stanley1913_brand",
+            "fullName": "Stanley 1913"
+        },
+        {
+            "username": "lays",
+            "fullName": "Lay's"
+        },
+        {
+            "username": "elfcosmetics",
+            "fullName": "e.l.f. Cosmetics"
+        },
+        {
+            "username": "fiveguys",
+            "fullName": "Five Guys"
+        },
+        {
+            "username": "ugg",
+            "fullName": "UGG\u00ae"
+        },
+        {
+            "username": "costco",
+            "fullName": "Costco"
+        },
+        {
+            "username": "starbucksmex",
+            "fullName": "Starbucks Me\u0301xico"
+        },
+        {
+            "username": "starbucksuk",
+            "fullName": "Starbucks UK"
+        },
+        {
+            "username": "baskinrobbins",
+            "fullName": "Baskin-Robbins"
+        },
+        {
+            "username": "benefitcosmetics",
+            "fullName": "Benefit Cosmetics US"
+        },
+        {
+            "username": "walmart",
+            "fullName": "Walmart"
+        },
+        {
+            "username": "twix",
+            "fullName": "TWIX"
+        },
+        {
+            "username": "wholefoods",
+            "fullName": "Whole Foods Market"
+        },
+        {
+            "username": "amazonfashion",
+            "fullName": "Amazon Fashion"
+        },
+        {
+            "username": "owala",
+            "fullName": "Owala"
+        },
+        {
+            "username": "chickfila",
+            "fullName": "Chick-fil-A, Inc."
+        },
+        {
+            "username": "elmo",
+            "fullName": "Elmo"
+        },
+        {
+            "username": "macys",
+            "fullName": "Macy's"
+        },
+        {
+            "username": "oreo",
+            "fullName": "OREO"
+        },
+        {
+            "username": "oldnavy",
+            "fullName": "Old Navy"
+        },
+        {
+            "username": "theiceecompany",
+            "fullName": "ICEE"
+        },
+        {
+            "username": "forever21",
+            "fullName": "Forever21"
+        },
+        {
+            "username": "walgreens",
+            "fullName": "Walgreens"
+        },
+        {
+            "username": "converse",
+            "fullName": "Converse"
+        },
+        {
+            "username": "subway"
+        },
+        {
+            "username": "drpepper",
+            "fullName": "Dr Pepper"
+        },
+        {
+            "username": "hersheys",
+            "fullName": "HERSHEY'S Chocolate"
+        },
+        {
+            "username": "maybelline",
+            "fullName": "Maybelline New York"
+        },
+        {
+            "username": "krispykreme",
+            "fullName": "Krispy Kreme Doughnuts"
+        },
+        {
+            "username": "dunkin",
+            "fullName": "Dunkin\u2019"
+        },
+        {
+            "username": "glowrecipe",
+            "fullName": "Glow Recipe"
+        },
+        {
+            "username": "reeses"
+        },
+        {
+            "username": "cocacola",
+            "fullName": "Coca-Cola"
+        },
+        {
+            "username": "wendys",
+            "fullName": "Wendy\u2019s"
+        },
+        {
+            "username": "tiktok",
+            "fullName": "TikTok"
+        },
+        {
+            "username": "ultabeauty",
+            "fullName": "Ulta Beauty"
+        },
+        {
+            "username": "gap",
+            "fullName": "Gap"
+        },
+        {
+            "username": "burgerking",
+            "fullName": "Burger King"
+        },
+        {
+            "username": "dairyqueen",
+            "fullName": "Dairy Queen"
+        },
+        {
+            "username": "kitkat",
+            "fullName": "KITKAT"
+        },
+        {
+            "username": "aerie",
+            "fullName": "Aerie"
+        },
+        {
+            "username": "starbucksindia",
+            "fullName": "Starbucks India"
+        },
+        {
+            "username": "raisingcanes",
+            "fullName": "Raising Cane's"
+        },
+        {
+            "username": "aeropostale",
+            "fullName": "Ae\u0301ropostale"
+        },
+        {
+            "username": "pillsbury",
+            "fullName": "Pillsbury"
+        },
+        {
+            "username": "olivegarden",
+            "fullName": "Olive Garden"
+        },
+        {
+            "username": "hollister",
+            "fullName": "hollister"
+        }
+    ]
+}

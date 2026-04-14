@@ -1,0 +1,641 @@
+{
+    "username": "sephora",
+    "fullName": "Sephora",
+    "biography": "We Belong to Something Beautiful",
+    "bioLinks": [
+        "https://sephora.app.link/homepage",
+        "https://creators.sephora.com",
+        "http://sephoria.com"
+    ],
+    "externalUrls": "https://sephora.app.link/homepage",
+    "followersCount": 22998269,
+    "followsCount": 1027,
+    "highlightsCount": 5,
+    "igtvVideoCount": 1153,
+    "postsCount": 15657,
+    "isBusinessAccount": true,
+    "isProfessionalAccount": true,
+    "fbid": "17841400318240372",
+    "latestIgtvVideos": [
+        {
+            "shortcode": "Czrve7Cvnlj",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/Czrve7Cvnlj/",
+            "commentsCount": 9,
+            "likesCount": 2104,
+            "dimensionsWidth": 320,
+            "dimensionsHeight": 568,
+            "timestamp": "2023-11-15T22:29:13.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "CiOBP6ZhrOO",
+            "caption": "It\u2019s been a HUGE summer for @jlo for a lot of reasons, but her most recent cause to celebrate is the release of @jlobeauty\u2019s new body product, the Firm + Flaunt Targeted Booty Balm \ud83c\udf51 We had a chance to catch up with her live in last week\u2019s Beauty Chat Room. Tune in next week for more industry tea \ud83e\uded6",
+            "type": "Video",
+            "mentions": [
+                "@jlo",
+                "@jlobeauty"
+            ],
+            "url": "https://www.instagram.com/p/CiOBP6ZhrOO/",
+            "commentsCount": 41,
+            "likesCount": 2988,
+            "dimensionsWidth": 612,
+            "dimensionsHeight": 1085,
+            "timestamp": "2022-09-07T20:33:35.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "CiD4B_1ptCz",
+            "caption": "We had two guests on this week\u2019s Beauty Chat Room, @mikaylajmakeup and everyone\u2019s favorite honey bear \ud83e\uddf8\ufe0f Mikayla shared her hair journey and let us know that the @briogeo Vegan Apple Honey Deep Conditioning Hair Maskis coming back one last time! Tune in next Tuesday for another episode \u2728",
+            "type": "Video",
+            "mentions": [
+                "@mikaylajmakeup",
+                "@briogeo"
+            ],
+            "url": "https://www.instagram.com/p/CiD4B_1ptCz/",
+            "commentsCount": 27,
+            "likesCount": 3610,
+            "dimensionsWidth": 612,
+            "dimensionsHeight": 1085,
+            "timestamp": "2022-09-03T22:00:29.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "ChvD9KvBAsT",
+            "caption": "Sephora Gente: It\u2019s an underpainting party with #SephoraSquad member @reinventing50s \ud83d\udd8c\n\n\u2026\n\n@hudabeautyshop #FauxFilter Luminous Matte Buildable Coverage Crease Proof Concealer\n\n@itembeauty Blushin\u2019 Like Cream Blush\n\n@makeupbymario SoftSculpt Shaping Stick\n\n@lauramercier Flawless Lumi\u00e8re Radiance-Perfecting Foundation\n\n@makeupforever Ultra HD Matte Setting Powder",
+            "type": "Video",
+            "hashtags": [
+                "#SephoraSquad",
+                "#FauxFilter"
+            ],
+            "mentions": [
+                "@reinventing50s",
+                "@hudabeautyshop",
+                "@itembeauty",
+                "@makeupbymario",
+                "@lauramercier",
+                "@makeupforever"
+            ],
+            "url": "https://www.instagram.com/p/ChvD9KvBAsT/",
+            "commentsCount": 64,
+            "likesCount": 3183,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-08-26T20:00:58.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "ChsHMvMp_AB",
+            "caption": "\u201cWhen I\u2019m dancing, everything stops for a second, and I think about all of those before me, all of those after me. I feel like I\u2019m at the right place at the right time.\u201d\n\nThank you for sharing your story with us, Brennah (@brennahwah). You bring so much beauty to the world \ud83c\udf0e",
+            "type": "Video",
+            "mentions": [
+                "@brennahwah"
+            ],
+            "url": "https://www.instagram.com/p/ChsHMvMp_AB/",
+            "commentsCount": 55,
+            "likesCount": 3768,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-08-25T16:31:34.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "ChXl7gGJITE",
+            "caption": "Join us as we chat with Girls, Inc., our charity partner for the month of August. @girlsinc is dedicated to supporting and encouraging a new generation of female leaders as they grow up smart, bold, and strong.",
+            "type": "Video",
+            "mentions": [
+                "@girlsinc"
+            ],
+            "url": "https://www.instagram.com/p/ChXl7gGJITE/",
+            "commentsCount": 43,
+            "likesCount": 2251,
+            "dimensionsWidth": 750,
+            "dimensionsHeight": 1333,
+            "timestamp": "2022-08-17T17:16:02.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "ChXdVCjMs48",
+            "caption": "Good things always come in threes, including these intergalactic space buns from Sephora team member @makememaldonado \ud83d\udc7d",
+            "type": "Video",
+            "mentions": [
+                "@makememaldonado"
+            ],
+            "url": "https://www.instagram.com/p/ChXdVCjMs48/",
+            "commentsCount": 57,
+            "likesCount": 2873,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-08-17T16:00:52.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "ChKlVcSuU-G",
+            "caption": "Watch Sephora hair goddess, a.k.a. Beauty Director @ladyymelinda, show off how to bring these \u201940s-inspired victory rolls to the modern era.",
+            "type": "Video",
+            "mentions": [
+                "@ladyymelinda"
+            ],
+            "url": "https://www.instagram.com/p/ChKlVcSuU-G/",
+            "commentsCount": 24,
+            "likesCount": 4301,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-08-12T16:00:59.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "ChIAjRMrYsw",
+            "caption": "\u201cWhen I got behind that steering wheel, baby, it was over. I felt like I was in my lane.\u201d\n\nIt\u2019s official. We\u2019re taking several pages out of Clarissa\u2019s (@iamclarissarankin) book. Thanks for sharing your story and showing us how fully you live your life \u2764\ufe0f\ufe0f",
+            "type": "Video",
+            "mentions": [
+                "@iamclarissarankin"
+            ],
+            "url": "https://www.instagram.com/p/ChIAjRMrYsw/",
+            "commentsCount": 119,
+            "likesCount": 3759,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-08-11T16:01:02.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "ChFiqTTrJh7",
+            "caption": "Hop into your time machine \ud83c\udf00 and feel all the 2000s emo vibes with this throwback look from #SephoraSquad member @jessiejoemonge.",
+            "type": "Video",
+            "hashtags": [
+                "#SephoraSquad"
+            ],
+            "mentions": [
+                "@jessiejoemonge"
+            ],
+            "url": "https://www.instagram.com/p/ChFiqTTrJh7/",
+            "commentsCount": 69,
+            "likesCount": 3836,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-08-10T17:03:18.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "Cg4zVuOBDF9",
+            "caption": "Bring the runway to your everyday \u2728 Get into this easy editorial makeup look from Sephora Beauty Director @helenkphillips.",
+            "type": "Video",
+            "mentions": [
+                "@helenkphillips"
+            ],
+            "url": "https://www.instagram.com/p/Cg4zVuOBDF9/",
+            "commentsCount": 37,
+            "likesCount": 2975,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2022-08-05T18:17:09.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "Cg2dZayFlzK",
+            "caption": "We\u2019re practically bubbling over with excitement \ud83d\udec1\n\nYou\u2019re staring at @tatcha The Rice Wash Skin-Softening Cleanser \ud83d\udc40 #OddlySatisfying",
+            "type": "Video",
+            "hashtags": [
+                "#OddlySatisfying"
+            ],
+            "mentions": [
+                "@tatcha"
+            ],
+            "url": "https://www.instagram.com/p/Cg2dZayFlzK/",
+            "commentsCount": 29,
+            "likesCount": 4800,
+            "dimensionsWidth": 750,
+            "dimensionsHeight": 937,
+            "timestamp": "2022-08-04T20:27:42.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        }
+    ],
+    "latestPosts": [
+        {
+            "shortcode": "DO9vxS9jXns",
+            "caption": "Small pic, BIG news: My Sephora Storefront is live! Content creators can now get rewarded for sharing beauty recs. Apply at the link in bio.",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/DO9vxS9jXns/",
+            "commentsCount": 13860,
+            "likesCount": 16668,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2025-09-24T00:25:30.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW7RmVtkt3H",
+            "caption": "Just a little bit of white noise \ud83d\ude0c @dr.idriss @beautyofjoseon_official @cyklarofficial @ysebeauty @touchland @eadem.co",
+            "type": "Video",
+            "mentions": [
+                "@dr",
+                "@beautyofjoseon_official",
+                "@cyklarofficial",
+                "@ysebeauty",
+                "@touchland",
+                "@eadem"
+            ],
+            "url": "https://www.instagram.com/p/DW7RmVtkt3H/",
+            "commentsCount": 17,
+            "likesCount": 3044,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1136,
+            "timestamp": "2026-04-09T21:36:18.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW7BbUJEoMX",
+            "caption": "Our favorite accessory? That body glow. @samanthatalu",
+            "type": "Video",
+            "mentions": [
+                "@samanthatalu"
+            ],
+            "url": "https://www.instagram.com/p/DW7BbUJEoMX/",
+            "commentsCount": 7,
+            "likesCount": 934,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1136,
+            "timestamp": "2026-04-09T19:13:44.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW6uCafFBu-",
+            "caption": "Protecting what's most important.",
+            "type": "Video",
+            "url": "https://www.instagram.com/p/DW6uCafFBu-/",
+            "commentsCount": 27,
+            "likesCount": 1002,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1920,
+            "timestamp": "2026-04-09T16:24:19.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW6dKqvjDRd",
+            "caption": "The definition of ready. \nShop Sephora Savings Event 4/10\u20134/20, starting 4/10 for Rouge and 4/14 for all other tiers. Rouge get 20% off, VIB get 15% off, and Insiders get 10% off. All tiers get 30% off Sephora Collection starting 4/10.  Terms/Exclusions apply.",
+            "type": "Image",
+            "url": "https://www.instagram.com/p/DW6dKqvjDRd/",
+            "commentsCount": 149,
+            "likesCount": 7781,
+            "dimensionsWidth": 1080,
+            "dimensionsHeight": 1080,
+            "alt": "Photo by Sephora on April 09, 2026. May be an image of screen, computer keyboard, laptop, tablet and text.",
+            "timestamp": "2026-04-09T13:56:17.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW43niDkrRx",
+            "caption": "Decisions, decisions. @glossier",
+            "type": "Video",
+            "mentions": [
+                "@glossier"
+            ],
+            "url": "https://www.instagram.com/p/DW43niDkrRx/",
+            "commentsCount": 11,
+            "likesCount": 1875,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1136,
+            "timestamp": "2026-04-08T23:09:12.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW4fTOXkiRM",
+            "caption": "Sleek, smooth, and shiny \u2728 Shop Gloss Absolu Anti-Frizz Glaze Styling Cream by @kerastase_official at Sephora. @violetlisettee #sephorasquad",
+            "type": "Video",
+            "hashtags": [
+                "#sephorasquad"
+            ],
+            "mentions": [
+                "@kerastase_official",
+                "@violetlisettee"
+            ],
+            "url": "https://www.instagram.com/p/DW4fTOXkiRM/",
+            "commentsCount": 106,
+            "likesCount": 8129,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1136,
+            "timestamp": "2026-04-08T19:37:06.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW4IUIJgUJe",
+            "caption": "Got ya. @tartecosmetics @cakesbymarian_",
+            "type": "Video",
+            "mentions": [
+                "@tartecosmetics",
+                "@cakesbymarian_"
+            ],
+            "url": "https://www.instagram.com/p/DW4IUIJgUJe/",
+            "commentsCount": 138,
+            "likesCount": 14564,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1136,
+            "timestamp": "2026-04-08T16:16:13.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW3xrAFgFnk",
+            "caption": "Stripes are life \n\n#sephorapartner",
+            "type": "Video",
+            "hashtags": [
+                "#sephorapartner"
+            ],
+            "url": "https://www.instagram.com/p/DW3xrAFgFnk/",
+            "commentsCount": 1251,
+            "likesCount": 355231,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1136,
+            "timestamp": "2026-04-08T12:59:14.000Z",
+            "ownerUsername": "alysaxliu",
+            "taggedUsers": [
+                {
+                    "username": "sephora",
+                    "fullName": "Sephora"
+                }
+            ],
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW2RfFijZlD",
+            "caption": "When the scent IS the look. New @carolinaherrera La Bomba Eau de Parfum is available now. @taggedbeautyy #SephoraSquad",
+            "type": "Video",
+            "hashtags": [
+                "#SephoraSquad"
+            ],
+            "mentions": [
+                "@carolinaherrera",
+                "@taggedbeautyy"
+            ],
+            "url": "https://www.instagram.com/p/DW2RfFijZlD/",
+            "commentsCount": 66,
+            "likesCount": 2397,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1136,
+            "timestamp": "2026-04-07T22:59:05.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW14-lFEn34",
+            "caption": "The glam deserves a close-up \ud83d\ude0c @amayaelizabeth_ @glamzilla @uchechi @sheadurazzo",
+            "type": "Video",
+            "mentions": [
+                "@amayaelizabeth_",
+                "@glamzilla",
+                "@uchechi",
+                "@sheadurazzo"
+            ],
+            "url": "https://www.instagram.com/p/DW14-lFEn34/",
+            "commentsCount": 34,
+            "likesCount": 2877,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1136,
+            "timestamp": "2026-04-07T19:23:32.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        },
+        {
+            "shortcode": "DW1jPsTiSVo",
+            "caption": "Getting the sudden urge to redo our makeup after seeing this.\n\nThe new @iliabeauty Sun Serum Mineral SPF is available now. \n\n@lookwhoshira #SephoraSquad",
+            "type": "Video",
+            "hashtags": [
+                "#SephoraSquad"
+            ],
+            "mentions": [
+                "@iliabeauty",
+                "@lookwhoshira"
+            ],
+            "url": "https://www.instagram.com/p/DW1jPsTiSVo/",
+            "commentsCount": 112,
+            "likesCount": 3481,
+            "dimensionsWidth": 640,
+            "dimensionsHeight": 1136,
+            "timestamp": "2026-04-07T16:13:34.000Z",
+            "ownerUsername": "sephora",
+            "imagesCount": 5
+        }
+    ],
+    "relatedProfiles": [
+        {
+            "username": "michaelkors",
+            "fullName": "Michael Kors"
+        },
+        {
+            "username": "itcosmetics",
+            "fullName": "IT Cosmetics \ud83c\uddfa\ud83c\uddf8"
+        },
+        {
+            "username": "voguebeauty",
+            "fullName": "Vogue Beauty"
+        },
+        {
+            "username": "diorbeautylovers",
+            "fullName": "Dior Beauty Lovers"
+        },
+        {
+            "username": "patricktabeauty",
+            "fullName": "Patrick Ta Beauty"
+        },
+        {
+            "username": "tatcha",
+            "fullName": "TATCHA Beauty"
+        },
+        {
+            "username": "esteelauder",
+            "fullName": "Este\u0301e Lauder"
+        },
+        {
+            "username": "sheglam_official",
+            "fullName": "SHEGLAM OFFICIAL"
+        },
+        {
+            "username": "kosas",
+            "fullName": "Kosas"
+        },
+        {
+            "username": "guccibeauty",
+            "fullName": "Gucci Beauty"
+        },
+        {
+            "username": "bobbibrown",
+            "fullName": "Bobbi Brown Cosmetics"
+        },
+        {
+            "username": "charlottetilburyskincare",
+            "fullName": "Charlotte Tilbury Skincare"
+        },
+        {
+            "username": "kayali",
+            "fullName": "KAYALI \ud83d\udc8e"
+        },
+        {
+            "username": "laneige_us",
+            "fullName": "LANEIGE U.S."
+        },
+        {
+            "username": "larocheposayusa",
+            "fullName": "La Roche-Posay USA"
+        },
+        {
+            "username": "pradabeauty",
+            "fullName": "Prada Beauty"
+        },
+        {
+            "username": "milkmakeup",
+            "fullName": "Milk Makeup"
+        },
+        {
+            "username": "glossier",
+            "fullName": "Glossier"
+        },
+        {
+            "username": "elfskincare",
+            "fullName": "e.l.f. SKIN"
+        },
+        {
+            "username": "stilacosmetics",
+            "fullName": "Stila Cosmetics"
+        },
+        {
+            "username": "byoma",
+            "fullName": "BYOMA"
+        },
+        {
+            "username": "cerave",
+            "fullName": "CeraVe Skincare"
+        },
+        {
+            "username": "lauramercier",
+            "fullName": "Laura Mercier"
+        },
+        {
+            "username": "sheinofficial",
+            "fullName": "SHEIN.COM"
+        },
+        {
+            "username": "sephoracollection",
+            "fullName": "Sephora Collection"
+        },
+        {
+            "username": "clinique",
+            "fullName": "Clinique"
+        },
+        {
+            "username": "sephoralife",
+            "fullName": "Sephora Life"
+        },
+        {
+            "username": "beautyblender",
+            "fullName": "beautyblender"
+        },
+        {
+            "username": "pixibeauty",
+            "fullName": "Pixi by Petra"
+        },
+        {
+            "username": "dove",
+            "fullName": "Dove Global Channel \ud83c\udf0e"
+        },
+        {
+            "username": "chanelofficial",
+            "fullName": "CHANEL"
+        },
+        {
+            "username": "maybelline",
+            "fullName": "Maybelline New York"
+        },
+        {
+            "username": "glowrecipe",
+            "fullName": "Glow Recipe"
+        },
+        {
+            "username": "revlon",
+            "fullName": "Revlon"
+        },
+        {
+            "username": "morphebrushes",
+            "fullName": "Morphe"
+        },
+        {
+            "username": "onesize",
+            "fullName": "ONE/SIZE"
+        },
+        {
+            "username": "fentyskin",
+            "fullName": "FENTY SKIN"
+        },
+        {
+            "username": "lorealparis",
+            "fullName": "L'Ore\u0301al Paris Official"
+        },
+        {
+            "username": "ultabeauty",
+            "fullName": "Ulta Beauty"
+        },
+        {
+            "username": "kyliecosmetics",
+            "fullName": "Kylie Cosmetics"
+        },
+        {
+            "username": "covergirl",
+            "fullName": "COVERGIRL"
+        },
+        {
+            "username": "drunkelephant",
+            "fullName": "Drunk Elephant Skincare"
+        },
+        {
+            "username": "chanel.beauty",
+            "fullName": "CHANEL BEAUTY"
+        },
+        {
+            "username": "milanicosmetics",
+            "fullName": "Milani Cosmetics"
+        },
+        {
+            "username": "kikomilano",
+            "fullName": "KIKO Milano Official"
+        },
+        {
+            "username": "rarebeauty",
+            "fullName": "Rare Beauty by Selena Gomez"
+        },
+        {
+            "username": "colourpopcosmetics",
+            "fullName": "ColourPop Cosmetics"
+        },
+        {
+            "username": "swarovski",
+            "fullName": "SWAROVSKI"
+        },
+        {
+            "username": "makeupforever",
+            "fullName": "MAKE UP FOR EVER"
+        },
+        {
+            "username": "saiebeauty",
+            "fullName": "Saie"
+        }
+    ]
+}
