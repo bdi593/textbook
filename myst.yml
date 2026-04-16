@@ -62,7 +62,7 @@ project:
 
     # - title: Instacart
     #   children:
-    #     - file: content/instacart/blog-post.md
+    #     - file: content/instacart/blog-post.mdg
     # - title: Walmart Sales Forecasting
     #   children:
     #     - file: content/walmart-sales-forecasting/case-overview.md

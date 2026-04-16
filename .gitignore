@@ -146,3 +146,6 @@ content/credit-card-transactions/credit_card_transactions-ibm_v2.csv
 content/credit-card-transactions/credit_card_transactions-ibm_v2.parquet
 content/data-job-postings/data_jobs_preprocessed.parquet
 content/kickstarter-projects/kickstarter-sample-preprocessed.parquet
+
+# Scratchpads for local work
+scratchpads/
