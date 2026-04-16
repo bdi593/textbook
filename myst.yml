@@ -60,9 +60,14 @@ project:
         - file: content/foundation-products/competitive-analysis.ipynb
           hidden: true
 
-    # - title: Instacart
-    #   children:
-    #     - file: content/instacart/blog-post.mdg
+    - title: Instacart
+      children:
+        - file: content/instacart/case-overview.md
+        - file: content/instacart/blog-post.md
+        - file: content/instacart/eda.ipynb
+        - file: content/instacart/analysis.ipynb
+        - file: content/instacart/customer_behavior_analysis.ipynb
+
     # - title: Walmart Sales Forecasting
     #   children:
     #     - file: content/walmart-sales-forecasting/case-overview.md
