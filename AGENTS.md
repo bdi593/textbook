@@ -3,13 +3,13 @@
 This repository is a work-in-progress online textbook for **BDI 199/593: Advanced Analytics Applications in Business**. The content is organized around business analytics case studies for undergraduate and graduate learners.
 
 :::{important} Primary authoring stack
-This project uses **Jupyter Book v2** with **MyST Markdown**. When editing prose content, prefer valid MyST syntax and patterns that fit the existing book structure in `/home/runner/work/textbook/textbook/myst.yml`.
+This project uses **Jupyter Book v2** with **MyST Markdown**. When editing prose content, prefer valid MyST syntax and patterns that fit the existing book structure in `myst.yml`.
 :::
 
 ## Repository structure
 
-- `/home/runner/work/textbook/textbook/myst.yml` defines the book metadata and table of contents.
-- `/home/runner/work/textbook/textbook/content/` contains the textbook chapters, case studies, notebooks, and supporting markdown pages.
+- `myst.yml` defines the book metadata and table of contents.
+- `content/` contains the textbook chapters, case studies, notebooks, and supporting markdown pages.
 - Most folders inside `content/` represent a **case study**.
 - Case study folders typically include:
   - a case overview markdown file
