@@ -40,6 +40,7 @@ project:
         - file: content/amazon-delivery/case-overview.md
         - file: content/amazon-delivery/eda.ipynb
         - file: content/amazon-delivery/build-a-classifier.ipynb
+        - file: content/amazon-delivery/improve-classifier.md
     - title: Australian Rental Market
       children:
         - file: content/australian-rental-market/case-overview.md

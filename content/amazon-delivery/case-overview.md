@@ -10,29 +10,25 @@ Amazon Delivery - Photo from [Amazon News](https://www.aboutamazon.com/news/amaz
 
 ## Dataset
 
-This is a real Amazon delivery dataset of 45k samples taken over a period of 3 months. Delayed means that on a specific day, at least 10 items from one truck were delayed.
+This case study uses a real Amazon delivery dataset of approximately 45,000 samples collected over a period of three months. A delivery is labeled **Delayed** when, on a specific day, at least 10 items from a single truck arrived late.
 
-- Source: [AWS SageMaker Canvas Tutorial - AI Package Tracker](https://aipackagetracker.awsplayer.com/)
-- 16 Columns
-- 45,000 Rows
+- **Source:** [AWS SageMaker Canvas Tutorial - AI Package Tracker](https://aipackagetracker.awsplayer.com/)
+- **Columns:** 16
+- **Rows:** ~45,000
 
 ## Objective
 
 As a business analyst working for a company in the logistics sector, you have the following tasks:
 
-1. Analyze the data we already prepared for this demo.
-2. Build your first model and analyze its prediction score.
+1. Analyze the data that has been prepared for this demo.
+2. Build a first model and analyze its prediction score.
 3. Improve the accuracy of your delivery predictions.
 
-Correctly predict package delivery on-time status for your customers with an accuracy of 80% or better.
-
-## Dataset Description
-
-In this demo, we are using a real Amazon delivery dataset of 45k samples taken over a period of 3 months. Delayed means that on a specific day, at least 10 items from one truck were delayed.
+The target is to correctly predict package delivery on-time status for your customers with an accuracy of **80% or better**.
 
 ## Evaluation
 
-This dataset is used for a tutorial and does not have a formal evaluation metric. However, the goal is to achieve an accuracy of 80% or better in predicting on-time delivery status.
+This dataset is used for a tutorial and does not have a formal evaluation metric. The working goal is to achieve an accuracy of 80% or better when predicting on-time delivery status, while also tracking complementary metrics such as precision, recall, F1, and ROC-AUC.
 
 ## Gradient Boosted Trees
 
@@ -54,8 +50,8 @@ A decision tree:
 
 But a single tree often:
 
-- Overfits (if deep), or
-- Underfits (if shallow)
+- **Overfits** if it is allowed to grow too deep, or
+- **Underfits** if it is too shallow
 
 ### Boosting
 
