@@ -69,10 +69,11 @@ project:
         - file: content/instacart/analysis.ipynb
         - file: content/instacart/customer_behavior_analysis.ipynb
 
-    # - title: Walmart Sales Forecasting
-    #   children:
-    #     - file: content/walmart-sales-forecasting/case-overview.md
-    #     - file: content/walmart-sales-forecasting/eda.ipynb
+    - title: Walmart Sales Forecasting
+      children:
+        - file: content/walmart-sales-forecasting/case-overview.md
+        - file: content/walmart-sales-forecasting/eda.ipynb
+        - file: content/walmart-sales-forecasting/build-a-forecasting-model.ipynb
   # keywords: []
   # authors: []
   # github:
