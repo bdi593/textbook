@@ -32,7 +32,8 @@ project:
     - title: Data Job Postings
       children:
         - file: content/data-job-postings/case-overview.md
-        - file: content/data-job-postings/analysis.ipynb
+        - file: content/data-job-postings/eda.ipynb
+        - file: content/data-job-postings/hr-analytics.ipynb
         - file: content/data-job-postings/quiz-01.ipynb
           hidden: true
     - title: Amazon On-time Delivery
@@ -45,6 +46,7 @@ project:
       children:
         - file: content/australian-rental-market/case-overview.md
         - file: content/australian-rental-market/build-a-regressor.ipynb
+        - file: content/australian-rental-market/improve-the-model.ipynb
     - title: Conference Calls
       children:
         - file: content/conference-calls/overview.md
