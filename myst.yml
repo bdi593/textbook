@@ -32,7 +32,8 @@ project:
     - title: Data Job Postings
       children:
         - file: content/data-job-postings/case-overview.md
-        - file: content/data-job-postings/analysis.ipynb
+        - file: content/data-job-postings/eda.ipynb
+        - file: content/data-job-postings/hr-analytics.ipynb
         - file: content/data-job-postings/quiz-01.ipynb
           hidden: true
     - title: Amazon On-time Delivery

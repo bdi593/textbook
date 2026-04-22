@@ -2,6 +2,19 @@
 
 This dataset contains information about properties sold in the Champaign-Urbana area (including Savoy), as listed on Zillow. It includes details such as the sale price, property type, number of bedrooms and bathrooms, square footage, and the date of sale. The data has been collected through [HasData](https://hasdata.com/), a large-scale data collection platform.
 
+## 📈 Why Analytics Matters in Real Estate
+
+Real estate is one of the oldest data-driven industries — but the *kinds* of analytics it relies on have evolved dramatically. Today, almost every decision in a real estate transaction is informed by data:
+
+- **Pricing and valuation.** Comparative Market Analysis (CMA) used to be a manual exercise; today, automated valuation models (AVMs) — like Zillow's *Zestimate*, Redfin's *Estimate*, and Realtor.com's *RealEstimate* — combine hundreds of property features with neighborhood signals to produce price estimates in seconds.
+- **Investment analysis.** Funds that buy single-family rentals (e.g. Invitation Homes, AMH) screen tens of thousands of listings per week with rules-based filters and predictive cap-rate models before a human ever looks at a property.
+- **Market liquidity and timing.** Days-on-market, list-to-sale ratios, and inventory trends tell investors whether a market is shifting toward buyers or sellers and how aggressive their offer should be.
+- **Geospatial and neighborhood analytics.** Latitude/longitude joined with school catchments, crime, walkability, transit, and amenity layers explain why two physically identical houses can differ by 30% in price across a single street.
+- **Risk and underwriting.** Lenders, insurers, and short-term rental platforms (Airbnb, Vrbo) use the same property-level data for default-risk modeling, climate-risk assessment, and dynamic pricing.
+- **Marketing and lead scoring.** Listing platforms predict which leads are most likely to transact, which homeowners are most likely to list soon, and which listings need a price drop.
+
+The dataset in this case study is small by industry standards (a few thousand listings in one metro area), but it contains exactly the same fields a real Zillow analyst would work with — price, location, property attributes, market activity, and school information — and it lets us practice all of the analytics workflows above on a tractable scale.
+
 ## 🔍 Search Criteria
 
 - Properties in Champaign, Urbana, and Savoy

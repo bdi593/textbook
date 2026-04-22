@@ -10,6 +10,27 @@ In this case, we will use a real-world job postings dataset focused on data scie
 
 &nbsp;
 
+## 💼 Business Context
+
+The market for data and analytics talent has matured rapidly over the last few years. Roles that barely existed a decade ago — *data engineer*, *machine learning engineer*, *analytics engineer* — now appear in tens of thousands of postings each month. For job seekers, recruiters, hiring managers, and educators, this creates several questions:
+
+- **Job seekers** want to know which titles are growing, which skills get the strongest premium, and how compensation differs by location and industry.
+- **Recruiters and hiring managers** need to benchmark salary ranges, identify in-demand skills, and decide where to focus sourcing efforts.
+- **Educators and bootcamps** use the data to keep curricula aligned with the skills employers actually request.
+- **Workforce researchers** track how remote work, the rise of generative AI, and macroeconomic conditions reshape the labor market.
+
+Real online postings give us a window into all of these questions. Each row tells us *what* a company is hiring for, *where*, *under what conditions*, and increasingly — *for how much*.
+
+## 🎯 Learning Objectives
+
+By the end of this case study you should be able to:
+
+1. Load and inspect a moderately large (~786,000 row) Parquet file with [Polars](https://pola.rs/).
+2. Diagnose missing values and decide which columns are usable.
+3. Parse "messy" string columns that look like Python lists or dictionaries into proper structured types (`List`, `Struct`).
+4. Run common exploratory analyses — value counts, group-by aggregations, time-series counts, and skill frequencies — at scale.
+5. Translate exploratory findings into the kinds of questions a real HR analytics team would ask.
+
 We have already covered common preprocessing steps for tabular data in the previous chapters, but this dataset also includes list-like or dictionary-like string columns that require additional parsing and transformation.
 
 For example, the `job_skills` column contains a string representation of a list of skills extracted from the job posting using NLP techniques.
@@ -17,6 +38,17 @@ For example, the `job_skills` column contains a string representation of a list 
 Additionally, the `job_type_skills` contain a Python dictionary-like string that map skill types (e.g., 'cloud', 'libraries') to sets of skills.
 
 We will need to parse these string representations into actual Python data structures (lists and dictionaries) to work with them effectively in our analysis.
+
+## 📚 Notebooks in This Case Study
+
+This chapter is split across two complementary notebooks:
+
+1. **[`eda.ipynb`](./eda.ipynb)** — exploratory data analysis. We load the data, parse the messy columns, and answer descriptive questions about job titles, locations, posting platforms, salaries, skills, and remote work.
+2. **[`hr-analytics.ipynb`](./hr-analytics.ipynb)** — applied HR analytics. We reuse the cleaned dataset to walk through three workflows that real talent and people-analytics teams run: **competitive compensation benchmarking**, **talent scouting / market mapping**, and **skill-gap and retention signals**.
+
+:::{tip} Working with the same dataset twice
+A common pattern in industry is to do EDA *once* on a dataset and then reuse the cleaned version across multiple downstream analyses. We follow that pattern here: the EDA notebook persists a cleaned Parquet file, and the HR analytics notebook loads it without repeating the preprocessing.
+:::
 
 ## 📌 Dataset Information
 
