@@ -58,3 +58,29 @@ Use admonitions to call out practical advice, conceptual reminders, warnings abo
 :::{caution} Build note
 The standard validation command is `jupyter-book build --html` from the repository root. In restricted environments, the build may fail if the MyST template API cannot be reached.
 :::
+
+## Plotting guidance
+
+When using **Plotly** (including Plotly Express), always use the `"simple_white"` template so the visual style is consistent across the textbook.
+
+Two equivalent ways to apply it:
+
+1. Set it once near the top of the notebook (preferred for notebooks with many plots):
+
+   ```python
+   import plotly.io as pio
+
+   pio.templates.default = "simple_white"
+   ```
+
+2. Pass it explicitly on each call:
+
+   ```python
+   import plotly.express as px
+
+   px.bar(df, x="category", y="value", template="simple_white")
+   ```
+
+:::{tip} Horizontal bar charts
+Horizontal bar charts (`px.bar(..., orientation="h")`) often have many categories on the y-axis. Set an explicit `height=` (e.g., `height=600` or larger, depending on the number of categories) so each bar remains readable.
+:::

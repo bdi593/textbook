@@ -28,7 +28,6 @@ project:
         - file: content/kickstarter-projects/case-overview.md
         - file: content/kickstarter-projects/preprocess-data.ipynb
         - file: content/kickstarter-projects/binary-classification.ipynb
-          hidden: true
     - title: Data Job Postings
       children:
         - file: content/data-job-postings/case-overview.md
@@ -41,7 +40,7 @@ project:
         - file: content/amazon-delivery/case-overview.md
         - file: content/amazon-delivery/eda.ipynb
         - file: content/amazon-delivery/build-a-classifier.ipynb
-        - file: content/amazon-delivery/improve-classifier.md
+        - file: content/amazon-delivery/improve-classifier.ipynb
     - title: Australian Rental Market
       children:
         - file: content/australian-rental-market/case-overview.md
@@ -50,6 +49,7 @@ project:
     - title: Conference Calls
       children:
         - file: content/conference-calls/overview.md
+        - file: content/conference-calls/nlp-in-business.ipynb
         - file: content/conference-calls/preprocessing.ipynb
     - title: CU+Savoy Zillow Properties
       children:
