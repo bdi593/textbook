@@ -49,6 +49,7 @@ project:
     - title: Conference Calls
       children:
         - file: content/conference-calls/overview.md
+        - file: content/conference-calls/nlp-in-business.ipynb
         - file: content/conference-calls/preprocessing.ipynb
     - title: CU+Savoy Zillow Properties
       children:

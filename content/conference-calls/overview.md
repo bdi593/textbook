@@ -2,13 +2,14 @@
 
 ## What is Natural Language Processing (NLP)?
 
-Natural Language Processing (NLP) is a field within artificial intelligence and data science focused on enabling computers to understand, interpret, and generate human language. Unlike structured numerical data, natural language data—such as emails, customer reviews, social media posts, or transcripts—is inherently ambiguous and unstructured. NLP techniques allow analysts to transform text into structured information that can be analyzed using computational methods.
+Natural Language Processing (NLP) is a field within artificial intelligence and data science focused on enabling computers to understand, interpret, and generate human language. Unlike structured numerical data, natural language data — such as emails, customer reviews, social media posts, or transcripts — is inherently ambiguous and unstructured. NLP techniques allow analysts to transform text into structured information that can be analyzed using computational methods.
 
-- NLP sits at the intersection of several disciplines:
-- Computer Science – algorithms and software systems
-- Linguistics – structure and meaning of language
-- Machine Learning – statistical models that learn patterns from data
-- Statistics and Data Science – analyzing and modeling language data
+NLP sits at the intersection of several disciplines:
+
+- **Computer Science** — algorithms and software systems
+- **Linguistics** — the structure and meaning of language
+- **Machine Learning** — statistical models that learn patterns from data
+- **Statistics and Data Science** — analyzing and modeling language data
 
 Organizations increasingly rely on NLP to extract insights from large volumes of textual data. Common applications include:
 
@@ -21,68 +22,57 @@ Organizations increasingly rely on NLP to extract insights from large volumes of
 
 In business analytics, NLP allows organizations to incorporate unstructured text data into decision-making processes.
 
+:::{seealso} Why this case study uses earnings calls
+This chapter is named **Conference Calls** because the running case study works with quarterly **earnings conference call** transcripts published by public companies. These calls are a rich source of unstructured text where executives discuss results, strategy, and risks — and they are routinely analyzed by investors, journalists, and competitors.
+:::
+
 ## Brief History of NLP
 
 The development of NLP has progressed through several major stages, each characterized by different approaches and technologies.
 
-### Early Rule-Based Systems (1950s-1980s)
+### Early Rule-Based Systems (1950s–1980s)
 
 The earliest NLP systems relied heavily on manually constructed rules and linguistic knowledge.
 
 Early efforts included:
 
-- Machine Translation Experiments (1950s)\
-  Researchers attempted to translate Russian to English using dictionaries and grammatical rules.
-
-- ELIZA (1966)\
-  One of the earliest chatbots, ELIZA simulated conversation using simple pattern matching rules.
+- **Machine Translation Experiments (1950s)** — Researchers attempted to translate Russian to English using dictionaries and grammatical rules.
+- **ELIZA (1966)** — One of the earliest chatbots, ELIZA simulated conversation using simple pattern-matching rules.
 
 These systems relied on explicit linguistic rules such as:
 
 - Grammar rules
-
 - Dictionaries
-
 - Pattern-matching templates
 
-However, rule-based approaches struggled with ambiguity, idioms, and the complexity of natural language.
+Rule-based approaches struggled with ambiguity, idioms, and the broader complexity of natural language.
 
 ---
 
-### Statistical NLP (1990s-2010)
+### Statistical NLP (1990s–2010)
 
-In the 1990s, NLP shifted toward statistical methods driven by increasing computational power and the availability of large digital text corpora.
-
-Instead of manually defining linguistic rules, statistical NLP models learned patterns from data.
+In the 1990s, NLP shifted toward statistical methods driven by increasing computational power and the availability of large digital text corpora. Instead of manually defining linguistic rules, statistical NLP models learned patterns from data.
 
 Important developments included:
 
 - N-gram language models
-
 - Hidden Markov Models (HMMs) for part-of-speech tagging
-
 - Probabilistic parsing
-
 - Machine learning classifiers for tasks such as sentiment analysis
 
-During this period, many foundational NLP tools and datasets were developed.
+During this period, many of the foundational NLP tools and datasets that are still used today were developed.
 
 ---
 
-### Deep Learning Era (2010-Present)
+### Deep Learning Era (2010–Present)
 
-Around 2010, deep learning transformed NLP by enabling models to learn complex semantic patterns.
+Around 2010, deep learning transformed NLP by enabling models to learn complex semantic patterns directly from text.
 
 Key innovations included:
 
-- Word embeddings (Word2Vec, GloVe)\
-  Words represented as vectors capturing semantic relationships.
-
-- Recurrent Neural Networks (RNNs)\
-  Models capable of processing sequences of words.
-
-- Transformers (2017)\
-  A neural architecture introduced in the paper _Attention is All You Need_, which dramatically improved language modeling performance.
+- **Word embeddings (Word2Vec, GloVe)** — Words represented as vectors capturing semantic relationships.
+- **Recurrent Neural Networks (RNNs)** — Models capable of processing sequences of words.
+- **Transformers (2017)** — A neural architecture introduced in the paper *Attention is All You Need*, which dramatically improved language modeling performance.
 
 Transformers enabled modern language models such as:
 
@@ -119,8 +109,8 @@ Tokenization splits text into smaller units called tokens, typically words or su
 
 Example:
 
-Text: "Data science is transforming business."\
-Tokens: ["Data", "science", "is", "transforming", "business"]
+> Text: `"Data science is transforming business."`\
+> Tokens: `["Data", "science", "is", "transforming", "business"]`
 
 Tokenization is a fundamental step in most NLP pipelines.
 
@@ -130,9 +120,7 @@ Tokenization is a fundamental step in most NLP pipelines.
 
 Converting all text to lowercase helps standardize the text and reduce redundancy.
 
-Example:
-
-"Apple" and "apple" → treated as the same word
+Example: `"Apple"` and `"apple"` → treated as the same word.
 
 ---
 
@@ -140,15 +128,9 @@ Example:
 
 Stop words are very common words that often carry little semantic meaning.
 
-Examples:
+Examples: `the`, `is`, `and`, `of`, `to`.
 
-- the
-- is
-- and
-- of
-- to
-
-Removing them can reduce noise in some analyses.
+Removing them can reduce noise in some analyses, although modern transformer-based models usually do **not** require stop word removal.
 
 ---
 
@@ -158,10 +140,10 @@ Stemming reduces words to their root form by removing suffixes.
 
 Examples:
 
-running → run\
-connected → connect
+- `running` → `run`
+- `connected` → `connect`
 
-However, stemming sometimes produces non-dictionary forms.
+However, stemming sometimes produces non-dictionary forms (e.g., `studies` → `studi`).
 
 ---
 
@@ -171,8 +153,8 @@ Lemmatization also reduces words to their base form, but does so using linguisti
 
 Examples:
 
-better → good\
-running → run
+- `better` → `good`
+- `running` → `run`
 
 Lemmatization generally produces more accurate results than stemming.
 
@@ -180,11 +162,9 @@ Lemmatization generally produces more accurate results than stemming.
 
 ### Vectorization
 
-Machine learning models cannot directly process text, so words must be converted into numerical representations.
+Machine learning models cannot directly process text, so words must be converted into numerical representations. The three most common families of representations are described below.
 
-Common approaches include:
-
-### Bag-of-Words (BoW)
+#### Bag-of-Words (BoW)
 
 Represents a document by counting word occurrences.
 
@@ -196,29 +176,21 @@ Example representation:
 | analysis | 1     |
 | model    | 1     |
 
----
+#### TF-IDF (Term Frequency–Inverse Document Frequency)
 
-### TF-IDF (Term Frequency-Inverse Document Frequency)
+TF-IDF adjusts word counts by weighting words that appear frequently in a document but rarely across all documents. This helps highlight words that distinguish a document from the rest of the corpus.
 
-TF-IDF adjusts word counts by weighting words that appear frequently in a document but rarely across all documents.
+#### Word Embeddings
 
-This helps highlight important words.
-
----
-
-### Word Embeddings
-
-Modern approaches represent words as vectors capturing semantic meaning.
+Modern approaches represent words as dense vectors that capture semantic meaning.
 
 Example:
 
-king - man + woman ≈ queen
+> `king - man + woman ≈ queen`
 
 These embeddings enable models to capture relationships between words.
 
-Conference calls are a type of telecommunication in which multiple participants can join a single call to communicate with each other. They are commonly used for business meetings, team collaborations, and remote communication. Conference calls can be conducted using various technologies, including traditional phone lines, VoIP (Voice over Internet Protocol), and video conferencing platforms.
-
-## Rule-Based Algorithms vs Modern Machine Learning Approaches
+## Rule-Based Algorithms vs. Modern Machine Learning Approaches
 
 NLP systems historically relied on rule-based methods, but modern approaches increasingly use machine learning and deep learning.
 
@@ -230,17 +202,16 @@ Rule-based NLP systems use manually defined linguistic rules.
 
 Example rules:
 
-- If a sentence contains "not good", classify as negative sentiment.
+- If a sentence contains `"not good"`, classify it as negative sentiment.
+- If a phrase matches a specific pattern, extract a named entity.
 
-- If a phrase matches a specific pattern, extract information.
-
-Advantages:
+**Advantages:**
 
 - Transparent and interpretable
 - Require little training data
 - Easy to control behavior
 
-Limitations:
+**Limitations:**
 
 - Hard to scale
 - Difficult to maintain
@@ -259,12 +230,7 @@ Common algorithms include:
 - Support Vector Machines (SVM)
 - Decision trees
 
-These models often use features derived from text, such as:
-
-- TF-IDF vectors
-- N-gram frequencies
-
-They perform well for many classification tasks but often struggle with deeper language understanding.
+These models often use features derived from text, such as TF-IDF vectors or n-gram frequencies. They perform well for many classification tasks but often struggle with deeper language understanding.
 
 ---
 
@@ -293,7 +259,7 @@ The Hugging Face ecosystem includes:
 - Tokenizers
 - Training pipelines
 
-The most widely used library is Transformers.
+The most widely used library is [`transformers`](https://huggingface.co/docs/transformers).
 
 Example using a pretrained sentiment analysis model:
 
@@ -301,9 +267,7 @@ Example using a pretrained sentiment analysis model:
 from transformers import pipeline
 
 classifier = pipeline("sentiment-analysis")
-
 result = classifier("I love learning about natural language processing.")
-
 print(result)
 ```
 
@@ -313,7 +277,7 @@ Output:
 [{'label': 'POSITIVE', 'score': 0.999}]
 ```
 
-Advantages of Hugging Face:
+**Advantages of Hugging Face:**
 
 - Access to thousands of pretrained models
 - Easy integration with PyTorch or TensorFlow
@@ -333,15 +297,13 @@ Examples include:
 - LLaMA
 - Claude
 
-These models are trained on massive datasets containing billions or trillions of words.
+These models are trained on massive datasets containing billions or trillions of tokens.
 
 ---
 
 ### How LLMs Work
 
-Most LLMs are based on the transformer architecture, which uses an attention mechanism to model relationships between words in a sequence.
-
-The model learns statistical patterns in language and can generate coherent text.
+Most LLMs are based on the transformer architecture, which uses an **attention mechanism** to model relationships between words in a sequence. The model learns statistical patterns in language and can then generate coherent text.
 
 Capabilities include:
 
@@ -350,3 +312,7 @@ Capabilities include:
 - Summarization
 - Translation
 - Code generation
+
+:::{tip} Where to go next
+The companion notebook **NLP in Business** walks through realistic mini-demos of NLP in finance, accounting, marketing, and HR. The **Preprocessing** notebook then digs into the practical text-cleaning steps we apply to earnings call transcripts before any modeling.
+:::
