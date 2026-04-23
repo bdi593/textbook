@@ -3,8 +3,8 @@
 Walmart is the largest retailer in the world and operates thousands of stores
 across the United States. Like every retailer, Walmart needs accurate sales
 forecasts to plan inventory, schedule staff, run promotions, and negotiate
-with suppliers. Forecasting *too high* leaves shelves overstocked and ties up
-working capital; forecasting *too low* leads to empty shelves, lost sales,
+with suppliers. Forecasting _too high_ leaves shelves overstocked and ties up
+working capital; forecasting _too low_ leads to empty shelves, lost sales,
 and unhappy customers. In this case study we step into the role of a
 business analyst who has been asked to build a weekly sales forecast for a
 collection of Walmart stores and departments.
@@ -24,11 +24,11 @@ as temperature, fuel price, and promotional markdowns.
 
 The data ships in three files:
 
-| File           | Grain                        | Description                                                                                       |
-| -------------- | ---------------------------- | ------------------------------------------------------------------------------------------------- |
-| `stores.csv`   | one row per store            | Store **type** (`A`, `B`, `C`) and **size** in square feet for each of the 45 stores.             |
-| `features.csv` | one row per `(Store, Week)`  | Weekly store-level context: `Temperature`, `Fuel_Price`, `MarkDown1-5`, `CPI`, `Unemployment`, `IsHoliday`. |
-| `train.csv`    | one row per `(Store, Dept, Week)` | The target series: `Weekly_Sales` for each department, plus a holiday flag.                  |
+| File           | Grain                             | Description                                                                                                 |
+| -------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `stores.csv`   | one row per store                 | Store **type** (`A`, `B`, `C`) and **size** in square feet for each of the 45 stores.                       |
+| `features.csv` | one row per `(Store, Week)`       | Weekly store-level context: `Temperature`, `Fuel_Price`, `MarkDown1-5`, `CPI`, `Unemployment`, `IsHoliday`. |
+| `train.csv`    | one row per `(Store, Dept, Week)` | The target series: `Weekly_Sales` for each department, plus a holiday flag.                                 |
 
 ## Learning Objectives
 
@@ -53,7 +53,7 @@ By the end of this case study you should be comfortable:
 ## Algorithms You Can Practice with This Dataset
 
 The dataset is unusually rich for a teaching example because it supports
-several *families* of forecasting techniques:
+several _families_ of forecasting techniques:
 
 - **Classical statistical forecasting** — naive / seasonal-naive baselines,
   exponential smoothing (ETS), ARIMA / SARIMA at the store-department
@@ -86,7 +86,7 @@ parts of the economy:
   cashiers, stockers, baristas, and call-center agents.
 - **Promotions and pricing.** The MarkDown columns in this dataset are a
   direct analogue to the promotional calendars retailers use today;
-  forecasting the *uplift* of a markdown is a multibillion-dollar problem.
+  forecasting the _uplift_ of a markdown is a multibillion-dollar problem.
 - **Energy and utilities.** Weekly load forecasting uses the same
   combination of weather, calendar, and lag features.
 - **Financial services.** Branch-level transaction volume forecasts and

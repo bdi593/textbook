@@ -1,6 +1,6 @@
 # Analyzing Credit Card Transactions
 
-Credit card transactions are one of the most valuable — and most sensitive — data assets a financial institution owns. They power fraud detection, customer segmentation, lifetime-value modeling, merchant analytics, and personalised offers. Yet *publicly available* card data is scarce: real transactions cannot be released for privacy reasons, and the synthetic datasets that exist are usually small, heavily anonymised, or both.
+Credit card transactions are one of the most valuable — and most sensitive — data assets a financial institution owns. They power fraud detection, customer segmentation, lifetime-value modeling, merchant analytics, and personalised offers. Yet _publicly available_ card data is scarce: real transactions cannot be released for privacy reasons, and the synthetic datasets that exist are usually small, heavily anonymised, or both.
 
 For example, the well-known [Kaggle Credit Card Fraud dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) contains only 284,807 transactions over two days, of which fewer than 500 are fraudulent. Worse, all but two of its columns are the result of a principal-components transformation, which obfuscates the underlying business meaning.
 
@@ -62,7 +62,7 @@ The data is provided as a single CSV (and a derived Parquet) whose schema is des
   - Highly imbalanced — fewer than 0.2% positive in most months.
 ```
 
-:::{important} Why we use Polars *and* DuckDB
+:::{important} Why we use Polars _and_ DuckDB
 The chapter teaches both libraries because they complement each other:
 
 - **Polars** is a Rust-based DataFrame library with a fluent expression API. It excels at transformations and pipeline-style code, and is the natural successor to pandas for medium-to-large data.
@@ -100,7 +100,7 @@ The notebooks build up the following workflow step by step:
 2. Parse `"Amount"` from a `$`-prefixed string into `float64`.
 3. Combine the `Year`, `Month`, `Day`, and `Time` columns into a single `Datetime`.
 4. Look at the distributions of categorical columns such as `"Use Chip"` and `"Is Fraud?"`.
-5. Create boolean flag columns to mark suspicious transactions (e.g. *online + foreign + above-average amount*).
+5. Create boolean flag columns to mark suspicious transactions (e.g. _online + foreign + above-average amount_).
 6. Filter for online refunds (online transactions whose amount is negative).
 7. Aggregate per user: total spend, average ticket size, and number of transactions.
 8. Use a rolling/window feature (per user) to mimic SQL's `OVER (PARTITION BY user ORDER BY datetime)` behaviour and capture spending trends.
@@ -118,10 +118,11 @@ Treat the work in this chapter as the **data layer** that any of those systems w
 :::
 
 :::{seealso} Further reading
+
 - IBM Research — [Synthesizing Credit Card Transactions](https://arxiv.org/abs/1910.03033)
 - Polars — [User Guide](https://docs.pola.rs/)
 - DuckDB — [Documentation](https://duckdb.org/docs/)
 - Visa Risk — [Public materials on real-time fraud scoring](https://usa.visa.com/about-visa/visa-fraud-detection.html)
-:::
+  :::
 
 [^1]: [Kaggle — Credit Card Transactions Dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/)

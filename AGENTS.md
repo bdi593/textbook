@@ -43,7 +43,9 @@ Named admonitions commonly used in this project include:
 Example:
 
 :::{tip} Teaching emphasis
-Use admonitions to call out practical advice, conceptual reminders, warnings about mistakes, and links to related ideas.
+
+Use admonitions to call out practical advice, conceptual reminders, warnings about mistakes, and links to related ideas. Add blank lines before and after the directive for readability, and add lines between the directive and its content to visually separate it from the surrounding text.
+
 :::
 
 ## Editing expectations

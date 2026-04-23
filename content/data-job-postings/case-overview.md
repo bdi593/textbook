@@ -12,14 +12,14 @@ In this case, we will use a real-world job postings dataset focused on data scie
 
 ## 💼 Business Context
 
-The market for data and analytics talent has matured rapidly over the last few years. Roles that barely existed a decade ago — *data engineer*, *machine learning engineer*, *analytics engineer* — now appear in tens of thousands of postings each month. For job seekers, recruiters, hiring managers, and educators, this creates several questions:
+The market for data and analytics talent has matured rapidly over the last few years. Roles that barely existed a decade ago — _data engineer_, _machine learning engineer_, _analytics engineer_ — now appear in tens of thousands of postings each month. For job seekers, recruiters, hiring managers, and educators, this creates several questions:
 
 - **Job seekers** want to know which titles are growing, which skills get the strongest premium, and how compensation differs by location and industry.
 - **Recruiters and hiring managers** need to benchmark salary ranges, identify in-demand skills, and decide where to focus sourcing efforts.
 - **Educators and bootcamps** use the data to keep curricula aligned with the skills employers actually request.
 - **Workforce researchers** track how remote work, the rise of generative AI, and macroeconomic conditions reshape the labor market.
 
-Real online postings give us a window into all of these questions. Each row tells us *what* a company is hiring for, *where*, *under what conditions*, and increasingly — *for how much*.
+Real online postings give us a window into all of these questions. Each row tells us _what_ a company is hiring for, _where_, _under what conditions_, and increasingly — _for how much_.
 
 ## 🎯 Learning Objectives
 
@@ -47,7 +47,7 @@ This chapter is split across two complementary notebooks:
 2. **[`hr-analytics.ipynb`](./hr-analytics.ipynb)** — applied HR analytics. We reuse the cleaned dataset to walk through three workflows that real talent and people-analytics teams run: **competitive compensation benchmarking**, **talent scouting / market mapping**, and **skill-gap and retention signals**.
 
 :::{tip} Working with the same dataset twice
-A common pattern in industry is to do EDA *once* on a dataset and then reuse the cleaned version across multiple downstream analyses. We follow that pattern here: the EDA notebook persists a cleaned Parquet file, and the HR analytics notebook loads it without repeating the preprocessing.
+A common pattern in industry is to do EDA _once_ on a dataset and then reuse the cleaned version across multiple downstream analyses. We follow that pattern here: the EDA notebook persists a cleaned Parquet file, and the HR analytics notebook loads it without repeating the preprocessing.
 :::
 
 ## 📌 Dataset Information

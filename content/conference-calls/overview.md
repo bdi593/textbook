@@ -72,7 +72,7 @@ Key innovations included:
 
 - **Word embeddings (Word2Vec, GloVe)** — Words represented as vectors capturing semantic relationships.
 - **Recurrent Neural Networks (RNNs)** — Models capable of processing sequences of words.
-- **Transformers (2017)** — A neural architecture introduced in the paper *Attention is All You Need*, which dramatically improved language modeling performance.
+- **Transformers (2017)** — A neural architecture introduced in the paper _Attention is All You Need_, which dramatically improved language modeling performance.
 
 Transformers enabled modern language models such as:
 
