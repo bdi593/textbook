@@ -1,6 +1,6 @@
 # Dataset Release Note
 
-- **Title**: [3 Million Instacart Orders, Open Sourced](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2)
+- **Title**: 3 Million Instacart Orders, Open Sourced
 - By [Jeremy Stanley](https://medium.com/@jeremy.stanley?source=post_page---byline--d40d29ead6f2---------------------------------------)
 - Published on May 3, 2017
 - This is a copy of the original blog post published at the time of the dataset's release.
@@ -41,7 +41,7 @@ For example, the first two orders for user_id 1 are:
 
 If you make use of this dataset, please use the following citation:
 
-_"The Instacart Online Grocery Shopping Dataset 2017", Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on \<date\>_
+_"The Instacart Online Grocery Shopping Dataset 2017" on \<date\>_
 
 If you have questions about this dataset, you can reach out to us directly at [open.data@instacart.com](mailto:open.data@instacart.com).
 

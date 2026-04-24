@@ -1,7 +1,7 @@
 # Case Study Overview
 
-> **Dataset:** [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)  
-> **Citation:** _"The Instacart Online Grocery Shopping Dataset 2017", Accessed from https://www.instacart.com/datasets/grocery-shopping-2017_
+> **Dataset:** [The Instacart Online Grocery Shopping Dataset 2017](https://github.com/subwaymatch/instacart-dataset-2017/)  
+> **Citation:** \_"The Instacart Online Grocery Shopping Dataset 2017"
 
 ---
 
