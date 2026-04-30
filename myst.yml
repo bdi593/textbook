@@ -81,7 +81,7 @@ project:
         - file: content/financial-data-with-llms/case-overview.md
         - file: content/financial-data-with-llms/read-edgar-filings.ipynb
         - file: content/financial-data-with-llms/analyze-filings-with-llm.ipynb
-    - title: Campustown Zillow Listings (Final Case Study)
+    - title: Campustown Zillow Listings
       children:
         - file: content/campustown-zillow-listings/case-overview.md
         - file: content/campustown-zillow-listings/part-1-eda-and-visualizations.ipynb
