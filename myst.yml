@@ -76,11 +76,11 @@ project:
         - file: content/walmart-sales-forecasting/case-overview.md
         - file: content/walmart-sales-forecasting/eda.ipynb
         - file: content/walmart-sales-forecasting/build-a-forecasting-model.ipynb
-    - title: Working with LLM API
+    - title: Financial Data Analysis with LLMs
       children:
-        - file: content/working-with-llm-api/case-overview.md
-        - file: content/working-with-llm-api/read-edgar-filings.ipynb
-        - file: content/working-with-llm-api/analyze-filings-with-llm.ipynb
+        - file: content/financial-data-with-llms/case-overview.md
+        - file: content/financial-data-with-llms/read-edgar-filings.ipynb
+        - file: content/financial-data-with-llms/analyze-filings-with-llm.ipynb
   # keywords: []
   # authors: []
   # github:
