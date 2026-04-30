@@ -1,4 +1,4 @@
-# 🏡 Campustown Zillow Listings - Final Case Study
+# 🏡 Campustown Zillow Listings
 
 This is the final case study for BDI 199/593. It pulls together every major
 skill we have practiced this term - exploratory data analysis, business
@@ -249,22 +249,22 @@ workflow. They are intentionally a little under-built so that you can put
 your own analytical fingerprints on the final notebook and slide deck.
 :::
 
-## 📝 Grading Rubric (100 points)
+## 📝 Grading Rubric
 
-The same rubric applies to all students. 4-credit students are graded on
-all six rows; 3-credit students are graded only on the first five rows
-(re-scaled to 100 points by ignoring Part 3).
+The same rubric applies to all students. 3-credit students are graded on
+the first five rows for a total of 200 points. 4-credit students are
+graded on all six rows, including Part 3, for a total of 300 points.
 
 | Component                                        | Points | Criteria                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Part 1 - EDA & Visualization                     | 20     | Clean load of both Parquet files; documented data-quality issues; at least five Plotly Express charts comparing markets, price drivers, and time trends; each chart paired with a short business interpretation.                                                                                                       |
-| Part 2a - Baseline Price Predictor               | 20     | Reproducible `scikit-learn` pipeline (preprocessing + XGBoost) trained on a held-out split; reports MAE, RMSE, R², and MAPE; residual analysis breaks errors down by market and price band; chosen model is justified in plain English.                                                                                |
-| Part 2b - NLP Feature Engineering with spaCy     | 20     | Uses spaCy (`en_core_web_sm`) to tokenize and extract structured signals from `description`; engineered features (e.g., amenity flags, TF-IDF) are added to the Part 2a pipeline; the improved model is measurably better on the same held-out split, and the improvement is explained.                                |
-| Communication & slide deck                       | 15     | Slide deck is < 30 slides, leads with business implications, uses your own visualizations, and is comprehensible to a non-technical audience. AI-tool usage is disclosed.                                                                                                                                              |
-| Code quality, narrative, reproducibility         | 5      | Logical section headings, no dead code, no hard-coded paths outside the case folder, and a clear top-to-bottom run path.                                                                                                                                                                                               |
-| Part 3 - Price-History Analytics (4-credit only) | 20     | Joins `price_history.parquet` to the properties file; engineers list-to-sale ratio, days-to-sale, and price-cut features per property; trains and evaluates a model that uses these history-derived features to predict a realized-sale outcome; interprets which dynamics matter most for QCP's acquisition strategy. |
-| Total (4-credit)                                 | 100    |                                                                                                                                                                                                                                                                                                                        |
-| Total (3-credit, rescaled)                       | 100    | (sum of first five rows scaled by `100 / 80`)                                                                                                                                                                                                                                                                          |
+| Part 1 - EDA & Visualization                     | 50     | Clean load of both Parquet files; documented data-quality issues; at least five Plotly Express charts comparing markets, price drivers, and time trends; each chart paired with a short business interpretation.                                                                                                       |
+| Part 2a - Baseline Price Predictor               | 50     | Reproducible `scikit-learn` pipeline (preprocessing + XGBoost) trained on a held-out split; reports MAE, RMSE, R², and MAPE; residual analysis breaks errors down by market and price band; chosen model is justified in plain English.                                                                                |
+| Part 2b - NLP Feature Engineering with spaCy     | 50     | Uses spaCy (`en_core_web_sm`) to tokenize and extract structured signals from `description`; engineered features (e.g., amenity flags, TF-IDF) are added to the Part 2a pipeline; the improved model is measurably better on the same held-out split, and the improvement is explained.                                |
+| Communication & slide deck                       | 30     | Slide deck is < 30 slides, leads with business implications, uses your own visualizations, and is comprehensible to a non-technical audience. AI-tool usage is disclosed.                                                                                                                                              |
+| Code quality, narrative, reproducibility         | 20     | Logical section headings, no dead code, no hard-coded paths outside the case folder, and a clear top-to-bottom run path.                                                                                                                                                                                               |
+| Part 3 - Price-History Analytics (4-credit only) | 100    | Joins `price_history.parquet` to the properties file; engineers list-to-sale ratio, days-to-sale, and price-cut features per property; trains and evaluates a model that uses these history-derived features to predict a realized-sale outcome; interprets which dynamics matter most for QCP's acquisition strategy. |
+| Total (3-credit)                                 | 200    |                                                                                                                                                                                                                                                                                                                        |
+| Total (4-credit)                                 | 300    |                                                                                                                                                                                                                                                                                                                        |
 
 :::{seealso} Going further
 Once the required pieces work, optional extensions that real QCP analysts
