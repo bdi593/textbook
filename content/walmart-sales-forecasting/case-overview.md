@@ -11,15 +11,15 @@ collection of Walmart stores and departments.
 
 ## Dataset
 
-We will use the public **Walmart Recruiting — Store Sales Forecasting**
+We will use the public **Walmart Recruiting, Store Sales Forecasting**
 dataset originally released by Walmart on Kaggle. It contains historical
 weekly sales for 45 Walmart stores located in different regions of the U.S.,
 along with store-level attributes and a number of contextual features such
 as temperature, fuel price, and promotional markdowns.
 
-- **Source:** [Walmart Recruiting — Store Sales Forecasting (Kaggle)](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+- **Source:** [Walmart Recruiting, Store Sales Forecasting (Kaggle)](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 - **Mirror used in this book:** [`bdi593/datasets/walmart-store-sales-forecasting`](https://github.com/bdi593/datasets/tree/main/walmart-store-sales-forecasting)
-- **Time range:** February 2010 — November 2012 (weekly observations)
+- **Time range:** February 2010 to November 2012 (weekly observations)
 - **Granularity:** one row per `(Store, Department, Week)`
 
 The data ships in three files:
@@ -35,7 +35,7 @@ The data ships in three files:
 By the end of this case study you should be comfortable:
 
 1. **Loading, joining, and cleaning** multi-table retail data with `pandas`.
-2. **Exploring time-series data** with `plotly express` — distributions,
+2. **Exploring time-series data** with `plotly express`, distributions,
    trends, seasonality, holiday effects, and store/department mix.
 3. **Engineering time-series features** such as calendar parts, lagged
    sales, and rolling means.
@@ -55,17 +55,17 @@ By the end of this case study you should be comfortable:
 The dataset is unusually rich for a teaching example because it supports
 several _families_ of forecasting techniques:
 
-- **Classical statistical forecasting** — naive / seasonal-naive baselines,
+- **Classical statistical forecasting**, naive / seasonal-naive baselines,
   exponential smoothing (ETS), ARIMA / SARIMA at the store-department
   level.
-- **Regression-based forecasting** — linear regression, ridge / lasso, and
+- **Regression-based forecasting**, linear regression, ridge / lasso, and
   generalized linear models with calendar and lag features.
-- **Tree-based machine learning** — random forests, gradient-boosted trees
+- **Tree-based machine learning**, random forests, gradient-boosted trees
   (`xgboost`, `lightgbm`), which excel on tabular retail data and naturally
   handle categorical features and non-linear interactions.
-- **Hierarchical forecasting** — combining store-level, department-level,
+- **Hierarchical forecasting**, combining store-level, department-level,
   and chain-level forecasts for consistency.
-- **Deep learning (advanced)** — sequence models such as LSTMs or temporal
+- **Deep learning (advanced)**, sequence models such as LSTMs or temporal
   fusion transformers, useful when you have many related series.
 
 In this book we will focus on the **regression** and **tree-based** routes
@@ -74,7 +74,7 @@ problems analysts encounter in industry.
 
 ## Real-World Applications
 
-The techniques you practice here are reused — almost unchanged — in many
+The techniques you practice here are reused, almost unchanged, in many
 parts of the economy:
 
 - **Retail demand planning.** Grocery, fashion, and big-box retailers all
@@ -94,10 +94,10 @@ parts of the economy:
 
 ## How This Case Study is Organized
 
-1. **Exploratory Data Analysis (EDA)** — load each file, profile the
+1. **Exploratory Data Analysis (EDA)**, load each file, profile the
    columns, look at distributions and time trends, and uncover the holiday
    and seasonality patterns we will need to model.
-2. **Build a Forecasting Model** — engineer features, do a proper
+2. **Build a Forecasting Model**, engineer features, do a proper
    time-based train/test split, train a baseline and an ML model, evaluate
    with MAE / RMSE / WMAE, and discuss how to improve the results.
 

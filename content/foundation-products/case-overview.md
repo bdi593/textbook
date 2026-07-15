@@ -12,7 +12,7 @@ You are a marketing analyst at [MAC Cosmetics](https://www.maccosmetics.com/), a
 :align: center
 ```
 
-While MAC has long been a leader in artistry and brand prestige, the company is facing increasing pressure specifically in the foundation category—especially among younger consumers (Gen Z and Millennials). Emerging brands and digitally native competitors are rapidly gaining traction through:
+While MAC has long been a leader in artistry and brand prestige, the company is facing increasing pressure specifically in the foundation category, especially among younger consumers (Gen Z and Millennials). Emerging brands and digitally native competitors are rapidly gaining traction through:
 
 - Strong Amazon visibility
 - Influencer-driven marketing

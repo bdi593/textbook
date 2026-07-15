@@ -1,6 +1,6 @@
 # Analyzing Credit Card Transactions
 
-Credit card transactions are one of the most valuable — and most sensitive — data assets a financial institution owns. They power fraud detection, customer segmentation, lifetime-value modeling, merchant analytics, and personalised offers. Yet _publicly available_ card data is scarce: real transactions cannot be released for privacy reasons, and the synthetic datasets that exist are usually small, heavily anonymised, or both.
+Credit card transactions are one of the most valuable and most sensitive, data assets a financial institution owns. They power fraud detection, customer segmentation, lifetime-value modeling, merchant analytics, and personalised offers. Yet _publicly available_ card data is scarce: real transactions cannot be released for privacy reasons, and the synthetic datasets that exist are usually small, heavily anonymised, or both.
 
 For example, the well-known [Kaggle Credit Card Fraud dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) contains only 284,807 transactions over two days, of which fewer than 500 are fraudulent. Worse, all but two of its columns are the result of a principal-components transformation, which obfuscates the underlying business meaning.
 
@@ -10,7 +10,7 @@ This case study uses a much larger, more realistic synthetic dataset published b
 
 &nbsp;
 
-- **Dataset:** [Kaggle — Credit Card Transactions](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions)
+- **Dataset:** [Kaggle, Credit Card Transactions](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions)
 - **How the data was generated:** [Synthesizing Credit Card Transactions (Altman, 2019)](https://arxiv.org/abs/1910.03033)
 
 ## Learning objectives
@@ -59,7 +59,7 @@ The data is provided as a single CSV (and a derived Parquet) whose schema is des
   - `MCC` (Merchant Category Code) is a standard 4-digit retail category.
 * - `Is Fraud?`
   - `"Yes"` / `"No"` label
-  - Highly imbalanced — fewer than 0.2% positive in most months.
+  - Highly imbalanced, fewer than 0.2% positive in most months.
 ```
 
 :::{important} Why we use Polars _and_ DuckDB
@@ -119,10 +119,10 @@ Treat the work in this chapter as the **data layer** that any of those systems w
 
 :::{seealso} Further reading
 
-- IBM Research — [Synthesizing Credit Card Transactions](https://arxiv.org/abs/1910.03033)
-- Polars — [User Guide](https://docs.pola.rs/)
-- DuckDB — [Documentation](https://duckdb.org/docs/)
-- Visa Risk — [Public materials on real-time fraud scoring](https://usa.visa.com/about-visa/visa-fraud-detection.html)
+- IBM Research, [Synthesizing Credit Card Transactions](https://arxiv.org/abs/1910.03033)
+- Polars, [User Guide](https://docs.pola.rs/)
+- DuckDB, [Documentation](https://duckdb.org/docs/)
+- Visa Risk, [Public materials on real-time fraud scoring](https://usa.visa.com/about-visa/visa-fraud-detection.html)
   :::
 
-[^1]: [Kaggle — Credit Card Transactions Dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/)
+[^1]: [Kaggle, Credit Card Transactions Dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/)

@@ -2,14 +2,14 @@
 
 ## What is Natural Language Processing (NLP)?
 
-Natural Language Processing (NLP) is a field within artificial intelligence and data science focused on enabling computers to understand, interpret, and generate human language. Unlike structured numerical data, natural language data — such as emails, customer reviews, social media posts, or transcripts — is inherently ambiguous and unstructured. NLP techniques allow analysts to transform text into structured information that can be analyzed using computational methods.
+Natural Language Processing (NLP) is a field within artificial intelligence and data science focused on enabling computers to understand, interpret, and generate human language. Unlike structured numerical data, natural language data, such as emails, customer reviews, social media posts, or transcripts, is inherently ambiguous and unstructured. NLP techniques allow analysts to transform text into structured information that can be analyzed using computational methods.
 
 NLP sits at the intersection of several disciplines:
 
-- **Computer Science** — algorithms and software systems
-- **Linguistics** — the structure and meaning of language
-- **Machine Learning** — statistical models that learn patterns from data
-- **Statistics and Data Science** — analyzing and modeling language data
+- **Computer Science**, algorithms and software systems
+- **Linguistics**, the structure and meaning of language
+- **Machine Learning**, statistical models that learn patterns from data
+- **Statistics and Data Science**, analyzing and modeling language data
 
 Organizations increasingly rely on NLP to extract insights from large volumes of textual data. Common applications include:
 
@@ -23,7 +23,7 @@ Organizations increasingly rely on NLP to extract insights from large volumes of
 In business analytics, NLP allows organizations to incorporate unstructured text data into decision-making processes.
 
 :::{seealso} Why this case study uses earnings calls
-This chapter is named **Conference Calls** because the running case study works with quarterly **earnings conference call** transcripts published by public companies. These calls are a rich source of unstructured text where executives discuss results, strategy, and risks — and they are routinely analyzed by investors, journalists, and competitors.
+This chapter is named **Conference Calls** because the running case study works with quarterly **earnings conference call** transcripts published by public companies. These calls are a rich source of unstructured text where executives discuss results, strategy, and risks and they are routinely analyzed by investors, journalists, and competitors.
 :::
 
 ## Brief History of NLP
@@ -36,8 +36,8 @@ The earliest NLP systems relied heavily on manually constructed rules and lingui
 
 Early efforts included:
 
-- **Machine Translation Experiments (1950s)** — Researchers attempted to translate Russian to English using dictionaries and grammatical rules.
-- **ELIZA (1966)** — One of the earliest chatbots, ELIZA simulated conversation using simple pattern-matching rules.
+- **Machine Translation Experiments (1950s)**, Researchers attempted to translate Russian to English using dictionaries and grammatical rules.
+- **ELIZA (1966)**, One of the earliest chatbots, ELIZA simulated conversation using simple pattern-matching rules.
 
 These systems relied on explicit linguistic rules such as:
 
@@ -70,9 +70,9 @@ Around 2010, deep learning transformed NLP by enabling models to learn complex s
 
 Key innovations included:
 
-- **Word embeddings (Word2Vec, GloVe)** — Words represented as vectors capturing semantic relationships.
-- **Recurrent Neural Networks (RNNs)** — Models capable of processing sequences of words.
-- **Transformers (2017)** — A neural architecture introduced in the paper _Attention is All You Need_, which dramatically improved language modeling performance.
+- **Word embeddings (Word2Vec, GloVe)**, Words represented as vectors capturing semantic relationships.
+- **Recurrent Neural Networks (RNNs)**, Models capable of processing sequences of words.
+- **Transformers (2017)**, A neural architecture introduced in the paper _Attention is All You Need_, which dramatically improved language modeling performance.
 
 Transformers enabled modern language models such as:
 
