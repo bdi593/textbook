@@ -17,10 +17,10 @@ The dataset captures **over 3 million grocery orders** placed by **more than 200
 
 Grocery retail operates on thin margins and intense competition. The ability to understand _what_ customers buy, _when_ they buy it, _how often_ they return, and _which products they consistently reorder_ translates directly into revenue-generating decisions:
 
-- **Personalised recommendations**, surfacing products a customer is likely to buy next.
-- **Assortment optimisation**, knowing which aisles drive the most volume and loyalty.
-- **Promotional targeting**, identifying moments in a customer's lifecycle where intervention (e.g., a coupon) is most effective.
-- **Demand forecasting**, predicting order volume by time of day and day of week to staff and stock efficiently.
+- **Personalised recommendations**: surfacing products a customer is likely to buy next.
+- **Assortment optimisation**: knowing which aisles drive the most volume and loyalty.
+- **Promotional targeting**: identifying moments in a customer's lifecycle where intervention (e.g., a coupon) is most effective.
+- **Demand forecasting**: predicting order volume by time of day and day of week to staff and stock efficiently.
 
 By working through this case study, you will experience the full analytical pipeline that underpins these decisions.
 

@@ -55,17 +55,17 @@ By the end of this case study you should be comfortable:
 The dataset is unusually rich for a teaching example because it supports
 several _families_ of forecasting techniques:
 
-- **Classical statistical forecasting**, naive / seasonal-naive baselines,
+- **Classical statistical forecasting**: naive / seasonal-naive baselines,
   exponential smoothing (ETS), ARIMA / SARIMA at the store-department
   level.
-- **Regression-based forecasting**, linear regression, ridge / lasso, and
+- **Regression-based forecasting**: linear regression, ridge / lasso, and
   generalized linear models with calendar and lag features.
-- **Tree-based machine learning**, random forests, gradient-boosted trees
+- **Tree-based machine learning**: random forests, gradient-boosted trees
   (`xgboost`, `lightgbm`), which excel on tabular retail data and naturally
   handle categorical features and non-linear interactions.
-- **Hierarchical forecasting**, combining store-level, department-level,
+- **Hierarchical forecasting**: combining store-level, department-level,
   and chain-level forecasts for consistency.
-- **Deep learning (advanced)**, sequence models such as LSTMs or temporal
+- **Deep learning (advanced)**: sequence models such as LSTMs or temporal
   fusion transformers, useful when you have many related series.
 
 In this book we will focus on the **regression** and **tree-based** routes
@@ -94,10 +94,10 @@ parts of the economy:
 
 ## How This Case Study is Organized
 
-1. **Exploratory Data Analysis (EDA)**, load each file, profile the
+1. **Exploratory Data Analysis (EDA)**: load each file, profile the
    columns, look at distributions and time trends, and uncover the holiday
    and seasonality patterns we will need to model.
-2. **Build a Forecasting Model**, engineer features, do a proper
+2. **Build a Forecasting Model**: engineer features, do a proper
    time-based train/test split, train a baseline and an ML model, evaluate
    with MAE / RMSE / WMAE, and discuss how to improve the results.
 

@@ -9,7 +9,7 @@ Together, these skills let you build the kind of "AI analyst" workflow that inve
 
 ## 🏢 What is EDGAR?
 
-[EDGAR](https://www.sec.gov/edgar/search/) stands for Electronic Data Gathering, Analysis, and Retrieval. It is the official online filing system operated by the U.S. Securities and Exchange Commission (SEC) since the early 1990s. Every public U.S. company and many private companies that issue regulated securities, must submit periodic reports to EDGAR, and those filings are made freely available to the public at [https://www.sec.gov/edgar](https://www.sec.gov/edgar).
+[EDGAR](https://www.sec.gov/edgar/search/) stands for Electronic Data Gathering, Analysis, and Retrieval. It is the official online filing system operated by the U.S. Securities and Exchange Commission (SEC) since the early 1990s. Every public U.S. company and many private companies that issue regulated securities must submit periodic reports to EDGAR, and those filings are made freely available to the public at [https://www.sec.gov/edgar](https://www.sec.gov/edgar).
 
 EDGAR is one of the largest publicly available collections of high-quality business data in the world. It contains decades of financial statements, executive compensation disclosures, risk factors, business descriptions, ownership data, and material events for thousands of companies.
 
@@ -60,8 +60,8 @@ The dominant API surface is the one introduced by OpenAI. It is so widely adopte
 
 The official [`openai`](https://github.com/openai/openai-python) Python SDK exposes a single `OpenAI` client class. The client takes two arguments that you can override:
 
-- `api_key`, your secret key for the provider you are calling, and
-- `base_url`, the HTTPS endpoint the SDK should send requests to.
+- `api_key`: your secret key for the provider you are calling, and
+- `base_url`: the HTTPS endpoint the SDK should send requests to.
 
 By default, the SDK points at `https://api.openai.com/v1`. If you change `base_url` to a different OpenAI-compatible endpoint and pass that provider's `api_key`, the **same code** works against the new provider with no other changes. That is the entire trick:
 
@@ -86,8 +86,8 @@ OpenRouter is convenient for classroom use because students can experiment with 
 
 LLM API pricing is almost always per token, where a _token_ is roughly ¾ of an English word. Providers publish two prices for each model:
 
-- **Input price**, what you pay per million input tokens (your prompt, system messages, and any context you supply).
-- **Output price**, what you pay per million output tokens (the model's generated response).
+- **Input price**: what you pay per million input tokens (your prompt, system messages, and any context you supply).
+- **Output price**: what you pay per million output tokens (the model's generated response).
 
 Output tokens are typically 3× to 5× more expensive than input tokens because generation is the costly step.
 
@@ -114,11 +114,11 @@ Most providers expose a token counter (or you can use [`tiktoken`](https://githu
 There are far too many LLMs released each month to evaluate by hand. Analysts and engineers rely on a few public resources to filter the field:
 
 - **Provider pricing pages.** Always your first stop. OpenAI, Anthropic, Google, and OpenRouter all publish per-model pricing tables.
-- **[Artificial Analysis](https://artificialanalysis.ai/)**, independent benchmarks of cost, latency (tokens/sec), and quality across most commercial models. Excellent for "is this model fast and cheap enough for my use case?" questions.
-- **[LMArena (formerly Chatbot Arena)](https://lmarena.ai/leaderboard)**, a crowdsourced human-preference leaderboard where users blind-vote between two model responses.
-- **[Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)**, academic benchmarks (MMLU, GSM8K, HellaSwag, etc.) for open-weight models.
-- **[OpenRouter rankings](https://openrouter.ai/rankings)**, real-world usage data showing which models developers actually pay for and on which workloads.
-- **Domain-specific benchmarks**, for finance specifically, look at FinanceBench, FinQA, and the [Vals AI Legal/Finance leaderboards](https://www.vals.ai/).
+- **[Artificial Analysis](https://artificialanalysis.ai/)**: independent benchmarks of cost, latency (tokens/sec), and quality across most commercial models. Excellent for "is this model fast and cheap enough for my use case?" questions.
+- **[LMArena (formerly Chatbot Arena)](https://lmarena.ai/leaderboard)**: a crowdsourced human-preference leaderboard where users blind-vote between two model responses.
+- **[Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)**: academic benchmarks (MMLU, GSM8K, HellaSwag, etc.) for open-weight models.
+- **[OpenRouter rankings](https://openrouter.ai/rankings)**: real-world usage data showing which models developers actually pay for and on which workloads.
+- **Domain-specific benchmarks**: for finance specifically, look at FinanceBench, FinQA, and the [Vals AI Legal/Finance leaderboards](https://www.vals.ai/).
 
 A reasonable workflow for picking a model:
 

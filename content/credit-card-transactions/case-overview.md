@@ -1,6 +1,6 @@
 # Analyzing Credit Card Transactions
 
-Credit card transactions are one of the most valuable and most sensitive, data assets a financial institution owns. They power fraud detection, customer segmentation, lifetime-value modeling, merchant analytics, and personalised offers. Yet _publicly available_ card data is scarce: real transactions cannot be released for privacy reasons, and the synthetic datasets that exist are usually small, heavily anonymised, or both.
+Credit card transactions are some of the most valuable and sensitive data assets a financial institution owns. They power fraud detection, customer segmentation, lifetime-value modeling, merchant analytics, and personalised offers. Yet _publicly available_ card data is scarce: real transactions cannot be released for privacy reasons, and the synthetic datasets that exist are usually small, heavily anonymised, or both.
 
 For example, the well-known [Kaggle Credit Card Fraud dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) contains only 284,807 transactions over two days, of which fewer than 500 are fraudulent. Worse, all but two of its columns are the result of a principal-components transformation, which obfuscates the underlying business meaning.
 

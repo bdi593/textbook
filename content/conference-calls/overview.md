@@ -6,10 +6,10 @@ Natural Language Processing (NLP) is a field within artificial intelligence and 
 
 NLP sits at the intersection of several disciplines:
 
-- **Computer Science**, algorithms and software systems
-- **Linguistics**, the structure and meaning of language
-- **Machine Learning**, statistical models that learn patterns from data
-- **Statistics and Data Science**, analyzing and modeling language data
+- **Computer Science**: algorithms and software systems
+- **Linguistics**: the structure and meaning of language
+- **Machine Learning**: statistical models that learn patterns from data
+- **Statistics and Data Science**: analyzing and modeling language data
 
 Organizations increasingly rely on NLP to extract insights from large volumes of textual data. Common applications include:
 
@@ -36,8 +36,8 @@ The earliest NLP systems relied heavily on manually constructed rules and lingui
 
 Early efforts included:
 
-- **Machine Translation Experiments (1950s)**, Researchers attempted to translate Russian to English using dictionaries and grammatical rules.
-- **ELIZA (1966)**, One of the earliest chatbots, ELIZA simulated conversation using simple pattern-matching rules.
+- **Machine Translation Experiments (1950s)**: Researchers attempted to translate Russian to English using dictionaries and grammatical rules.
+- **ELIZA (1966)**: One of the earliest chatbots, ELIZA simulated conversation using simple pattern-matching rules.
 
 These systems relied on explicit linguistic rules such as:
 
@@ -70,9 +70,9 @@ Around 2010, deep learning transformed NLP by enabling models to learn complex s
 
 Key innovations included:
 
-- **Word embeddings (Word2Vec, GloVe)**, Words represented as vectors capturing semantic relationships.
-- **Recurrent Neural Networks (RNNs)**, Models capable of processing sequences of words.
-- **Transformers (2017)**, A neural architecture introduced in the paper _Attention is All You Need_, which dramatically improved language modeling performance.
+- **Word embeddings (Word2Vec, GloVe)**: Words represented as vectors capturing semantic relationships.
+- **Recurrent Neural Networks (RNNs)**: Models capable of processing sequences of words.
+- **Transformers (2017)**: A neural architecture introduced in the paper _Attention is All You Need_, which dramatically improved language modeling performance.
 
 Transformers enabled modern language models such as:
 

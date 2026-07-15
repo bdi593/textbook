@@ -13,7 +13,7 @@ Real estate is one of the oldest data-driven industries, but the *kinds* of anal
 - **Risk and underwriting.** Lenders, insurers, and short-term rental platforms (Airbnb, Vrbo) use the same property-level data for default-risk modeling, climate-risk assessment, and dynamic pricing.
 - **Marketing and lead scoring.** Listing platforms predict which leads are most likely to transact, which homeowners are most likely to list soon, and which listings need a price drop.
 
-The dataset in this case study is small by industry standards (a few thousand listings in one metro area), but it contains exactly the same fields a real Zillow analyst would work with, price, location, property attributes, market activity, and school information and it lets us practice all of the analytics workflows above on a tractable scale.
+The dataset in this case study is small by industry standards (a few thousand listings in one metro area), but it contains exactly the same fields a real Zillow analyst would work with: price, location, property attributes, market activity, and school information. It lets us practice all of the analytics workflows above on a tractable scale.
 
 ## 🔍 Search Criteria
 

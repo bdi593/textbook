@@ -43,8 +43,8 @@ We will need to parse these string representations into actual Python data struc
 
 This chapter is split across two complementary notebooks:
 
-1. **[`eda.ipynb`](./eda.ipynb)**, exploratory data analysis. We load the data, parse the messy columns, and answer descriptive questions about job titles, locations, posting platforms, salaries, skills, and remote work.
-2. **[`hr-analytics.ipynb`](./hr-analytics.ipynb)**, applied HR analytics. We reuse the cleaned dataset to walk through three workflows that real talent and people-analytics teams run: **competitive compensation benchmarking**, **talent scouting / market mapping**, and **skill-gap and retention signals**.
+1. **[`eda.ipynb`](./eda.ipynb)**: exploratory data analysis. We load the data, parse the messy columns, and answer descriptive questions about job titles, locations, posting platforms, salaries, skills, and remote work.
+2. **[`hr-analytics.ipynb`](./hr-analytics.ipynb)**: applied HR analytics. We reuse the cleaned dataset to walk through three workflows that real talent and people-analytics teams run: **competitive compensation benchmarking**, **talent scouting / market mapping**, and **skill-gap and retention signals**.
 
 :::{tip} Working with the same dataset twice
 A common pattern in industry is to do EDA _once_ on a dataset and then reuse the cleaned version across multiple downstream analyses. We follow that pattern here: the EDA notebook persists a cleaned Parquet file, and the HR analytics notebook loads it without repeating the preprocessing.
