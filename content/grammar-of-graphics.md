@@ -152,7 +152,7 @@ Then run the Python example in a notebook or script.
 
 ## Further reading and resources
 
-- L. Wilkinson, "The Grammar of Graphics" (book) — foundational text.
+- L. Wilkinson, "The Grammar of Graphics" (book): the foundational text.
 - Hadley Wickham, ggplot2 documentation: https://ggplot2.tidyverse.org
 - Plotnine documentation: https://plotnine.readthedocs.io
 - Tidyverse/ggplot2 cheatsheets and examples: https://www.rstudio.com/resources/cheatsheets/

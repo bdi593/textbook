@@ -74,14 +74,14 @@ jupyter-book build --html
 
 ## 📖 Course Topics
 
-1. **Load and Clean Data** — pandas, CSV/Excel/JSON/Parquet
-2. **Handle Large-Scale Datasets** — Polars, out-of-memory operations, ETL
-3. **Retrieve and Manage Data** — APIs, PostgreSQL, advanced SQL
-4. **Natural Language Processing** — BERT, BERTopic, sentiment analysis
-5. **Interactive Data Visualization** — Plotly, Dash, dashboards
-6. **Cloud Computing for Analytics** — Serverless functions, cloud resources
-7. **Applied Machine Learning** — Kaggle challenges, real-world ML projects
-8. **Communicate Analytical Insights** — Storytelling, stakeholder presentations
+1. **Load and Clean Data**: pandas, CSV/Excel/JSON/Parquet
+2. **Handle Large-Scale Datasets**, covering Polars, out-of-memory operations, and ETL
+3. **Retrieve and Manage Data** (APIs, PostgreSQL, advanced SQL)
+4. **Natural Language Processing** using BERT, BERTopic, and sentiment analysis
+5. **Interactive Data Visualization**: Plotly, Dash, dashboards
+6. **Cloud Computing for Analytics** through serverless functions and cloud resources
+7. **Applied Machine Learning** (Kaggle challenges, real-world ML projects)
+8. **Communicate Analytical Insights** with storytelling and stakeholder presentations
 
 ---
 

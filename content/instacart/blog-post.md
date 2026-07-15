@@ -64,7 +64,7 @@ For example, this plot shows that the most common aisles are more likely to be r
 
 &nbsp;
 
-Fruits are reordered more frequently than vegetables — perhaps because vegetables are more intermittently purchased for recipes. Staples like soups and baking ingredients are least likely to be reordered — perhaps because they are less frequently needed.
+Fruits are reordered more frequently than vegetables, perhaps because vegetables are more intermittently purchased for recipes. Staples like soups and baking ingredients are the least likely to be reordered, probably because they are needed less frequently.
 
 We can also see the time of day that users purchase specific products.
 
