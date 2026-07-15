@@ -9,7 +9,7 @@
 
 ### Background
 
-Instacart is an American grocery delivery and pick-up service that connects consumers with personal shoppers who fulfil orders from local supermarkets. In May 2017, Instacart released an anonymized snapshot of its transaction history — one of the largest publicly available retail datasets — to support research in machine learning, consumer behaviour, and operations analytics.
+Instacart is an American grocery delivery and pick-up service that connects consumers with personal shoppers who fulfil orders from local supermarkets. In May 2017, Instacart released an anonymized snapshot of its transaction history, one of the largest publicly available retail datasets, to support research in machine learning, consumer behaviour, and operations analytics.
 
 The dataset captures **over 3 million grocery orders** placed by **more than 200,000 unique users**, recording every product purchased, the sequence in which items were added to the cart, and a set of temporal signals (day of week, hour of day, and days elapsed since the previous order). This richness makes the dataset ideal for studying the full lifecycle of the customer relationship: from a shopper's very first order through to their most recent one.
 
@@ -17,10 +17,10 @@ The dataset captures **over 3 million grocery orders** placed by **more than 200
 
 Grocery retail operates on thin margins and intense competition. The ability to understand _what_ customers buy, _when_ they buy it, _how often_ they return, and _which products they consistently reorder_ translates directly into revenue-generating decisions:
 
-- **Personalised recommendations** — surfacing products a customer is likely to buy next.
-- **Assortment optimisation** — knowing which aisles drive the most volume and loyalty.
-- **Promotional targeting** — identifying moments in a customer's lifecycle where intervention (e.g., a coupon) is most effective.
-- **Demand forecasting** — predicting order volume by time of day and day of week to staff and stock efficiently.
+- **Personalised recommendations**: surfacing products a customer is likely to buy next.
+- **Assortment optimisation**: knowing which aisles drive the most volume and loyalty.
+- **Promotional targeting**: identifying moments in a customer's lifecycle where intervention (e.g., a coupon) is most effective.
+- **Demand forecasting**: predicting order volume by time of day and day of week to staff and stock efficiently.
 
 By working through this case study, you will experience the full analytical pipeline that underpins these decisions.
 
@@ -43,7 +43,7 @@ By working through this case study, you will experience the full analytical pipe
 
 | File                       | Description                                            |
 | -------------------------- | ------------------------------------------------------ |
-| `orders.csv.zip`           | One row per order — user ID, timing, and sequence info |
+| `orders.csv.zip`           | One row per order (user ID, timing, and sequence info) |
 | `order_products_train.csv` | One row per item in a training-set order               |
 | `products.csv`             | Product catalogue with aisle and department linkage    |
 | `aisles.csv`               | Aisle ID → aisle name lookup                           |
@@ -131,7 +131,7 @@ The table below maps analytical techniques to the business questions they addres
 By completing this case study, students will be able to:
 
 1. **Load and merge** a multi-table relational dataset using `pandas` and reason about entity relationships and foreign keys.
-2. **Perform a structured EDA** — including univariate, bivariate, and temporal analysis — to surface meaningful patterns in a large real-world dataset.
+2. **Perform a structured EDA**, including univariate, bivariate, and temporal analysis, to surface meaningful patterns in a large real-world dataset.
 3. **Quantify customer loyalty** by calculating reorder rates and interpreting them at the product, aisle, and department level.
 4. **Segment customers** based on behavioural signals (order frequency, basket size, reorder rate, shopping cadence) and profile each segment.
 5. **Apply market basket analysis** to identify product affinities and translate findings into concrete cross-selling or promotional recommendations.
@@ -201,7 +201,7 @@ Complete all questions in a single Jupyter notebook. For each question, include:
 
 ---
 
-### Part A — Exploratory Data Analysis
+### Part A: Exploratory Data Analysis
 
 **A1.** How many unique users, orders, and products are captured in the dataset? What is the average number of orders per user, and how does that distribution look?
 
@@ -215,7 +215,7 @@ Complete all questions in a single Jupyter notebook. For each question, include:
 
 ---
 
-### Part B — Product and Category Analysis
+### Part B: Product and Category Analysis
 
 **B1.** Rank all 21 departments by total number of items ordered _and_ by reorder rate. Which departments rank highly on both metrics? Which departments have low reorder rates despite high volume, and what might explain this?
 
@@ -227,7 +227,7 @@ Complete all questions in a single Jupyter notebook. For each question, include:
 
 ---
 
-### Part C — Customer Segmentation
+### Part C: Customer Segmentation
 
 **C1.** Build a customer-level summary table with the following features per user:
 
@@ -240,13 +240,13 @@ Report the mean, median, and standard deviation of each feature.
 
 **C2.** Segment customers into at least three groups based on **order frequency** (total orders placed). Label each group (e.g., Light, Regular, Frequent, Power). For each segment, report the average basket size, reorder rate, and average days between orders. What are the defining behavioural characteristics of each segment?
 
-**C3.** Visualise how a customer's reorder rate changes as a function of `order_number` (their nth order). Does loyalty — as measured by reorder rate — increase with tenure? At what order number does the trend stabilise?
+**C3.** Visualise how a customer's reorder rate changes as a function of `order_number` (their nth order). Does loyalty, as measured by reorder rate, increase with tenure? At what order number does the trend stabilise?
 
 **C4.** Identify the top 3 departments by share of orders for each customer segment. How do product preferences differ between Light and Power users? What does this imply for how Instacart should communicate with each segment?
 
 ---
 
-### Part D — Market Basket Analysis
+### Part D: Market Basket Analysis
 
 **D1.** Find the 10 most frequently co-purchased product pairs (products that appear together in the same order). For each pair, report the co-occurrence count and suggest a practical cross-selling or placement strategy.
 
@@ -256,7 +256,7 @@ Report the mean, median, and standard deviation of each feature.
 
 ---
 
-### Part E — Critical Evaluation
+### Part E: Critical Evaluation
 
 **E1.** This dataset is described by Instacart as "a heavily biased subset" of its production data. Identify at least **three specific ways** the sample may be biased and explain how each bias could lead an analyst to draw incorrect conclusions.
 

@@ -9,7 +9,7 @@ Together, these skills let you build the kind of "AI analyst" workflow that inve
 
 ## 🏢 What is EDGAR?
 
-[EDGAR](https://www.sec.gov/edgar/search/) stands for Electronic Data Gathering, Analysis, and Retrieval. It is the official online filing system operated by the U.S. Securities and Exchange Commission (SEC) since the early 1990s. Every public U.S. company — and many private companies that issue regulated securities — must submit periodic reports to EDGAR, and those filings are made freely available to the public at [https://www.sec.gov/edgar](https://www.sec.gov/edgar).
+[EDGAR](https://www.sec.gov/edgar/search/) stands for Electronic Data Gathering, Analysis, and Retrieval. It is the official online filing system operated by the U.S. Securities and Exchange Commission (SEC) since the early 1990s. Every public U.S. company (and many private companies that issue regulated securities) must submit periodic reports to EDGAR, and those filings are made freely available to the public at [https://www.sec.gov/edgar](https://www.sec.gov/edgar).
 
 EDGAR is one of the largest publicly available collections of high-quality business data in the world. It contains decades of financial statements, executive compensation disclosures, risk factors, business descriptions, ownership data, and material events for thousands of companies.
 
@@ -27,16 +27,16 @@ An SEC filing is a formal document a company submits to the SEC to comply with U
 | **Form 4**  | Insider transactions                       | Stock buying/selling by officers, directors, and 10%+ owners           |
 | **13F**     | Institutional manager holdings (quarterly) | What hedge funds and asset managers own                                |
 
-In this case study we focus on the 10-K because it contains both rich quantitative data (audited financial statements) and rich qualitative data (the _Business_, _Risk Factors_, and _Management's Discussion and Analysis_ sections) — exactly the kind of unstructured text where an LLM adds the most value.
+In this case study we focus on the 10-K because it contains both rich quantitative data (audited financial statements) and rich qualitative data (the _Business_, _Risk Factors_, and _Management's Discussion and Analysis_ sections). This is exactly the kind of unstructured text where an LLM adds the most value.
 
 :::{seealso} What is in a 10-K?
 
 A typical 10-K is divided into four parts and roughly 15 numbered "items." The most-read sections in industry are:
 
-- **Item 1 — Business**: how the company makes money, its segments, customers, and competition.
-- **Item 1A — Risk Factors**: the company's own list of what could go wrong, written by lawyers but extremely informative.
-- **Item 7 — Management's Discussion and Analysis (MD&A)**: management's narrative explanation of recent results.
-- **Item 8 — Financial Statements**: the audited income statement, balance sheet, cash flow statement, and notes.
+- **Item 1: Business**: how the company makes money, its segments, customers, and competition.
+- **Item 1A: Risk Factors**: the company's own list of what could go wrong, written by lawyers but extremely informative.
+- **Item 7: Management's Discussion and Analysis (MD&A)**: management's narrative explanation of recent results.
+- **Item 8: Financial Statements**: the audited income statement, balance sheet, cash flow statement, and notes.
 
 :::
 
@@ -60,8 +60,8 @@ The dominant API surface is the one introduced by OpenAI. It is so widely adopte
 
 The official [`openai`](https://github.com/openai/openai-python) Python SDK exposes a single `OpenAI` client class. The client takes two arguments that you can override:
 
-- `api_key` — your secret key for the provider you are calling, and
-- `base_url` — the HTTPS endpoint the SDK should send requests to.
+- `api_key`: your secret key for the provider you are calling, and
+- `base_url`: the HTTPS endpoint the SDK should send requests to.
 
 By default, the SDK points at `https://api.openai.com/v1`. If you change `base_url` to a different OpenAI-compatible endpoint and pass that provider's `api_key`, the **same code** works against the new provider with no other changes. That is the entire trick:
 
@@ -78,7 +78,7 @@ Standardizing on this shape means your analytics code is portable: you can switc
 
 ### What is OpenRouter?
 
-[OpenRouter](https://openrouter.ai/) is an API aggregator. Instead of signing up with each model vendor separately, you create one OpenRouter account and get access to hundreds of open- and closed-source models — GPT-class models, Anthropic's Claude family, Google Gemini, Llama, Mistral, DeepSeek, Qwen, and many more — all behind a single OpenAI-compatible endpoint. You pick a specific model by passing its identifier (for example `openai/gpt-5.4-mini` or `meta-llama/llama-3.1-8b-instruct`) to the `model` parameter.
+[OpenRouter](https://openrouter.ai/) is an API aggregator. Instead of signing up with each model vendor separately, you create one OpenRouter account and get access to hundreds of open- and closed-source models: GPT-class models, Anthropic's Claude family, Google Gemini, Llama, Mistral, DeepSeek, Qwen, and many more, all behind a single OpenAI-compatible endpoint. You pick a specific model by passing its identifier (for example `openai/gpt-5.4-mini` or `meta-llama/llama-3.1-8b-instruct`) to the `model` parameter.
 
 OpenRouter is convenient for classroom use because students can experiment with several models from different vendors using one API key, and the platform exposes a transparent per-model price list.
 
@@ -86,8 +86,8 @@ OpenRouter is convenient for classroom use because students can experiment with 
 
 LLM API pricing is almost always per token, where a _token_ is roughly ¾ of an English word. Providers publish two prices for each model:
 
-- **Input price** — what you pay per million input tokens (your prompt, system messages, and any context you supply).
-- **Output price** — what you pay per million output tokens (the model's generated response).
+- **Input price** is what you pay per million input tokens (your prompt, system messages, and any context you supply).
+- **Output price** is what you pay per million output tokens (the model's generated response).
 
 Output tokens are typically 3× to 5× more expensive than input tokens because generation is the costly step.
 
@@ -114,18 +114,18 @@ Most providers expose a token counter (or you can use [`tiktoken`](https://githu
 There are far too many LLMs released each month to evaluate by hand. Analysts and engineers rely on a few public resources to filter the field:
 
 - **Provider pricing pages.** Always your first stop. OpenAI, Anthropic, Google, and OpenRouter all publish per-model pricing tables.
-- **[Artificial Analysis](https://artificialanalysis.ai/)** — independent benchmarks of cost, latency (tokens/sec), and quality across most commercial models. Excellent for "is this model fast and cheap enough for my use case?" questions.
-- **[LMArena (formerly Chatbot Arena)](https://lmarena.ai/leaderboard)** — a crowdsourced human-preference leaderboard where users blind-vote between two model responses.
-- **[Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** — academic benchmarks (MMLU, GSM8K, HellaSwag, etc.) for open-weight models.
-- **[OpenRouter rankings](https://openrouter.ai/rankings)** — real-world usage data showing which models developers actually pay for and on which workloads.
-- **Domain-specific benchmarks** — for finance specifically, look at FinanceBench, FinQA, and the [Vals AI Legal/Finance leaderboards](https://www.vals.ai/).
+- **[Artificial Analysis](https://artificialanalysis.ai/)** offers independent benchmarks of cost, latency (tokens/sec), and quality across most commercial models. Excellent for "is this model fast and cheap enough for my use case?" questions.
+- **[LMArena (formerly Chatbot Arena)](https://lmarena.ai/leaderboard)**: a crowdsourced human-preference leaderboard where users blind-vote between two model responses.
+- **[Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)** provides academic benchmarks (MMLU, GSM8K, HellaSwag, etc.) for open-weight models.
+- **[OpenRouter rankings](https://openrouter.ai/rankings)**: real-world usage data showing which models developers actually pay for and on which workloads.
+- **Domain-specific benchmarks**: for finance specifically, look at FinanceBench, FinQA, and the [Vals AI Legal/Finance leaderboards](https://www.vals.ai/).
 
 A reasonable workflow for picking a model:
 
 1. **Define the task and a quality bar.** "Summarize a Risk Factors section into five bullet points that a portfolio manager would accept."
 2. **Filter by price and latency.** Eliminate any model that is too expensive or too slow for the volume you expect.
 3. **Run a small evaluation set** (10–30 examples) yourself across the 2–3 surviving candidates. Hand-grade or LLM-grade the outputs.
-4. **Pick the cheapest model that clears the quality bar.** Re-evaluate every quarter — the frontier moves quickly.
+4. **Pick the cheapest model that clears the quality bar.** Re-evaluate every quarter, since the frontier moves quickly.
 
 :::{caution} Leaderboards are not your evaluation
 
@@ -148,8 +148,8 @@ By the end of this case study you should be able to:
 
 This chapter contains two notebooks, designed to be worked through in order:
 
-1. **[`read-edgar-filings.ipynb`](./read-edgar-filings.ipynb)** — Uses `edgartools` to look up companies, list their filings, fetch a recent 10-K, and extract clean text from named sections. The output of this notebook (a few sections of one company's 10-K) becomes the input to the next notebook.
-2. **[`analyze-filings-with-llm.ipynb`](./analyze-filings-with-llm.ipynb)** — Uses an OpenAI-compatible API (OpenAI directly, or OpenRouter) to run several analytical tasks against the 10-K text: summarization, sentiment, risk-theme classification, named-entity extraction, and a final "executive briefing" task. Some tasks use free-form responses, others use a strict JSON response schema.
+1. **[`read-edgar-filings.ipynb`](./read-edgar-filings.ipynb)** uses `edgartools` to look up companies, list their filings, fetch a recent 10-K, and extract clean text from named sections. The output of this notebook (a few sections of one company's 10-K) becomes the input to the next notebook.
+2. **[`analyze-filings-with-llm.ipynb`](./analyze-filings-with-llm.ipynb)** uses an OpenAI-compatible API (OpenAI directly, or OpenRouter) to run several analytical tasks against the 10-K text: summarization, sentiment, risk-theme classification, named-entity extraction, and a final "executive briefing" task. Some tasks use free-form responses, others use a strict JSON response schema.
 
 :::{tip} Bring your own API key
 
