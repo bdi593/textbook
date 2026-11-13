@@ -9,6 +9,7 @@ This project uses **Jupyter Book v2** with **MyST Markdown**. When editing prose
 ## Repository structure
 
 - `myst.yml` defines the book metadata and table of contents.
+- `requirements.txt` pins the Python packages that every notebook runs with.
 - `content/` contains the textbook chapters, case studies, notebooks, and supporting markdown pages.
 - Most folders inside `content/` represent a **case study**.
 - Case study folders typically include:
@@ -60,6 +61,15 @@ Use admonitions to call out practical advice, conceptual reminders, warnings abo
 :::{caution} Build note
 The standard validation command is `jupyter-book build --html` from the repository root. In restricted environments, the build may fail if the MyST template API cannot be reached.
 :::
+
+## Notebook guidance
+
+- Re-run a notebook top to bottom in the pinned environment before committing it. The book build does not execute notebooks, so the saved outputs are what readers see.
+- Every interpretation, takeaway, and summary cell must match the output it describes. Check them again after any re-run.
+- Do not commit saved errors, local file paths in outputs, or widget outputs.
+- Keep each notebook under 5 MB. Plotly histograms and box plots store every input row, so aggregate large data first (for example, `value_counts()` or `np.histogram()` followed by `px.bar()`).
+- Run `python .github/scripts/check_notebooks.py` before opening a pull request.
+- Load data from the `bdi593/datasets` repository with `https://raw.githubusercontent.com/bdi593/datasets/main/<path>`. Parquet files there are stored in Git LFS, so use `https://media.githubusercontent.com/media/bdi593/datasets/main/<path>` for them.
 
 ## Plotting guidance
 

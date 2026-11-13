@@ -129,8 +129,8 @@ Themes control non-data appearance: `theme_minimal()`, `theme_classic()`, and `t
 ## Differences and notes between ggplot2 and plotnine
 
 - Plotnine aims to mirror ggplot2's API, but not every extension or feature of ggplot2 is present. For R-specific packages (e.g., `ggthemes`, `patchwork`, `gganimate`), equivalents may differ or require different libraries in Python.
-- Performance: ggplot2 is implemented in R and often benefits from R's ecosystem; plotnine is pure Python and integrates well with pandas workflows.
-- Interactivity: ggplot2 produces static plots; interactive extensions (e.g., `plotly::ggplotly`) exist. Plotnine plots can be converted to interactive Plotly figures with `plotly` conversions but may require extra steps.
+- Ecosystem: ggplot2 lives in R and has many extension packages; plotnine is written in Python, draws with matplotlib, and works directly with pandas DataFrames.
+- Interactivity: ggplot2 and plotnine both produce static images. In R, `plotly::ggplotly()` can convert many ggplot2 charts to interactive ones. In Python, there is no reliable converter for plotnine, so this book uses Plotly Express for interactive charts. Plotly Express follows the same grammar ideas: columns map to aesthetics with arguments such as `x=`, `y=`, and `color=`, and `facet_col=` or `facet_row=` create small multiples.
 
 ## Quick "Try it" (install and run)
 
@@ -145,8 +145,10 @@ library(ggplot2)
 - Python (plotnine):
 
 ```bash
-pip install plotnine mizani
+pip install plotnine scikit-misc
 ```
+
+The `scikit-misc` package is needed only for `geom_smooth(method='loess')` in the example above.
 
 Then run the Python example in a notebook or script.
 
