@@ -42,11 +42,11 @@ A typical 10-K is divided into four parts and roughly 15 numbered "items." The m
 
 ### The `edgartools` library
 
-[`edgartools`](https://github.com/dgunning/edgartools) is a Python library that wraps the SEC's public EDGAR endpoints and gives you a clean, pandas-friendly way to look up companies, list their filings, and parse the contents of common forms (including 10-K, 10-Q, 8-K, and XBRL financial statements). We pin it to `edgartools>=5.0.0,<6.0.0` in this chapter so that example code in the notebooks continues to behave the same way even if a future major release changes the API.
+[`edgartools`](https://github.com/dgunning/edgartools) is a Python library that wraps the SEC's public EDGAR endpoints and gives you a clean, pandas-friendly way to look up companies, list their filings, and parse the contents of common forms (including 10-K, 10-Q, 8-K, and XBRL financial statements). The course's `requirements.txt` pins an exact 5.x version of `edgartools` so that example code in the notebooks continues to behave the same way even if a future release changes the API.
 
 :::{important} Set your SEC user agent
 
-The SEC requires every automated request to include an identifying email in the `User-Agent` header. `edgartools` exposes this through `set_identity("Your Name your.email@example.com")`. You only need to call this once per Python session before making any requests, and you should use a real email address you actually monitor.
+The SEC asks every automated request to declare who is making it, with a name and email in the `User-Agent` header. `edgartools` exposes this through `set_identity("Your Name your.email@example.com")`, which you call once per Python session before making any requests. Use a real email address you actually monitor. The first notebook reads this value from an environment variable, `EDGAR_IDENTITY`, so your email never appears in a notebook you share (see Setup below).
 
 :::
 
@@ -89,7 +89,7 @@ LLM API pricing is almost always per token, where a _token_ is roughly ¾ of an 
 - **Input price** is what you pay per million input tokens (your prompt, system messages, and any context you supply).
 - **Output price** is what you pay per million output tokens (the model's generated response).
 
-Output tokens are typically 3× to 5× more expensive than input tokens because generation is the costly step.
+Output tokens cost more than input tokens because generation is the costly step. How much more depends on the model. On OpenRouter's price list (checked on 2026-11-13), output commonly costs about 3× to 5× as much as input, and for `gpt-5.4-mini` and `gpt-5.4-nano`, the models used in this chapter, it costs about 6× as much. Always check the current numbers on your provider's own pricing page.
 
 ```text
 Cost ≈ (input_tokens  / 1,000,000) × input_price
@@ -98,7 +98,7 @@ Cost ≈ (input_tokens  / 1,000,000) × input_price
 
 A few important points to internalize:
 
-1. **Smaller models are dramatically cheaper.** A "nano" or "mini" model can be 20×–100× cheaper than a frontier model for the same workload. For routine analytics tasks like classification, extraction, summarization, and reformatting, small models are usually more than good enough.
+1. **Smaller models are dramatically cheaper.** A "nano" or "mini" model can be several times to more than 100× cheaper than a larger model from the same vendor for the same workload. On OpenRouter's list (checked on 2026-11-13), `gpt-5.4-nano` costs about one twelfth as much per token as `gpt-5.4`, and less than one hundredth as much as `gpt-5.4-pro`. For routine analytics tasks like classification, extraction, summarization, and reformatting, small models are usually more than good enough.
 2. **Prompts add up.** If you stuff an entire 10-K into the prompt for every question, you pay for those input tokens _every single call_. Caching, chunking, and re-using extracted intermediate results matter.
 3. **Structured output (JSON schemas) costs the same** as free-text output token-for-token, but it usually _reduces_ downstream parsing/clean-up work and can shorten your output by removing chit-chat.
 4. **Free tiers exist** but are rate-limited and not guaranteed; do not depend on them for production.
@@ -138,31 +138,74 @@ Public benchmarks tell you which models tend to be good _on average_. They do no
 By the end of this case study you should be able to:
 
 1. Explain what EDGAR is, what a 10-K filing is, and what kinds of business questions can be answered from SEC filings.
-2. Use `edgartools` (v5.x) to look up a public company by ticker, list its filings, fetch its most recent 10-K, and pull specific sections (e.g., _Business_, _Risk Factors_, _MD&A_).
+2. Use `edgartools` (v5.x) to look up a public company by ticker, list its filings, fetch a specific 10-K, pull named sections (e.g., _Business_, _Risk Factors_, _MD&A_), and read its XBRL income statement as a table.
 3. Configure the `openai` Python client to talk to either OpenAI directly _or_ an OpenAI-compatible provider such as OpenRouter, by changing only `api_key` and `base_url`.
 4. Send chat-completion requests with both free-text and structured JSON-schema response formats.
 5. Apply small/cheap models (e.g., `gpt-5.4-mini`, `gpt-5.4-nano`) to realistic financial-text tasks such as summarization, sentiment scoring, risk classification, and entity extraction.
-6. Reason about the cost of a workflow before running it at scale, and about which model to pick given quality, price, and latency constraints.
+6. Check LLM outputs before using them: validate parsed JSON against its schema, confirm that quoted evidence appears in the source text, and cross-check reported figures against XBRL data.
+7. Reason about the cost of a workflow before running it at scale, and about which model to pick given quality, price, and latency constraints.
+
+## 📦 Data
+
+The data for this case study is a company's 10-K filing, downloaded from SEC EDGAR with `edgartools`. The notebooks use Apple's fiscal 2025 10-K (accession number `0000320193-25-000079`, filed 2025-10-31), pinned so that the outputs in the book do not change when Apple files a new report. You can switch to another company or to the most recent filing by changing two settings in the first notebook.
+
+The first notebook writes these files to an `extracted/` folder, which the second notebook reads:
+
+| File | Contents |
+| ---- | -------- |
+| `AAPL_business.txt` | Item 1, Business, as plain text with a short header naming the source filing |
+| `AAPL_risk_factors.txt` | Item 1A, Risk Factors |
+| `AAPL_mdna.txt` | Item 7, Management's Discussion and Analysis |
+| `AAPL_income_statement.csv` | The income statement parsed from the filing's XBRL data, one row per line item and one column per fiscal year |
+
+`extracted/` is listed in this chapter's `.gitignore`, so it is not committed. Run the first notebook to create it.
+
+### Source and licence
+
+10-K filings are public documents published by the U.S. Securities and Exchange Commission on [EDGAR](https://www.sec.gov/edgar/search/). The SEC's [Accessing EDGAR Data](https://www.sec.gov/os/accessing-edgar-data) page states that anyone can access and download this information for free, and sets fair-access rules for automated tools: declare a user agent with your contact details, and keep to the current maximum request rate (10 requests per second when checked on 2026-11-13). Check that page for the current terms of use.
+
+The text that the LLM writes is generated output, not data from the filing. Treat it as a draft to be checked (see the second notebook's verification section).
 
 ## 📚 Notebooks in This Case Study
 
 This chapter contains two notebooks, designed to be worked through in order:
 
-1. **[`read-edgar-filings.ipynb`](./read-edgar-filings.ipynb)** uses `edgartools` to look up companies, list their filings, fetch a recent 10-K, and extract clean text from named sections. The output of this notebook (a few sections of one company's 10-K) becomes the input to the next notebook.
-2. **[`analyze-filings-with-llm.ipynb`](./analyze-filings-with-llm.ipynb)** uses an OpenAI-compatible API (OpenAI directly, or OpenRouter) to run several analytical tasks against the 10-K text: summarization, sentiment, risk-theme classification, named-entity extraction, and a final "executive briefing" task. Some tasks use free-form responses, others use a strict JSON response schema.
+1. **[`read-edgar-filings.ipynb`](./read-edgar-filings.ipynb)** uses `edgartools` to look up companies, list their filings, fetch a 10-K, extract clean text from named sections, and read the XBRL income statement. The output of this notebook (three sections of one company's 10-K and its income statement, saved to `extracted/`) becomes the input to the next notebook.
+2. **[`analyze-filings-with-llm.ipynb`](./analyze-filings-with-llm.ipynb)** uses an OpenAI-compatible API (OpenAI directly, or OpenRouter) to run several analytical tasks against the 10-K text: summarization, sentiment, risk-theme classification, named-entity extraction, and a final "executive briefing" task. Some tasks use free-form responses, others use a strict JSON response schema. It then checks the structured outputs (schema validation, evidence quotes looked up in the source, dollar figures compared with the income statement), discusses two tone scores that disagree, and estimates the cost of all its API calls.
 
 :::{tip} Bring your own API key
 
-You will need either an OpenAI API key (with at least a few dollars of credit) or an OpenRouter API key. If you are comfortable with another provider (e.g., DeepSeek) that provides OpenAI-compatible APIs, you can use that as well. The notebooks read the key from a JSON file or the `OPENAI_API_KEY` environment variable so that you never paste it directly into the notebook.
+You will need either an OpenAI API key (with at least a few dollars of credit) or an OpenRouter API key. If you are comfortable with another provider (e.g., DeepSeek) that provides OpenAI-compatible APIs, you can use that as well. The notebook reads the key from the `OPENAI_API_KEY` environment variable so that you never paste it directly into the notebook.
 
 :::
 
 ## 🧰 Setup
 
-Install the pinned dependencies once:
+Install the course environment once from the repository root. It pins both `edgartools` and `openai`:
 
 ```bash
-pip install "edgartools>=5.0.0,<6.0.0" "openai>=1.40.0"
+python -m pip install -r requirements.txt
+```
+
+Then set these environment variables in the terminal before you start Jupyter. A running Jupyter server does not see variables you set later, so if you change one, start Jupyter again from that terminal:
+
+| Variable | Required? | Used by | Example value |
+| -------- | --------- | ------- | ------------- |
+| `EDGAR_IDENTITY` | Yes | `read-edgar-filings` | `"Jane Doe jane.doe@example.com"` |
+| `OPENAI_API_KEY` | Yes | `analyze-filings-with-llm` | your OpenAI or OpenRouter key |
+| `OPENAI_BASE_URL` | Only for providers other than OpenAI | `analyze-filings-with-llm` | `https://openrouter.ai/api/v1` |
+| `LLM_MODEL`, `LLM_MODEL_CHEAP` | No (default `gpt-5.4-mini` and `gpt-5.4-nano`) | `analyze-filings-with-llm` | `openai/gpt-5.4-mini` on OpenRouter |
+
+```bash
+# macOS / Linux
+export EDGAR_IDENTITY="Jane Doe jane.doe@example.com"
+export OPENAI_API_KEY="sk-..."
+```
+
+```powershell
+# Windows PowerShell
+$env:EDGAR_IDENTITY = "Jane Doe jane.doe@example.com"
+$env:OPENAI_API_KEY = "sk-..."
 ```
 
 :::{warning} Never commit API keys
