@@ -78,7 +78,7 @@ Standardizing on this shape means your analytics code is portable: you can switc
 
 ### What is OpenRouter?
 
-[OpenRouter](https://openrouter.ai/) is an API aggregator. Instead of signing up with each model vendor separately, you create one OpenRouter account and get access to hundreds of open- and closed-source models: GPT-class models, Anthropic's Claude family, Google Gemini, Llama, Mistral, DeepSeek, Qwen, and many more, all behind a single OpenAI-compatible endpoint. You pick a specific model by passing its identifier (for example `openai/gpt-5.4-mini` or `meta-llama/llama-3.1-8b-instruct`) to the `model` parameter.
+[OpenRouter](https://openrouter.ai/) is an API aggregator. Instead of signing up with each model vendor separately, you create one OpenRouter account and get access to hundreds of open- and closed-source models: GPT-class models, Anthropic's Claude family, Google Gemini, Llama, Mistral, DeepSeek, Qwen, and many more, all behind a single OpenAI-compatible endpoint. You pick a specific model by passing its identifier (for example `openai/gpt-6-luna` or `meta-llama/llama-3.1-8b-instruct`) to the `model` parameter.
 
 OpenRouter is convenient for classroom use because students can experiment with several models from different vendors using one API key, and the platform exposes a transparent per-model price list.
 
@@ -89,7 +89,7 @@ LLM API pricing is almost always per token, where a _token_ is roughly ¾ of an 
 - **Input price** is what you pay per million input tokens (your prompt, system messages, and any context you supply).
 - **Output price** is what you pay per million output tokens (the model's generated response).
 
-Output tokens cost more than input tokens because generation is the costly step. How much more depends on the model. On OpenRouter's price list (checked on 2026-11-13), output commonly costs about 3× to 5× as much as input, and for `gpt-5.4-mini` and `gpt-5.4-nano`, the models used in this chapter, it costs about 6× as much. Always check the current numbers on your provider's own pricing page.
+Output tokens cost more than input tokens because generation is the costly step. How much more depends on the model. On OpenRouter's price list (checked on 2026-11-13), output commonly costs about 3× to 5× as much as input, and for `gpt-6-luna`, the model used in this chapter, it costs 5× as much. Always check the current numbers on your provider's own pricing page.
 
 ```text
 Cost ≈ (input_tokens  / 1,000,000) × input_price
@@ -98,7 +98,7 @@ Cost ≈ (input_tokens  / 1,000,000) × input_price
 
 A few important points to internalize:
 
-1. **Smaller models are dramatically cheaper.** A "nano" or "mini" model can be several times to more than 100× cheaper than a larger model from the same vendor for the same workload. On OpenRouter's list (checked on 2026-11-13), `gpt-5.4-nano` costs about one twelfth as much per token as `gpt-5.4`, and less than one hundredth as much as `gpt-5.4-pro`. For routine analytics tasks like classification, extraction, summarization, and reformatting, small models are usually more than good enough.
+1. **Smaller models are dramatically cheaper.** A "nano" or "mini" model can be several times to more than 100× cheaper than a larger model from the same vendor for the same workload. On OpenRouter's list (checked on 2026-11-13), `gpt-6-luna` costs one twentieth as much per token as `gpt-6-sol`, and one hundredth as much as `gpt-6-astra`. For routine analytics tasks like classification, extraction, summarization, and reformatting, small models are usually more than good enough.
 2. **Prompts add up.** If you stuff an entire 10-K into the prompt for every question, you pay for those input tokens _every single call_. Caching, chunking, and re-using extracted intermediate results matter.
 3. **Structured output (JSON schemas) costs the same** as free-text output token-for-token, but it usually _reduces_ downstream parsing/clean-up work and can shorten your output by removing chit-chat.
 4. **Free tiers exist** but are rate-limited and not guaranteed; do not depend on them for production.
@@ -141,7 +141,7 @@ By the end of this case study you should be able to:
 2. Use `edgartools` (v5.x) to look up a public company by ticker, list its filings, fetch a specific 10-K, pull named sections (e.g., _Business_, _Risk Factors_, _MD&A_), and read its XBRL income statement as a table.
 3. Configure the `openai` Python client to talk to either OpenAI directly _or_ an OpenAI-compatible provider such as OpenRouter, by changing only `api_key` and `base_url`.
 4. Send chat-completion requests with both free-text and structured JSON-schema response formats.
-5. Apply small/cheap models (e.g., `gpt-5.4-mini`, `gpt-5.4-nano`) to realistic financial-text tasks such as summarization, sentiment scoring, risk classification, and entity extraction.
+5. Apply small, low-cost models (e.g., `gpt-6-luna`) to realistic financial-text tasks such as summarization, sentiment scoring, risk classification, and entity extraction.
 6. Check LLM outputs before using them: validate parsed JSON against its schema, confirm that quoted evidence appears in the source text, and cross-check reported figures against XBRL data.
 7. Reason about the cost of a workflow before running it at scale, and about which model to pick given quality, price, and latency constraints.
 
@@ -194,7 +194,7 @@ Then set these environment variables in the terminal before you start Jupyter. A
 | `EDGAR_IDENTITY` | Yes | `read-edgar-filings` | `"Jane Doe jane.doe@example.com"` |
 | `OPENAI_API_KEY` | Yes | `analyze-filings-with-llm` | your OpenAI or OpenRouter key |
 | `OPENAI_BASE_URL` | Only for providers other than OpenAI | `analyze-filings-with-llm` | `https://openrouter.ai/api/v1` |
-| `LLM_MODEL`, `LLM_MODEL_CHEAP` | No (default `gpt-5.4-mini` and `gpt-5.4-nano`) | `analyze-filings-with-llm` | `openai/gpt-5.4-mini` on OpenRouter |
+| `LLM_MODEL`, `LLM_MODEL_CHEAP` | No (both default to `gpt-6-luna`) | `analyze-filings-with-llm` | `openai/gpt-6-luna` on OpenRouter |
 
 ```bash
 # macOS / Linux
@@ -228,7 +228,7 @@ Rotating an API key means generating a new key to replace an old one, and then d
 | EDGAR data access (`read-edgar-filings`)     | 20      | Correctly looks up a company, lists 10-K filings, fetches the most recent one, and extracts at least three named sections (e.g., Business, Risk Factors, MD&A) into clean text.   |
 | LLM API basics (free-form tasks)             | 20      | At least three tasks call the chat-completion API with no schema (e.g., summarization, plain-language explanation, sentiment narrative). Prompts are clear and roles are correct. |
 | Structured output (JSON-schema tasks)        | 20      | At least two tasks use a JSON response format / structured schema, and the parsed responses are validated and used downstream (not just printed).                                 |
-| Cost & model awareness                       | 10      | Notebook explicitly estimates token usage and cost for at least one task, and justifies the chosen model (e.g., "`gpt-5.4-mini` is sufficient because…").                         |
+| Cost & model awareness                       | 10      | Notebook explicitly estimates token usage and cost for at least one task, and justifies the chosen model (e.g., "`gpt-6-luna` is sufficient because…").                         |
 | Analytical interpretation                    | 15      | Each LLM output is followed by a short markdown interpretation explaining what the result means in business terms (not just a raw dump).                                          |
 | Code quality, narrative, and reproducibility | 5       | Helpful comments, no dead code, clear section headings, and outputs that someone else could re-create from the notebook alone.                                                    |
 | **Total**                                    | **100** |                                                                                                                                                                                   |
