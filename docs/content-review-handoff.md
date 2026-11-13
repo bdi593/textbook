@@ -2,6 +2,30 @@
 
 This document hands a content review of this repository to a coding agent. It lists what is wrong, where, how sure the reviewers are, and what a fix should look like. It was written on 2026-11-13 against commit `d3feeab` on `main`.
 
+## Status (2026-11-13)
+
+The tasks below were implemented in [bdi593/textbook#13](https://github.com/bdi593/textbook/pull/13), one commit per chapter. Every notebook was re-run top to bottom in the environment pinned in `requirements.txt`, and `.github/scripts/check_notebooks.py` passes. The instructor's answers to section 6:
+
+- **D-1, D-2:** quiz-01, quiz-03 (with its Instagram data), quiz-04-solution, `case-studies/`, and the CU Zillow starter notebook were deleted. The CU Zillow demo and the competitive analysis were fixed and stay hidden. `grammar-of-graphics.md` was fixed and stays out of the table of contents.
+- **D-3:** the Kickstarter sample is kept; the notebooks teach the leakage and the sampling artifact.
+- **D-4:** Instacart customer analysis is reframed as cross-sectional.
+- **D-5:** the Campustown target is labelled as the most recent sold price, and Part 3 is reframed around what the list price adds.
+- **D-6:** `index.md` describes only the chapters that exist.
+- **D-7:** committed datasets were left as they are. The new Airbnb snapshot is not committed (Inside Airbnb asks users not to republish its data); the notebook downloads it into a gitignored folder.
+- **D-8:** each overview has a "Source and licence" note. No LICENSE file was added.
+- **D-9:** no graded work was added; every notebook ends with a summary.
+- **D-10:** a pull-request workflow builds the book and runs the notebook checker. Notebooks are not executed in CI.
+
+Still open:
+
+- **HYG-5:** the five images in `instacart/blog-post.md` are still hot-linked from `github.com/user-attachments`; they could not be downloaded from the sandbox.
+- The hosted `kickstarter-sample-preprocessed.parquet` in `bdi593/datasets` contains 5 duplicate rows. The notebook drops them, but the hosted file could be regenerated.
+- Instacart's dataset terms (linked from the mirror's README) say the dataset should not be made available to third parties. The course reads it from a public mirror; the instructor may want to review this.
+- `content/airbnb-barcelona-listings/cleaned-output.csv`, a cleaned subset of Inside Airbnb data, is still committed.
+- The Airbnb notebook depends on Inside Airbnb keeping the 2026-09-17 snapshot online (roughly 12 months).
+
+Cell numbers in the rest of this document refer to commit `d3feeab` and no longer match the current notebooks.
+
 ## 1. Scope
 
 **In scope:** correctness, reproducibility, and consistency of the textbook in this repo (`content/`, `myst.yml`, `README.md`, `.github/workflows/deploy.yml`).
