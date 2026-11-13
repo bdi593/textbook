@@ -22,9 +22,90 @@ Organizations increasingly rely on NLP to extract insights from large volumes of
 
 In business analytics, NLP allows organizations to incorporate unstructured text data into decision-making processes.
 
-:::{seealso} Why this case study uses earnings calls
-This chapter is named **Conference Calls** because the running case study works with quarterly **earnings conference call** transcripts published by public companies. These calls are a rich source of unstructured text where executives discuss results, strategy, and risks, and they are routinely analyzed by investors, journalists, and competitors.
+## Business Context
+
+Every quarter, public companies hold **earnings conference calls** in which
+executives discuss results, strategy, and risks. Investors, journalists, and
+competitors read the transcripts closely. Inside companies the situation is
+similar: expense reports, customer reviews, and employee surveys hold
+valuable information in free text that nobody has time to read in full. This
+chapter shows how analysts turn such text into numbers and labels a business
+can act on.
+
+:::{note} What "Conference Calls" means in this chapter
+
+The chapter is named after earnings conference calls, but it does not
+analyze a collection of call transcripts. The Preprocessing notebook uses a
+short excerpt from one Microsoft earnings call, and the finance demo in NLP
+in Business scores a handful of made-up earnings-call statements. The other
+demos use synthetic expense, review, and HR text. For an analysis of real
+company disclosures, see the
+[Financial Data Analysis with LLMs](../financial-data-with-llms/case-overview.md)
+case study, which works with 10-K filings.
+
 :::
+
+## Learning Objectives
+
+By the end of this chapter you should be able to:
+
+1. Explain what NLP is and how rule-based, statistical, and deep-learning
+   approaches differ.
+2. Clean text with spaCy: sentence segmentation, tokenization, lowercasing,
+   removing stopwords, punctuation, and whitespace, and lemmatization.
+3. Extract part-of-speech tags and named entities, and check entity output
+   for the errors a small pretrained model makes.
+4. Score the tone of financial statements with a domain lexicon.
+5. Map free-text expense descriptions to categories with TF-IDF and cosine
+   similarity, and route low-confidence matches to a reviewer.
+6. Discover themes in customer reviews with NMF topic modelling, and check
+   for reviews the vocabulary cannot place.
+7. Train a TF-IDF + Naive Bayes text classifier and evaluate it with
+   cross-validation against a baseline.
+
+## Data
+
+All text in this chapter is small and defined inside the notebooks, so
+nothing needs to be downloaded.
+
+| Notebook        | Text                                                                                                         | Origin                         |
+| --------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------ |
+| NLP in Business | 6 earnings-call statements, 8 expense descriptions, 24 app reviews, 48 labeled employee comments (plus 5 new ones to route) | Synthetic examples             |
+| Preprocessing   | One paragraph from Microsoft's earnings call for the second quarter of fiscal year 2026 (28 January 2026)     | Official transcript (quoted)   |
+
+### Source and licence
+
+The finance, accounting, marketing, and HR examples are synthetic. The
+finance demo's word lists are a tiny illustrative subset in the style of the
+[Loughran–McDonald Master Dictionary](https://sraf.nd.edu/loughranmcdonald-master-dictionary/).
+The earnings-call excerpt is quoted from the official transcript of
+Microsoft's earnings conference call for the second quarter of fiscal year
+2026, linked from
+[Microsoft's investor relations page for that call](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2).
+Check the source pages for terms of use.
+
+## Notebooks in This Case Study
+
+| Notebook                                       | What it covers                                                                                                                                                                                                                                 |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [NLP in Business](./nlp-in-business.ipynb)     | Four short demos on synthetic text: lexicon-based tone scoring of earnings-call statements (finance), TF-IDF similarity for expense categorisation (accounting), NMF topic modelling of app reviews (marketing), and a Naive Bayes classifier for employee feedback evaluated with cross-validation (HR). |
+| [NLP Preprocessing](./preprocessing.ipynb)     | spaCy preprocessing of a Microsoft earnings-call excerpt: sentences, tokens, token attributes, lowercasing, stopword, punctuation, and whitespace removal, lemmatization, part-of-speech tags, and named entities, including the mistakes a small model makes. |
+
+The two notebooks can be read in either order. Preprocessing covers the
+cleaning steps in detail; NLP in Business shows what businesses do with the
+cleaned text.
+
+## Setup
+
+Install the packages used across the book from the root of the repository:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+The environment includes scikit-learn, Plotly, spaCy, and spaCy's small
+English model `en_core_web_sm`, so no separate model download is needed.
+Both notebooks run offline once the environment is installed.
 
 ## Brief History of NLP
 
@@ -263,6 +344,15 @@ The most widely used library is [`transformers`](https://huggingface.co/docs/tra
 
 Example using a pretrained sentiment analysis model:
 
+:::{note} Not part of the course environment
+
+`transformers` is not in `requirements.txt`, and the first call to
+`pipeline` downloads a pretrained model. Install `transformers` separately
+if you want to try this example. The notebooks in this chapter do not need
+it.
+
+:::
+
 ```python
 from transformers import pipeline
 
@@ -271,7 +361,7 @@ result = classifier("I love learning about natural language processing.")
 print(result)
 ```
 
-Output:
+The output looks like this:
 
 ```
 [{'label': 'POSITIVE', 'score': 0.999}]
@@ -314,5 +404,10 @@ Capabilities include:
 - Code generation
 
 :::{tip} Where to go next
-The companion notebook **NLP in Business** walks through realistic mini-demos of NLP in finance, accounting, marketing, and HR. The **Preprocessing** notebook then digs into the practical text-cleaning steps we apply to earnings call transcripts before any modeling.
+
+The **NLP in Business** notebook walks through short demos of NLP in
+finance, accounting, marketing, and HR. The **Preprocessing** notebook
+applies the cleaning steps described on this page to a short earnings-call
+excerpt.
+
 :::
