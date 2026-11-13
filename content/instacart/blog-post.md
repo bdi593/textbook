@@ -3,7 +3,7 @@
 - **Title**: 3 Million Instacart Orders, Open Sourced
 - By [Jeremy Stanley](https://medium.com/@jeremy.stanley?source=post_page---byline--d40d29ead6f2---------------------------------------)
 - Published on May 3, 2017
-- This is a copy of the original blog post published at the time of the dataset's release.
+- This is a copy of the [original blog post](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2) published at the time of the dataset's release.
 
 Curious about the food Americans eat? Look no further.
 
@@ -12,6 +12,12 @@ Instacart is excited to announce our first public dataset release, "The Instacar
 For each user, we provide between 4 and 100 of their orders, with the sequence of products purchased in each order. We also provide the week and hour of day the order was placed, and a relative measure of time between orders.
 
 In this post, we'll briefly introduce the dataset and why it is important to Instacart and provide a link to download the data.
+
+:::{note} Download link
+
+The original post linked to Instacart's download page, which is no longer online. The files used in this book are available from a [mirror on GitHub](https://github.com/subwaymatch/instacart-dataset-2017). See the [case overview](case-overview.md) for the data dictionary and terms of use.
+
+:::
 
 Then, we'll finish by highlighting a few interesting patterns we've found in the data. Can you guess what product is most likely to be ordered late at night?
 
@@ -49,9 +55,10 @@ If you have questions about this dataset, you can reach out to us directly at [o
 
 We have taken great care to protect the privacy of our users and retail partners and to ensure that the data is entirely anonymous:
 
-The only information provided about users is their sequence of orders and the products in those orders
-All of the IDs in the dataset are entirely randomized, and cannot be linked back to any other ID
-Only products that are bought by multiple people at multiple retailers are included, and no retailer ID is provided
+- The only information provided about users is their sequence of orders and the products in those orders
+- All of the IDs in the dataset are entirely randomized, and cannot be linked back to any other ID
+- Only products that are bought by multiple people at multiple retailers are included, and no retailer ID is provided
+
 Note that this dataset includes orders from many different retailers and is a heavily biased subset of Instacart's production data, and so is not a representative sample of our products, users or their purchasing behavior.
 
 ### Some interesting findings

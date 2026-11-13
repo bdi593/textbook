@@ -34,10 +34,10 @@ College towns are an unusual real-estate asset class. They have:
   homes in campus towns are reachable for mid-sized investment funds and
   individual investors.
 
-For these reasons, several real investment platforms - Roofstock, Invitation
-Homes, AMH, Pretium, and many private syndicates - explicitly target
-"university-anchored" markets. Our dataset gives us a window into sixteen of
-them, anchored by nine major universities.
+For these reasons, "university-anchored" markets are a recognized niche for
+single-family rental investors, from individual landlords to private
+investment funds. Our dataset gives us a window into sixteen of them,
+anchored by eleven major universities.
 
 ### 🎓 City to university mapping
 
@@ -97,6 +97,29 @@ re-frame the narrative. Two equally good alternatives are:
 Pick whichever role you can talk about most credibly.
 :::
 
+## 🎯 Learning Objectives
+
+By the end of this case study you should be able to:
+
+1. Load, profile, and clean a moderately large multi-source real-estate
+   dataset spanning multiple regional markets.
+2. Use Plotly Express to build clear, business-ready exploratory charts
+   that compare markets and highlight pricing drivers.
+3. Build, evaluate, and interpret a regression-based price-prediction model
+   using `scikit-learn` and `xgboost`, including baseline error metrics
+   (MAE, RMSE, R², MAPE) and residual analysis.
+4. Use spaCy to tokenize a free-text listing description, extract
+   amenity-style features with `PhraseMatcher`, combine them with structured
+   tabular features, and test on the same held-out split whether they
+   improve the price model.
+5. (4-credit only) Reshape an event log of price-change history into listing
+   cycles, describe market dynamics (list-to-sale ratio, days-to-sale, price
+   cuts), and measure how well information available at listing time,
+   including the list price, predicts the realized sale price compared with a
+   naive "sale price = list price" rule.
+6. Communicate analytical findings to a non-technical audience through a
+   tightly edited slide deck that leads with business implications.
+
 ## 📦 The Dataset
 
 The data lives in two Parquet files inside this case-study folder:
@@ -113,6 +136,11 @@ Champaign-Urbana (IL), Madison (WI), Gainesville (FL), Ann Arbor (MI), Athens
 West Lafayette (IN), State College (PA), Davis (CA), and a few smaller
 satellite towns.
 
+The notebooks also write three derived files into the same `data/` folder
+(`properties_clean.parquet`, `baseline_split.parquet`, and
+`nlp_features.parquet`). Run the notebooks in order so each part finds the
+file it needs.
+
 ### Data dictionary - `campustown_properties.parquet`
 
 | Column                         | Type   | Description                                                                                                                                                          |
@@ -120,7 +148,7 @@ satellite towns.
 | `property_id`                  | int    | Stable Zillow identifier for the property (joins to price history).                                                                                                  |
 | `date_posted`                  | string | Date the listing was most recently posted on Zillow (ISO `YYYY-MM-DD`).                                                                                              |
 | `days_on_zillow`               | float  | Days between the most recent posting and the date the data was scraped. Not a reliable liquidity signal (see Part 1); Part 3 derives a cleaner days-to-sale measure. |
-| `price`                        | int    | Current list price in USD (or last list price for inactive listings).                                                                                                |
+| `price`                        | int    | Most recent sold price in USD, despite the name. Equals `last_sold_price` for about 98% of listings; for the rest (mostly homes back on the market) it is the latest asking price. See Part 1. |
 | `last_sold_price`              | int    | Price of the most recent recorded sale, in USD.                                                                                                                      |
 | `description`                  | string | Free-text marketing description written by the listing agent.                                                                                                        |
 | `beds`                         | int    | Number of bedrooms.                                                                                                                                                  |
@@ -141,7 +169,7 @@ satellite towns.
 | `reso_architectural_style`     | string | Style label (e.g., `Ranch`, `Traditional`, `Bungalow`).                                                                                                              |
 | `reso_hoa_fee`                 | string | HOA fee as a raw string (e.g., `"$185 annually"`).                                                                                                                   |
 | `reso_parking_capacity`        | int    | Parking spots (garage + driveway).                                                                                                                                   |
-| `reso_elementary_school`       | float  | School-rating placeholder (mostly missing in this extract).                                                                                                          |
+| `reso_elementary_school`       | float  | Undocumented `0`/`1` value, missing for about 27% of rows. Not a school rating.                                                                                       |
 | `reso_middle_or_junior_school` | string | Assigned middle / junior high school name.                                                                                                                           |
 | `reso_high_school`             | string | Assigned high school name.                                                                                                                                           |
 
@@ -155,41 +183,28 @@ satellite towns.
 | `price`             | float    | Reported price at the event, in USD.                                                                           |
 | `price_change_rate` | float    | Fractional change from the previous price for the same property (e.g., `-0.05` = 5% price cut).                |
 
-A single property can have multiple full list->sold cycles in this table -
-some homes have changed hands two or three times in the last decade.
+A single property can have several list-to-sale cycles in this table - some
+homes have been listed and sold more than once.
 
-## 🎯 Learning Objectives
+### Source and licence
 
-By the end of this case study you should be able to:
-
-1. Load, profile, and clean a moderately large multi-source real-estate
-   dataset spanning multiple regional markets.
-2. Use Plotly Express to build clear, business-ready exploratory charts
-   that compare markets and highlight pricing drivers.
-3. Build, evaluate, and interpret a regression-based price-prediction model
-   using `scikit-learn` and `xgboost`, including baseline error metrics
-   (MAE, RMSE, R², MAPE) and residual analysis.
-4. Use spaCy to tokenize a free-text listing description, extract
-   amenity-style features with `PhraseMatcher`, combine them with structured
-   tabular features, and measurably improve the price model.
-5. (4-credit only) Reshape an event-log of price-change history into
-   property-level features (list-to-sale ratio, days-to-sale, number of price
-   cuts, market temperature) and use them to predict realized sale outcomes
-   rather than list price.
-6. Communicate analytical findings to a non-technical audience through a
-   tightly edited slide deck that leads with business implications.
+The data comes from [Zillow](https://www.zillow.com/): property details and
+price-history events for single-family homes in the sixteen campus towns. The
+repository does not record how the extract was collected; the latest
+price-history event is dated March 2026. Check the source page for terms of
+use.
 
 ## 📚 Notebooks in This Case Study
 
 This chapter contains four notebooks. Each notebook is clearly labeled with
 the case-study part it belongs to.
 
-| Notebook                              | Part   | Audience      | Focus                                                                                              |
-| ------------------------------------- | ------ | ------------- | -------------------------------------------------------------------------------------------------- |
-| `part-1-eda-and-visualizations.ipynb` | Part 1 | All students  | EDA, data quality, market comparisons, Plotly Express visualizations                               |
-| `part-2a-price-predictor.ipynb`       | Part 2 | All students  | Baseline price-prediction model from structured features; metric-based evaluation                  |
-| `part-2b-nlp-features.ipynb`          | Part 2 | All students  | spaCy NLP on the description column; engineered text features improve the model                    |
-| `part-3-price-history.ipynb`          | Part 3 | 4-credit only | Reshape the price-history event log into market-dynamics features and model realized sale outcomes |
+| Notebook                              | Part   | Audience      | Focus                                                                                                             |
+| ------------------------------------- | ------ | ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| `part-1-eda-and-visualizations.ipynb` | Part 1 | All students  | EDA, data quality, market comparisons, Plotly Express visualizations                                              |
+| `part-2a-price-predictor.ipynb`       | Part 2 | All students  | Baseline model of the most recent sold price from structured features; metric-based evaluation and residuals      |
+| `part-2b-nlp-features.ipynb`          | Part 2 | All students  | spaCy amenity flags and TF-IDF text features added to the Part 2a model and compared on the same held-out split   |
+| `part-3-price-history.ipynb`          | Part 3 | 4-credit only | Reshape the price-history event log into listing cycles; market dynamics; what the list price adds for predicting the sale price and discount |
 
 :::{tip} Each notebook builds on the previous one
 Treat the four notebooks as a single analytical pipeline. The cleaned dataset
@@ -199,13 +214,15 @@ features from Part 2b are all reused in Part 3.
 
 ## 🧰 Setup
 
-The notebooks rely on a small, focused stack. Install once at the top of the
-case study:
+Install the course environment once, from the repository root:
 
 ```bash
-pip install pandas pyarrow numpy plotly scikit-learn xgboost spacy
-python -m spacy download en_core_web_sm
+python -m pip install -r requirements.txt
 ```
+
+`requirements.txt` includes spaCy's `en_core_web_sm` model, so no separate
+download is needed. Run the notebooks in order (Part 1, 2a, 2b, then 3),
+because each part writes a file in `data/` that the next part reads.
 
 Plotly Express is the default visualization library for this case study.
 Always set the `simple_white` template once at the top of each notebook so the
@@ -241,7 +258,8 @@ Gemini, etc.) for both the analysis and the slide deck. Two ground rules:
 2. Disclose, in one sentence on your title slide or in the notebook header,
    which AI tools you used and roughly how. ("I used ChatGPT to draft the
    first cut of the deck and to debug a `ColumnTransformer` error.")
-   :::
+
+:::
 
 :::{caution} The deliverables count, not the scaffolding
 The four notebooks in this folder are scaffolding to teach you the
@@ -257,12 +275,12 @@ graded on all six rows, including Part 3, for a total of 300 points.
 
 | Component                                        | Points | Criteria                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Part 1 - EDA & Visualization                     | 50     | Clean load of both Parquet files; documented data-quality issues; at least five Plotly Express charts comparing markets, price drivers, and time trends; each chart paired with a short business interpretation.                                                                                                       |
+| Part 1 - EDA & Visualization                     | 50     | Clean load of the properties Parquet file; documented data-quality issues; at least five Plotly Express charts comparing markets and price drivers; each chart paired with a short business interpretation. |
 | Part 2a - Baseline Price Predictor               | 50     | Reproducible `scikit-learn` pipeline (preprocessing + XGBoost) trained on a held-out split; reports MAE, RMSE, R², and MAPE; residual analysis breaks errors down by market and price band; chosen model is justified in plain English.                                                                                |
-| Part 2b - NLP Feature Engineering with spaCy     | 50     | Uses spaCy (`en_core_web_sm`) to tokenize and extract structured signals from `description`; engineered features (e.g., amenity flags, TF-IDF) are added to the Part 2a pipeline; the improved model is measurably better on the same held-out split, and the improvement is explained.                                |
+| Part 2b - NLP Feature Engineering with spaCy     | 50     | Uses spaCy (`en_core_web_sm`) to tokenize and extract structured signals from `description`; engineered features (e.g., amenity flags, TF-IDF) are added to the Part 2a pipeline; the NLP-augmented model is evaluated on the same held-out split, and the change in each metric is explained.                                |
 | Communication & slide deck                       | 30     | Slide deck is < 30 slides, leads with business implications, uses your own visualizations, and is comprehensible to a non-technical audience. AI-tool usage is disclosed.                                                                                                                                              |
 | Code quality, narrative, reproducibility         | 20     | Logical section headings, no dead code, no hard-coded paths outside the case folder, and a clear top-to-bottom run path.                                                                                                                                                                                               |
-| Part 3 - Price-History Analytics (4-credit only) | 100    | Joins `price_history.parquet` to the properties file; engineers list-to-sale ratio, days-to-sale, and price-cut features per property; trains and evaluates a model that uses these history-derived features to predict a realized-sale outcome; interprets which dynamics matter most for QCP's acquisition strategy. |
+| Part 3 - Price-History Analytics (4-credit only) | 100    | Joins `price_history.parquet` to the properties file; summarizes list-to-sale ratio, days-to-sale, and price cuts per listing cycle and market; trains and evaluates a model that predicts a realized-sale outcome from information available at listing time and compares it with a naive "sale price = list price" baseline; interprets which dynamics matter most for QCP's acquisition strategy. |
 | Total (3-credit)                                 | 200    |                                                                                                                                                                                                                                                                                                                        |
 | Total (4-credit)                                 | 300    |                                                                                                                                                                                                                                                                                                                        |
 
@@ -278,4 +296,5 @@ would actually do:
   resulting segments - "value plays," "trophy homes," "stale inventory," etc.
 - Use an LLM to summarize the description column at scale and compare your
   spaCy-derived features against the LLM-derived ones.
-  :::
+
+:::

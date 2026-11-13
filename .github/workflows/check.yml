@@ -1,0 +1,29 @@
+# Checks every pull request: notebook hygiene and a full book build.
+# Notebooks are not executed here; the published pages use the outputs
+# committed in each notebook.
+
+name: Check book
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Check notebooks (size, saved errors, local paths)
+        run: python .github/scripts/check_notebooks.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+      - name: Install Jupyter Book (via myst)
+        run: npm install -g jupyter-book@2.1.7
+      - name: Build HTML Assets
+        run: jupyter-book build --html

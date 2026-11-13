@@ -1,4 +1,4 @@
-# Case Overview
+# Amazon Delivery Case Overview
 
 ```{figure} images/amazon-hero3.jpg
 :label: Amazon Delivery
@@ -8,27 +8,89 @@
 Amazon Delivery - Photo from [Amazon News](https://www.aboutamazon.com/news/amazon-prime/amazon-same-day-delivery)
 ```
 
-## Dataset
-
-This case study uses a real Amazon delivery dataset of approximately 45,000 samples collected over a period of three months. A delivery is labeled **Delayed** when, on a specific day, at least 10 items from a single truck arrived late.
-
-- **Source:** [AWS SageMaker Canvas Tutorial - AI Package Tracker](https://aipackagetracker.awsplayer.com/)
-- **Columns:** 16
-- **Rows:** ~45,000
-
-## Objective
+## Business Context
 
 As a business analyst working for a company in the logistics sector, you have the following tasks:
 
-1. Analyze the data that has been prepared for this demo.
+1. Analyze the delivery data that has been prepared for you.
 2. Build a first model and analyze its prediction score.
 3. Improve the accuracy of your delivery predictions.
 
+A model that flags likely delays ahead of time lets the company act before customers are affected: reroute or split loads, add capacity, or warn customers.
+
 The target is to correctly predict package delivery on-time status for your customers with an accuracy of **80% or better**.
 
-## Evaluation
+### Evaluation
 
-This dataset is used for a tutorial and does not have a formal evaluation metric. The working goal is to achieve an accuracy of 80% or better when predicting on-time delivery status, while also tracking complementary metrics such as precision, recall, F1, and ROC-AUC.
+This dataset comes from a tutorial and does not have a formal evaluation metric. The working goal is an accuracy of 80% or better when predicting on-time delivery status, while also tracking complementary metrics such as precision, recall, F1, and ROC-AUC.
+
+:::{attention} Check the goal against a baseline
+
+An accuracy target only means something next to a baseline. The notebooks show that a single rule on one column, `total_items`, already reaches about 81% accuracy, because of how the "Delayed" label is defined. Keep this in mind when you judge any model built on this data.
+
+:::
+
+## Learning Objectives
+
+After working through this case study, you will be able to:
+
+- Run a structured exploratory data analysis: data types, missing values, duplicates, constant columns, skewness, outliers, and correlations with the target.
+- Keep notebooks small by aggregating data (counts, bins, or quartiles) before plotting with Plotly.
+- Train an XGBoost binary classifier and evaluate it with a confusion matrix, accuracy, precision, recall, F1, and ROC-AUC.
+- Compare a model against a majority-class baseline and a one-feature baseline, and recognize when a feature is built into the label.
+- Use a validation set correctly for early stopping and threshold tuning, and compare several improvement techniques on one test set.
+
+## Dataset
+
+This case study uses an Amazon delivery dataset of 45,000 samples collected over a period of three months. A delivery is labeled **Delayed** when, on a specific day, at least 10 items from a single truck arrived late.
+
+- **Columns:** 16
+- **Rows:** 45,000
+
+### Data Dictionary
+
+| Column                  | Description                                                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ |
+| `zipcode`               | US ZIP code of the delivery, stored as an integer (so leading zeros are dropped). An identifier, not a quantity. |
+| `total_items`           | Number of items on the delivery truck.                                                                       |
+| `precipitation_rate`    | Precipitation rate. It is 0 in every row of this file.                                                       |
+| `water_runoff`          | Water runoff.                                                                                                |
+| `snow_depth`            | Snow depth.                                                                                                  |
+| `temperature`           | Air temperature, in °C.                                                                                      |
+| `temperature_at_1500m`  | Air temperature at 1,500 m.                                                                                  |
+| `min_temperature`       | Minimum temperature.                                                                                         |
+| `max_temperature`       | Maximum temperature.                                                                                         |
+| `pressure`              | Air pressure.                                                                                                |
+| `wind_gust_speed`       | Wind gust speed.                                                                                             |
+| `total_cloud_cover`     | Total cloud cover.                                                                                           |
+| `dew_point_temperature` | Dew point temperature.                                                                                       |
+| `relative_humidity`     | Relative humidity, in %.                                                                                     |
+| `wind_speed`            | Wind speed.                                                                                                  |
+| `classification_ontime` | Target: `"Delayed"` or `"On time"`.                                                                          |
+
+The source documents units only for temperature and relative humidity. It does not say where or when the weather was measured, and the file has no date, truck, or route column.
+
+### Source and Licence
+
+The data comes from [AI Package Tracker](https://aipackagetracker.awsplayer.com/), an interactive AWS demo for Amazon SageMaker Canvas, a no-code machine learning tool. The demo describes it as a real Amazon delivery dataset and gives the label definition above. In this case study we work with the same data in Python, so you do not need Canvas or an AWS account. The course hosts a copy in the [datasets repository](https://github.com/bdi593/datasets/tree/main/amazon-on-time-delivery-data). Check the source page for terms of use.
+
+## Notebooks in This Case Study
+
+| Notebook                                                     | What it covers                                                                                                                                                                                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Exploratory Data Analysis](./eda.ipynb)                     | Data types, missing values, the target balance, distributions and box plots of every numeric feature, correlations, duplicates, constant columns, outliers, and skewness.                                                       |
+| [Build a Binary Classification Model](./build-a-classifier.ipynb) | Prepares features, trains an XGBoost classifier, explains the confusion matrix and each metric, and shows why `total_items` dominates feature importance with a one-feature baseline.                                     |
+| [Improve the Classifier](./improve-classifier.ipynb)         | Tries random search, early stopping, feature engineering, class weights, and threshold tuning, estimates variability with cross-validation, and compares every technique with the baseline on the same test set.               |
+
+## Setup
+
+Install the packages used across the book from the root of the repository:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+All three notebooks download the data from the course datasets repository, so you need an internet connection. No other setup is needed.
 
 ## Gradient Boosted Trees
 

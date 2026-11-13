@@ -17,16 +17,18 @@ The textbook is organized around real-world business analytics case studies:
 | Case Study | Topics |
 |---|---|
 | **Cleaning Airbnb Listings** | Data cleaning, pandas, missing values, type conversion |
-| **Credit Card Transactions** | Polars, DuckDB, large-scale data processing, fraud detection |
-| **Kickstarter Projects** | Binary classification, JSON parsing, preprocessing |
+| **Credit Card Transactions** | Polars, DuckDB, SQL window functions, large-scale data processing, fraud flags |
+| **Kickstarter Projects** | Polars preprocessing, binary classification, data leakage |
 | **Data Job Postings** | EDA, HR analytics |
-| **Amazon On-time Delivery** | Classification, model improvement |
-| **Australian Rental Market** | Regression, model evaluation |
+| **Amazon On-time Delivery** | Classification, model improvement, threshold tuning |
+| **Australian Rental Market** | Regression, feature engineering, target encoding |
 | **Conference Calls** | NLP preprocessing, text analytics |
 | **CU+Savoy Zillow Properties** | Real estate data analysis |
 | **Foundation Cosmetics Products** | JSON parsing, competitive analysis |
-| **Instacart** | Customer behavior analysis, EDA |
-| **Walmart Sales Forecasting** | Time-series forecasting, regression |
+| **Instacart** | Customer behavior analysis, EDA, market basket analysis |
+| **Walmart Sales Forecasting** | Time-series forecasting, baselines, XGBoost |
+| **Financial Data Analysis with LLMs** | SEC EDGAR filings, LLM APIs, structured outputs, output verification |
+| **Campustown Zillow Listings** | End-to-end final case study: EDA, price modeling, NLP features, price history |
 
 ---
 
@@ -35,6 +37,7 @@ The textbook is organized around real-world business analytics case studies:
 ```
 textbook/
 ├── myst.yml                   # Book configuration and table of contents
+├── requirements.txt           # Pinned Python packages for all notebooks
 ├── content/                   # Textbook chapters and case studies
 │   ├── index.md               # Book landing page
 │   ├── airbnb-barcelona-listings/
@@ -47,7 +50,10 @@ textbook/
 │   ├── cu-zillow-listings/
 │   ├── foundation-products/
 │   ├── instacart/
-│   └── walmart-sales-forecasting/
+│   ├── walmart-sales-forecasting/
+│   ├── financial-data-with-llms/
+│   └── campustown-zillow-listings/
+├── docs/                      # Maintainer notes (not part of the book)
 ├── site_images/               # Logo and favicon assets
 └── media/                     # Custom CSS and media assets
 ```
@@ -62,6 +68,14 @@ Each case study folder typically contains:
 
 This project uses **[Jupyter Book v2](https://jupyterbook.org)** with **[MyST Markdown](https://mystmd.org)**. The book configuration and table of contents are defined in `myst.yml`.
 
+### Python environment
+
+All notebooks run with the packages pinned in `requirements.txt` (tested with Python 3.13):
+
+```bash
+python -m pip install -r requirements.txt
+```
+
 ### Building the Book
 
 ```bash
@@ -70,18 +84,15 @@ jupyter-book build --html
 
 > **Note**: The build requires access to the MyST template API. In restricted network environments, the build may fail if the API cannot be reached.
 
----
+Notebooks are not executed during the build. The published pages show the outputs saved in each notebook, so re-run a notebook top to bottom before committing changes to it.
 
-## 📖 Course Topics
+### Checks
 
-1. **Load and Clean Data**: pandas, CSV/Excel/JSON/Parquet
-2. **Handle Large-Scale Datasets**, covering Polars, out-of-memory operations, and ETL
-3. **Retrieve and Manage Data** (APIs, PostgreSQL, advanced SQL)
-4. **Natural Language Processing** using BERT, BERTopic, and sentiment analysis
-5. **Interactive Data Visualization**: Plotly, Dash, dashboards
-6. **Cloud Computing for Analytics** through serverless functions and cloud resources
-7. **Applied Machine Learning** (Kaggle challenges, real-world ML projects)
-8. **Communicate Analytical Insights** with storytelling and stakeholder presentations
+Every pull request runs `.github/workflows/check.yml`, which builds the book and runs `.github/scripts/check_notebooks.py`. The script fails if a notebook is larger than 5 MB, contains a saved error, or shows a local file path in its outputs. Run it locally with:
+
+```bash
+python .github/scripts/check_notebooks.py
+```
 
 ---
 
@@ -89,11 +100,12 @@ jupyter-book build --html
 
 By the end of this course, students will be able to:
 
-- Explain how Polars and DuckDB enhance data processing performance compared to traditional pandas workflows
-- Apply SQL queries in PostgreSQL to extract, filter, and join data from relational databases
-- Analyze business scenarios using complex data manipulations and statistical modeling in Python
-- Evaluate visualizations created with Plotly and Tableau for communicating business insights
-- Design and present an interactive dashboard integrating findings from multiple analytical techniques
+- Clean and reshape real-world data from CSV, JSON, and Parquet sources using pandas and Polars
+- Explain how Polars and DuckDB speed up work on large datasets compared with pandas, and write SQL queries with DuckDB
+- Build classification, regression, and forecasting models and evaluate them against simple baselines on held-out data
+- Recognize data leakage and other evaluation mistakes
+- Turn unstructured text into features with NLP, and use an LLM API while verifying its outputs
+- Create clear, interactive Plotly visualizations and communicate findings to a non-technical audience
 
 ---
 

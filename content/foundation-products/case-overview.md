@@ -43,23 +43,26 @@ Your team has identified several key challenges:
 - **Review-driven purchasing**: Foundation products with high ratings and thousands of reviews dominate conversion
 - **Brand perception gap**: MAC is seen as professional and high-quality, but not always as trendy or accessible in everyday foundation use
 
-To better understand the competitive landscape, your team has collected data from Amazon’s search results for "foundation", sorted by Best Selling, across the first five pages.
+To better understand the competitive landscape, your team has collected data from Amazon's search results for "foundation", sorted by Best Selling, across the first five pages.
 
-This dataset represents a snapshot of the top-performing foundation products currently capturing consumer demand.
+This dataset is a single snapshot of the products that ranked highest at the time of collection. It cannot show trends over time.
 
 ---
 
-## 🎯 Objective
-
-The goal of this analysis is twofold:
+## 🎯 Learning Objectives
 
 ### 1. Technical Skills
 
+By the end of this case study, you should be able to:
+
 - Understand the structure of JSON data
-- Learn how to parse and navigate nested JSON objects
-- Extract and transform data into usable formats (e.g., CSV, tables)
+- Parse and navigate nested JSON objects in Python, handling missing keys safely
+- Extract and transform data into usable formats (e.g., tables and CSV files)
+- Check scraped data before analysis, for example by confirming that every product is relevant and that every price is in the same currency
 
 ### 2. Business Insights
+
+Using the parsed data, you will:
 
 - Analyze competing foundation products in the marketplace
 - Identify patterns in:
@@ -67,14 +70,14 @@ The goal of this analysis is twofold:
   - Ratings and reviews
   - Product positioning (e.g., "full coverage", "natural finish", "hydrating")
 
-- Evaluate how competitors are appealing to younger audiences
+- Describe how competitors present their products, including the attributes often linked to younger shoppers
 - Generate insights to inform foundation-specific marketing and product strategy
 
 ---
 
 ## 📊 Dataset Overview
 
-The dataset ([available on GitHub](https://github.com/bdi593/datasets/tree/main/amazon-makeup-foundation-products)) consists of two main components focused on foundation products:
+The dataset ([available on GitHub](https://github.com/bdi593/datasets/tree/main/amazon-makeup-foundation-products)) consists of three components focused on foundation products. The `parse-json` notebook reads them directly from that repository.
 
 ### 1. Search Results (`search-results/`)
 
@@ -89,24 +92,27 @@ The dataset ([available on GitHub](https://github.com/bdi593/datasets/tree/main/
 Each file includes:
 
 - `requestMetadata`: Information about the search request
-- `productResults`: A list of foundation products returned on that page
+- `productResults`: A list of products returned on that page
+- `pagination`: Links to the other result pages
 
 Each product entry may contain:
 
 - `asin`: Unique product identifier
 - `title`: Product name and description
-- `price`: Current and previous price
+- `price`: Current and previous price, plus a currency `symbol`
 - `reviews`: Rating and number of reviews
-- `badges`: Indicators such as "Best Seller" or "Amazon’s Choice"
+- `badges`: Indicators such as "Best Seller" or "Amazon's Choice"
 - `deliveryInfo`: Shipping details
 
 ---
 
 ### 2. Product Details (`product-results/`)
 
-- Contains one JSON file per foundation product (`{asin}.json`)
-- Provides more detailed product-level information
+- Contains one JSON file per product (`{asin}.json`), 227 files in total
+- Provides more detailed product-level information under a `product` key, including `price`, `reviewsInfo`, `badges`, `featureBullets`, `description`, `breadcrumbs` (Amazon's category path), and `specification` (a list of key-value pairs that includes `Brand Name`)
 - Can be used to enrich and validate insights from search results
+
+A copy of these 227 files is stored in this chapter's `product-results/` folder, so the analysis can run without downloading them.
 
 ---
 
@@ -122,6 +128,16 @@ This file can be used as a starting point for:
 - Indexing foundation products
 - Building structured analyses
 
+:::{warning} Not every result is a makeup foundation
+
+A search for "foundation" also returns books (Asimov's *Foundation* series, a study Bible), mattress box springs, hair care, and nail products. A few prices are also in other currencies (for example, `PYG`, `ARS`, `MXN`, `CAD`, `GBP`), and some products have no price at all. Check each product's category (`breadcrumbs`) and the price `symbol` before comparing prices.
+
+:::
+
+### Source and licence
+
+The files were collected from Amazon.com search results and product pages. According to the [dataset's README](https://github.com/bdi593/datasets/tree/main/amazon-makeup-foundation-products), they were gathered through [HasData](https://www.hasdata.com) and are "provided for educational and research purposes". The delivery estimates in the product files (for example, "Tomorrow, April 1") suggest the pages were collected at the end of March 2026. Check the source page for terms of use.
+
 ---
 
 ## 🧠 Key Questions to Explore
@@ -135,6 +151,14 @@ As a marketing analyst at MAC Cosmetics, consider:
 - Are certain brands consistently dominating the foundation category?
 - How are foundations positioned (e.g., "matte", "dewy", "long-wear", "hydrating")?
 - What signals might appeal specifically to younger consumers shopping for foundation?
+
+:::{caution} Know the limits of the data
+
+- Only two MAC listings appear in these results, so any comparison with MAC rests on very few products.
+- The data has no information about who buys each product. You can describe how listings are *marketed* to younger shoppers, but not who actually buys them.
+- "Bought in past month" is Amazon's rounded label (for example, "2K+"), so treat it as a lower bound, not a sales figure.
+
+:::
 
 ---
 
@@ -177,11 +201,22 @@ Understanding how to work with JSON enables you to:
 
 ---
 
-## 🚀 Outcome
+## 📚 Notebooks in This Case Study
 
-By the end of this case study, you should be able to:
+| Notebook           | What it covers |
+| ------------------ | -------------- |
+| `parse-json.ipynb` | Fetches a search results page as JSON, inspects its keys and value types, extracts each product's ASIN and title into a table, loads `products.csv`, and opens one product detail file to show the richer fields it contains. |
 
-- Navigate and parse complex JSON datasets
-- Transform raw data into structured formats
-- Perform exploratory analysis on foundation product data
-- Generate insights relevant to marketing and competitive strategy
+Parsing all 227 product detail files and analyzing them is the work of this case study.
+
+---
+
+## 🧰 Setup
+
+Install the course environment from the repository root:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+The `parse-json` notebook downloads its JSON and CSV files from `raw.githubusercontent.com`, so it needs an internet connection.

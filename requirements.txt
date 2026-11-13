@@ -1,0 +1,33 @@
+# Python environment for the BDI 199/593 textbook notebooks.
+# Tested with Python 3.13. Install with:
+#   python -m pip install -r requirements.txt
+
+# Data handling
+pandas==3.1.1
+numpy==2.5.4
+pyarrow==26.0.1
+polars==2.1.0
+duckdb==2.0.0
+requests==2.34.2
+
+# Visualization
+plotly==7.1.0
+plotnine==0.15.9
+
+# Modeling
+scikit-learn==1.9.1
+scipy==1.18.1
+statsmodels==0.15.0  # used by Plotly trendline="ols"
+xgboost==3.4.1
+mlxtend==0.25.0
+
+# Natural language processing
+spacy==3.8.18
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+
+# SEC filings and LLM APIs (financial-data-with-llms chapter)
+edgartools==5.62.1
+openai==3.50.0
+
+# Running notebooks (use JupyterLab, VS Code, or any Jupyter front end)
+ipykernel==7.4.0
