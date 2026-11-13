@@ -17,6 +17,7 @@ plotnine==0.15.9
 # Modeling
 scikit-learn==1.9.1
 scipy==1.18.1
+statsmodels==0.15.0  # used by Plotly trendline="ols"
 xgboost==3.4.1
 mlxtend==0.25.0
 
